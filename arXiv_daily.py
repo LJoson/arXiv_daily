@@ -185,10 +185,10 @@ if __name__ == "__main__":
 
     keywords = dict()
     keywords["SLAM"]                = "SLAM"
-    # keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    # keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\""
-    # keywords["Image Matching"]      = "\"Image Matching\""
-    # keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\""
+    keywords["Image Matching"]      = "\"Image Matching\""
+    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
 
     for topic,keyword in keywords.items():
 
