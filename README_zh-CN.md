@@ -32,3 +32,7 @@
 [12] : Generate a list of papers daily arxiv, [https://github.com/zhuwenxing/daily_arxiv](https://github.com/zhuwenxing/daily_arxiv)
 
 [13] : [https://github.com/Vincentqyw/cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+
+[14] : [https://mp.weixin.qq.com/s/J7aHbPmYm1wtBTOkJqpxuw](https://mp.weixin.qq.com/s/J7aHbPmYm1wtBTOkJqpxuw)
+
+开源万岁！感谢各个大佬们开源的贡献
