@@ -22,7 +22,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="GANs", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -51,6 +51,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url           = result.entry_id
         code_url            = base_url + paper_id
         paper_abstract      = result.summary.replace("\n"," ")
+
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
         primary_category    = result.primary_category
@@ -184,8 +185,8 @@ if __name__ == "__main__":
     data_collector_web= []
 
     keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
+    keywords["GAN"]                 = "GANs"+"OR"+"generative"+"OR"+"Generation"+"OR"+"Generative"+"GAN"+"OR"+"StyleGAN"
+    keywords["NeRF"]                = "NeRF"+"OR"+"\"Neural Radiance Fields\""
     keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\""
     keywords["Image Matching"]      = "\"Image Matching\""
     keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
@@ -194,7 +195,7 @@ if __name__ == "__main__":
 
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 10)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 50)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
