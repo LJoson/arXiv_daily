@@ -1,6 +1,6 @@
 论文 | [项目中文简介](README_zh-CN.md)
 
-## Updated on 2022.03.10
+## Updated on 2022.03.11
 
 ## NeRF
 
