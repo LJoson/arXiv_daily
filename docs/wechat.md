@@ -14,6 +14,7 @@
 
 ## Visual Localization
 
+- 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1), Code: **[https://github.com/tiers/tiers-lidars-dataset](https://github.com/tiers/tiers-lidars-dataset)**
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
@@ -24,7 +25,6 @@
 - 2021-10-05, **Season-invariant GNSS-denied visual localization for UAVs**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2110.01967v1](http://arxiv.org/abs/2110.01967v1), Code: **[https://github.com/aalto-intelligent-robotics/sivl](https://github.com/aalto-intelligent-robotics/sivl)**
 - 2022-03-10, **ShapeMap 3-D: Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v3](http://arxiv.org/abs/2109.09884v3), Code: **[https://github.com/cmurobotouch/ycb-sight](https://github.com/cmurobotouch/ycb-sight)**
 - 2022-03-09, **AirLoop: Lifelong Loop Closure Detection**, Dasong Gao et.al., Paper: [http://arxiv.org/abs/2109.08975v3](http://arxiv.org/abs/2109.08975v3), Code: **[https://github.com/wang-chen/airloop](https://github.com/wang-chen/airloop)**
-- 2022-02-10, **Spiking Neural Networks for Visual Place Recognition via Weighted Neuronal Assignments**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2109.06452v2](http://arxiv.org/abs/2109.06452v2), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
 
 ## Image Matching
 
