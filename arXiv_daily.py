@@ -145,7 +145,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
-        f.write("论文 | [项目中文简介](README_zh-CN.md)\n\n")
+        f.write("论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)\n\n")
 
         if use_title == True:
             f.write("## Updated on " + DateNow + "\n\n")
