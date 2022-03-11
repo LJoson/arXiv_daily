@@ -26,7 +26,7 @@
 |**2022-02-27**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v2](http://arxiv.org/abs/2111.00440v2)|**[link](https://github.com/yiming107/l3d_loop_closure)**|
 |**2022-02-10**|**EchoVPR: Echo State Networks for Visual Place Recognition**|Anil Ozdemir et.al.|[2110.05572v3](http://arxiv.org/abs/2110.05572v3)|**[link](https://github.com/anilozdemir/echovpr)**|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari et.al.|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
-|**2022-03-04**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v2](http://arxiv.org/abs/2109.09884v2)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
+|**2022-03-10**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
 |**2022-03-09**|**AirLoop: Lifelong Loop Closure Detection**|Dasong Gao et.al.|[2109.08975v3](http://arxiv.org/abs/2109.08975v3)|**[link](https://github.com/wang-chen/airloop)**|
 |**2022-02-10**|**Spiking Neural Networks for Visual Place Recognition via Weighted Neuronal Assignments**|Somayeh Hussaini et.al.|[2109.06452v2](http://arxiv.org/abs/2109.06452v2)|**[link](https://github.com/qvpr/vprsnn)**|
 
