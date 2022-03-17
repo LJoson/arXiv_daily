@@ -1,11 +1,11 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.03.16
+> Updated on 2022.03.17
 
 ## NeRF
 
-- 2022-03-03, **Playable Environments: Video Manipulation in Space and Time**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2203.01914v1](http://arxiv.org/abs/2203.01914v1), Code: **[https://github.com/willi-menapace/PlayableEnvironments](https://github.com/willi-menapace/PlayableEnvironments)**
-- 2022-03-08, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v3](http://arxiv.org/abs/2201.08845v3), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
+- 2022-03-15, **Playable Environments: Video Manipulation in Space and Time**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2203.01914v2](http://arxiv.org/abs/2203.01914v2), Code: **[https://github.com/willi-menapace/PlayableEnvironments](https://github.com/willi-menapace/PlayableEnvironments)**
+- 2022-03-16, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v4](http://arxiv.org/abs/2201.08845v4), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
 - 2021-12-24, **BANMo: Building Animatable 3D Neural Models from Many Casual Videos**, Gengshan Yang et.al., Paper: [http://arxiv.org/abs/2112.12761v2](http://arxiv.org/abs/2112.12761v2), Code: **[https://github.com/facebookresearch/banmo](https://github.com/facebookresearch/banmo)**
 - 2021-12-20, **3D-aware Image Synthesis via Learning Structural and Textural Representations**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2112.10759v1](http://arxiv.org/abs/2112.10759v1), Code: **[https://github.com/genforce/volumegan](https://github.com/genforce/volumegan)**
 - 2021-12-20, **Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2112.10703v1](http://arxiv.org/abs/2112.10703v1), Code: **[https://github.com/cmusatyalab/mega-nerf](https://github.com/cmusatyalab/mega-nerf)**
