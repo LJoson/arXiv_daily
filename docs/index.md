@@ -4,14 +4,14 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-03-15**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v2](http://arxiv.org/abs/2203.01914v2)|**[link](https://github.com/willi-menapace/PlayableEnvironments)**|
-|**2022-03-16**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v4](http://arxiv.org/abs/2201.08845v4)|**[link](https://github.com/Xharlie/pointnerf)**|
+|**2022-03-18**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v5](http://arxiv.org/abs/2201.08845v5)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2021-12-24**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|**[link](https://github.com/facebookresearch/banmo)**|
 |**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
 |**2021-12-20**|**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**|Haithem Turki et.al.|[2112.10703v1](http://arxiv.org/abs/2112.10703v1)|**[link](https://github.com/cmusatyalab/mega-nerf)**|
@@ -26,7 +26,7 @@ layout: default
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
-|**2022-03-17**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v2](http://arxiv.org/abs/2112.09081v2)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
+|**2022-03-19**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v3](http://arxiv.org/abs/2112.09081v3)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-11-26**|**Inside Out Visual Place Recognition**|Sarah Ibrahimi et.al.|[2111.13546v1](http://arxiv.org/abs/2111.13546v1)|**[link](https://github.com/saibr/iovpr)**|
 |**2022-02-27**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v2](http://arxiv.org/abs/2111.00440v2)|**[link](https://github.com/yiming107/l3d_loop_closure)**|
 |**2022-02-10**|**EchoVPR: Echo State Networks for Visual Place Recognition**|Anil Ozdemir et.al.|[2110.05572v3](http://arxiv.org/abs/2110.05572v3)|**[link](https://github.com/anilozdemir/echovpr)**|
@@ -42,7 +42,7 @@ layout: default
 |**2022-02-14**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v1](http://arxiv.org/abs/2202.06817v1)|**[link](https://github.com/SunghwanHong/Cost-Aggregation-transformers)**|
 |**2022-02-08**|**Learning Optical Flow with Adaptive Graph Reasoning**|Ao Luo et.al.|[2202.03857v1](http://arxiv.org/abs/2202.03857v1)|**[link](https://github.com/la30/agflow)**|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
-|**2022-03-04**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v2](http://arxiv.org/abs/2112.00374v2)|**[link](https://github.com/paper11667/clipstyler)**|
+|**2022-03-19**|**CLIPstyler: Image Style Transfer with a Single Text Condition**|Gihyun Kwon et.al.|[2112.00374v3](http://arxiv.org/abs/2112.00374v3)|**[link](https://github.com/paper11667/clipstyler)**|
 |**2021-11-29**|**Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**|Yoad Tewel et.al.|[2111.14447v1](http://arxiv.org/abs/2111.14447v1)|**[link](https://github.com/yoadtew/zero-shot-image-to-text)**|
 |**2021-09-20**|**Viewpoint Invariant Dense Matching for Visual Geolocalization**|Gabriele Berton et.al.|[2109.09827v1](http://arxiv.org/abs/2109.09827v1)|**[link](https://github.com/gmberton/geo_warp)**|
 |**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon et.al.|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
