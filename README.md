@@ -25,7 +25,7 @@
 |**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq et.al.|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng et.al.|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh et.al.|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
-|**2022-03-19**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v3](http://arxiv.org/abs/2112.09081v3)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
+|**2022-03-19**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan et.al.|[2112.09081v3](http://arxiv.org/abs/2112.09081v3)|**[link](https://github.com/topo-epfl/crossloc)**|
 |**2021-11-26**|**Inside Out Visual Place Recognition**|Sarah Ibrahimi et.al.|[2111.13546v1](http://arxiv.org/abs/2111.13546v1)|**[link](https://github.com/saibr/iovpr)**|
 |**2022-02-27**|**Loop closure detection using local 3D deep descriptors**|Youjie Zhou et.al.|[2111.00440v2](http://arxiv.org/abs/2111.00440v2)|**[link](https://github.com/yiming107/l3d_loop_closure)**|
 |**2022-02-10**|**EchoVPR: Echo State Networks for Visual Place Recognition**|Anil Ozdemir et.al.|[2110.05572v3](http://arxiv.org/abs/2110.05572v3)|**[link](https://github.com/anilozdemir/echovpr)**|
