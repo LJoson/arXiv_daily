@@ -31,7 +31,6 @@
 |**2022-02-10**|**EchoVPR: Echo State Networks for Visual Place Recognition**|Anil Ozdemir et.al.|[2110.05572v3](http://arxiv.org/abs/2110.05572v3)|**[link](https://github.com/anilozdemir/echovpr)**|
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari et.al.|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2022-03-10**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh et.al.|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
-|**2022-03-09**|**AirLoop: Lifelong Loop Closure Detection**|Dasong Gao et.al.|[2109.08975v3](http://arxiv.org/abs/2109.08975v3)|**[link](https://github.com/wang-chen/airloop)**|
 
 ## Image Matching
 
@@ -70,5 +69,4 @@
 |**2021-10-10**|**Unsupervised Depth Completion with Calibrated Backprojection Layers**|Alex Wong et.al.|[2108.10531v2](http://arxiv.org/abs/2108.10531v2)|**[link](https://github.com/alexklwong/calibrated-backprojection-network)**|
 |**2021-08-13**|**EEEA-Net: An Early Exit Evolutionary Neural Architecture Search**|Chakkrit Termritthikun et.al.|[2108.06156v1](http://arxiv.org/abs/2108.06156v1)|**[link](https://github.com/chakkritte/eeea-net)**|
 |**2021-08-13**|**Learning Transferable Parameters for Unsupervised Domain Adaptation**|Zhongyi Han et.al.|[2108.06129v1](http://arxiv.org/abs/2108.06129v1)|**[link](https://github.com/zhyhan/transpar)**|
-|**2021-07-23**|**Resource Efficient Mountainous Skyline Extraction using Shallow Learning**|Touqeer Ahmad et.al.|[2107.10997v1](http://arxiv.org/abs/2107.10997v1)|**[link](https://github.com/TouqeerAhmad/skyline_detection)**|
 
