@@ -27,7 +27,6 @@
 - 2022-02-27, **Loop closure detection using local 3D deep descriptors**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2111.00440v2](http://arxiv.org/abs/2111.00440v2), Code: **[https://github.com/yiming107/l3d_loop_closure](https://github.com/yiming107/l3d_loop_closure)**
 - 2022-02-10, **EchoVPR: Echo State Networks for Visual Place Recognition**, Anil Ozdemir et.al., Paper: [http://arxiv.org/abs/2110.05572v3](http://arxiv.org/abs/2110.05572v3), Code: **[https://github.com/anilozdemir/echovpr](https://github.com/anilozdemir/echovpr)**
 - 2021-10-05, **Season-invariant GNSS-denied visual localization for UAVs**, Jouko Kinnari et.al., Paper: [http://arxiv.org/abs/2110.01967v1](http://arxiv.org/abs/2110.01967v1), Code: **[https://github.com/aalto-intelligent-robotics/sivl](https://github.com/aalto-intelligent-robotics/sivl)**
-- 2022-03-10, **ShapeMap 3-D: Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v3](http://arxiv.org/abs/2109.09884v3), Code: **[https://github.com/cmurobotouch/ycb-sight](https://github.com/cmurobotouch/ycb-sight)**
 
 ## Image Matching
 
@@ -44,7 +43,6 @@
 - 2021-08-18, **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**, Philipp Lindenberger et.al., Paper: [http://arxiv.org/abs/2108.08291v1](http://arxiv.org/abs/2108.08291v1), Code: **[https://github.com/cvg/pixel-perfect-sfm](https://github.com/cvg/pixel-perfect-sfm)**
 - 2021-08-28, **Effect of Parameter Optimization on Classical and Learning-based Image Matching Methods**, Ufuk Efe et.al., Paper: [http://arxiv.org/abs/2108.08179v2](http://arxiv.org/abs/2108.08179v2), Code: **[https://github.com/ufukefe/ime](https://github.com/ufukefe/ime)**
 - 2021-08-06, **Self-Supervised Multi-Modal Alignment for Whole Body Medical Imaging**, Rhydian Windsor et.al., Paper: [http://arxiv.org/abs/2107.06652v2](http://arxiv.org/abs/2107.06652v2), Code: **[https://github.com/rwindsor1/biobank-self-supervised-alignment](https://github.com/rwindsor1/biobank-self-supervised-alignment)**
-- 2021-06-14, **DFM: A Performance Baseline for Deep Feature Matching**, Ufuk Efe et.al., Paper: [http://arxiv.org/abs/2106.07791v1](http://arxiv.org/abs/2106.07791v1), Code: **[https://github.com/ufukefe/DFM](https://github.com/ufukefe/DFM)**
 
 ## Keypoint Detection
 
@@ -54,6 +52,7 @@
 - 2022-03-16, **PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**, R. James Cotton et.al., Paper: [http://arxiv.org/abs/2203.08792v1](http://arxiv.org/abs/2203.08792v1), Code: **[https://github.com/peabody124/posepipeline](https://github.com/peabody124/posepipeline)**
 - 2022-01-14, **Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**, Harry Nguyen et.al., Paper: [http://arxiv.org/abs/2201.03556v2](http://arxiv.org/abs/2201.03556v2), Code: **[https://github.com/StoneY1/Reproducing-BowNet](https://github.com/StoneY1/Reproducing-BowNet)**
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
+- 2022-03-29, **Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2112.06183v2](http://arxiv.org/abs/2112.06183v2), Code: **[https://github.com/alanlusun/few-shot-keypoint-detection](https://github.com/alanlusun/few-shot-keypoint-detection)**
 - 2022-02-05, **ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2112.02906v2](http://arxiv.org/abs/2112.02906v2), Code: **[https://github.com/Shiaoming/ALIKE](https://github.com/Shiaoming/ALIKE)**
 - 2021-11-25, **Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**, Sen Yang et.al., Paper: [http://arxiv.org/abs/2111.12892v1](http://arxiv.org/abs/2111.12892v1), Code: **[https://github.com/yangsenius/ssa](https://github.com/yangsenius/ssa)**
 - 2021-10-26, **CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration**, Hao Yu et.al., Paper: [http://arxiv.org/abs/2110.14076v1](http://arxiv.org/abs/2110.14076v1), Code: **[https://github.com/haoyu94/coarse-to-fine-correspondences](https://github.com/haoyu94/coarse-to-fine-correspondences)**
