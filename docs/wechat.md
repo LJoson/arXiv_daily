@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.03.29
+> Updated on 2022.03.30
 
 ## NeRF
 
@@ -11,7 +11,7 @@
 - 2022-03-18, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v5](http://arxiv.org/abs/2201.08845v5), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
 - 2021-12-24, **BANMo: Building Animatable 3D Neural Models from Many Casual Videos**, Gengshan Yang et.al., Paper: [http://arxiv.org/abs/2112.12761v2](http://arxiv.org/abs/2112.12761v2), Code: **[https://github.com/facebookresearch/banmo](https://github.com/facebookresearch/banmo)**
 - 2021-12-20, **3D-aware Image Synthesis via Learning Structural and Textural Representations**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2112.10759v1](http://arxiv.org/abs/2112.10759v1), Code: **[https://github.com/genforce/volumegan](https://github.com/genforce/volumegan)**
-- 2021-12-20, **Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2112.10703v1](http://arxiv.org/abs/2112.10703v1), Code: **[https://github.com/cmusatyalab/mega-nerf](https://github.com/cmusatyalab/mega-nerf)**
+- 2022-03-28, **Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2112.10703v2](http://arxiv.org/abs/2112.10703v2), Code: **[https://github.com/cmusatyalab/mega-nerf](https://github.com/cmusatyalab/mega-nerf)**
 - 2021-12-09, **Plenoxels: Radiance Fields without Neural Networks**, Alex Yu et.al., Paper: [http://arxiv.org/abs/2112.05131v1](http://arxiv.org/abs/2112.05131v1), Code: **[https://github.com/sxyu/svox2](https://github.com/sxyu/svox2)**
 - 2021-12-04, **MoFaNeRF: Morphable Facial Neural Radiance Field**, Yiyu Zhuang et.al., Paper: [http://arxiv.org/abs/2112.02308v1](http://arxiv.org/abs/2112.02308v1), Code: **[https://github.com/zhuhao-nju/mofanerf](https://github.com/zhuhao-nju/mofanerf)**
 
