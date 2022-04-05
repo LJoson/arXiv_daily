@@ -14,7 +14,6 @@
 - 2021-12-20, **3D-aware Image Synthesis via Learning Structural and Textural Representations**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2112.10759v1](http://arxiv.org/abs/2112.10759v1), Code: **[https://github.com/genforce/volumegan](https://github.com/genforce/volumegan)**
 - 2022-03-28, **Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2112.10703v2](http://arxiv.org/abs/2112.10703v2), Code: **[https://github.com/cmusatyalab/mega-nerf](https://github.com/cmusatyalab/mega-nerf)**
 - 2021-12-09, **Plenoxels: Radiance Fields without Neural Networks**, Alex Yu et.al., Paper: [http://arxiv.org/abs/2112.05131v1](http://arxiv.org/abs/2112.05131v1), Code: **[https://github.com/sxyu/svox2](https://github.com/sxyu/svox2)**
-- 2021-12-04, **MoFaNeRF: Morphable Facial Neural Radiance Field**, Yiyu Zhuang et.al., Paper: [http://arxiv.org/abs/2112.02308v1](http://arxiv.org/abs/2112.02308v1), Code: **[https://github.com/zhuhao-nju/mofanerf](https://github.com/zhuhao-nju/mofanerf)**
 
 ## Visual Localization
 
@@ -49,6 +48,7 @@
 
 ## Keypoint Detection
 
+- 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
 - 2022-03-27, **UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2203.12745v2](http://arxiv.org/abs/2203.12745v2), Code: **[https://github.com/tencentarc/umt](https://github.com/tencentarc/umt)**
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
