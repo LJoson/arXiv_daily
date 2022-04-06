@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2022.04.05
+## Updated on 2022.04.06
 
 ## NeRF
 
@@ -11,6 +11,7 @@
 |**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|**[link](https://github.com/jkulhanek/viewformer)**|
 |**2022-03-15**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v2](http://arxiv.org/abs/2203.01914v2)|**[link](https://github.com/willi-menapace/PlayableEnvironments)**|
 |**2022-02-26**|**Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**|Shengqu Cai et.al.|[2202.13162v1](http://arxiv.org/abs/2202.13162v1)|**[link](https://github.com/hexagonprime/pix2nerf)**|
+|**2022-02-02**|**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**|Abril Corona-Figueroa et.al.|[2202.01020v1](http://arxiv.org/abs/2202.01020v1)|**[link](https://github.com/jonathanfrawley/mednerf)**|
 |**2022-03-18**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v5](http://arxiv.org/abs/2201.08845v5)|**[link](https://github.com/Xharlie/pointnerf)**|
 |**2021-12-24**|**BANMo: Building Animatable 3D Neural Models from Many Casual Videos**|Gengshan Yang et.al.|[2112.12761v2](http://arxiv.org/abs/2112.12761v2)|**[link](https://github.com/facebookresearch/banmo)**|
 |**2021-12-20**|**3D-aware Image Synthesis via Learning Structural and Textural Representations**|Yinghao Xu et.al.|[2112.10759v1](http://arxiv.org/abs/2112.10759v1)|**[link](https://github.com/genforce/volumegan)**|
