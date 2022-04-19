@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.04.12
+> Updated on 2022.04.19
 
 ## NeRF
 
@@ -12,12 +12,12 @@
 - 2022-04-08, **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**, Abril Corona-Figueroa et.al., Paper: [http://arxiv.org/abs/2202.01020v3](http://arxiv.org/abs/2202.01020v3), Code: **[https://github.com/abrilcf/mednerf](https://github.com/abrilcf/mednerf)**
 - 2022-03-18, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v5](http://arxiv.org/abs/2201.08845v5), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
 - 2021-12-24, **BANMo: Building Animatable 3D Neural Models from Many Casual Videos**, Gengshan Yang et.al., Paper: [http://arxiv.org/abs/2112.12761v2](http://arxiv.org/abs/2112.12761v2), Code: **[https://github.com/facebookresearch/banmo](https://github.com/facebookresearch/banmo)**
-- 2021-12-20, **3D-aware Image Synthesis via Learning Structural and Textural Representations**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2112.10759v1](http://arxiv.org/abs/2112.10759v1), Code: **[https://github.com/genforce/volumegan](https://github.com/genforce/volumegan)**
+- 2022-04-18, **3D-aware Image Synthesis via Learning Structural and Textural Representations**, Yinghao Xu et.al., Paper: [http://arxiv.org/abs/2112.10759v2](http://arxiv.org/abs/2112.10759v2), Code: **[https://github.com/genforce/volumegan](https://github.com/genforce/volumegan)**
 - 2022-03-28, **Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2112.10703v2](http://arxiv.org/abs/2112.10703v2), Code: **[https://github.com/cmusatyalab/mega-nerf](https://github.com/cmusatyalab/mega-nerf)**
-- 2021-12-09, **Plenoxels: Radiance Fields without Neural Networks**, Alex Yu et.al., Paper: [http://arxiv.org/abs/2112.05131v1](http://arxiv.org/abs/2112.05131v1), Code: **[https://github.com/sxyu/svox2](https://github.com/sxyu/svox2)**
 
 ## Visual Localization
 
+- 2022-04-15, **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.07350v1](http://arxiv.org/abs/2204.07350v1), Code: **[https://github.com/medlartea/cae-vpr](https://github.com/medlartea/cae-vpr)**
 - 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
 - 2022-04-10, **Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2204.04752v1](http://arxiv.org/abs/2204.04752v1), Code: **[https://github.com/shiyujiao/highlyaccurate](https://github.com/shiyujiao/highlyaccurate)**
 - 2022-04-01, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v2](http://arxiv.org/abs/2203.13048v2), Code: **[https://github.com/lasuomela/carla_vloc_benchmark](https://github.com/lasuomela/carla_vloc_benchmark)**
@@ -29,7 +29,6 @@
 - 2022-03-30, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v5](http://arxiv.org/abs/2112.09081v5), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
 - 2021-11-26, **Inside Out Visual Place Recognition**, Sarah Ibrahimi et.al., Paper: [http://arxiv.org/abs/2111.13546v1](http://arxiv.org/abs/2111.13546v1), Code: **[https://github.com/saibr/iovpr](https://github.com/saibr/iovpr)**
 - 2022-02-27, **Loop closure detection using local 3D deep descriptors**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2111.00440v2](http://arxiv.org/abs/2111.00440v2), Code: **[https://github.com/yiming107/l3d_loop_closure](https://github.com/yiming107/l3d_loop_closure)**
-- 2022-02-10, **EchoVPR: Echo State Networks for Visual Place Recognition**, Anil Ozdemir et.al., Paper: [http://arxiv.org/abs/2110.05572v3](http://arxiv.org/abs/2110.05572v3), Code: **[https://github.com/anilozdemir/echovpr](https://github.com/anilozdemir/echovpr)**
 
 ## Image Matching
 
