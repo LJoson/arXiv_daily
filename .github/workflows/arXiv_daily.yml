@@ -31,9 +31,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Fix issue with repository ownership
-        run: |
-          git config --global --add safe.directory /github/workspace
 
       - name: Set up Python Env
         uses: actions/setup-python@v1
@@ -51,7 +48,7 @@ jobs:
           python arXiv_daily.py
 
       - name: Push new arXiv_daily.md
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
