@@ -32,6 +32,7 @@
 
 ## Image Matching
 
+- 2022-04-19, **OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**, Ostap Viniavskyi et.al., Paper: [http://arxiv.org/abs/2204.08870v1](http://arxiv.org/abs/2204.08870v1), Code: **[https://github.com/ucuapps/openglue](https://github.com/ucuapps/openglue)**
 - 2022-04-08, **Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**, Andrew Chen et.al., Paper: [http://arxiv.org/abs/2204.03853v1](http://arxiv.org/abs/2204.03853v1), Code: **[https://github.com/astro-data-lab/starshade-xy](https://github.com/astro-data-lab/starshade-xy)**
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1), Code: **[https://github.com/martyushev/eliminationtemplates](https://github.com/martyushev/eliminationtemplates)**
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
@@ -46,7 +47,6 @@
 - 2021-09-10, **Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**, Sungho Yoon et.al., Paper: [http://arxiv.org/abs/2109.04753v1](http://arxiv.org/abs/2109.04753v1), Code: **[https://github.com/yosungho/LineTR](https://github.com/yosungho/LineTR)**
 - 2021-08-18, **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**, Philipp Lindenberger et.al., Paper: [http://arxiv.org/abs/2108.08291v1](http://arxiv.org/abs/2108.08291v1), Code: **[https://github.com/cvg/pixel-perfect-sfm](https://github.com/cvg/pixel-perfect-sfm)**
 - 2021-08-28, **Effect of Parameter Optimization on Classical and Learning-based Image Matching Methods**, Ufuk Efe et.al., Paper: [http://arxiv.org/abs/2108.08179v2](http://arxiv.org/abs/2108.08179v2), Code: **[https://github.com/ufukefe/ime](https://github.com/ufukefe/ime)**
-- 2021-08-06, **Self-Supervised Multi-Modal Alignment for Whole Body Medical Imaging**, Rhydian Windsor et.al., Paper: [http://arxiv.org/abs/2107.06652v2](http://arxiv.org/abs/2107.06652v2), Code: **[https://github.com/rwindsor1/biobank-self-supervised-alignment](https://github.com/rwindsor1/biobank-self-supervised-alignment)**
 
 ## Keypoint Detection
 
@@ -66,5 +66,4 @@
 - 2021-09-29, **PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**, Prune Truong et.al., Paper: [http://arxiv.org/abs/2109.13912v2](http://arxiv.org/abs/2109.13912v2), Code: **[https://github.com/PruneTruong/DenseMatching](https://github.com/PruneTruong/DenseMatching)**
 - 2021-08-31, **A Novel Dataset for Keypoint Detection of quadruped Animals from Images**, Prianka Banik et.al., Paper: [http://arxiv.org/abs/2108.13958v1](http://arxiv.org/abs/2108.13958v1), Code: **[https://github.com/prinik/awa-pose](https://github.com/prinik/awa-pose)**
 - 2021-09-26, **Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**, Vinkle Srivastav et.al., Paper: [http://arxiv.org/abs/2108.11801v2](http://arxiv.org/abs/2108.11801v2), Code: **[https://github.com/camma-public/hpe-adaptor](https://github.com/camma-public/hpe-adaptor)**
-- 2021-10-10, **Unsupervised Depth Completion with Calibrated Backprojection Layers**, Alex Wong et.al., Paper: [http://arxiv.org/abs/2108.10531v2](http://arxiv.org/abs/2108.10531v2), Code: **[https://github.com/alexklwong/calibrated-backprojection-network](https://github.com/alexklwong/calibrated-backprojection-network)**
 
