@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-04-25, **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2204.11798v1](http://arxiv.org/abs/2204.11798v1), Code: **[https://github.com/generalizable-neural-performer/gnr](https://github.com/generalizable-neural-performer/gnr)**
 - 2022-03-31, **R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2203.17261v1](http://arxiv.org/abs/2203.17261v1), Code: **[https://github.com/snap-research/r2l](https://github.com/snap-research/r2l)**
 - 2022-03-25, **Continuous Dynamic-NeRF: Spline-NeRF**, Julian Knodt et.al., Paper: [http://arxiv.org/abs/2203.13800v1](http://arxiv.org/abs/2203.13800v1), Code: **[https://github.com/JulianKnodt/nerf_atlas](https://github.com/JulianKnodt/nerf_atlas)**
 - 2022-03-18, **ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**, Jonáš Kulhánek et.al., Paper: [http://arxiv.org/abs/2203.10157v1](http://arxiv.org/abs/2203.10157v1), Code: **[https://github.com/jkulhanek/viewformer](https://github.com/jkulhanek/viewformer)**
