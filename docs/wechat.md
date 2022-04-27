@@ -52,6 +52,7 @@
 
 ## Keypoint Detection
 
+- 2022-04-26, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v1](http://arxiv.org/abs/2204.12484v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
@@ -67,5 +68,4 @@
 - 2021-12-14, **BPFNet: A Unified Framework for Bimodal Palmprint Alignment and Fusion**, Zhaoqun Li et.al., Paper: [http://arxiv.org/abs/2110.01179v2](http://arxiv.org/abs/2110.01179v2), Code: **[https://github.com/dxbdxx/bpfnet](https://github.com/dxbdxx/bpfnet)**
 - 2021-09-29, **PDC-Net+: Enhanced Probabilistic Dense Correspondence Network**, Prune Truong et.al., Paper: [http://arxiv.org/abs/2109.13912v2](http://arxiv.org/abs/2109.13912v2), Code: **[https://github.com/PruneTruong/DenseMatching](https://github.com/PruneTruong/DenseMatching)**
 - 2021-08-31, **A Novel Dataset for Keypoint Detection of quadruped Animals from Images**, Prianka Banik et.al., Paper: [http://arxiv.org/abs/2108.13958v1](http://arxiv.org/abs/2108.13958v1), Code: **[https://github.com/prinik/awa-pose](https://github.com/prinik/awa-pose)**
-- 2021-09-26, **Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the OR**, Vinkle Srivastav et.al., Paper: [http://arxiv.org/abs/2108.11801v2](http://arxiv.org/abs/2108.11801v2), Code: **[https://github.com/camma-public/hpe-adaptor](https://github.com/camma-public/hpe-adaptor)**
 
