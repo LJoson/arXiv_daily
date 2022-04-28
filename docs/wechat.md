@@ -29,7 +29,6 @@
 - 2022-04-20, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v2](http://arxiv.org/abs/2201.05386v2), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
 - 2022-03-30, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v5](http://arxiv.org/abs/2112.09081v5), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
 - 2021-11-26, **Inside Out Visual Place Recognition**, Sarah Ibrahimi et.al., Paper: [http://arxiv.org/abs/2111.13546v1](http://arxiv.org/abs/2111.13546v1), Code: **[https://github.com/saibr/iovpr](https://github.com/saibr/iovpr)**
-- 2022-02-27, **Loop closure detection using local 3D deep descriptors**, Youjie Zhou et.al., Paper: [http://arxiv.org/abs/2111.00440v2](http://arxiv.org/abs/2111.00440v2), Code: **[https://github.com/yiming107/l3d_loop_closure](https://github.com/yiming107/l3d_loop_closure)**
 
 ## Image Matching
 
