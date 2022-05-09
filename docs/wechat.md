@@ -48,7 +48,6 @@
 - 2021-09-20, **Viewpoint Invariant Dense Matching for Visual Geolocalization**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2109.09827v1](http://arxiv.org/abs/2109.09827v1), Code: **[https://github.com/gmberton/geo_warp](https://github.com/gmberton/geo_warp)**
 - 2021-09-10, **Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**, Sungho Yoon et.al., Paper: [http://arxiv.org/abs/2109.04753v1](http://arxiv.org/abs/2109.04753v1), Code: **[https://github.com/yosungho/LineTR](https://github.com/yosungho/LineTR)**
 - 2021-08-18, **Pixel-Perfect Structure-from-Motion with Featuremetric Refinement**, Philipp Lindenberger et.al., Paper: [http://arxiv.org/abs/2108.08291v1](http://arxiv.org/abs/2108.08291v1), Code: **[https://github.com/cvg/pixel-perfect-sfm](https://github.com/cvg/pixel-perfect-sfm)**
-- 2021-08-28, **Effect of Parameter Optimization on Classical and Learning-based Image Matching Methods**, Ufuk Efe et.al., Paper: [http://arxiv.org/abs/2108.08179v2](http://arxiv.org/abs/2108.08179v2), Code: **[https://github.com/ufukefe/ime](https://github.com/ufukefe/ime)**
 
 ## Keypoint Detection
 
