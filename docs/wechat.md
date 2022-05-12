@@ -29,7 +29,6 @@
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
 - 2022-04-20, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v2](http://arxiv.org/abs/2201.05386v2), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
 - 2022-03-30, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v5](http://arxiv.org/abs/2112.09081v5), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
-- 2021-11-26, **Inside Out Visual Place Recognition**, Sarah Ibrahimi et.al., Paper: [http://arxiv.org/abs/2111.13546v1](http://arxiv.org/abs/2111.13546v1), Code: **[https://github.com/saibr/iovpr](https://github.com/saibr/iovpr)**
 
 ## Image Matching
 
