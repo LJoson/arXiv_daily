@@ -13,7 +13,6 @@
 - 2022-02-26, **Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**, Shengqu Cai et.al., Paper: [http://arxiv.org/abs/2202.13162v1](http://arxiv.org/abs/2202.13162v1), Code: **[https://github.com/hexagonprime/pix2nerf](https://github.com/hexagonprime/pix2nerf)**
 - 2022-04-08, **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**, Abril Corona-Figueroa et.al., Paper: [http://arxiv.org/abs/2202.01020v3](http://arxiv.org/abs/2202.01020v3), Code: **[https://github.com/abrilcf/mednerf](https://github.com/abrilcf/mednerf)**
 - 2022-03-18, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v5](http://arxiv.org/abs/2201.08845v5), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
-- 2021-12-24, **BANMo: Building Animatable 3D Neural Models from Many Casual Videos**, Gengshan Yang et.al., Paper: [http://arxiv.org/abs/2112.12761v2](http://arxiv.org/abs/2112.12761v2), Code: **[https://github.com/facebookresearch/banmo](https://github.com/facebookresearch/banmo)**
 
 ## Visual Localization
 
