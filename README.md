@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
 |**2022-04-28**|**NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**|Zhi-Hao Lin et.al.|[2204.13696v1](http://arxiv.org/abs/2204.13696v1)|**[link](https://github.com/zhihao-lin/neurmips)**|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|**[link](https://github.com/generalizable-neural-performer/gnr)**|
 |**2022-03-31**|**R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**|Huan Wang et.al.|[2203.17261v1](http://arxiv.org/abs/2203.17261v1)|**[link](https://github.com/snap-research/r2l)**|
