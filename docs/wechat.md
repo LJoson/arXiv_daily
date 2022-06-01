@@ -5,6 +5,7 @@
 ## NeRF
 
 - 2022-05-31, **SymFormer: End-to-end symbolic regression using transformer-based architecture**, Vastl et.al., Paper: [http://arxiv.org/abs/2205.15764v1](http://arxiv.org/abs/2205.15764v1), Code: **[https://github.com/vastlik/symformer](https://github.com/vastlik/symformer)**
+- 2022-05-31, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v1](http://arxiv.org/abs/2205.15723v1), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
 - 2022-04-28, **NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2204.13696v1](http://arxiv.org/abs/2204.13696v1), Code: **[https://github.com/zhihao-lin/neurmips](https://github.com/zhihao-lin/neurmips)**
