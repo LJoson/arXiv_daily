@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2022-05-31, **SymFormer: End-to-end symbolic regression using transformer-based architecture**, Vastl et.al., Paper: [http://arxiv.org/abs/2205.15764v1](http://arxiv.org/abs/2205.15764v1), Code: **[https://github.com/vastlik/symformer](https://github.com/vastlik/symformer)**
+- 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
 - 2022-04-28, **NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2204.13696v1](http://arxiv.org/abs/2204.13696v1), Code: **[https://github.com/zhihao-lin/neurmips](https://github.com/zhihao-lin/neurmips)**
 - 2022-04-25, **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2204.11798v1](http://arxiv.org/abs/2204.11798v1), Code: **[https://github.com/generalizable-neural-performer/gnr](https://github.com/generalizable-neural-performer/gnr)**
@@ -12,11 +14,10 @@
 - 2022-03-18, **ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**, Jonáš Kulhánek et.al., Paper: [http://arxiv.org/abs/2203.10157v1](http://arxiv.org/abs/2203.10157v1), Code: **[https://github.com/jkulhanek/viewformer](https://github.com/jkulhanek/viewformer)**
 - 2022-03-15, **Playable Environments: Video Manipulation in Space and Time**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2203.01914v2](http://arxiv.org/abs/2203.01914v2), Code: **[https://github.com/willi-menapace/PlayableEnvironments](https://github.com/willi-menapace/PlayableEnvironments)**
 - 2022-02-26, **Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**, Shengqu Cai et.al., Paper: [http://arxiv.org/abs/2202.13162v1](http://arxiv.org/abs/2202.13162v1), Code: **[https://github.com/hexagonprime/pix2nerf](https://github.com/hexagonprime/pix2nerf)**
-- 2022-04-08, **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**, Abril Corona-Figueroa et.al., Paper: [http://arxiv.org/abs/2202.01020v3](http://arxiv.org/abs/2202.01020v3), Code: **[https://github.com/abrilcf/mednerf](https://github.com/abrilcf/mednerf)**
-- 2022-03-18, **Point-NeRF: Point-based Neural Radiance Fields**, Qiangeng Xu et.al., Paper: [http://arxiv.org/abs/2201.08845v5](http://arxiv.org/abs/2201.08845v5), Code: **[https://github.com/Xharlie/pointnerf](https://github.com/Xharlie/pointnerf)**
 
 ## Visual Localization
 
+- 2022-05-31, **Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**, Martin Humenberger et.al., Paper: [http://arxiv.org/abs/2205.15761v1](http://arxiv.org/abs/2205.15761v1), Code: **[https://github.com/naver/kapture-localization](https://github.com/naver/kapture-localization)**
 - 2022-05-31, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v2](http://arxiv.org/abs/2205.13135v2), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
 - 2022-05-24, **OnePose: One-Shot Object Pose Estimation without CAD Models**, Jiaming Sun et.al., Paper: [http://arxiv.org/abs/2205.12257v1](http://arxiv.org/abs/2205.12257v1), Code: **[https://github.com/zju3dv/OnePose](https://github.com/zju3dv/OnePose)**
 - 2022-04-15, **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.07350v1](http://arxiv.org/abs/2204.07350v1), Code: **[https://github.com/medlartea/cae-vpr](https://github.com/medlartea/cae-vpr)**

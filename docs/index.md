@@ -10,6 +10,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-31**|**SymFormer: End-to-end symbolic regression using transformer-based architecture**|Vastl et.al.|[2205.15764v1](http://arxiv.org/abs/2205.15764v1)|**[link](https://github.com/vastlik/symformer)**|
+|**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
 |**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
 |**2022-04-28**|**NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**|Zhi-Hao Lin et.al.|[2204.13696v1](http://arxiv.org/abs/2204.13696v1)|**[link](https://github.com/zhihao-lin/neurmips)**|
 |**2022-04-25**|**Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**|Wei Cheng et.al.|[2204.11798v1](http://arxiv.org/abs/2204.11798v1)|**[link](https://github.com/generalizable-neural-performer/gnr)**|
@@ -18,13 +20,12 @@ layout: default
 |**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|**[link](https://github.com/jkulhanek/viewformer)**|
 |**2022-03-15**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v2](http://arxiv.org/abs/2203.01914v2)|**[link](https://github.com/willi-menapace/PlayableEnvironments)**|
 |**2022-02-26**|**Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**|Shengqu Cai et.al.|[2202.13162v1](http://arxiv.org/abs/2202.13162v1)|**[link](https://github.com/hexagonprime/pix2nerf)**|
-|**2022-04-08**|**MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**|Abril Corona-Figueroa et.al.|[2202.01020v3](http://arxiv.org/abs/2202.01020v3)|**[link](https://github.com/abrilcf/mednerf)**|
-|**2022-03-18**|**Point-NeRF: Point-based Neural Radiance Fields**|Qiangeng Xu et.al.|[2201.08845v5](http://arxiv.org/abs/2201.08845v5)|**[link](https://github.com/Xharlie/pointnerf)**|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|**[link](https://github.com/naver/kapture-localization)**|
 |**2022-05-31**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
