@@ -4,7 +4,6 @@
 
 ## NeRF
 
-- 2022-06-01, **SymFormer: End-to-end symbolic regression using transformer-based architecture**, Martin Vastl et.al., Paper: [http://arxiv.org/abs/2205.15764v2](http://arxiv.org/abs/2205.15764v2), Code: **[https://github.com/vastlik/symformer](https://github.com/vastlik/symformer)**
 - 2022-05-31, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v1](http://arxiv.org/abs/2205.15723v1), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
@@ -15,6 +14,7 @@
 - 2022-03-18, **ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**, Jonáš Kulhánek et.al., Paper: [http://arxiv.org/abs/2203.10157v1](http://arxiv.org/abs/2203.10157v1), Code: **[https://github.com/jkulhanek/viewformer](https://github.com/jkulhanek/viewformer)**
 - 2022-03-15, **Playable Environments: Video Manipulation in Space and Time**, Willi Menapace et.al., Paper: [http://arxiv.org/abs/2203.01914v2](http://arxiv.org/abs/2203.01914v2), Code: **[https://github.com/willi-menapace/PlayableEnvironments](https://github.com/willi-menapace/PlayableEnvironments)**
 - 2022-02-26, **Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**, Shengqu Cai et.al., Paper: [http://arxiv.org/abs/2202.13162v1](http://arxiv.org/abs/2202.13162v1), Code: **[https://github.com/hexagonprime/pix2nerf](https://github.com/hexagonprime/pix2nerf)**
+- 2022-04-08, **MedNeRF: Medical Neural Radiance Fields for Reconstructing 3D-aware CT-Projections from a Single X-ray**, Abril Corona-Figueroa et.al., Paper: [http://arxiv.org/abs/2202.01020v3](http://arxiv.org/abs/2202.01020v3), Code: **[https://github.com/abrilcf/mednerf](https://github.com/abrilcf/mednerf)**
 
 ## Visual Localization
 
