@@ -1,10 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.06.01
+> Updated on 2022.06.02
 
 ## NeRF
 
-- 2022-05-31, **SymFormer: End-to-end symbolic regression using transformer-based architecture**, Vastl et.al., Paper: [http://arxiv.org/abs/2205.15764v1](http://arxiv.org/abs/2205.15764v1), Code: **[https://github.com/vastlik/symformer](https://github.com/vastlik/symformer)**
+- 2022-06-01, **SymFormer: End-to-end symbolic regression using transformer-based architecture**, Martin Vastl et.al., Paper: [http://arxiv.org/abs/2205.15764v2](http://arxiv.org/abs/2205.15764v2), Code: **[https://github.com/vastlik/symformer](https://github.com/vastlik/symformer)**
 - 2022-05-31, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v1](http://arxiv.org/abs/2205.15723v1), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
