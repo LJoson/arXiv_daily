@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2022-06-02, **Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**, D. Zimny et.al., Paper: [http://arxiv.org/abs/2206.01290v1](http://arxiv.org/abs/2206.01290v1), Code: **[https://github.com/gmum/points2nerf](https://github.com/gmum/points2nerf)**
+- 2022-06-02, **EfficientNeRF: Efficient Neural Radiance Fields**, Tao Hu et.al., Paper: [http://arxiv.org/abs/2206.00878v1](http://arxiv.org/abs/2206.00878v1), Code: **[https://github.com/dvlab-research/efficientnerf](https://github.com/dvlab-research/efficientnerf)**
 - 2022-05-31, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v1](http://arxiv.org/abs/2205.15723v1), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
@@ -52,6 +54,7 @@
 
 ## Keypoint Detection
 
+- 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
 - 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-05-24, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v2](http://arxiv.org/abs/2204.12484v2), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
