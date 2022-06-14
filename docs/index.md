@@ -21,7 +21,6 @@ layout: default
 |**2022-03-25**|**Continuous Dynamic-NeRF: Spline-NeRF**|Julian Knodt et.al.|[2203.13800v1](http://arxiv.org/abs/2203.13800v1)|**[link](https://github.com/JulianKnodt/nerf_atlas)**|
 |**2022-03-18**|**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**|Jonáš Kulhánek et.al.|[2203.10157v1](http://arxiv.org/abs/2203.10157v1)|**[link](https://github.com/jkulhanek/viewformer)**|
 |**2022-03-15**|**Playable Environments: Video Manipulation in Space and Time**|Willi Menapace et.al.|[2203.01914v2](http://arxiv.org/abs/2203.01914v2)|**[link](https://github.com/willi-menapace/PlayableEnvironments)**|
-|**2022-02-26**|**Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation**|Shengqu Cai et.al.|[2202.13162v1](http://arxiv.org/abs/2202.13162v1)|**[link](https://github.com/hexagonprime/pix2nerf)**|
 
 ## Visual Localization
 
