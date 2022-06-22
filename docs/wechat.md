@@ -57,6 +57,7 @@
 
 ## Keypoint Detection
 
+- 2022-06-21, **KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**, Xuanhan Wang et.al., Paper: [http://arxiv.org/abs/2206.10090v1](http://arxiv.org/abs/2206.10090v1), Code: **[https://github.com/stoa-xh91/humandensepose](https://github.com/stoa-xh91/humandensepose)**
 - 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
 - 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-05-24, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v2](http://arxiv.org/abs/2204.12484v2), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
