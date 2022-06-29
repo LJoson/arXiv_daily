@@ -30,8 +30,6 @@
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
 - 2022-01-25, **Learning Semantics for Visual Place Recognition through Multi-Scale Attention**, Valerio Paolicelli et.al., Paper: [http://arxiv.org/abs/2201.09701v2](http://arxiv.org/abs/2201.09701v2), Code: **[https://github.com/valeriopaolicelli/SegVPR](https://github.com/valeriopaolicelli/SegVPR)**
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
-- 2022-04-20, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v2](http://arxiv.org/abs/2201.05386v2), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
-- 2022-01-10, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, M. Usman Maqbool Bhutta et.al., Paper: [http://arxiv.org/abs/2201.03212v1](http://arxiv.org/abs/2201.03212v1), Code: **[https://github.com/UsmanMaqbool/why-so-deep](https://github.com/UsmanMaqbool/why-so-deep)**
 
 ## Image Matching
 
