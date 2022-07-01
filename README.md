@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang et.al.|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|**[link](https://github.com/med-air/endonerf)**|
 |**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|**[link](https://github.com/gmum/points2nerf)**|
 |**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|**[link](https://github.com/dvlab-research/efficientnerf)**|
 |**2022-06-04**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v2](http://arxiv.org/abs/2205.15723v2)|**[link](https://github.com/showlab/devrf)**|
