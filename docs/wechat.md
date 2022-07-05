@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-07-04, **Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**, Tianlong Chen et.al., Paper: [http://arxiv.org/abs/2207.01164v1](http://arxiv.org/abs/2207.01164v1), Code: **[https://github.com/vita-group/aug-nerf](https://github.com/vita-group/aug-nerf)**
 - 2022-06-30, **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**, Yuehao Wang et.al., Paper: [http://arxiv.org/abs/2206.15255v1](http://arxiv.org/abs/2206.15255v1), Code: **[https://github.com/med-air/endonerf](https://github.com/med-air/endonerf)**
 - 2022-06-02, **Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**, D. Zimny et.al., Paper: [http://arxiv.org/abs/2206.01290v1](http://arxiv.org/abs/2206.01290v1), Code: **[https://github.com/gmum/points2nerf](https://github.com/gmum/points2nerf)**
 - 2022-06-02, **EfficientNeRF: Efficient Neural Radiance Fields**, Tao Hu et.al., Paper: [http://arxiv.org/abs/2206.00878v1](http://arxiv.org/abs/2206.00878v1), Code: **[https://github.com/dvlab-research/efficientnerf](https://github.com/dvlab-research/efficientnerf)**
