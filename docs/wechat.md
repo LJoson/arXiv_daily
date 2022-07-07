@@ -14,7 +14,6 @@
 - 2022-04-28, **NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2204.13696v1](http://arxiv.org/abs/2204.13696v1), Code: **[https://github.com/zhihao-lin/neurmips](https://github.com/zhihao-lin/neurmips)**
 - 2022-04-25, **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2204.11798v1](http://arxiv.org/abs/2204.11798v1), Code: **[https://github.com/generalizable-neural-performer/gnr](https://github.com/generalizable-neural-performer/gnr)**
 - 2022-03-31, **R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2203.17261v1](http://arxiv.org/abs/2203.17261v1), Code: **[https://github.com/snap-research/r2l](https://github.com/snap-research/r2l)**
-- 2022-03-25, **Continuous Dynamic-NeRF: Spline-NeRF**, Julian Knodt et.al., Paper: [http://arxiv.org/abs/2203.13800v1](http://arxiv.org/abs/2203.13800v1), Code: **[https://github.com/JulianKnodt/nerf_atlas](https://github.com/JulianKnodt/nerf_atlas)**
 
 ## Visual Localization
 
