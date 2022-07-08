@@ -53,7 +53,6 @@
 - 2022-03-19, **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et.al., Paper: [http://arxiv.org/abs/2112.00374v3](http://arxiv.org/abs/2112.00374v3), Code: **[https://github.com/cyclomon/clipstyler](https://github.com/cyclomon/clipstyler)**
 - 2022-03-31, **ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v2](http://arxiv.org/abs/2111.14447v2), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-09-20, **Viewpoint Invariant Dense Matching for Visual Geolocalization**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2109.09827v1](http://arxiv.org/abs/2109.09827v1), Code: **[https://github.com/gmberton/geo_warp](https://github.com/gmberton/geo_warp)**
-- 2021-09-10, **Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**, Sungho Yoon et.al., Paper: [http://arxiv.org/abs/2109.04753v1](http://arxiv.org/abs/2109.04753v1), Code: **[https://github.com/yosungho/LineTR](https://github.com/yosungho/LineTR)**
 
 ## Keypoint Detection
 
