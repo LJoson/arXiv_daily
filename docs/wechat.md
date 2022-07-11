@@ -17,6 +17,7 @@
 
 ## Visual Localization
 
+- 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
 - 2022-05-31, **Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**, Martin Humenberger et.al., Paper: [http://arxiv.org/abs/2205.15761v1](http://arxiv.org/abs/2205.15761v1), Code: **[https://github.com/naver/kapture-localization](https://github.com/naver/kapture-localization)**
 - 2022-05-31, **LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**, Yun Chang et.al., Paper: [http://arxiv.org/abs/2205.13135v2](http://arxiv.org/abs/2205.13135v2), Code: **[https://github.com/nebula-autonomy/nebula-multirobot-dataset](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**
 - 2022-05-24, **OnePose: One-Shot Object Pose Estimation without CAD Models**, Jiaming Sun et.al., Paper: [http://arxiv.org/abs/2205.12257v1](http://arxiv.org/abs/2205.12257v1), Code: **[https://github.com/zju3dv/OnePose](https://github.com/zju3dv/OnePose)**
