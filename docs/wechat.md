@@ -18,6 +18,7 @@
 
 ## Visual Localization
 
+- 2022-07-21, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v1](http://arxiv.org/abs/2207.10762v1), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
 - 2022-05-31, **Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**, Martin Humenberger et.al., Paper: [http://arxiv.org/abs/2205.15761v1](http://arxiv.org/abs/2205.15761v1), Code: **[https://github.com/naver/kapture-localization](https://github.com/naver/kapture-localization)**
