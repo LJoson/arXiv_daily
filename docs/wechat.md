@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.07.25
+> Updated on 2022.07.26
 
 ## NeRF
 
@@ -8,6 +8,7 @@
 - 2022-07-19, **NDF: Neural Deformable Fields for Dynamic Human Modelling**, Ruiqi Zhang et.al., Paper: [http://arxiv.org/abs/2207.09193v1](http://arxiv.org/abs/2207.09193v1), Code: **[https://github.com/hkbu-vscomputing/2022_eccv_ndf](https://github.com/hkbu-vscomputing/2022_eccv_ndf)**
 - 2022-07-04, **Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**, Tianlong Chen et.al., Paper: [http://arxiv.org/abs/2207.01164v1](http://arxiv.org/abs/2207.01164v1), Code: **[https://github.com/vita-group/aug-nerf](https://github.com/vita-group/aug-nerf)**
 - 2022-06-30, **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**, Yuehao Wang et.al., Paper: [http://arxiv.org/abs/2206.15255v1](http://arxiv.org/abs/2206.15255v1), Code: **[https://github.com/med-air/endonerf](https://github.com/med-air/endonerf)**
+- 2022-06-21, **FWD: Real-time Novel View Synthesis with Forward Warping and Depth**, Ang Cao et.al., Paper: [http://arxiv.org/abs/2206.08355v2](http://arxiv.org/abs/2206.08355v2), Code: **[https://github.com/caoang327/fwd_code](https://github.com/caoang327/fwd_code)**
 - 2022-06-02, **Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**, D. Zimny et.al., Paper: [http://arxiv.org/abs/2206.01290v1](http://arxiv.org/abs/2206.01290v1), Code: **[https://github.com/gmum/points2nerf](https://github.com/gmum/points2nerf)**
 - 2022-06-02, **EfficientNeRF: Efficient Neural Radiance Fields**, Tao Hu et.al., Paper: [http://arxiv.org/abs/2206.00878v1](http://arxiv.org/abs/2206.00878v1), Code: **[https://github.com/dvlab-research/efficientnerf](https://github.com/dvlab-research/efficientnerf)**
 - 2022-06-04, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v2](http://arxiv.org/abs/2205.15723v2), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
@@ -18,7 +19,7 @@
 
 ## Visual Localization
 
-- 2022-07-21, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v1](http://arxiv.org/abs/2207.10762v1), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
+- 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
 - 2022-05-31, **Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**, Martin Humenberger et.al., Paper: [http://arxiv.org/abs/2205.15761v1](http://arxiv.org/abs/2205.15761v1), Code: **[https://github.com/naver/kapture-localization](https://github.com/naver/kapture-localization)**
