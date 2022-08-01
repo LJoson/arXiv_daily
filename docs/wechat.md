@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-22, **Neural-Sim: Learning to Generate Training Data with NeRF**, Yunhao Ge et.al., Paper: [http://arxiv.org/abs/2207.11368v1](http://arxiv.org/abs/2207.11368v1), Code: **[https://github.com/gyhandy/neural-sim-nerf](https://github.com/gyhandy/neural-sim-nerf)**
 - 2022-07-28, **AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**, Andreas Kurz et.al., Paper: [http://arxiv.org/abs/2207.10312v2](http://arxiv.org/abs/2207.10312v2), Code: **[https://github.com/thomasneff/AdaNeRF](https://github.com/thomasneff/AdaNeRF)**
 - 2022-07-19, **NDF: Neural Deformable Fields for Dynamic Human Modelling**, Ruiqi Zhang et.al., Paper: [http://arxiv.org/abs/2207.09193v1](http://arxiv.org/abs/2207.09193v1), Code: **[https://github.com/hkbu-vscomputing/2022_eccv_ndf](https://github.com/hkbu-vscomputing/2022_eccv_ndf)**
@@ -16,10 +17,10 @@
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 - 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
 - 2022-04-28, **NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**, Zhi-Hao Lin et.al., Paper: [http://arxiv.org/abs/2204.13696v1](http://arxiv.org/abs/2204.13696v1), Code: **[https://github.com/zhihao-lin/neurmips](https://github.com/zhihao-lin/neurmips)**
-- 2022-04-25, **Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis**, Wei Cheng et.al., Paper: [http://arxiv.org/abs/2204.11798v1](http://arxiv.org/abs/2204.11798v1), Code: **[https://github.com/generalizable-neural-performer/gnr](https://github.com/generalizable-neural-performer/gnr)**
 
 ## Visual Localization
 
+- 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-19, **ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**, Ivan Cisneros et.al., Paper: [http://arxiv.org/abs/2207.12317v1](http://arxiv.org/abs/2207.12317v1), Code: **[https://github.com/metaslam/alto](https://github.com/metaslam/alto)**
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
