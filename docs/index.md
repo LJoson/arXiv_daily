@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-22**|**Neural-Sim: Learning to Generate Training Data with NeRF**|Yunhao Ge et.al.|[2207.11368v1](http://arxiv.org/abs/2207.11368v1)|**[link](https://github.com/gyhandy/neural-sim-nerf)**|
 |**2022-07-28**|**AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**|Andreas Kurz et.al.|[2207.10312v2](http://arxiv.org/abs/2207.10312v2)|**[link](https://github.com/thomasneff/AdaNeRF)**|
