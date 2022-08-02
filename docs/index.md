@@ -22,7 +22,6 @@ layout: default
 |**2022-06-04**|**DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**|Jia-Wei Liu et.al.|[2205.15723v2](http://arxiv.org/abs/2205.15723v2)|**[link](https://github.com/showlab/devrf)**|
 |**2022-05-31**|**Novel View Synthesis for High-fidelity Headshot Scenes**|Satoshi Tsutsui et.al.|[2205.15595v1](http://arxiv.org/abs/2205.15595v1)|**[link](https://github.com/showlab/headshot)**|
 |**2022-05-30**|**Compressible-composable NeRF via Rank-residual Decomposition**|Jiaxiang Tang et.al.|[2205.14870v1](http://arxiv.org/abs/2205.14870v1)|**[link](https://github.com/ashawkey/ccnerf)**|
-|**2022-04-28**|**NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**|Zhi-Hao Lin et.al.|[2204.13696v1](http://arxiv.org/abs/2204.13696v1)|**[link](https://github.com/zhihao-lin/neurmips)**|
 
 ## Visual Localization
 
@@ -90,5 +89,4 @@ layout: default
 |**2022-03-16**|**PosePipe: Open-Source Human Pose Estimation Pipeline for Clinical Research**|R. James Cotton et.al.|[2203.08792v1](http://arxiv.org/abs/2203.08792v1)|**[link](https://github.com/peabody124/posepipeline)**|
 |**2022-01-14**|**Reproducing BowNet: Learning Representations by Predicting Bags of Visual Words**|Harry Nguyen et.al.|[2201.03556v2](http://arxiv.org/abs/2201.03556v2)|**[link](https://github.com/StoneY1/Reproducing-BowNet)**|
 |**2021-12-19**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258v1](http://arxiv.org/abs/2112.10258v1)|**[link](https://github.com/carluerjb/3d_sift_cuda)**|
-|**2022-04-01**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183v3](http://arxiv.org/abs/2112.06183v3)|**[link](https://github.com/alanlusun/few-shot-keypoint-detection)**|
 
