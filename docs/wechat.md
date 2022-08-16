@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-08-15, **DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**, Bing Wang et.al., Paper: [http://arxiv.org/abs/2208.07227v1](http://arxiv.org/abs/2208.07227v1), Code: **[https://github.com/vlar-group/dm-nerf](https://github.com/vlar-group/dm-nerf)**
 - 2022-08-01, **DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**, Zijin Wu et.al., Paper: [http://arxiv.org/abs/2208.00945v1](http://arxiv.org/abs/2208.00945v1), Code: **[https://github.com/zijinwuzijin/dof-nerf](https://github.com/zijinwuzijin/dof-nerf)**
 - 2022-08-06, **MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**, Zhiqin Chen et.al., Paper: [http://arxiv.org/abs/2208.00277v2](http://arxiv.org/abs/2208.00277v2), Code: **[https://github.com/google-research/jax3d](https://github.com/google-research/jax3d)**
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
