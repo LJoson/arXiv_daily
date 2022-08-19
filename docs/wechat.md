@@ -40,7 +40,6 @@
 - 2022-04-01, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v2](http://arxiv.org/abs/2203.13048v2), Code: **[https://github.com/lasuomela/carla_vloc_benchmark](https://github.com/lasuomela/carla_vloc_benchmark)**
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1), Code: **[https://github.com/tiers/tiers-lidars-dataset](https://github.com/tiers/tiers-lidars-dataset)**
-- 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
 
 ## Image Matching
 
