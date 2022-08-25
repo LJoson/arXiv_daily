@@ -18,7 +18,6 @@
 - 2022-06-02, **EfficientNeRF: Efficient Neural Radiance Fields**, Tao Hu et.al., Paper: [http://arxiv.org/abs/2206.00878v1](http://arxiv.org/abs/2206.00878v1), Code: **[https://github.com/dvlab-research/efficientnerf](https://github.com/dvlab-research/efficientnerf)**
 - 2022-06-04, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v2](http://arxiv.org/abs/2205.15723v2), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
 - 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
-- 2022-05-30, **Compressible-composable NeRF via Rank-residual Decomposition**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2205.14870v1](http://arxiv.org/abs/2205.14870v1), Code: **[https://github.com/ashawkey/ccnerf](https://github.com/ashawkey/ccnerf)**
 
 ## Visual Localization
 
