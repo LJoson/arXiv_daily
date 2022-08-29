@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation**|Jichao Zhang et.al.|[2208.12550v1](http://arxiv.org/abs/2208.12550v1)|**[link](https://github.com/zhangqianhui/tt-gnerf)**|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong et.al.|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
 |**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
