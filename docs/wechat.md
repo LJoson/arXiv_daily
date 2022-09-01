@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-08-31, **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**, Yihao Zhi et.al., Paper: [http://arxiv.org/abs/2208.14851v1](http://arxiv.org/abs/2208.14851v1), Code: **[https://github.com/zyhbili/Dual-Space-NeRF](https://github.com/zyhbili/Dual-Space-NeRF)**
 - 2022-08-26, **Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation**, Jichao Zhang et.al., Paper: [http://arxiv.org/abs/2208.12550v1](http://arxiv.org/abs/2208.12550v1), Code: **[https://github.com/zhangqianhui/tt-gnerf](https://github.com/zhangqianhui/tt-gnerf)**
 - 2022-08-24, **PeRFception: Perception using Radiance Fields**, Yoonwoo Jeong et.al., Paper: [http://arxiv.org/abs/2208.11537v1](http://arxiv.org/abs/2208.11537v1), Code: **[https://github.com/POSTECH-CVLab/PeRFception](https://github.com/POSTECH-CVLab/PeRFception)**
 - 2022-08-15, **DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**, Bing Wang et.al., Paper: [http://arxiv.org/abs/2208.07227v1](http://arxiv.org/abs/2208.07227v1), Code: **[https://github.com/vlar-group/dm-nerf](https://github.com/vlar-group/dm-nerf)**
@@ -19,7 +20,6 @@
 - 2022-06-02, **Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**, D. Zimny et.al., Paper: [http://arxiv.org/abs/2206.01290v1](http://arxiv.org/abs/2206.01290v1), Code: **[https://github.com/gmum/points2nerf](https://github.com/gmum/points2nerf)**
 - 2022-06-02, **EfficientNeRF: Efficient Neural Radiance Fields**, Tao Hu et.al., Paper: [http://arxiv.org/abs/2206.00878v1](http://arxiv.org/abs/2206.00878v1), Code: **[https://github.com/dvlab-research/efficientnerf](https://github.com/dvlab-research/efficientnerf)**
 - 2022-06-04, **DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes**, Jia-Wei Liu et.al., Paper: [http://arxiv.org/abs/2205.15723v2](http://arxiv.org/abs/2205.15723v2), Code: **[https://github.com/showlab/devrf](https://github.com/showlab/devrf)**
-- 2022-05-31, **Novel View Synthesis for High-fidelity Headshot Scenes**, Satoshi Tsutsui et.al., Paper: [http://arxiv.org/abs/2205.15595v1](http://arxiv.org/abs/2205.15595v1), Code: **[https://github.com/showlab/headshot](https://github.com/showlab/headshot)**
 
 ## Visual Localization
 
