@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.09.06
+> Updated on 2022.09.07
 
 ## NeRF
 
@@ -34,7 +34,7 @@
 - 2022-05-23, **VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**, Michael Schleiss et.al., Paper: [http://arxiv.org/abs/2205.11567v1](http://arxiv.org/abs/2205.11567v1), Code: **[https://github.com/aervisloc/vpair](https://github.com/aervisloc/vpair)**
 - 2022-04-15, **Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**, Hanjing Ye et.al., Paper: [http://arxiv.org/abs/2204.07350v1](http://arxiv.org/abs/2204.07350v1), Code: **[https://github.com/medlartea/cae-vpr](https://github.com/medlartea/cae-vpr)**
 - 2022-04-11, **Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2204.04932v1](http://arxiv.org/abs/2204.04932v1), Code: **[https://github.com/SlamCabbage/Optimized-SC-F-LOAM](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**
-- 2022-04-10, **Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2204.04752v1](http://arxiv.org/abs/2204.04752v1), Code: **[https://github.com/shiyujiao/highlyaccurate](https://github.com/shiyujiao/highlyaccurate)**
+- 2022-09-04, **Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2204.04752v2](http://arxiv.org/abs/2204.04752v2), Code: **[https://github.com/shiyujiao/highlyaccurate](https://github.com/shiyujiao/highlyaccurate)**
 - 2022-04-01, **LASER: LAtent SpacE Rendering for 2D Visual Localization**, Zhixiang Min et.al., Paper: [http://arxiv.org/abs/2204.00157v1](http://arxiv.org/abs/2204.00157v1), Code: **[https://github.com/zillow/laser](https://github.com/zillow/laser)**
 - 2022-06-26, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v2](http://arxiv.org/abs/2203.16291v2), Code: **[https://github.com/seyrankhademi/AmsterTime](https://github.com/seyrankhademi/AmsterTime)**
 - 2022-04-01, **A Simulation Benchmark for Vision-based Autonomous Navigation**, Lauri Suomela et.al., Paper: [http://arxiv.org/abs/2203.13048v2](http://arxiv.org/abs/2203.13048v2), Code: **[https://github.com/lasuomela/carla_vloc_benchmark](https://github.com/lasuomela/carla_vloc_benchmark)**
