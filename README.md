@@ -20,7 +20,6 @@
 |**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang et.al.|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|**[link](https://github.com/med-air/endonerf)**|
 |**2022-08-05**|**FWD: Real-time Novel View Synthesis with Forward Warping and Depth**|Ang Cao et.al.|[2206.08355v3](http://arxiv.org/abs/2206.08355v3)|**[link](https://github.com/caoang327/fwd_code)**|
 |**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|**[link](https://github.com/gmum/points2nerf)**|
-|**2022-06-02**|**EfficientNeRF: Efficient Neural Radiance Fields**|Tao Hu et.al.|[2206.00878v1](http://arxiv.org/abs/2206.00878v1)|**[link](https://github.com/dvlab-research/efficientnerf)**|
 
 ## Visual Localization
 
