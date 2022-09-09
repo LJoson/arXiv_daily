@@ -19,7 +19,6 @@
 |**2022-07-04**|**Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**|Tianlong Chen et.al.|[2207.01164v1](http://arxiv.org/abs/2207.01164v1)|**[link](https://github.com/vita-group/aug-nerf)**|
 |**2022-06-30**|**Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**|Yuehao Wang et.al.|[2206.15255v1](http://arxiv.org/abs/2206.15255v1)|**[link](https://github.com/med-air/endonerf)**|
 |**2022-08-05**|**FWD: Real-time Novel View Synthesis with Forward Warping and Depth**|Ang Cao et.al.|[2206.08355v3](http://arxiv.org/abs/2206.08355v3)|**[link](https://github.com/caoang327/fwd_code)**|
-|**2022-06-02**|**Points2NeRF: Generating Neural Radiance Fields from 3D point cloud**|D. Zimny et.al.|[2206.01290v1](http://arxiv.org/abs/2206.01290v1)|**[link](https://github.com/gmum/points2nerf)**|
 
 ## Visual Localization
 
