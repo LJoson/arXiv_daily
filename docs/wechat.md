@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.09.22
+> Updated on 2022.09.23
 
 ## NeRF
 
+- 2022-09-22, **NeRF-SOS: Any-View Self-supervised Object Segmentation from Complex Real-World Scenes**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2209.08776v3](http://arxiv.org/abs/2209.08776v3), Code: **[https://github.com/vita-group/nerf-sos](https://github.com/vita-group/nerf-sos)**
 - 2022-09-18, **LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**, Zhenxin Zhu et.al., Paper: [http://arxiv.org/abs/2209.08498v1](http://arxiv.org/abs/2209.08498v1), Code: **[https://github.com/jike5/LATITUDE](https://github.com/jike5/LATITUDE)**
 - 2022-08-31, **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**, Yihao Zhi et.al., Paper: [http://arxiv.org/abs/2208.14851v1](http://arxiv.org/abs/2208.14851v1), Code: **[https://github.com/zyhbili/Dual-Space-NeRF](https://github.com/zyhbili/Dual-Space-NeRF)**
 - 2022-08-26, **Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation**, Jichao Zhang et.al., Paper: [http://arxiv.org/abs/2208.12550v1](http://arxiv.org/abs/2208.12550v1), Code: **[https://github.com/zhangqianhui/tt-gnerf](https://github.com/zhangqianhui/tt-gnerf)**
