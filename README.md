@@ -36,6 +36,7 @@
 |**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
 |**2022-07-19**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu et.al.|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-07-08**|**Learning Sequential Descriptors for Sequence-based Visual Place Recognition**|Riccardo Mereu et.al.|[2207.03868v1](http://arxiv.org/abs/2207.03868v1)|**[link](https://github.com/vandal-vpr/vg-transformers)**|
+|**2022-06-25**|**FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance**|Yongzhi Fan et.al.|[2206.12628v1](http://arxiv.org/abs/2206.12628v1)|**[link](https://github.com/soytony/fresco)**|
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|**[link](https://github.com/naver/kapture-localization)**|
 |**2022-07-09**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v3](http://arxiv.org/abs/2205.13135v3)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
@@ -45,7 +46,6 @@
 |**2022-09-04**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v2](http://arxiv.org/abs/2204.04752v2)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
 |**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min et.al.|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|**[link](https://github.com/zillow/laser)**|
 |**2022-06-26**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291v2](http://arxiv.org/abs/2203.16291v2)|**[link](https://github.com/seyrankhademi/AmsterTime)**|
-|**2022-04-01**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v2](http://arxiv.org/abs/2203.13048v2)|**[link](https://github.com/lasuomela/carla_vloc_benchmark)**|
 
 ## Image Matching
 
