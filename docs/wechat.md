@@ -23,6 +23,7 @@
 
 ## Visual Localization
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1), Code: **[https://github.com/zhouruihao1001/ndd](https://github.com/zhouruihao1001/ndd)**
 - 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-09-15, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v2](http://arxiv.org/abs/2209.06779v2), Code: **[https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**
@@ -44,6 +45,7 @@
 
 ## Image Matching
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
 - 2022-08-16, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v2](http://arxiv.org/abs/2208.07039v2), Code: **[https://github.com/infinity7428/hANMCL](https://github.com/infinity7428/hANMCL)**
 - 2022-08-04, **Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2208.02450v1](http://arxiv.org/abs/2208.02450v1), Code: **[https://github.com/vcm-project233/mitml](https://github.com/vcm-project233/mitml)**
@@ -69,6 +71,7 @@
 
 ## Keypoint Detection
 
+- 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1), Code: **[https://github.com/ais-bonn/extrcamcalib_personkeypoints](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**
 - 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
 - 2022-08-15, **Semi-supervised Human Pose Estimation in Art-historical Images**, Matthias Springstein et.al., Paper: [http://arxiv.org/abs/2207.02976v3](http://arxiv.org/abs/2207.02976v3), Code: **[https://github.com/tibhannover/iart-semi-pose](https://github.com/tibhannover/iart-semi-pose)**

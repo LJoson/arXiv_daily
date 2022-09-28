@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-15**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v2](http://arxiv.org/abs/2209.06779v2)|**[link](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**|
@@ -50,6 +51,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-08-16**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|**[link](https://github.com/infinity7428/hANMCL)**|
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
@@ -77,6 +79,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
 |**2022-09-15**|**Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**|Bastian Pätzold et.al.|[2209.07393v1](http://arxiv.org/abs/2209.07393v1)|**[link](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**|
 |**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-08-15**|**Semi-supervised Human Pose Estimation in Art-historical Images**|Matthias Springstein et.al.|[2207.02976v3](http://arxiv.org/abs/2207.02976v3)|**[link](https://github.com/tibhannover/iart-semi-pose)**|
