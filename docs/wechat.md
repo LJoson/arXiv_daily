@@ -19,7 +19,6 @@
 - 2022-07-28, **AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**, Andreas Kurz et.al., Paper: [http://arxiv.org/abs/2207.10312v2](http://arxiv.org/abs/2207.10312v2), Code: **[https://github.com/thomasneff/AdaNeRF](https://github.com/thomasneff/AdaNeRF)**
 - 2022-07-19, **NDF: Neural Deformable Fields for Dynamic Human Modelling**, Ruiqi Zhang et.al., Paper: [http://arxiv.org/abs/2207.09193v1](http://arxiv.org/abs/2207.09193v1), Code: **[https://github.com/hkbu-vscomputing/2022_eccv_ndf](https://github.com/hkbu-vscomputing/2022_eccv_ndf)**
 - 2022-07-04, **Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**, Tianlong Chen et.al., Paper: [http://arxiv.org/abs/2207.01164v1](http://arxiv.org/abs/2207.01164v1), Code: **[https://github.com/vita-group/aug-nerf](https://github.com/vita-group/aug-nerf)**
-- 2022-06-30, **Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery**, Yuehao Wang et.al., Paper: [http://arxiv.org/abs/2206.15255v1](http://arxiv.org/abs/2206.15255v1), Code: **[https://github.com/med-air/endonerf](https://github.com/med-air/endonerf)**
 
 ## Visual Localization
 
