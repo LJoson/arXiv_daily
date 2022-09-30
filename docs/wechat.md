@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-09-29, **SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2209.14819v1](http://arxiv.org/abs/2209.14819v1), Code: **[https://github.com/xingyi-li/symmnerf](https://github.com/xingyi-li/symmnerf)**
 - 2022-09-23, **NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2209.08776v4](http://arxiv.org/abs/2209.08776v4), Code: **[https://github.com/vita-group/nerf-sos](https://github.com/vita-group/nerf-sos)**
 - 2022-09-18, **LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**, Zhenxin Zhu et.al., Paper: [http://arxiv.org/abs/2209.08498v1](http://arxiv.org/abs/2209.08498v1), Code: **[https://github.com/jike5/LATITUDE](https://github.com/jike5/LATITUDE)**
 - 2022-08-31, **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**, Yihao Zhi et.al., Paper: [http://arxiv.org/abs/2208.14851v1](http://arxiv.org/abs/2208.14851v1), Code: **[https://github.com/zyhbili/Dual-Space-NeRF](https://github.com/zyhbili/Dual-Space-NeRF)**
@@ -18,7 +19,6 @@
 - 2022-07-22, **Neural-Sim: Learning to Generate Training Data with NeRF**, Yunhao Ge et.al., Paper: [http://arxiv.org/abs/2207.11368v1](http://arxiv.org/abs/2207.11368v1), Code: **[https://github.com/gyhandy/neural-sim-nerf](https://github.com/gyhandy/neural-sim-nerf)**
 - 2022-07-28, **AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**, Andreas Kurz et.al., Paper: [http://arxiv.org/abs/2207.10312v2](http://arxiv.org/abs/2207.10312v2), Code: **[https://github.com/thomasneff/AdaNeRF](https://github.com/thomasneff/AdaNeRF)**
 - 2022-07-19, **NDF: Neural Deformable Fields for Dynamic Human Modelling**, Ruiqi Zhang et.al., Paper: [http://arxiv.org/abs/2207.09193v1](http://arxiv.org/abs/2207.09193v1), Code: **[https://github.com/hkbu-vscomputing/2022_eccv_ndf](https://github.com/hkbu-vscomputing/2022_eccv_ndf)**
-- 2022-07-04, **Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations**, Tianlong Chen et.al., Paper: [http://arxiv.org/abs/2207.01164v1](http://arxiv.org/abs/2207.01164v1), Code: **[https://github.com/vita-group/aug-nerf](https://github.com/vita-group/aug-nerf)**
 
 ## Visual Localization
 
