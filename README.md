@@ -6,6 +6,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-02**|**IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**|Weicai Ye et.al.|[2210.00647v1](http://arxiv.org/abs/2210.00647v1)|**[link](https://github.com/zju3dv/intrinsicnerf)**|
+|**2022-10-01**|**Structure-Aware NeRF without Posed Camera via Epipolar Constraint**|Shu Chen et.al.|[2210.00183v1](http://arxiv.org/abs/2210.00183v1)|**[link](https://github.com/xtu-pr-lab/sanerf)**|
 |**2022-09-30**|**TT-NF: Tensor Train Neural Fields**|Anton Obukhov et.al.|[2209.15529v1](http://arxiv.org/abs/2209.15529v1)|**[link](https://github.com/toshas/ttnf)**|
 |**2022-09-29**|**SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**|Xingyi Li et.al.|[2209.14819v1](http://arxiv.org/abs/2209.14819v1)|**[link](https://github.com/xingyi-li/symmnerf)**|
 |**2022-10-03**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|**[link](https://github.com/metaslam/360fusionnerf)**|
@@ -21,8 +23,6 @@
 |**2022-08-06**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v2](http://arxiv.org/abs/2208.00277v2)|**[link](https://github.com/google-research/jax3d)**|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-22**|**Neural-Sim: Learning to Generate Training Data with NeRF**|Yunhao Ge et.al.|[2207.11368v1](http://arxiv.org/abs/2207.11368v1)|**[link](https://github.com/gyhandy/neural-sim-nerf)**|
-|**2022-07-28**|**AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields**|Andreas Kurz et.al.|[2207.10312v2](http://arxiv.org/abs/2207.10312v2)|**[link](https://github.com/thomasneff/AdaNeRF)**|
-|**2022-07-19**|**NDF: Neural Deformable Fields for Dynamic Human Modelling**|Ruiqi Zhang et.al.|[2207.09193v1](http://arxiv.org/abs/2207.09193v1)|**[link](https://github.com/hkbu-vscomputing/2022_eccv_ndf)**|
 
 ## Visual Localization
 
@@ -46,7 +46,6 @@
 |**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|**[link](https://github.com/aervisloc/vpair)**|
 |**2022-04-15**|**Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder**|Hanjing Ye et.al.|[2204.07350v1](http://arxiv.org/abs/2204.07350v1)|**[link](https://github.com/medlartea/cae-vpr)**|
 |**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|**[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**|
-|**2022-09-04**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v2](http://arxiv.org/abs/2204.04752v2)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
 
 ## Image Matching
 
