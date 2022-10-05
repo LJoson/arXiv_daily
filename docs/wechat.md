@@ -69,6 +69,7 @@
 
 ## Keypoint Detection
 
+- 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-09-27, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v1](http://arxiv.org/abs/2209.13657v1), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1), Code: **[https://github.com/ais-bonn/extrcamcalib_personkeypoints](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**
