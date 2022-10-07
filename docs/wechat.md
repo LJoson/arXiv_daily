@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2022-10-04, **Capturing and Animation of Body and Clothing from Monocular Video**, Yao Feng et.al., Paper: [http://arxiv.org/abs/2210.01868v1](http://arxiv.org/abs/2210.01868v1), Code: **[https://github.com/yadiraf/scarf](https://github.com/yadiraf/scarf)**
 - 2022-10-02, **IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2210.00647v1](http://arxiv.org/abs/2210.00647v1), Code: **[https://github.com/zju3dv/intrinsicnerf](https://github.com/zju3dv/intrinsicnerf)**
 - 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
 - 2022-09-30, **TT-NF: Tensor Train Neural Fields**, Anton Obukhov et.al., Paper: [http://arxiv.org/abs/2209.15529v1](http://arxiv.org/abs/2209.15529v1), Code: **[https://github.com/toshas/ttnf](https://github.com/toshas/ttnf)**
