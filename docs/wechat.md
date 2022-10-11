@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.10.10
+> Updated on 2022.10.11
 
 ## NeRF
 
@@ -79,7 +79,7 @@
 - 2022-08-15, **Semi-supervised Human Pose Estimation in Art-historical Images**, Matthias Springstein et.al., Paper: [http://arxiv.org/abs/2207.02976v3](http://arxiv.org/abs/2207.02976v3), Code: **[https://github.com/tibhannover/iart-semi-pose](https://github.com/tibhannover/iart-semi-pose)**
 - 2022-06-21, **KTN: Knowledge Transfer Network for Learning Multi-person 2D-3D Correspondences**, Xuanhan Wang et.al., Paper: [http://arxiv.org/abs/2206.10090v1](http://arxiv.org/abs/2206.10090v1), Code: **[https://github.com/stoa-xh91/humandensepose](https://github.com/stoa-xh91/humandensepose)**
 - 2022-06-03, **SNAKE: Shape-aware Neural 3D Keypoint Field**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2206.01724v1](http://arxiv.org/abs/2206.01724v1), Code: **[https://github.com/zhongcl-thu/snake](https://github.com/zhongcl-thu/snake)**
-- 2022-07-23, **ConfLab: A Rich Multimodal Multisensor Dataset of Free-Standing Social Interactions in the Wild**, Chirag Raman et.al., Paper: [http://arxiv.org/abs/2205.05177v2](http://arxiv.org/abs/2205.05177v2), Code: **[https://github.com/tudelft-spc-lab/conflab](https://github.com/tudelft-spc-lab/conflab)**
+- 2022-10-07, **ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild**, Chirag Raman et.al., Paper: [http://arxiv.org/abs/2205.05177v3](http://arxiv.org/abs/2205.05177v3), Code: **[https://github.com/tudelft-spc-lab/conflab](https://github.com/tudelft-spc-lab/conflab)**
 - 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-05-24, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v2](http://arxiv.org/abs/2204.12484v2), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1), Code: **[https://github.com/bluedream1121/REKD](https://github.com/bluedream1121/REKD)**
