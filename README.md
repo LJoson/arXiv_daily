@@ -22,7 +22,6 @@
 |**2022-09-12**|**FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing**|Jingbo Zhang et.al.|[2208.05751v2](http://arxiv.org/abs/2208.05751v2)|**[link](https://github.com/fdnerf/fdnerf)**|
 |**2022-08-01**|**DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields**|Zijin Wu et.al.|[2208.00945v1](http://arxiv.org/abs/2208.00945v1)|**[link](https://github.com/zijinwuzijin/dof-nerf)**|
 |**2022-08-06**|**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**|Zhiqin Chen et.al.|[2208.00277v2](http://arxiv.org/abs/2208.00277v2)|**[link](https://github.com/google-research/jax3d)**|
-|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 
 ## Visual Localization
 
