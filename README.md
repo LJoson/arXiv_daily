@@ -22,7 +22,6 @@
 |**2022-08-26**|**Training and Tuning Generative Neural Radiance Fields for Attribute-Conditional 3D-Aware Face Generation**|Jichao Zhang et.al.|[2208.12550v1](http://arxiv.org/abs/2208.12550v1)|**[link](https://github.com/zhangqianhui/tt-gnerf)**|
 |**2022-08-24**|**PeRFception: Perception using Radiance Fields**|Yoonwoo Jeong et.al.|[2208.11537v1](http://arxiv.org/abs/2208.11537v1)|**[link](https://github.com/POSTECH-CVLab/PeRFception)**|
 |**2022-08-15**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227v1](http://arxiv.org/abs/2208.07227v1)|**[link](https://github.com/vlar-group/dm-nerf)**|
-|**2022-08-21**|**UPST-NeRF: Universal Photorealistic Style Transfer of Neural Radiance Fields for 3D Scene**|Yaosen Chen et.al.|[2208.07059v2](http://arxiv.org/abs/2208.07059v2)|**[link](https://github.com/semchan/UPST-NeRF)**|
 
 ## Visual Localization
 
