@@ -17,7 +17,6 @@
 - 2022-10-03, **360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**, Shreyas Kulkarni et.al., Paper: [http://arxiv.org/abs/2209.14265v2](http://arxiv.org/abs/2209.14265v2), Code: **[https://github.com/metaslam/360fusionnerf](https://github.com/metaslam/360fusionnerf)**
 - 2022-10-12, **NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2209.08776v6](http://arxiv.org/abs/2209.08776v6), Code: **[https://github.com/vita-group/nerf-sos](https://github.com/vita-group/nerf-sos)**
 - 2022-09-18, **LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**, Zhenxin Zhu et.al., Paper: [http://arxiv.org/abs/2209.08498v1](http://arxiv.org/abs/2209.08498v1), Code: **[https://github.com/jike5/LATITUDE](https://github.com/jike5/LATITUDE)**
-- 2022-08-31, **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**, Yihao Zhi et.al., Paper: [http://arxiv.org/abs/2208.14851v1](http://arxiv.org/abs/2208.14851v1), Code: **[https://github.com/zyhbili/Dual-Space-NeRF](https://github.com/zyhbili/Dual-Space-NeRF)**
 
 ## Visual Localization
 
@@ -86,5 +85,4 @@
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 - 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
 - 2022-03-27, **UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**, Ye Liu et.al., Paper: [http://arxiv.org/abs/2203.12745v2](http://arxiv.org/abs/2203.12745v2), Code: **[https://github.com/tencentarc/umt](https://github.com/tencentarc/umt)**
-- 2022-09-23, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v3](http://arxiv.org/abs/2203.09645v3), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 
