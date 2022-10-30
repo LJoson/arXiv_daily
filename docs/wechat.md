@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2022.10.29
+> Updated on 2022.10.30
 
 ## NeRF
 
@@ -15,6 +15,7 @@
 - 2022-09-30, **TT-NF: Tensor Train Neural Fields**, Anton Obukhov et.al., Paper: [http://arxiv.org/abs/2209.15529v1](http://arxiv.org/abs/2209.15529v1), Code: **[https://github.com/toshas/ttnf](https://github.com/toshas/ttnf)**
 - 2022-09-29, **SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2209.14819v1](http://arxiv.org/abs/2209.14819v1), Code: **[https://github.com/xingyi-li/symmnerf](https://github.com/xingyi-li/symmnerf)**
 - 2022-10-03, **360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**, Shreyas Kulkarni et.al., Paper: [http://arxiv.org/abs/2209.14265v2](http://arxiv.org/abs/2209.14265v2), Code: **[https://github.com/metaslam/360fusionnerf](https://github.com/metaslam/360fusionnerf)**
+- 2022-09-19, **Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**, Dominic Maggio et.al., Paper: [http://arxiv.org/abs/2209.09050v1](http://arxiv.org/abs/2209.09050v1), Code: **[https://github.com/mit-spark/loc-nerf](https://github.com/mit-spark/loc-nerf)**
 - 2022-10-12, **NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes**, Zhiwen Fan et.al., Paper: [http://arxiv.org/abs/2209.08776v6](http://arxiv.org/abs/2209.08776v6), Code: **[https://github.com/vita-group/nerf-sos](https://github.com/vita-group/nerf-sos)**
 - 2022-09-18, **LATITUDE: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF**, Zhenxin Zhu et.al., Paper: [http://arxiv.org/abs/2209.08498v1](http://arxiv.org/abs/2209.08498v1), Code: **[https://github.com/jike5/LATITUDE](https://github.com/jike5/LATITUDE)**
 
