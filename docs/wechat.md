@@ -70,6 +70,7 @@
 
 ## Keypoint Detection
 
+- 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2022-10-16, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v2](http://arxiv.org/abs/2209.13657v2), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
@@ -85,5 +86,4 @@
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1), Code: **[https://github.com/bluedream1121/REKD](https://github.com/bluedream1121/REKD)**
 - 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
 - 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
-- 2022-03-28, **REGTR: End-to-end Point Cloud Correspondences with Transformers**, Zi Jian Yew et.al., Paper: [http://arxiv.org/abs/2203.14517v1](http://arxiv.org/abs/2203.14517v1), Code: **[https://github.com/yewzijian/regtr](https://github.com/yewzijian/regtr)**
 
