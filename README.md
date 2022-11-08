@@ -42,7 +42,6 @@
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|**[link](https://github.com/naver/kapture-localization)**|
 |**2022-07-09**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang et.al.|[2205.13135v3](http://arxiv.org/abs/2205.13135v3)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun et.al.|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
-|**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|**[link](https://github.com/aervisloc/vpair)**|
 
 ## Image Matching
 
@@ -72,7 +71,6 @@
 |**2022-03-14**|**There's no difference: Convolutional Neural Networks for transient detection without template subtraction**|Tatiana Acero-Cuellar et.al.|[2203.07390v1](http://arxiv.org/abs/2203.07390v1)|**[link](https://github.com/taceroc/dia_nodia)**|
 |**2022-03-25**|**Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Jinheng Xie et.al.|[2203.02668v2](http://arxiv.org/abs/2203.02668v2)|**[link](https://github.com/cvi-szu/clims)**|
 |**2022-10-30**|**CATs++: Boosting Cost Aggregation with Convolutions and Transformers**|Seokju Cho et.al.|[2202.06817v2](http://arxiv.org/abs/2202.06817v2)|**[link](https://github.com/KU-CVLAB/CATs-PlusPlus)**|
-|**2022-02-08**|**Learning Optical Flow with Adaptive Graph Reasoning**|Ao Luo et.al.|[2202.03857v1](http://arxiv.org/abs/2202.03857v1)|**[link](https://github.com/la30/agflow)**|
 
 ## Keypoint Detection
 
