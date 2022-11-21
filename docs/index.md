@@ -21,7 +21,6 @@ layout: default
 |**2022-09-30**|**TT-NF: Tensor Train Neural Fields**|Anton Obukhov et.al.|[2209.15529v1](http://arxiv.org/abs/2209.15529v1)|**[link](https://github.com/toshas/ttnf)**|
 |**2022-09-29**|**SymmNeRF: Learning to Explore Symmetry Prior for Single-View View Synthesis**|Xingyi Li et.al.|[2209.14819v1](http://arxiv.org/abs/2209.14819v1)|**[link](https://github.com/xingyi-li/symmnerf)**|
 |**2022-10-03**|**360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance**|Shreyas Kulkarni et.al.|[2209.14265v2](http://arxiv.org/abs/2209.14265v2)|**[link](https://github.com/metaslam/360fusionnerf)**|
-|**2022-09-19**|**Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields**|Dominic Maggio et.al.|[2209.09050v1](http://arxiv.org/abs/2209.09050v1)|**[link](https://github.com/mit-spark/loc-nerf)**|
 
 ## Visual Localization
 
