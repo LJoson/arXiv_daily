@@ -11,8 +11,6 @@
 - 2022-10-08, **ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**, Yinpeng Dong et.al., Paper: [http://arxiv.org/abs/2210.03895v1](http://arxiv.org/abs/2210.03895v1), Code: **[https://github.com/heathcliff-saku/viewfool_](https://github.com/heathcliff-saku/viewfool_)**
 - 2022-10-04, **Capturing and Animation of Body and Clothing from Monocular Video**, Yao Feng et.al., Paper: [http://arxiv.org/abs/2210.01868v1](http://arxiv.org/abs/2210.01868v1), Code: **[https://github.com/yadiraf/scarf](https://github.com/yadiraf/scarf)**
 - 2022-10-02, **IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis**, Weicai Ye et.al., Paper: [http://arxiv.org/abs/2210.00647v1](http://arxiv.org/abs/2210.00647v1), Code: **[https://github.com/zju3dv/intrinsicnerf](https://github.com/zju3dv/intrinsicnerf)**
-- 2022-10-01, **Structure-Aware NeRF without Posed Camera via Epipolar Constraint**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2210.00183v1](http://arxiv.org/abs/2210.00183v1), Code: **[https://github.com/xtu-pr-lab/sanerf](https://github.com/xtu-pr-lab/sanerf)**
-- 2022-09-30, **TT-NF: Tensor Train Neural Fields**, Anton Obukhov et.al., Paper: [http://arxiv.org/abs/2209.15529v1](http://arxiv.org/abs/2209.15529v1), Code: **[https://github.com/toshas/ttnf](https://github.com/toshas/ttnf)**
 
 ## Visual Localization
 
@@ -30,7 +28,6 @@
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
 - 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 - 2022-07-08, **Learning Sequential Descriptors for Sequence-based Visual Place Recognition**, Riccardo Mereu et.al., Paper: [http://arxiv.org/abs/2207.03868v1](http://arxiv.org/abs/2207.03868v1), Code: **[https://github.com/vandal-vpr/vg-transformers](https://github.com/vandal-vpr/vg-transformers)**
-- 2022-10-14, **How Many Events do You Need? Event-based Visual Place Recognition Using Sparse But Varying Pixels**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2206.13673v3](http://arxiv.org/abs/2206.13673v3), Code: **[https://github.com/tobias-fischer/sparse-event-vpr](https://github.com/tobias-fischer/sparse-event-vpr)**
 
 ## Image Matching
 
