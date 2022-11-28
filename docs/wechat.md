@@ -4,11 +4,11 @@
 
 ## NeRF
 
+- 2022-11-24, **Immersive Neural Graphics Primitives**, Ke Li et.al., Paper: [http://arxiv.org/abs/2211.13494v1](http://arxiv.org/abs/2211.13494v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2022-10-21, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Paper: [http://arxiv.org/abs/2210.11170v2](http://arxiv.org/abs/2210.11170v2), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
 - 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1), Code: **[https://github.com/USTC3DV/NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code)**
 - 2022-10-11, **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360$^{\circ} $ Insufficient RGB-D Views**, Haoyi Zhu et.al., Paper: [http://arxiv.org/abs/2210.05135v1](http://arxiv.org/abs/2210.05135v1), Code: **[https://github.com/haoyizhu/xnerf](https://github.com/haoyizhu/xnerf)**
 - 2022-10-10, **SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**, Yitong Xia et.al., Paper: [http://arxiv.org/abs/2210.04553v1](http://arxiv.org/abs/2210.04553v1), Code: **[https://github.com/yitongx/sinerf](https://github.com/yitongx/sinerf)**
-- 2022-10-08, **ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints**, Yinpeng Dong et.al., Paper: [http://arxiv.org/abs/2210.03895v1](http://arxiv.org/abs/2210.03895v1), Code: **[https://github.com/heathcliff-saku/viewfool_](https://github.com/heathcliff-saku/viewfool_)**
 
 ## Visual Localization
 
