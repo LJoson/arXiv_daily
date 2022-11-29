@@ -4,12 +4,12 @@
 
 ## NeRF
 
+- 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 - 2022-11-24, **Immersive Neural Graphics Primitives**, Ke Li et.al., Paper: [http://arxiv.org/abs/2211.13494v1](http://arxiv.org/abs/2211.13494v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2022-11-21, **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**, Dario Pavllo et.al., Paper: [http://arxiv.org/abs/2211.11674v1](http://arxiv.org/abs/2211.11674v1), Code: **[https://github.com/google-research/nerf-from-image](https://github.com/google-research/nerf-from-image)**
 - 2022-10-21, **Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**, Fukun Yin et.al., Paper: [http://arxiv.org/abs/2210.11170v2](http://arxiv.org/abs/2210.11170v2), Code: **[https://github.com/fukunyin/coco-nerf](https://github.com/fukunyin/coco-nerf)**
 - 2022-10-12, **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**, Xuan Gao et.al., Paper: [http://arxiv.org/abs/2210.06108v1](http://arxiv.org/abs/2210.06108v1), Code: **[https://github.com/USTC3DV/NeRFBlendShape-code](https://github.com/USTC3DV/NeRFBlendShape-code)**
 - 2022-10-11, **X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360$^{\circ} $ Insufficient RGB-D Views**, Haoyi Zhu et.al., Paper: [http://arxiv.org/abs/2210.05135v1](http://arxiv.org/abs/2210.05135v1), Code: **[https://github.com/haoyizhu/xnerf](https://github.com/haoyizhu/xnerf)**
-- 2022-10-10, **SiNeRF: Sinusoidal Neural Radiance Fields for Joint Pose Estimation and Scene Reconstruction**, Yitong Xia et.al., Paper: [http://arxiv.org/abs/2210.04553v1](http://arxiv.org/abs/2210.04553v1), Code: **[https://github.com/yitongx/sinerf](https://github.com/yitongx/sinerf)**
 
 ## Visual Localization
 
@@ -26,7 +26,6 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-19, **ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**, Ivan Cisneros et.al., Paper: [http://arxiv.org/abs/2207.12317v1](http://arxiv.org/abs/2207.12317v1), Code: **[https://github.com/metaslam/alto](https://github.com/metaslam/alto)**
 - 2022-07-25, **MeshLoc: Mesh-Based Visual Localization**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2207.10762v2](http://arxiv.org/abs/2207.10762v2), Code: **[https://github.com/tsattler/meshloc_release](https://github.com/tsattler/meshloc_release)**
-- 2022-07-19, **Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**, Fangwen Shu et.al., Paper: [http://arxiv.org/abs/2207.06058v2](http://arxiv.org/abs/2207.06058v2), Code: **[https://github.com/peterfws/structure-plp-slam](https://github.com/peterfws/structure-plp-slam)**
 
 ## Image Matching
 
@@ -54,7 +53,6 @@
 - 2022-09-23, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v3](http://arxiv.org/abs/2203.09645v3), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-14, **There's no difference: Convolutional Neural Networks for transient detection without template subtraction**, Tatiana Acero-Cuellar et.al., Paper: [http://arxiv.org/abs/2203.07390v1](http://arxiv.org/abs/2203.07390v1), Code: **[https://github.com/taceroc/dia_nodia](https://github.com/taceroc/dia_nodia)**
 - 2022-03-25, **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2203.02668v2](http://arxiv.org/abs/2203.02668v2), Code: **[https://github.com/cvi-szu/clims](https://github.com/cvi-szu/clims)**
-- 2022-10-30, **CATs++: Boosting Cost Aggregation with Convolutions and Transformers**, Seokju Cho et.al., Paper: [http://arxiv.org/abs/2202.06817v2](http://arxiv.org/abs/2202.06817v2), Code: **[https://github.com/KU-CVLAB/CATs-PlusPlus](https://github.com/KU-CVLAB/CATs-PlusPlus)**
 
 ## Keypoint Detection
 
@@ -72,6 +70,4 @@
 - 2022-05-02, **GRIT: General Robust Image Task Benchmark**, Tanmay Gupta et.al., Paper: [http://arxiv.org/abs/2204.13653v2](http://arxiv.org/abs/2204.13653v2), Code: **[https://github.com/allenai/grit_official](https://github.com/allenai/grit_official)**
 - 2022-10-13, **ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2204.12484v3](http://arxiv.org/abs/2204.12484v3), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1), Code: **[https://github.com/bluedream1121/REKD](https://github.com/bluedream1121/REKD)**
-- 2022-04-07, **Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**, Yanan Wang et.al., Paper: [http://arxiv.org/abs/2204.02611v2](http://arxiv.org/abs/2204.02611v2), Code: **[https://github.com/yanan-wang-cs/clonedperson](https://github.com/yanan-wang-cs/clonedperson)**
-- 2022-04-02, **SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**, Nilaksh Das et.al., Paper: [http://arxiv.org/abs/2204.00734v1](http://arxiv.org/abs/2204.00734v1), Code: **[https://github.com/nilakshdas/skelevision](https://github.com/nilakshdas/skelevision)**
 
