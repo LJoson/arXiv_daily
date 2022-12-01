@@ -4,7 +4,7 @@
 
 ## NeRF
 
-- 2022-11-29, **One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2211.15977v1](http://arxiv.org/abs/2211.15977v1), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
+- 2022-11-30, **One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2211.15977v2](http://arxiv.org/abs/2211.15977v2), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
 - 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 - 2022-11-24, **Immersive Neural Graphics Primitives**, Ke Li et.al., Paper: [http://arxiv.org/abs/2211.13494v1](http://arxiv.org/abs/2211.13494v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2022-11-21, **Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**, Dario Pavllo et.al., Paper: [http://arxiv.org/abs/2211.11674v1](http://arxiv.org/abs/2211.11674v1), Code: **[https://github.com/google-research/nerf-from-image](https://github.com/google-research/nerf-from-image)**
