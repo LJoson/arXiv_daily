@@ -1,21 +1,28 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2022.12.01
+## Updated on 2022.12.23
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-18**|**SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**|Abdullah Hamdi et.al.|[2212.09100v1](http://arxiv.org/abs/2212.09100v1)|**[link](https://github.com/ajhamdi/sparf_pytorch)**|
+|**2022-12-18**|**Masked Wavelet Representation for Compact Neural Radiance Fields**|Daniel Rho et.al.|[2212.09069v1](http://arxiv.org/abs/2212.09069v1)|**[link](https://github.com/daniel03c1/masked_wavelet_nerf)**|
+|**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
+|**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
+|**2022-12-05**|**SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**|Anh-Quan Cao et.al.|[2212.02501v1](http://arxiv.org/abs/2212.02501v1)|**[link](https://github.com/astra-vision/SceneRF)**|
+|**2022-12-01**|**Mixed Neural Voxels for Fast Multi-view Video Synthesis**|Feng Wang et.al.|[2212.00190v1](http://arxiv.org/abs/2212.00190v1)|**[link](https://github.com/fengres/mixvoxels)**|
 |**2022-11-30**|**One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**|Shuangkang Fang et.al.|[2211.15977v2](http://arxiv.org/abs/2211.15977v2)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
 |**2022-11-27**|**Sampling Neural Radiance Fields for Refractive Objects**|Jen-I Pan et.al.|[2211.14799v1](http://arxiv.org/abs/2211.14799v1)|**[link](https://github.com/alexkeroro86/samplenerfro)**|
 |**2022-11-24**|**Immersive Neural Graphics Primitives**|Ke Li et.al.|[2211.13494v1](http://arxiv.org/abs/2211.13494v1)|**[link](https://github.com/uhhhci/immersive-ngp)**|
-|**2022-11-21**|**Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion**|Dario Pavllo et.al.|[2211.11674v1](http://arxiv.org/abs/2211.11674v1)|**[link](https://github.com/google-research/nerf-from-image)**|
-|**2022-10-21**|**Coordinates Are NOT Lonely -- Codebook Prior Helps Implicit Neural 3D Representations**|Fukun Yin et.al.|[2210.11170v2](http://arxiv.org/abs/2210.11170v2)|**[link](https://github.com/fukunyin/coco-nerf)**|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
+|**2022-12-08**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v2](http://arxiv.org/abs/2212.03177v2)|**[link](https://github.com/82magnolia/event_localization)**|
+|**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|**[link](https://github.com/ais-lab/feat2map)**|
 |**2022-11-21**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang et.al.|[2211.11177v1](http://arxiv.org/abs/2211.11177v1)|**[link](https://github.com/tangshitao/neumap)**|
 |**2022-11-16**|**Improving Feature-based Visual Localization by Geometry-Aided Matching**|Hailin Yu et.al.|[2211.08712v1](http://arxiv.org/abs/2211.08712v1)|**[link](https://github.com/openxrlab/xrlocalization)**|
 |**2022-10-19**|**GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**|Amar Ali-bey et.al.|[2210.10239v1](http://arxiv.org/abs/2210.10239v1)|**[link](https://github.com/amaralibey/gsv-cities)**|
@@ -25,21 +32,19 @@
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-10-15**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v3](http://arxiv.org/abs/2209.06779v3)|**[link](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**|
 |**2022-09-09**|**General Place Recognition Survey: Towards the Real-world Autonomy Age**|Peng Yin et.al.|[2209.04497v1](http://arxiv.org/abs/2209.04497v1)|**[link](https://github.com/MetaSLAM/GPRS)**|
-|**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong et.al.|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|**[link](https://github.com/siyandong/src)**|
-|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
-|**2022-07-19**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317v1](http://arxiv.org/abs/2207.12317v1)|**[link](https://github.com/metaslam/alto)**|
-|**2022-07-25**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek et.al.|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2022-11-19**|**Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v2](http://arxiv.org/abs/2211.08657v2)|**[link](https://github.com/lhf12278/saa)**|
 |**2022-10-07**|**Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**|Lang Zhou et.al.|[2210.03398v1](http://arxiv.org/abs/2210.03398v1)|**[link](https://github.com/Mars-Rover-Localization/A2G-Localization)**|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong et.al.|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
+|**2022-08-30**|**ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**|Hongkai Chen et.al.|[2208.14201v1](http://arxiv.org/abs/2208.14201v1)|**[link](https://github.com/apple/ml-aspanformer)**|
 |**2022-08-24**|**Self-Supervised Endoscopic Image Key-Points Matching**|Manel Farhat et.al.|[2208.11424v1](http://arxiv.org/abs/2208.11424v1)|**[link](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**|
 |**2022-09-22**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104v2](http://arxiv.org/abs/2208.08104v2)|**[link](https://github.com/adlnlp/attention_vl)**|
-|**2022-08-16**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v2](http://arxiv.org/abs/2208.07039v2)|**[link](https://github.com/infinity7428/hANMCL)**|
+|**2022-12-14**|**Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**|Dongwoo Park et.al.|[2208.07039v3](http://arxiv.org/abs/2208.07039v3)|**[link](https://github.com/infinity7428/hANMCL)**|
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
 |**2022-07-20**|**Explaining Deepfake Detection by Analysing Image Matching**|Shichao Dong et.al.|[2207.09679v1](http://arxiv.org/abs/2207.09679v1)|**[link](https://github.com/megvii-research/fst-matching)**|
 |**2022-07-16**|**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**|Jiazhen Liu et.al.|[2207.07932v1](http://arxiv.org/abs/2207.07932v1)|**[link](https://github.com/ruc-aimc-lab/superretina)**|
@@ -57,12 +62,13 @@
 |**2022-03-26**|**Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**|Yujiao Shi et.al.|[2203.14148v1](http://arxiv.org/abs/2203.14148v1)|**[link](https://github.com/shiyujiao/ibl)**|
 |**2022-09-23**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang et.al.|[2203.09645v3](http://arxiv.org/abs/2203.09645v3)|**[link](https://github.com/jamycheung/matchformer)**|
 |**2022-03-14**|**There's no difference: Convolutional Neural Networks for transient detection without template subtraction**|Tatiana Acero-Cuellar et.al.|[2203.07390v1](http://arxiv.org/abs/2203.07390v1)|**[link](https://github.com/taceroc/dia_nodia)**|
-|**2022-03-25**|**Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Jinheng Xie et.al.|[2203.02668v2](http://arxiv.org/abs/2203.02668v2)|**[link](https://github.com/cvi-szu/clims)**|
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
+|**2022-12-05**|**Images Speak in Images: A Generalist Painter for In-Context Visual Learning**|Xinlong Wang et.al.|[2212.02499v1](http://arxiv.org/abs/2212.02499v1)|**[link](https://github.com/baaivision/painter)**|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|**[link](https://github.com/norlab-ulaval/perceptreev1)**|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
 |**2022-10-16**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v2](http://arxiv.org/abs/2209.13657v2)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
@@ -74,7 +80,4 @@
 |**2022-10-16**|**A Unified Sequence Interface for Vision Tasks**|Ting Chen et.al.|[2206.07669v2](http://arxiv.org/abs/2206.07669v2)|**[link](https://github.com/google-research/pix2seq)**|
 |**2022-10-17**|**SNAKE: Shape-aware Neural 3D Keypoint Field**|Chengliang Zhong et.al.|[2206.01724v2](http://arxiv.org/abs/2206.01724v2)|**[link](https://github.com/zhongcl-thu/snake)**|
 |**2022-10-07**|**ConfLab: A Data Collection Concept, Dataset, and Benchmark for Machine Analysis of Free-Standing Social Interactions in the Wild**|Chirag Raman et.al.|[2205.05177v3](http://arxiv.org/abs/2205.05177v3)|**[link](https://github.com/tudelft-spc-lab/conflab)**|
-|**2022-05-02**|**GRIT: General Robust Image Task Benchmark**|Tanmay Gupta et.al.|[2204.13653v2](http://arxiv.org/abs/2204.13653v2)|**[link](https://github.com/allenai/grit_official)**|
-|**2022-10-13**|**ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation**|Yufei Xu et.al.|[2204.12484v3](http://arxiv.org/abs/2204.12484v3)|**[link](https://github.com/vitae-transformer/vitpose)**|
-|**2022-04-19**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613v1](http://arxiv.org/abs/2204.08613v1)|**[link](https://github.com/bluedream1121/REKD)**|
 
