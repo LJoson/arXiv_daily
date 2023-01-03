@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-01-01, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v1](http://arxiv.org/abs/2301.00411v1), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 - 2022-12-18, **SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**, Abdullah Hamdi et.al., Paper: [http://arxiv.org/abs/2212.09100v1](http://arxiv.org/abs/2212.09100v1), Code: **[https://github.com/ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch)**
 - 2022-12-18, **Masked Wavelet Representation for Compact Neural Radiance Fields**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2212.09069v1](http://arxiv.org/abs/2212.09069v1), Code: **[https://github.com/daniel03c1/masked_wavelet_nerf](https://github.com/daniel03c1/masked_wavelet_nerf)**
 - 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
@@ -54,7 +55,6 @@
 - 2022-04-08, **Lightweight starshade position sensing with convolutional neural networks and simulation-based inference**, Andrew Chen et.al., Paper: [http://arxiv.org/abs/2204.03853v1](http://arxiv.org/abs/2204.03853v1), Code: **[https://github.com/astro-data-lab/starshade-xy](https://github.com/astro-data-lab/starshade-xy)**
 - 2022-06-26, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v2](http://arxiv.org/abs/2203.16291v2), Code: **[https://github.com/seyrankhademi/AmsterTime](https://github.com/seyrankhademi/AmsterTime)**
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1), Code: **[https://github.com/martyushev/eliminationtemplates](https://github.com/martyushev/eliminationtemplates)**
-- 2022-03-26, **Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2203.14148v1](http://arxiv.org/abs/2203.14148v1), Code: **[https://github.com/shiyujiao/ibl](https://github.com/shiyujiao/ibl)**
 
 ## Keypoint Detection
 
