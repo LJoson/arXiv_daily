@@ -29,7 +29,6 @@
 - 2022-09-20, **PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**, José Arce et.al., Paper: [http://arxiv.org/abs/2209.09699v1](http://arxiv.org/abs/2209.09699v1), Code: **[https://github.com/robot-learning-freiburg/PADLoC](https://github.com/robot-learning-freiburg/PADLoC)**
 - 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
 - 2022-10-15, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v3](http://arxiv.org/abs/2209.06779v3), Code: **[https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**
-- 2022-12-27, **Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch**, Junyuan Lu et.al., Paper: [http://arxiv.org/abs/2209.06545v2](http://arxiv.org/abs/2209.06545v2), Code: **[https://github.com/ljy-zju/tac2structure](https://github.com/ljy-zju/tac2structure)**
 
 ## Image Matching
 
