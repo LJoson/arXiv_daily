@@ -28,7 +28,6 @@
 - 2022-09-26, **NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**, Ruihao Zhou et.al., Paper: [http://arxiv.org/abs/2209.12513v1](http://arxiv.org/abs/2209.12513v1), Code: **[https://github.com/zhouruihao1001/ndd](https://github.com/zhouruihao1001/ndd)**
 - 2022-09-20, **PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**, José Arce et.al., Paper: [http://arxiv.org/abs/2209.09699v1](http://arxiv.org/abs/2209.09699v1), Code: **[https://github.com/robot-learning-freiburg/PADLoC](https://github.com/robot-learning-freiburg/PADLoC)**
 - 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1), Code: **[https://github.com/tjr16/bathy_nn_learning](https://github.com/tjr16/bathy_nn_learning)**
-- 2022-10-15, **Efficient Planar Pose Estimation via UWB Measurements**, Haodong Jiang et.al., Paper: [http://arxiv.org/abs/2209.06779v3](http://arxiv.org/abs/2209.06779v3), Code: **[https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**
 
 ## Image Matching
 
