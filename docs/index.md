@@ -19,7 +19,6 @@ layout: default
 |**2022-12-01**|**Mixed Neural Voxels for Fast Multi-view Video Synthesis**|Feng Wang et.al.|[2212.00190v1](http://arxiv.org/abs/2212.00190v1)|**[link](https://github.com/fengres/mixvoxels)**|
 |**2023-01-03**|**One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**|Shuangkang Fang et.al.|[2211.15977v3](http://arxiv.org/abs/2211.15977v3)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
 |**2022-11-27**|**Sampling Neural Radiance Fields for Refractive Objects**|Jen-I Pan et.al.|[2211.14799v1](http://arxiv.org/abs/2211.14799v1)|**[link](https://github.com/alexkeroro86/samplenerfro)**|
-|**2022-11-24**|**Immersive Neural Graphics Primitives**|Ke Li et.al.|[2211.13494v1](http://arxiv.org/abs/2211.13494v1)|**[link](https://github.com/uhhhci/immersive-ngp)**|
 
 ## Visual Localization
 
