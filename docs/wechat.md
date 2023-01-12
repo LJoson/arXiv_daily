@@ -5,7 +5,7 @@
 ## NeRF
 
 - 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2), Code: **[https://github.com/tom919654/C3G-NeRF](https://github.com/tom919654/C3G-NeRF)**
-- 2023-01-01, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v1](http://arxiv.org/abs/2301.00411v1), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
+- 2023-01-11, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v2](http://arxiv.org/abs/2301.00411v2), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 - 2022-12-18, **SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**, Abdullah Hamdi et.al., Paper: [http://arxiv.org/abs/2212.09100v1](http://arxiv.org/abs/2212.09100v1), Code: **[https://github.com/ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch)**
 - 2022-12-18, **Masked Wavelet Representation for Compact Neural Radiance Fields**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2212.09069v1](http://arxiv.org/abs/2212.09069v1), Code: **[https://github.com/daniel03c1/masked_wavelet_nerf](https://github.com/daniel03c1/masked_wavelet_nerf)**
 - 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
