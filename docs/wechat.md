@@ -13,7 +13,6 @@
 - 2023-01-10, **SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2212.02501v2](http://arxiv.org/abs/2212.02501v2), Code: **[https://github.com/astra-vision/SceneRF](https://github.com/astra-vision/SceneRF)**
 - 2022-12-01, **Mixed Neural Voxels for Fast Multi-view Video Synthesis**, Feng Wang et.al., Paper: [http://arxiv.org/abs/2212.00190v1](http://arxiv.org/abs/2212.00190v1), Code: **[https://github.com/fengres/mixvoxels](https://github.com/fengres/mixvoxels)**
 - 2023-01-03, **One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2211.15977v3](http://arxiv.org/abs/2211.15977v3), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
-- 2022-11-27, **Sampling Neural Radiance Fields for Refractive Objects**, Jen-I Pan et.al., Paper: [http://arxiv.org/abs/2211.14799v1](http://arxiv.org/abs/2211.14799v1), Code: **[https://github.com/alexkeroro86/samplenerfro](https://github.com/alexkeroro86/samplenerfro)**
 
 ## Visual Localization
 
