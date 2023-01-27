@@ -11,7 +11,6 @@
 - 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
 - 2022-12-09, **4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**, Zhongshu Wang et.al., Paper: [http://arxiv.org/abs/2212.04701v1](http://arxiv.org/abs/2212.04701v1), Code: **[https://github.com/frozoul/4k-nerf](https://github.com/frozoul/4k-nerf)**
 - 2023-01-10, **SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2212.02501v2](http://arxiv.org/abs/2212.02501v2), Code: **[https://github.com/astra-vision/SceneRF](https://github.com/astra-vision/SceneRF)**
-- 2022-12-01, **Mixed Neural Voxels for Fast Multi-view Video Synthesis**, Feng Wang et.al., Paper: [http://arxiv.org/abs/2212.00190v1](http://arxiv.org/abs/2212.00190v1), Code: **[https://github.com/fengres/mixvoxels](https://github.com/fengres/mixvoxels)**
 
 ## Visual Localization
 
