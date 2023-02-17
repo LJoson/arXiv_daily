@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-16**|**3D-aware Conditional Image Synthesis**|Kangle Deng et.al.|[2302.08509v1](http://arxiv.org/abs/2302.08509v1)|**[link](https://github.com/dunbar12138/pix2pix3d)**|
 |**2023-01-27**|**HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**|Adam Kania et.al.|[2301.11631v1](http://arxiv.org/abs/2301.11631v1)|**[link](https://github.com/gmum/hypernerfgan)**|
 |**2023-01-09**|**Class-Continuous Conditional Generative Neural Radiance Field**|Jiwook Kim et.al.|[2301.00950v2](http://arxiv.org/abs/2301.00950v2)|**[link](https://github.com/tom919654/C3G-NeRF)**|
 |**2023-01-11**|**Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**|Boyu Zhang et.al.|[2301.00411v2](http://arxiv.org/abs/2301.00411v2)|**[link](https://github.com/luciferbobo/d4nerf)**|
