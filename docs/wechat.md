@@ -12,7 +12,6 @@
 - 2022-12-18, **Masked Wavelet Representation for Compact Neural Radiance Fields**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2212.09069v1](http://arxiv.org/abs/2212.09069v1), Code: **[https://github.com/daniel03c1/masked_wavelet_nerf](https://github.com/daniel03c1/masked_wavelet_nerf)**
 - 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
 - 2022-12-09, **4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**, Zhongshu Wang et.al., Paper: [http://arxiv.org/abs/2212.04701v1](http://arxiv.org/abs/2212.04701v1), Code: **[https://github.com/frozoul/4k-nerf](https://github.com/frozoul/4k-nerf)**
-- 2023-01-10, **SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2212.02501v2](http://arxiv.org/abs/2212.02501v2), Code: **[https://github.com/astra-vision/SceneRF](https://github.com/astra-vision/SceneRF)**
 
 ## Visual Localization
 
@@ -51,7 +50,6 @@
 - 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 - 2023-01-22, **SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**, Runzhe Zhu et.al., Paper: [http://arxiv.org/abs/2204.10704v2](http://arxiv.org/abs/2204.10704v2), Code: **[https://github.com/Reza-Zhu/SUES-200-Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)**
 - 2022-04-19, **OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**, Ostap Viniavskyi et.al., Paper: [http://arxiv.org/abs/2204.08870v1](http://arxiv.org/abs/2204.08870v1), Code: **[https://github.com/ucuapps/openglue](https://github.com/ucuapps/openglue)**
-- 2022-04-19, **Self-Supervised Equivariant Learning for Oriented Keypoint Detection**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2204.08613v1](http://arxiv.org/abs/2204.08613v1), Code: **[https://github.com/bluedream1121/REKD](https://github.com/bluedream1121/REKD)**
 
 ## Keypoint Detection
 
