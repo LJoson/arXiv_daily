@@ -12,10 +12,10 @@
 - 2023-01-11, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v2](http://arxiv.org/abs/2301.00411v2), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 - 2022-12-18, **SPARF: Large-Scale Learning of 3D Sparse Radiance Fields from Few Input Images**, Abdullah Hamdi et.al., Paper: [http://arxiv.org/abs/2212.09100v1](http://arxiv.org/abs/2212.09100v1), Code: **[https://github.com/ajhamdi/sparf_pytorch](https://github.com/ajhamdi/sparf_pytorch)**
 - 2022-12-18, **Masked Wavelet Representation for Compact Neural Radiance Fields**, Daniel Rho et.al., Paper: [http://arxiv.org/abs/2212.09069v1](http://arxiv.org/abs/2212.09069v1), Code: **[https://github.com/daniel03c1/masked_wavelet_nerf](https://github.com/daniel03c1/masked_wavelet_nerf)**
-- 2022-12-15, **NeRF-Art: Text-Driven Neural Radiance Fields Stylization**, Can Wang et.al., Paper: [http://arxiv.org/abs/2212.08070v1](http://arxiv.org/abs/2212.08070v1), Code: **[https://github.com/cassiePython/NeRF-Art](https://github.com/cassiePython/NeRF-Art)**
 
 ## Visual Localization
 
+- 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
 - 2023-02-13, **Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**, Binqian Jiang et.al., Paper: [http://arxiv.org/abs/2302.06149v1](http://arxiv.org/abs/2302.06149v1), Code: **[https://github.com/lewisjiang/contour-context](https://github.com/lewisjiang/contour-context)**
 - 2022-12-30, **HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**, Dmitry Yudin et.al., Paper: [http://arxiv.org/abs/2212.14649v1](http://arxiv.org/abs/2212.14649v1), Code: **[https://github.com/metra4ok/hpointloc](https://github.com/metra4ok/hpointloc)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
@@ -29,6 +29,7 @@
 
 ## Image Matching
 
+- 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
 - 2023-02-10, **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2302.05094v1](http://arxiv.org/abs/2302.05094v1), Code: **[https://github.com/koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
@@ -49,7 +50,6 @@
 - 2022-05-23, **TransforMatcher: Match-to-Match Attention for Semantic Correspondence**, Seungwook Kim et.al., Paper: [http://arxiv.org/abs/2205.11634v1](http://arxiv.org/abs/2205.11634v1), Code: **[https://github.com/wookiekim/transformatcher](https://github.com/wookiekim/transformatcher)**
 - 2022-05-06, **BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**, Jingwei Song et.al., Paper: [http://arxiv.org/abs/2205.03133v1](http://arxiv.org/abs/2205.03133v1), Code: **[https://github.com/jingweisong/bdis-v2](https://github.com/jingweisong/bdis-v2)**
 - 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
-- 2023-01-22, **SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite**, Runzhe Zhu et.al., Paper: [http://arxiv.org/abs/2204.10704v2](http://arxiv.org/abs/2204.10704v2), Code: **[https://github.com/Reza-Zhu/SUES-200-Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)**
 
 ## Keypoint Detection
 
