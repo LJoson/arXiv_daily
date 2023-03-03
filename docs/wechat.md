@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.03.02
+> Updated on 2023.03.03
 
 ## NeRF
 
@@ -16,6 +16,7 @@
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
 - 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
 - 2023-02-13, **Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**, Binqian Jiang et.al., Paper: [http://arxiv.org/abs/2302.06149v1](http://arxiv.org/abs/2302.06149v1), Code: **[https://github.com/lewisjiang/contour-context](https://github.com/lewisjiang/contour-context)**
+- 2023-01-05, **A Probabilistic Framework for Visual Localization in Ambiguous Scenes**, Fereidoon Zangeneh et.al., Paper: [http://arxiv.org/abs/2301.02086v1](http://arxiv.org/abs/2301.02086v1), Code: **[https://github.com/efreidun/vapor](https://github.com/efreidun/vapor)**
 - 2022-12-30, **HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**, Dmitry Yudin et.al., Paper: [http://arxiv.org/abs/2212.14649v1](http://arxiv.org/abs/2212.14649v1), Code: **[https://github.com/metra4ok/hpointloc](https://github.com/metra4ok/hpointloc)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 - 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
