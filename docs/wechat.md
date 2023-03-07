@@ -22,7 +22,7 @@
 - 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2022-11-21, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Paper: [http://arxiv.org/abs/2211.11177v1](http://arxiv.org/abs/2211.11177v1), Code: **[https://github.com/tangshitao/neumap](https://github.com/tangshitao/neumap)**
-- 2022-11-16, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v1](http://arxiv.org/abs/2211.08712v1), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
+- 2023-03-05, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v2](http://arxiv.org/abs/2211.08712v2), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
 - 2022-10-19, **GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2210.10239v1](http://arxiv.org/abs/2210.10239v1), Code: **[https://github.com/amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities)**
 
 ## Image Matching
