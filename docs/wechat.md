@@ -13,6 +13,8 @@
 
 ## Visual Localization
 
+- 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
+- 2023-03-03, **MixVPR: Feature Mixing for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2303.02190v1](http://arxiv.org/abs/2303.02190v1), Code: **[https://github.com/amaralibey/mixvpr](https://github.com/amaralibey/mixvpr)**
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
 - 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
 - 2023-02-13, **Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**, Binqian Jiang et.al., Paper: [http://arxiv.org/abs/2302.06149v1](http://arxiv.org/abs/2302.06149v1), Code: **[https://github.com/lewisjiang/contour-context](https://github.com/lewisjiang/contour-context)**
