@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.03.09
+> Updated on 2023.03.10
 
 ## NeRF
 
+- 2023-03-07, **Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03003v2](http://arxiv.org/abs/2303.03003v2), Code: **[https://github.com/zyqz97/gp-nerf](https://github.com/zyqz97/gp-nerf)**
 - 2023-02-21, **Differentiable Rendering with Reparameterized Volume Sampling**, Nikita Morozov et.al., Paper: [http://arxiv.org/abs/2302.10970v1](http://arxiv.org/abs/2302.10970v1), Code: **[https://github.com/greatdrake/reparameterized-volume-sampling](https://github.com/greatdrake/reparameterized-volume-sampling)**
 - 2023-02-16, **3D-aware Conditional Image Synthesis**, Kangle Deng et.al., Paper: [http://arxiv.org/abs/2302.08509v1](http://arxiv.org/abs/2302.08509v1), Code: **[https://github.com/dunbar12138/pix2pix3d](https://github.com/dunbar12138/pix2pix3d)**
 - 2023-01-27, **HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**, Adam Kania et.al., Paper: [http://arxiv.org/abs/2301.11631v1](http://arxiv.org/abs/2301.11631v1), Code: **[https://github.com/gmum/hypernerfgan](https://github.com/gmum/hypernerfgan)**
