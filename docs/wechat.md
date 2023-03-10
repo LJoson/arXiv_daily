@@ -10,7 +10,6 @@
 - 2023-01-27, **HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**, Adam Kania et.al., Paper: [http://arxiv.org/abs/2301.11631v1](http://arxiv.org/abs/2301.11631v1), Code: **[https://github.com/gmum/hypernerfgan](https://github.com/gmum/hypernerfgan)**
 - 2023-02-28, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2301.07668v2](http://arxiv.org/abs/2301.07668v2), Code: **[https://github.com/Brummi/BehindTheScenes](https://github.com/Brummi/BehindTheScenes)**
 - 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2), Code: **[https://github.com/tom919654/C3G-NeRF](https://github.com/tom919654/C3G-NeRF)**
-- 2023-01-11, **Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields**, Boyu Zhang et.al., Paper: [http://arxiv.org/abs/2301.00411v2](http://arxiv.org/abs/2301.00411v2), Code: **[https://github.com/luciferbobo/d4nerf](https://github.com/luciferbobo/d4nerf)**
 
 ## Visual Localization
 
@@ -26,7 +25,6 @@
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2022-11-21, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Paper: [http://arxiv.org/abs/2211.11177v1](http://arxiv.org/abs/2211.11177v1), Code: **[https://github.com/tangshitao/neumap](https://github.com/tangshitao/neumap)**
 - 2023-03-05, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v2](http://arxiv.org/abs/2211.08712v2), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
-- 2022-10-19, **GSV-Cities: Toward Appropriate Supervised Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2210.10239v1](http://arxiv.org/abs/2210.10239v1), Code: **[https://github.com/amaralibey/gsv-cities](https://github.com/amaralibey/gsv-cities)**
 
 ## Image Matching
 
