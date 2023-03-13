@@ -4,12 +4,12 @@
 
 ## NeRF
 
+- 2023-03-08, **FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**, Seunghwan Lee et.al., Paper: [http://arxiv.org/abs/2303.04508v1](http://arxiv.org/abs/2303.04508v1), Code: **[https://github.com/ROKIT-Healthcare/FastSurf](https://github.com/ROKIT-Healthcare/FastSurf)**
 - 2023-03-07, **Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03003v2](http://arxiv.org/abs/2303.03003v2), Code: **[https://github.com/zyqz97/gp-nerf](https://github.com/zyqz97/gp-nerf)**
 - 2023-02-21, **Differentiable Rendering with Reparameterized Volume Sampling**, Nikita Morozov et.al., Paper: [http://arxiv.org/abs/2302.10970v1](http://arxiv.org/abs/2302.10970v1), Code: **[https://github.com/greatdrake/reparameterized-volume-sampling](https://github.com/greatdrake/reparameterized-volume-sampling)**
 - 2023-02-16, **3D-aware Conditional Image Synthesis**, Kangle Deng et.al., Paper: [http://arxiv.org/abs/2302.08509v1](http://arxiv.org/abs/2302.08509v1), Code: **[https://github.com/dunbar12138/pix2pix3d](https://github.com/dunbar12138/pix2pix3d)**
 - 2023-01-27, **HyperNeRFGAN: Hypernetwork approach to 3D NeRF GAN**, Adam Kania et.al., Paper: [http://arxiv.org/abs/2301.11631v1](http://arxiv.org/abs/2301.11631v1), Code: **[https://github.com/gmum/hypernerfgan](https://github.com/gmum/hypernerfgan)**
 - 2023-02-28, **Behind the Scenes: Density Fields for Single View Reconstruction**, Felix Wimbauer et.al., Paper: [http://arxiv.org/abs/2301.07668v2](http://arxiv.org/abs/2301.07668v2), Code: **[https://github.com/Brummi/BehindTheScenes](https://github.com/Brummi/BehindTheScenes)**
-- 2023-01-09, **Class-Continuous Conditional Generative Neural Radiance Field**, Jiwook Kim et.al., Paper: [http://arxiv.org/abs/2301.00950v2](http://arxiv.org/abs/2301.00950v2), Code: **[https://github.com/tom919654/C3G-NeRF](https://github.com/tom919654/C3G-NeRF)**
 
 ## Visual Localization
 
