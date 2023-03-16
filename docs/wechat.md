@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-03-15, **Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**, Liangchen Song et.al., Paper: [http://arxiv.org/abs/2303.08370v1](http://arxiv.org/abs/2303.08370v1), Code: **[https://github.com/lsongx/halo](https://github.com/lsongx/halo)**
 - 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
 - 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
 - 2023-03-10, **NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**, Wojciech Zając et.al., Paper: [http://arxiv.org/abs/2303.06226v1](http://arxiv.org/abs/2303.06226v1), Code: **[https://github.com/wojtekz4/nerflame](https://github.com/wojtekz4/nerflame)**
@@ -30,6 +31,7 @@
 
 ## Image Matching
 
+- 2023-03-15, **Rethinking Optical Flow from Geometric Matching Consistent Perspective**, Qiaole Dong et.al., Paper: [http://arxiv.org/abs/2303.08384v1](http://arxiv.org/abs/2303.08384v1), Code: **[https://github.com/dqiaole/matchflow](https://github.com/dqiaole/matchflow)**
 - 2023-03-01, **RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**, Jiayuan Li et.al., Paper: [http://arxiv.org/abs/2303.00319v1](http://arxiv.org/abs/2303.00319v1), Code: **[https://github.com/ljy-rs/rift2-multimodal-matching-rotation](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**
 - 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
 - 2023-02-10, **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2302.05094v1](http://arxiv.org/abs/2302.05094v1), Code: **[https://github.com/koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)**
@@ -51,7 +53,6 @@
 - 2022-06-15, **Self-Supervised Learning of Image Scale and Orientation**, Jongmin Lee et.al., Paper: [http://arxiv.org/abs/2206.07259v1](http://arxiv.org/abs/2206.07259v1), Code: **[https://github.com/bluedream1121/self-sca-ori](https://github.com/bluedream1121/self-sca-ori)**
 - 2022-05-23, **TransforMatcher: Match-to-Match Attention for Semantic Correspondence**, Seungwook Kim et.al., Paper: [http://arxiv.org/abs/2205.11634v1](http://arxiv.org/abs/2205.11634v1), Code: **[https://github.com/wookiekim/transformatcher](https://github.com/wookiekim/transformatcher)**
 - 2022-05-06, **BDIS: Bayesian Dense Inverse Searching Method for Real-Time Stereo Surgical Image Matching**, Jingwei Song et.al., Paper: [http://arxiv.org/abs/2205.03133v1](http://arxiv.org/abs/2205.03133v1), Code: **[https://github.com/jingweisong/bdis-v2](https://github.com/jingweisong/bdis-v2)**
-- 2022-05-10, **AdaTriplet: Adaptive Gradient Triplet Loss with Automatic Margin Learning for Forensic Medical Image Matching**, Khanh Nguyen et.al., Paper: [http://arxiv.org/abs/2205.02849v2](http://arxiv.org/abs/2205.02849v2), Code: **[https://github.com/oulu-imeds/adatriplet](https://github.com/oulu-imeds/adatriplet)**
 
 ## Keypoint Detection
 
