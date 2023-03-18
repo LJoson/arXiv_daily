@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-03-16, **NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**, Hannah Schieber et.al., Paper: [http://arxiv.org/abs/2303.09412v1](http://arxiv.org/abs/2303.09412v1), Code: **[https://github.com/hannahhaensen/nerftrinsic_four](https://github.com/hannahhaensen/nerftrinsic_four)**
 - 2023-03-15, **Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**, Liangchen Song et.al., Paper: [http://arxiv.org/abs/2303.08370v1](http://arxiv.org/abs/2303.08370v1), Code: **[https://github.com/lsongx/halo](https://github.com/lsongx/halo)**
 - 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
 - 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
