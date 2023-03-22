@@ -16,6 +16,8 @@
 
 ## Visual Localization
 
+- 2023-03-21, **Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**, Maria Leyva-Vallina et.al., Paper: [http://arxiv.org/abs/2303.11739v1](http://arxiv.org/abs/2303.11739v1), Code: **[https://github.com/marialeyvallina/generalized_contrastive_loss](https://github.com/marialeyvallina/generalized_contrastive_loss)**
+- 2023-03-19, **Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2303.10778v1](http://arxiv.org/abs/2303.10778v1), Code: **[https://github.com/mingu6/declarativedtw](https://github.com/mingu6/declarativedtw)**
 - 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
 - 2023-03-03, **MixVPR: Feature Mixing for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2303.02190v1](http://arxiv.org/abs/2303.02190v1), Code: **[https://github.com/amaralibey/mixvpr](https://github.com/amaralibey/mixvpr)**
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
@@ -28,7 +30,6 @@
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2022-11-21, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Paper: [http://arxiv.org/abs/2211.11177v1](http://arxiv.org/abs/2211.11177v1), Code: **[https://github.com/tangshitao/neumap](https://github.com/tangshitao/neumap)**
 - 2023-03-05, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v2](http://arxiv.org/abs/2211.08712v2), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
-- 2023-03-17, **Optimizing Fiducial Marker Placement for Improved Visual Localization**, Qiangqiang Huang et.al., Paper: [http://arxiv.org/abs/2211.01513v2](http://arxiv.org/abs/2211.01513v2), Code: **[https://github.com/doublestrong/omp](https://github.com/doublestrong/omp)**
 
 ## Image Matching
 
