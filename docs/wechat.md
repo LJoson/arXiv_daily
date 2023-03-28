@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2023-03-27, **3D-Aware Multi-Class Image-to-Image Translation with NeRFs**, Senmao Li et.al., Paper: [http://arxiv.org/abs/2303.15012v1](http://arxiv.org/abs/2303.15012v1), Code: **[https://github.com/sen-mao/3di2i-translation](https://github.com/sen-mao/3di2i-translation)**
+- 2023-03-25, **NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2303.14435v1](http://arxiv.org/abs/2303.14435v1), Code: **[https://github.com/jokeryan/nerf-ds](https://github.com/jokeryan/nerf-ds)**
 - 2023-03-24, **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2303.14184v1](http://arxiv.org/abs/2303.14184v1), Code: **[https://github.com/junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D)**
 - 2023-03-24, **ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field**, Zhe Jun Tang et.al., Paper: [http://arxiv.org/abs/2303.13817v1](http://arxiv.org/abs/2303.13817v1), Code: **[https://github.com/tangzj/able-nerf](https://github.com/tangzj/able-nerf)**
 - 2023-03-24, **Balanced Spherical Grid for Egocentric View Synthesis**, Changwoon Choi et.al., Paper: [http://arxiv.org/abs/2303.12408v2](http://arxiv.org/abs/2303.12408v2), Code: **[https://github.com/changwoonchoi/EgoNeRF](https://github.com/changwoonchoi/EgoNeRF)**
@@ -14,8 +16,6 @@
 - 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
 - 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
 - 2023-03-10, **NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**, Wojciech Zając et.al., Paper: [http://arxiv.org/abs/2303.06226v1](http://arxiv.org/abs/2303.06226v1), Code: **[https://github.com/wojtekz4/nerflame](https://github.com/wojtekz4/nerflame)**
-- 2023-03-08, **FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**, Seunghwan Lee et.al., Paper: [http://arxiv.org/abs/2303.04508v1](http://arxiv.org/abs/2303.04508v1), Code: **[https://github.com/ROKIT-Healthcare/FastSurf](https://github.com/ROKIT-Healthcare/FastSurf)**
-- 2023-03-07, **Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2303.03003v2](http://arxiv.org/abs/2303.03003v2), Code: **[https://github.com/zyqz97/gp-nerf](https://github.com/zyqz97/gp-nerf)**
 
 ## Visual Localization
 
@@ -38,6 +38,7 @@
 
 ## Image Matching
 
+- 2023-03-27, **Learnable Graph Matching: A Practical Paradigm for Data Association**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2303.15414v1](http://arxiv.org/abs/2303.15414v1), Code: **[https://github.com/jiaweihe1996/GMTracker](https://github.com/jiaweihe1996/GMTracker)**
 - 2023-03-15, **Rethinking Optical Flow from Geometric Matching Consistent Perspective**, Qiaole Dong et.al., Paper: [http://arxiv.org/abs/2303.08384v1](http://arxiv.org/abs/2303.08384v1), Code: **[https://github.com/dqiaole/matchflow](https://github.com/dqiaole/matchflow)**
 - 2023-03-01, **RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**, Jiayuan Li et.al., Paper: [http://arxiv.org/abs/2303.00319v1](http://arxiv.org/abs/2303.00319v1), Code: **[https://github.com/ljy-rs/rift2-multimodal-matching-rotation](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**
 - 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
