@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.03.28
+> Updated on 2023.03.29
 
 ## NeRF
 
@@ -33,6 +33,7 @@
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 - 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
+- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 - 2023-03-26, **NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**, Shitao Tang et.al., Paper: [http://arxiv.org/abs/2211.11177v2](http://arxiv.org/abs/2211.11177v2), Code: **[https://github.com/tangshitao/neumap](https://github.com/tangshitao/neumap)**
 - 2023-03-05, **Improving Feature-based Visual Localization by Geometry-Aided Matching**, Hailin Yu et.al., Paper: [http://arxiv.org/abs/2211.08712v2](http://arxiv.org/abs/2211.08712v2), Code: **[https://github.com/openxrlab/xrlocalization](https://github.com/openxrlab/xrlocalization)**
 
@@ -47,6 +48,7 @@
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
+- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 - 2022-11-19, **Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**, Fan Li et.al., Paper: [http://arxiv.org/abs/2211.08657v2](http://arxiv.org/abs/2211.08657v2), Code: **[https://github.com/lhf12278/saa](https://github.com/lhf12278/saa)**
 - 2022-10-07, **Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**, Lang Zhou et.al., Paper: [http://arxiv.org/abs/2210.03398v1](http://arxiv.org/abs/2210.03398v1), Code: **[https://github.com/Mars-Rover-Localization/A2G-Localization](https://github.com/Mars-Rover-Localization/A2G-Localization)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
@@ -69,6 +71,7 @@
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1), Code: **[https://github.com/verlab/learningtodetect_sibgrapi_2022](https://github.com/verlab/learningtodetect_sibgrapi_2022)**
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
+- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2023-02-28, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v3](http://arxiv.org/abs/2209.13657v3), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
