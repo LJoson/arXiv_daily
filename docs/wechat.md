@@ -14,8 +14,7 @@
 - 2023-03-19, **NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**, Junyuan Deng et.al., Paper: [http://arxiv.org/abs/2303.10709v1](http://arxiv.org/abs/2303.10709v1), Code: **[https://github.com/junyuandeng/nerf-loam](https://github.com/junyuandeng/nerf-loam)**
 - 2023-03-17, **NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**, Hannah Schieber et.al., Paper: [http://arxiv.org/abs/2303.09412v2](http://arxiv.org/abs/2303.09412v2), Code: **[https://github.com/hannahhaensen/nerftrinsic_four](https://github.com/hannahhaensen/nerftrinsic_four)**
 - 2023-03-15, **Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**, Liangchen Song et.al., Paper: [http://arxiv.org/abs/2303.08370v1](http://arxiv.org/abs/2303.08370v1), Code: **[https://github.com/lsongx/halo](https://github.com/lsongx/halo)**
-- 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
-- 2023-03-29, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v2](http://arxiv.org/abs/2303.06335v2), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
+- 2023-03-16, **Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**, Junyoung Seo et.al., Paper: [http://arxiv.org/abs/2303.07937v3](http://arxiv.org/abs/2303.07937v3), Code: **[https://github.com/KU-CVLAB/3DFuse](https://github.com/KU-CVLAB/3DFuse)**
 
 ## Visual Localization
 
@@ -76,5 +75,4 @@
 - 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 - 2023-02-28, **Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**, Neelay Joglekar et.al., Paper: [http://arxiv.org/abs/2209.13657v3](http://arxiv.org/abs/2209.13657v3), Code: **[https://github.com/ucsdarclab/thread-reconstruction](https://github.com/ucsdarclab/thread-reconstruction)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
-- 2022-09-15, **Online Marker-free Extrinsic Camera Calibration using Person Keypoint Detections**, Bastian Pätzold et.al., Paper: [http://arxiv.org/abs/2209.07393v1](http://arxiv.org/abs/2209.07393v1), Code: **[https://github.com/ais-bonn/extrcamcalib_personkeypoints](https://github.com/ais-bonn/extrcamcalib_personkeypoints)**
 
