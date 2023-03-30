@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.03.29
+> Updated on 2023.03.30
 
 ## NeRF
 
@@ -8,13 +8,14 @@
 - 2023-03-25, **NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2303.14435v1](http://arxiv.org/abs/2303.14435v1), Code: **[https://github.com/jokeryan/nerf-ds](https://github.com/jokeryan/nerf-ds)**
 - 2023-03-24, **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2303.14184v1](http://arxiv.org/abs/2303.14184v1), Code: **[https://github.com/junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D)**
 - 2023-03-24, **ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field**, Zhe Jun Tang et.al., Paper: [http://arxiv.org/abs/2303.13817v1](http://arxiv.org/abs/2303.13817v1), Code: **[https://github.com/tangzj/able-nerf](https://github.com/tangzj/able-nerf)**
+- 2023-03-22, **NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**, Mohamad Shahbazi et.al., Paper: [http://arxiv.org/abs/2303.12865v1](http://arxiv.org/abs/2303.12865v1), Code: **[https://github.com/mshahbazi72/nerf-gan-distillation](https://github.com/mshahbazi72/nerf-gan-distillation)**
 - 2023-03-24, **Balanced Spherical Grid for Egocentric View Synthesis**, Changwoon Choi et.al., Paper: [http://arxiv.org/abs/2303.12408v2](http://arxiv.org/abs/2303.12408v2), Code: **[https://github.com/changwoonchoi/EgoNeRF](https://github.com/changwoonchoi/EgoNeRF)**
 - 2023-03-21, **Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**, Ahmad AlMughrabi et.al., Paper: [http://arxiv.org/abs/2303.12234v1](http://arxiv.org/abs/2303.12234v1), Code: **[https://github.com/amughrabi/pre-nerf](https://github.com/amughrabi/pre-nerf)**
 - 2023-03-19, **NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**, Junyuan Deng et.al., Paper: [http://arxiv.org/abs/2303.10709v1](http://arxiv.org/abs/2303.10709v1), Code: **[https://github.com/junyuandeng/nerf-loam](https://github.com/junyuandeng/nerf-loam)**
 - 2023-03-17, **NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**, Hannah Schieber et.al., Paper: [http://arxiv.org/abs/2303.09412v2](http://arxiv.org/abs/2303.09412v2), Code: **[https://github.com/hannahhaensen/nerftrinsic_four](https://github.com/hannahhaensen/nerftrinsic_four)**
 - 2023-03-15, **Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**, Liangchen Song et.al., Paper: [http://arxiv.org/abs/2303.08370v1](http://arxiv.org/abs/2303.08370v1), Code: **[https://github.com/lsongx/halo](https://github.com/lsongx/halo)**
 - 2023-03-13, **FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**, Jiawei Yang et.al., Paper: [http://arxiv.org/abs/2303.07418v1](http://arxiv.org/abs/2303.07418v1), Code: **[https://github.com/jiawei-yang/freenerf](https://github.com/jiawei-yang/freenerf)**
-- 2023-03-11, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v1](http://arxiv.org/abs/2303.06335v1), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
+- 2023-03-29, **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**, Minjae Lee et.al., Paper: [http://arxiv.org/abs/2303.06335v2](http://arxiv.org/abs/2303.06335v2), Code: **[https://github.com/minjae-lulu/just-flip](https://github.com/minjae-lulu/just-flip)**
 
 ## Visual Localization
 
