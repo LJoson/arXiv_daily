@@ -13,6 +13,7 @@
 - 2023-03-21, **Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**, Ahmad AlMughrabi et.al., Paper: [http://arxiv.org/abs/2303.12234v1](http://arxiv.org/abs/2303.12234v1), Code: **[https://github.com/amughrabi/pre-nerf](https://github.com/amughrabi/pre-nerf)**
 - 2023-03-19, **NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**, Junyuan Deng et.al., Paper: [http://arxiv.org/abs/2303.10709v1](http://arxiv.org/abs/2303.10709v1), Code: **[https://github.com/junyuandeng/nerf-loam](https://github.com/junyuandeng/nerf-loam)**
 - 2023-03-17, **NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**, Hannah Schieber et.al., Paper: [http://arxiv.org/abs/2303.09412v2](http://arxiv.org/abs/2303.09412v2), Code: **[https://github.com/hannahhaensen/nerftrinsic_four](https://github.com/hannahhaensen/nerftrinsic_four)**
+- 2023-03-15, **Re-ReND: Real-time Rendering of NeRFs across Devices**, Sara Rojas et.al., Paper: [http://arxiv.org/abs/2303.08717v1](http://arxiv.org/abs/2303.08717v1), Code: **[https://github.com/sararoma95/Re-ReND](https://github.com/sararoma95/Re-ReND)**
 - 2023-03-15, **Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**, Liangchen Song et.al., Paper: [http://arxiv.org/abs/2303.08370v1](http://arxiv.org/abs/2303.08370v1), Code: **[https://github.com/lsongx/halo](https://github.com/lsongx/halo)**
 
 ## Visual Localization
