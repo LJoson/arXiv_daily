@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 |**2023-03-29**|**Instant Neural Radiance Fields Stylization**|Shaoxu Li et.al.|[2303.16884v1](http://arxiv.org/abs/2303.16884v1)|**[link](https://github.com/lsx0101/Instant-NeRF-Stylization)**|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
 |**2023-03-25**|**NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**|Zhiwen Yan et.al.|[2303.14435v1](http://arxiv.org/abs/2303.14435v1)|**[link](https://github.com/jokeryan/nerf-ds)**|
