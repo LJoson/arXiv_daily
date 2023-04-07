@@ -43,7 +43,6 @@ layout: default
 |**2022-12-08**|**Privacy-Preserving Visual Localization with Event Cameras**|Junho Kim et.al.|[2212.03177v2](http://arxiv.org/abs/2212.03177v2)|**[link](https://github.com/82magnolia/event_localization)**|
 |**2022-12-04**|**Fast and Lightweight Scene Regressor for Camera Relocalization**|Thuan B. Bui et.al.|[2212.01830v1](http://arxiv.org/abs/2212.01830v1)|**[link](https://github.com/ais-lab/feat2map)**|
 |**2023-03-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v3](http://arxiv.org/abs/2211.15069v3)|**[link](https://github.com/sjtu-visys/featurebooster)**|
-|**2023-03-26**|**NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization**|Shitao Tang et.al.|[2211.11177v2](http://arxiv.org/abs/2211.11177v2)|**[link](https://github.com/tangshitao/neumap)**|
 
 ## Image Matching
 
