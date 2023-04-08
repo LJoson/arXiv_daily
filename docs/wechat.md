@@ -19,6 +19,7 @@
 
 ## Visual Localization
 
+- 2023-04-06, **Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**, Viktor Walter et.al., Paper: [http://arxiv.org/abs/2304.03057v1](http://arxiv.org/abs/2304.03057v1), Code: **[https://github.com/ctu-mrs/difec-ron](https://github.com/ctu-mrs/difec-ron)**
 - 2023-03-30, **3D Line Mapping Revisited**, Shaohui Liu et.al., Paper: [http://arxiv.org/abs/2303.17504v1](http://arxiv.org/abs/2303.17504v1), Code: **[https://github.com/cvg/limap](https://github.com/cvg/limap)**
 - 2023-03-24, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v1](http://arxiv.org/abs/2303.14095v1), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
 - 2023-03-25, **Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**, Maria Leyva-Vallina et.al., Paper: [http://arxiv.org/abs/2303.11739v2](http://arxiv.org/abs/2303.11739v2), Code: **[https://github.com/marialeyvallina/generalized_contrastive_loss](https://github.com/marialeyvallina/generalized_contrastive_loss)**
