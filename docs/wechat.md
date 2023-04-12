@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
 - 2023-04-11, **NeRF applied to satellite imagery for surface reconstruction**, Federico Semeraro et.al., Paper: [http://arxiv.org/abs/2304.04133v2](http://arxiv.org/abs/2304.04133v2), Code: **[https://github.com/fsemerar/satnerf](https://github.com/fsemerar/satnerf)**
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
 - 2023-03-29, **Instant Neural Radiance Fields Stylization**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.16884v1](http://arxiv.org/abs/2303.16884v1), Code: **[https://github.com/lsx0101/Instant-NeRF-Stylization](https://github.com/lsx0101/Instant-NeRF-Stylization)**
