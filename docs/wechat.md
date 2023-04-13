@@ -16,10 +16,10 @@
 - 2023-03-22, **NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**, Mohamad Shahbazi et.al., Paper: [http://arxiv.org/abs/2303.12865v1](http://arxiv.org/abs/2303.12865v1), Code: **[https://github.com/mshahbazi72/nerf-gan-distillation](https://github.com/mshahbazi72/nerf-gan-distillation)**
 - 2023-03-24, **Balanced Spherical Grid for Egocentric View Synthesis**, Changwoon Choi et.al., Paper: [http://arxiv.org/abs/2303.12408v2](http://arxiv.org/abs/2303.12408v2), Code: **[https://github.com/changwoonchoi/EgoNeRF](https://github.com/changwoonchoi/EgoNeRF)**
 - 2023-03-21, **Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**, Ahmad AlMughrabi et.al., Paper: [http://arxiv.org/abs/2303.12234v1](http://arxiv.org/abs/2303.12234v1), Code: **[https://github.com/amughrabi/pre-nerf](https://github.com/amughrabi/pre-nerf)**
-- 2023-04-03, **Interactive Geometry Editing of Neural Radiance Fields**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.11537v2](http://arxiv.org/abs/2303.11537v2), Code: **[https://github.com/lsx0101/Interactive-NeRF-Editing](https://github.com/lsx0101/Interactive-NeRF-Editing)**
 
 ## Visual Localization
 
+- 2023-04-12, **Are Local Features All You Need for Cross-Domain Visual Place Recognition?**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2304.05887v1](http://arxiv.org/abs/2304.05887v1), Code: **[https://github.com/gbarbarani/re-ranking-for-vpr](https://github.com/gbarbarani/re-ranking-for-vpr)**
 - 2023-04-06, **Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**, Viktor Walter et.al., Paper: [http://arxiv.org/abs/2304.03057v1](http://arxiv.org/abs/2304.03057v1), Code: **[https://github.com/ctu-mrs/difec-ron](https://github.com/ctu-mrs/difec-ron)**
 - 2023-03-30, **3D Line Mapping Revisited**, Shaohui Liu et.al., Paper: [http://arxiv.org/abs/2303.17504v1](http://arxiv.org/abs/2303.17504v1), Code: **[https://github.com/cvg/limap](https://github.com/cvg/limap)**
 - 2023-03-24, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v1](http://arxiv.org/abs/2303.14095v1), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
