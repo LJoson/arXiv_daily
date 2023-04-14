@@ -17,12 +17,12 @@
 |**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450v1](http://arxiv.org/abs/2303.13450v1)|**[link](https://github.com/DanaCohen95/Set-the-Scene)**|
 |**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865v1](http://arxiv.org/abs/2303.12865v1)|**[link](https://github.com/mshahbazi72/nerf-gan-distillation)**|
 |**2023-03-24**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
-|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|**[link](https://github.com/amughrabi/pre-nerf)**|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v1](http://arxiv.org/abs/2304.06373v1)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
 |**2023-04-12**|**Are Local Features All You Need for Cross-Domain Visual Place Recognition?**|Giovanni Barbarani et.al.|[2304.05887v1](http://arxiv.org/abs/2304.05887v1)|**[link](https://github.com/gbarbarani/re-ranking-for-vpr)**|
 |**2023-04-06**|**Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**|Viktor Walter et.al.|[2304.03057v1](http://arxiv.org/abs/2304.03057v1)|**[link](https://github.com/ctu-mrs/difec-ron)**|
 |**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504v1](http://arxiv.org/abs/2303.17504v1)|**[link](https://github.com/cvg/limap)**|
@@ -68,7 +68,6 @@
 |**2022-08-04**|**Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**|Xinyu Lin et.al.|[2208.02450v1](http://arxiv.org/abs/2208.02450v1)|**[link](https://github.com/vcm-project233/mitml)**|
 |**2022-07-20**|**Explaining Deepfake Detection by Analysing Image Matching**|Shichao Dong et.al.|[2207.09679v1](http://arxiv.org/abs/2207.09679v1)|**[link](https://github.com/megvii-research/fst-matching)**|
 |**2022-07-16**|**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**|Jiazhen Liu et.al.|[2207.07932v1](http://arxiv.org/abs/2207.07932v1)|**[link](https://github.com/ruc-aimc-lab/superretina)**|
-|**2022-11-29**|**TopicFM: Robust and Interpretable Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2207.00328v3](http://arxiv.org/abs/2207.00328v3)|**[link](https://github.com/truongkhang/topicfm)**|
 
 ## Keypoint Detection
 
