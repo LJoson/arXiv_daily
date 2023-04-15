@@ -8,6 +8,7 @@
 - 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
 - 2023-04-12, **NeRF applied to satellite imagery for surface reconstruction**, Federico Semeraro et.al., Paper: [http://arxiv.org/abs/2304.04133v3](http://arxiv.org/abs/2304.04133v3), Code: **[https://github.com/fsemerar/satnerf](https://github.com/fsemerar/satnerf)**
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
+- 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1), Code: **[https://github.com/boifz/vdn-nerf](https://github.com/boifz/vdn-nerf)**
 - 2023-03-29, **Instant Neural Radiance Fields Stylization**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.16884v1](http://arxiv.org/abs/2303.16884v1), Code: **[https://github.com/lsx0101/Instant-NeRF-Stylization](https://github.com/lsx0101/Instant-NeRF-Stylization)**
 - 2023-03-27, **3D-Aware Multi-Class Image-to-Image Translation with NeRFs**, Senmao Li et.al., Paper: [http://arxiv.org/abs/2303.15012v1](http://arxiv.org/abs/2303.15012v1), Code: **[https://github.com/sen-mao/3di2i-translation](https://github.com/sen-mao/3di2i-translation)**
 - 2023-03-25, **NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2303.14435v1](http://arxiv.org/abs/2303.14435v1), Code: **[https://github.com/jokeryan/nerf-ds](https://github.com/jokeryan/nerf-ds)**
@@ -41,6 +42,7 @@
 
 ## Image Matching
 
+- 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 - 2023-04-04, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v1](http://arxiv.org/abs/2304.02008v1), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
 - 2023-03-27, **Learnable Graph Matching: A Practical Paradigm for Data Association**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2303.15414v1](http://arxiv.org/abs/2303.15414v1), Code: **[https://github.com/jiaweihe1996/GMTracker](https://github.com/jiaweihe1996/GMTracker)**
 - 2023-03-15, **Rethinking Optical Flow from Geometric Matching Consistent Perspective**, Qiaole Dong et.al., Paper: [http://arxiv.org/abs/2303.08384v1](http://arxiv.org/abs/2303.08384v1), Code: **[https://github.com/dqiaole/matchflow](https://github.com/dqiaole/matchflow)**
@@ -66,6 +68,7 @@
 
 ## Keypoint Detection
 
+- 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 - 2023-03-24, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v1](http://arxiv.org/abs/2303.14095v1), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
 - 2023-02-03, **Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2302.01593v1](http://arxiv.org/abs/2302.01593v1), Code: **[https://github.com/idea-research/ed-pose](https://github.com/idea-research/ed-pose)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
