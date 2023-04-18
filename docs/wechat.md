@@ -21,7 +21,7 @@
 
 ## Visual Localization
 
-- 2023-04-14, **You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**, Matteo Toso et.al., Paper: [http://arxiv.org/abs/2304.06373v2](http://arxiv.org/abs/2304.06373v2), Code: **[https://github.com/IIT-PAVIS/Flatlandia](https://github.com/IIT-PAVIS/Flatlandia)**
+- 2023-04-17, **You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**, Matteo Toso et.al., Paper: [http://arxiv.org/abs/2304.06373v3](http://arxiv.org/abs/2304.06373v3), Code: **[https://github.com/IIT-PAVIS/Flatlandia](https://github.com/IIT-PAVIS/Flatlandia)**
 - 2023-04-12, **Visual Localization using Imperfect 3D Models from the Internet**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2304.05947v1](http://arxiv.org/abs/2304.05947v1), Code: **[https://github.com/v-pnk/cadloc](https://github.com/v-pnk/cadloc)**
 - 2023-04-12, **Are Local Features All You Need for Cross-Domain Visual Place Recognition?**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2304.05887v1](http://arxiv.org/abs/2304.05887v1), Code: **[https://github.com/gbarbarani/re-ranking-for-vpr](https://github.com/gbarbarani/re-ranking-for-vpr)**
 - 2023-04-14, **Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**, Xingwu Ji et.al., Paper: [http://arxiv.org/abs/2304.05146v2](http://arxiv.org/abs/2304.05146v2), Code: **[https://github.com/jixingwu/ss-lcd](https://github.com/jixingwu/ss-lcd)**
