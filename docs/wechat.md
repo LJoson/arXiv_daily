@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-04-17, **MoDA: Modeling Deformable 3D Objects from Casual Videos**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2304.08279v1](http://arxiv.org/abs/2304.08279v1), Code: **[https://github.com/chaoyuesong/moda](https://github.com/chaoyuesong/moda)**
 - 2023-04-12, **RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2304.05735v1](http://arxiv.org/abs/2304.05735v1), Code: **[https://github.com/xiaohan-git/ro-map](https://github.com/xiaohan-git/ro-map)**
 - 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
 - 2023-04-12, **NeRF applied to satellite imagery for surface reconstruction**, Federico Semeraro et.al., Paper: [http://arxiv.org/abs/2304.04133v3](http://arxiv.org/abs/2304.04133v3), Code: **[https://github.com/fsemerar/satnerf](https://github.com/fsemerar/satnerf)**
@@ -16,8 +17,6 @@
 - 2023-04-03, **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2303.14184v2](http://arxiv.org/abs/2303.14184v2), Code: **[https://github.com/junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D)**
 - 2023-03-24, **ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field**, Zhe Jun Tang et.al., Paper: [http://arxiv.org/abs/2303.13817v1](http://arxiv.org/abs/2303.13817v1), Code: **[https://github.com/tangzj/able-nerf](https://github.com/tangzj/able-nerf)**
 - 2023-03-23, **Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**, Dana Cohen-Bar et.al., Paper: [http://arxiv.org/abs/2303.13450v1](http://arxiv.org/abs/2303.13450v1), Code: **[https://github.com/DanaCohen95/Set-the-Scene](https://github.com/DanaCohen95/Set-the-Scene)**
-- 2023-03-22, **NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**, Mohamad Shahbazi et.al., Paper: [http://arxiv.org/abs/2303.12865v1](http://arxiv.org/abs/2303.12865v1), Code: **[https://github.com/mshahbazi72/nerf-gan-distillation](https://github.com/mshahbazi72/nerf-gan-distillation)**
-- 2023-03-24, **Balanced Spherical Grid for Egocentric View Synthesis**, Changwoon Choi et.al., Paper: [http://arxiv.org/abs/2303.12408v2](http://arxiv.org/abs/2303.12408v2), Code: **[https://github.com/changwoonchoi/EgoNeRF](https://github.com/changwoonchoi/EgoNeRF)**
 
 ## Visual Localization
 
@@ -41,10 +40,10 @@
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 - 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
-- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 
 ## Image Matching
 
+- 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
 - 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 - 2023-04-16, **ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2304.03608v2](http://arxiv.org/abs/2304.03608v2), Code: **[https://github.com/Shiaoming/ALIKED](https://github.com/Shiaoming/ALIKED)**
 - 2023-04-04, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v1](http://arxiv.org/abs/2304.02008v1), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
@@ -68,7 +67,6 @@
 - 2022-12-14, **Hierarchical Attention Network for Few-Shot Object Detection via Meta-Contrastive Learning**, Dongwoo Park et.al., Paper: [http://arxiv.org/abs/2208.07039v3](http://arxiv.org/abs/2208.07039v3), Code: **[https://github.com/infinity7428/hANMCL](https://github.com/infinity7428/hANMCL)**
 - 2022-08-04, **Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2208.02450v1](http://arxiv.org/abs/2208.02450v1), Code: **[https://github.com/vcm-project233/mitml](https://github.com/vcm-project233/mitml)**
 - 2022-07-20, **Explaining Deepfake Detection by Analysing Image Matching**, Shichao Dong et.al., Paper: [http://arxiv.org/abs/2207.09679v1](http://arxiv.org/abs/2207.09679v1), Code: **[https://github.com/megvii-research/fst-matching](https://github.com/megvii-research/fst-matching)**
-- 2022-07-16, **Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**, Jiazhen Liu et.al., Paper: [http://arxiv.org/abs/2207.07932v1](http://arxiv.org/abs/2207.07932v1), Code: **[https://github.com/ruc-aimc-lab/superretina](https://github.com/ruc-aimc-lab/superretina)**
 
 ## Keypoint Detection
 
