@@ -16,7 +16,6 @@
 - 2023-03-25, **NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2303.14435v1](http://arxiv.org/abs/2303.14435v1), Code: **[https://github.com/jokeryan/nerf-ds](https://github.com/jokeryan/nerf-ds)**
 - 2023-04-03, **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2303.14184v2](http://arxiv.org/abs/2303.14184v2), Code: **[https://github.com/junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D)**
 - 2023-03-24, **ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field**, Zhe Jun Tang et.al., Paper: [http://arxiv.org/abs/2303.13817v1](http://arxiv.org/abs/2303.13817v1), Code: **[https://github.com/tangzj/able-nerf](https://github.com/tangzj/able-nerf)**
-- 2023-03-23, **Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**, Dana Cohen-Bar et.al., Paper: [http://arxiv.org/abs/2303.13450v1](http://arxiv.org/abs/2303.13450v1), Code: **[https://github.com/DanaCohen95/Set-the-Scene](https://github.com/DanaCohen95/Set-the-Scene)**
 
 ## Visual Localization
 
