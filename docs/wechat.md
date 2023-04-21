@@ -4,6 +4,9 @@
 
 ## NeRF
 
+- 2023-04-20, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v1](http://arxiv.org/abs/2304.10532v1), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
+- 2023-04-19, **Anything-3D: Towards Single-view Anything Reconstruction in the Wild**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2304.10261v1](http://arxiv.org/abs/2304.10261v1), Code: **[https://github.com/anything-of-anything/anything-3d](https://github.com/anything-of-anything/anything-3d)**
+- 2023-04-19, **Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2304.09987v1](http://arxiv.org/abs/2304.09987v1), Code: **[https://github.com/jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf)**
 - 2023-04-17, **MoDA: Modeling Deformable 3D Objects from Casual Videos**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2304.08279v1](http://arxiv.org/abs/2304.08279v1), Code: **[https://github.com/chaoyuesong/moda](https://github.com/chaoyuesong/moda)**
 - 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1), Code: **[https://github.com/jenningsl/nerf-loc](https://github.com/jenningsl/nerf-loc)**
 - 2023-04-12, **RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2304.05735v1](http://arxiv.org/abs/2304.05735v1), Code: **[https://github.com/xiaohan-git/ro-map](https://github.com/xiaohan-git/ro-map)**
@@ -14,9 +17,6 @@
 - 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1), Code: **[https://github.com/boifz/vdn-nerf](https://github.com/boifz/vdn-nerf)**
 - 2023-03-29, **Instant Neural Radiance Fields Stylization**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.16884v1](http://arxiv.org/abs/2303.16884v1), Code: **[https://github.com/lsx0101/Instant-NeRF-Stylization](https://github.com/lsx0101/Instant-NeRF-Stylization)**
 - 2023-03-27, **3D-Aware Multi-Class Image-to-Image Translation with NeRFs**, Senmao Li et.al., Paper: [http://arxiv.org/abs/2303.15012v1](http://arxiv.org/abs/2303.15012v1), Code: **[https://github.com/sen-mao/3di2i-translation](https://github.com/sen-mao/3di2i-translation)**
-- 2023-03-25, **NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**, Zhiwen Yan et.al., Paper: [http://arxiv.org/abs/2303.14435v1](http://arxiv.org/abs/2303.14435v1), Code: **[https://github.com/jokeryan/nerf-ds](https://github.com/jokeryan/nerf-ds)**
-- 2023-04-03, **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**, Junshu Tang et.al., Paper: [http://arxiv.org/abs/2303.14184v2](http://arxiv.org/abs/2303.14184v2), Code: **[https://github.com/junshutang/Make-It-3D](https://github.com/junshutang/Make-It-3D)**
-- 2023-03-24, **ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field**, Zhe Jun Tang et.al., Paper: [http://arxiv.org/abs/2303.13817v1](http://arxiv.org/abs/2303.13817v1), Code: **[https://github.com/tangzj/able-nerf](https://github.com/tangzj/able-nerf)**
 
 ## Visual Localization
 
