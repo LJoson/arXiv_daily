@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-04-24, **Explicit Correspondence Matching for Generalizable Neural Radiance Fields**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2304.12294v1](http://arxiv.org/abs/2304.12294v1), Code: **[https://github.com/donydchen/matchnerf](https://github.com/donydchen/matchnerf)**
 - 2023-04-21, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v2](http://arxiv.org/abs/2304.10532v2), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
 - 2023-04-19, **Anything-3D: Towards Single-view Anything Reconstruction in the Wild**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2304.10261v1](http://arxiv.org/abs/2304.10261v1), Code: **[https://github.com/anything-of-anything/anything-3d](https://github.com/anything-of-anything/anything-3d)**
 - 2023-04-19, **Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2304.09987v1](http://arxiv.org/abs/2304.09987v1), Code: **[https://github.com/jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf)**
@@ -16,8 +17,6 @@
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
 - 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1), Code: **[https://github.com/boifz/vdn-nerf](https://github.com/boifz/vdn-nerf)**
 - 2023-03-29, **Instant Neural Radiance Fields Stylization**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.16884v1](http://arxiv.org/abs/2303.16884v1), Code: **[https://github.com/lsx0101/Instant-NeRF-Stylization](https://github.com/lsx0101/Instant-NeRF-Stylization)**
-- 2023-03-28, **F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2303.15951v1](http://arxiv.org/abs/2303.15951v1), Code: **[https://github.com/Totoro97/f2-nerf](https://github.com/Totoro97/f2-nerf)**
-- 2023-03-27, **3D-Aware Multi-Class Image-to-Image Translation with NeRFs**, Senmao Li et.al., Paper: [http://arxiv.org/abs/2303.15012v1](http://arxiv.org/abs/2303.15012v1), Code: **[https://github.com/sen-mao/3di2i-translation](https://github.com/sen-mao/3di2i-translation)**
 
 ## Visual Localization
 
@@ -40,7 +39,6 @@
 - 2023-01-05, **A Probabilistic Framework for Visual Localization in Ambiguous Scenes**, Fereidoon Zangeneh et.al., Paper: [http://arxiv.org/abs/2301.02086v1](http://arxiv.org/abs/2301.02086v1), Code: **[https://github.com/efreidun/vapor](https://github.com/efreidun/vapor)**
 - 2022-12-30, **HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**, Dmitry Yudin et.al., Paper: [http://arxiv.org/abs/2212.14649v1](http://arxiv.org/abs/2212.14649v1), Code: **[https://github.com/metra4ok/hpointloc](https://github.com/metra4ok/hpointloc)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
-- 2022-12-08, **Privacy-Preserving Visual Localization with Event Cameras**, Junho Kim et.al., Paper: [http://arxiv.org/abs/2212.03177v2](http://arxiv.org/abs/2212.03177v2), Code: **[https://github.com/82magnolia/event_localization](https://github.com/82magnolia/event_localization)**
 - 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 
 ## Image Matching
