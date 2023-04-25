@@ -1,10 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.04.24
+> Updated on 2023.04.25
 
 ## NeRF
 
-- 2023-04-20, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v1](http://arxiv.org/abs/2304.10532v1), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
+- 2023-04-21, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v2](http://arxiv.org/abs/2304.10532v2), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
 - 2023-04-19, **Anything-3D: Towards Single-view Anything Reconstruction in the Wild**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2304.10261v1](http://arxiv.org/abs/2304.10261v1), Code: **[https://github.com/anything-of-anything/anything-3d](https://github.com/anything-of-anything/anything-3d)**
 - 2023-04-19, **Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**, Jonas Kulhanek et.al., Paper: [http://arxiv.org/abs/2304.09987v1](http://arxiv.org/abs/2304.09987v1), Code: **[https://github.com/jkulhanek/tetra-nerf](https://github.com/jkulhanek/tetra-nerf)**
 - 2023-04-17, **MoDA: Modeling Deformable 3D Objects from Casual Videos**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2304.08279v1](http://arxiv.org/abs/2304.08279v1), Code: **[https://github.com/chaoyuesong/moda](https://github.com/chaoyuesong/moda)**
