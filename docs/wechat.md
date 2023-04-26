@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-04-25, **MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**, Yongjae Lee et.al., Paper: [http://arxiv.org/abs/2304.12587v1](http://arxiv.org/abs/2304.12587v1), Code: **[https://github.com/nfyfamr/mixnerf](https://github.com/nfyfamr/mixnerf)**
 - 2023-04-24, **Explicit Correspondence Matching for Generalizable Neural Radiance Fields**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2304.12294v1](http://arxiv.org/abs/2304.12294v1), Code: **[https://github.com/donydchen/matchnerf](https://github.com/donydchen/matchnerf)**
 - 2023-04-21, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v2](http://arxiv.org/abs/2304.10532v2), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
 - 2023-04-19, **Anything-3D: Towards Single-view Anything Reconstruction in the Wild**, Qiuhong Shen et.al., Paper: [http://arxiv.org/abs/2304.10261v1](http://arxiv.org/abs/2304.10261v1), Code: **[https://github.com/anything-of-anything/anything-3d](https://github.com/anything-of-anything/anything-3d)**
