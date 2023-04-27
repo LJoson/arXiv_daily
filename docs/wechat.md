@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-04-26, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v1](http://arxiv.org/abs/2304.13386v1), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
 - 2023-04-26, **MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**, Yongjae Lee et.al., Paper: [http://arxiv.org/abs/2304.12587v2](http://arxiv.org/abs/2304.12587v2), Code: **[https://github.com/nfyfamr/mixnerf](https://github.com/nfyfamr/mixnerf)**
 - 2023-04-24, **Explicit Correspondence Matching for Generalizable Neural Radiance Fields**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2304.12294v1](http://arxiv.org/abs/2304.12294v1), Code: **[https://github.com/donydchen/matchnerf](https://github.com/donydchen/matchnerf)**
 - 2023-04-21, **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**, Frederik Warburg et.al., Paper: [http://arxiv.org/abs/2304.10532v2](http://arxiv.org/abs/2304.10532v2), Code: **[https://github.com/ethanweber/nerfbusters](https://github.com/ethanweber/nerfbusters)**
@@ -17,7 +18,6 @@
 - 2023-04-08, **PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2304.04012v1](http://arxiv.org/abs/2304.04012v1), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
 - 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1), Code: **[https://github.com/boifz/vdn-nerf](https://github.com/boifz/vdn-nerf)**
-- 2023-03-29, **Instant Neural Radiance Fields Stylization**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2303.16884v1](http://arxiv.org/abs/2303.16884v1), Code: **[https://github.com/lsx0101/Instant-NeRF-Stylization](https://github.com/lsx0101/Instant-NeRF-Stylization)**
 
 ## Visual Localization
 
@@ -40,7 +40,6 @@
 - 2023-01-05, **A Probabilistic Framework for Visual Localization in Ambiguous Scenes**, Fereidoon Zangeneh et.al., Paper: [http://arxiv.org/abs/2301.02086v1](http://arxiv.org/abs/2301.02086v1), Code: **[https://github.com/efreidun/vapor](https://github.com/efreidun/vapor)**
 - 2022-12-30, **HPointLoc: Point-based Indoor Place Recognition using Synthetic RGB-D Images**, Dmitry Yudin et.al., Paper: [http://arxiv.org/abs/2212.14649v1](http://arxiv.org/abs/2212.14649v1), Code: **[https://github.com/metra4ok/hpointloc](https://github.com/metra4ok/hpointloc)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
-- 2022-12-04, **Fast and Lightweight Scene Regressor for Camera Relocalization**, Thuan B. Bui et.al., Paper: [http://arxiv.org/abs/2212.01830v1](http://arxiv.org/abs/2212.01830v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 
 ## Image Matching
 
