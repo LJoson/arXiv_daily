@@ -4,14 +4,14 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**|Jiakai Sun et.al.|[2304.13386v1](http://arxiv.org/abs/2304.13386v1)|**[link](https://github.com/sjojok/vgos)**|
-|**2023-04-26**|**MixNeRF: Memory Efficient NeRF with Feature Mixed-up Hash Table**|Yongjae Lee et.al.|[2304.12587v2](http://arxiv.org/abs/2304.12587v2)|**[link](https://github.com/nfyfamr/mixnerf)**|
+|**2023-04-27**|**MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**|Yongjae Lee et.al.|[2304.12587v3](http://arxiv.org/abs/2304.12587v3)|**[link](https://github.com/nfyfamr/mixnerf)**|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261v1](http://arxiv.org/abs/2304.10261v1)|**[link](https://github.com/anything-of-anything/anything-3d)**|
