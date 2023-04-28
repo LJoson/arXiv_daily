@@ -17,7 +17,6 @@
 - 2023-04-18, **NeRF applied to satellite imagery for surface reconstruction**, Federico Semeraro et.al., Paper: [http://arxiv.org/abs/2304.04133v4](http://arxiv.org/abs/2304.04133v4), Code: **[https://github.com/fsemerar/surfnerf](https://github.com/fsemerar/surfnerf)**
 - 2023-04-08, **PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2304.04012v1](http://arxiv.org/abs/2304.04012v1), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
 - 2023-04-01, **JacobiNeRF: NeRF Shaping with Mutual Information Gradients**, Xiaomeng Xu et.al., Paper: [http://arxiv.org/abs/2304.00341v1](http://arxiv.org/abs/2304.00341v1), Code: **[https://github.com/xxm19/jacobinerf](https://github.com/xxm19/jacobinerf)**
-- 2023-03-31, **VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**, Bingfan Zhu et.al., Paper: [http://arxiv.org/abs/2303.17968v1](http://arxiv.org/abs/2303.17968v1), Code: **[https://github.com/boifz/vdn-nerf](https://github.com/boifz/vdn-nerf)**
 
 ## Visual Localization
 
