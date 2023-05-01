@@ -22,7 +22,6 @@ layout: default
 |**2023-04-11**|**Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**|Shu Chen et.al.|[2304.05218v1](http://arxiv.org/abs/2304.05218v1)|**[link](https://github.com/xtu-pr-lab/sfmnerf)**|
 |**2023-04-18**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v4](http://arxiv.org/abs/2304.04133v4)|**[link](https://github.com/fsemerar/surfnerf)**|
 |**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012v1](http://arxiv.org/abs/2304.04012v1)|**[link](https://github.com/megvii-research/AAAI2023-PVD)**|
-|**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 
 ## Visual Localization
 
@@ -85,6 +84,7 @@ layout: default
 |**2023-03-24**|**PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**|Ze Shi et.al.|[2303.14095v1](http://arxiv.org/abs/2303.14095v1)|**[link](https://github.com/zafirshi/panovpr)**|
 |**2023-02-03**|**Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**|Jie Yang et.al.|[2302.01593v1](http://arxiv.org/abs/2302.01593v1)|**[link](https://github.com/idea-research/ed-pose)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
+|**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 |**2022-12-13**|**Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**|Welerson Melo et.al.|[2212.09589v1](http://arxiv.org/abs/2212.09589v1)|**[link](https://github.com/verlab/learningtodetect_sibgrapi_2022)**|
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2023-03-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v3](http://arxiv.org/abs/2211.15069v3)|**[link](https://github.com/sjtu-visys/featurebooster)**|
