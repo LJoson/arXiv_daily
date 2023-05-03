@@ -15,7 +15,6 @@
 - 2023-04-12, **RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2304.05735v1](http://arxiv.org/abs/2304.05735v1), Code: **[https://github.com/xiaohan-git/ro-map](https://github.com/xiaohan-git/ro-map)**
 - 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
 - 2023-04-18, **NeRF applied to satellite imagery for surface reconstruction**, Federico Semeraro et.al., Paper: [http://arxiv.org/abs/2304.04133v4](http://arxiv.org/abs/2304.04133v4), Code: **[https://github.com/fsemerar/surfnerf](https://github.com/fsemerar/surfnerf)**
-- 2023-04-08, **PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**, Shuangkang Fang et.al., Paper: [http://arxiv.org/abs/2304.04012v1](http://arxiv.org/abs/2304.04012v1), Code: **[https://github.com/megvii-research/AAAI2023-PVD](https://github.com/megvii-research/AAAI2023-PVD)**
 
 ## Visual Localization
 
