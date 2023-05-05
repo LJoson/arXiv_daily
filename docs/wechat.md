@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2023-05-04, **Semantic-aware Generation of Multi-view Portrait Drawings**, Biao Ma et.al., Paper: [http://arxiv.org/abs/2305.02618v1](http://arxiv.org/abs/2305.02618v1), Code: **[https://github.com/aiart-hdu/sage](https://github.com/aiart-hdu/sage)**
+- 2023-05-03, **Shap-E: Generating Conditional 3D Implicit Functions**, Heewoo Jun et.al., Paper: [http://arxiv.org/abs/2305.02463v1](http://arxiv.org/abs/2305.02463v1), Code: **[https://github.com/openai/shap-e](https://github.com/openai/shap-e)**
 - 2023-04-26, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v1](http://arxiv.org/abs/2304.13386v1), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
 - 2023-04-27, **MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**, Yongjae Lee et.al., Paper: [http://arxiv.org/abs/2304.12587v3](http://arxiv.org/abs/2304.12587v3), Code: **[https://github.com/nfyfamr/mf-nerf](https://github.com/nfyfamr/mf-nerf)**
 - 2023-04-24, **Explicit Correspondence Matching for Generalizable Neural Radiance Fields**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2304.12294v1](http://arxiv.org/abs/2304.12294v1), Code: **[https://github.com/donydchen/matchnerf](https://github.com/donydchen/matchnerf)**
@@ -13,7 +15,6 @@
 - 2023-04-17, **MoDA: Modeling Deformable 3D Objects from Casual Videos**, Chaoyue Song et.al., Paper: [http://arxiv.org/abs/2304.08279v1](http://arxiv.org/abs/2304.08279v1), Code: **[https://github.com/chaoyuesong/moda](https://github.com/chaoyuesong/moda)**
 - 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1), Code: **[https://github.com/jenningsl/nerf-loc](https://github.com/jenningsl/nerf-loc)**
 - 2023-04-12, **RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2304.05735v1](http://arxiv.org/abs/2304.05735v1), Code: **[https://github.com/xiaohan-git/ro-map](https://github.com/xiaohan-git/ro-map)**
-- 2023-04-11, **Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**, Shu Chen et.al., Paper: [http://arxiv.org/abs/2304.05218v1](http://arxiv.org/abs/2304.05218v1), Code: **[https://github.com/xtu-pr-lab/sfmnerf](https://github.com/xtu-pr-lab/sfmnerf)**
 
 ## Visual Localization
 
