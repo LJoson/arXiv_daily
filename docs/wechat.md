@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.05.04
+> Updated on 2023.05.05
 
 ## NeRF
 
@@ -17,6 +17,7 @@
 
 ## Visual Localization
 
+- 2023-04-28, **SFD2: Semantic-guided Feature Detection and Description**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2304.14845v1](http://arxiv.org/abs/2304.14845v1), Code: **[https://github.com/feixue94/sfd2](https://github.com/feixue94/sfd2)**
 - 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1), Code: **[https://github.com/jenningsl/nerf-loc](https://github.com/jenningsl/nerf-loc)**
 - 2023-04-17, **You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**, Matteo Toso et.al., Paper: [http://arxiv.org/abs/2304.06373v3](http://arxiv.org/abs/2304.06373v3), Code: **[https://github.com/IIT-PAVIS/Flatlandia](https://github.com/IIT-PAVIS/Flatlandia)**
 - 2023-04-12, **Visual Localization using Imperfect 3D Models from the Internet**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2304.05947v1](http://arxiv.org/abs/2304.05947v1), Code: **[https://github.com/v-pnk/cadloc](https://github.com/v-pnk/cadloc)**
