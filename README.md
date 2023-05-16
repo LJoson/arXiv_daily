@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024v1](http://arxiv.org/abs/2305.07024v1)|**[link](https://github.com/xt4d/sparsegnv)**|
 |**2023-05-11**|**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**|Mustafa Işık et.al.|[2305.06356v2](http://arxiv.org/abs/2305.06356v2)|**[link](https://github.com/synthesiaresearch/humanrf)**|
 |**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618v1](http://arxiv.org/abs/2305.02618v1)|**[link](https://github.com/aiart-hdu/sage)**|
@@ -17,7 +18,6 @@
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-19**|**Anything-3D: Towards Single-view Anything Reconstruction in the Wild**|Qiuhong Shen et.al.|[2304.10261v1](http://arxiv.org/abs/2304.10261v1)|**[link](https://github.com/anything-of-anything/anything-3d)**|
 |**2023-05-15**|**Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**|Jonas Kulhanek et.al.|[2304.09987v2](http://arxiv.org/abs/2304.09987v2)|**[link](https://github.com/jkulhanek/tetra-nerf)**|
-|**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
 
 ## Visual Localization
 
@@ -88,5 +88,4 @@
 |**2023-04-03**|**Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**|Paul Roetzer et.al.|[2211.11589v2](http://arxiv.org/abs/2211.11589v2)|**[link](https://github.com/paul0noah/sm-2d3d)**|
 |**2022-10-31**|**Tree Detection and Diameter Estimation Based on Deep Learning**|Vincent Grondin et.al.|[2210.17424v1](http://arxiv.org/abs/2210.17424v1)|**[link](https://github.com/norlab-ulaval/perceptreev1)**|
 |**2022-10-04**|**Centroid Distance Keypoint Detector for Colored Point Clouds**|Hanzhe Teng et.al.|[2210.01298v1](http://arxiv.org/abs/2210.01298v1)|**[link](https://github.com/ucr-robotics/ced_detector)**|
-|**2023-02-28**|**Suture Thread Spline Reconstruction from Endoscopic Images for Robotic Surgery with Reliability-driven Keypoint Detection**|Neelay Joglekar et.al.|[2209.13657v3](http://arxiv.org/abs/2209.13657v3)|**[link](https://github.com/ucsdarclab/thread-reconstruction)**|
 
