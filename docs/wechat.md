@@ -4,9 +4,11 @@
 
 ## NeRF
 
+- 2023-05-23, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v1](http://arxiv.org/abs/2305.14093v1), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
 - 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
 - 2023-05-18, **ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2305.11031v1](http://arxiv.org/abs/2305.11031v1), Code: **[https://github.com/skhu101/consistentnerf](https://github.com/skhu101/consistentnerf)**
 - 2023-05-17, **MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**, Dominik Zimny et.al., Paper: [http://arxiv.org/abs/2305.10579v1](http://arxiv.org/abs/2305.10579v1), Code: **[https://github.com/gmum/multiplanenerf](https://github.com/gmum/multiplanenerf)**
+- 2023-05-17, **OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**, Youtan Yin et.al., Paper: [http://arxiv.org/abs/2305.10503v1](http://arxiv.org/abs/2305.10503v1), Code: **[https://github.com/cuteyyt/or-nerf](https://github.com/cuteyyt/or-nerf)**
 - 2023-05-16, **NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2305.09761v1](http://arxiv.org/abs/2305.09761v1), Code: **[https://github.com/javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge)**
 - 2023-05-15, **MV-Map: Offboard HD-Map Generation with Multi-view Consistency**, Ziyang Xie et.al., Paper: [http://arxiv.org/abs/2305.08851v1](http://arxiv.org/abs/2305.08851v1), Code: **[https://github.com/ziyang-xie/mv-map](https://github.com/ziyang-xie/mv-map)**
 - 2023-05-11, **SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**, Weihao Cheng et.al., Paper: [http://arxiv.org/abs/2305.07024v1](http://arxiv.org/abs/2305.07024v1), Code: **[https://github.com/xt4d/sparsegnv](https://github.com/xt4d/sparsegnv)**
@@ -21,6 +23,7 @@
 
 ## Visual Localization
 
+- 2023-05-23, **Leveraging BEV Representation for 360-degree Visual Place Recognition**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2305.13814v1](http://arxiv.org/abs/2305.13814v1), Code: **[https://github.com/maverickpeter/vdisco](https://github.com/maverickpeter/vdisco)**
 - 2023-05-20, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v1](http://arxiv.org/abs/2305.12250v1), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
@@ -40,7 +43,6 @@
 - 2023-03-03, **MixVPR: Feature Mixing for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2303.02190v1](http://arxiv.org/abs/2303.02190v1), Code: **[https://github.com/amaralibey/mixvpr](https://github.com/amaralibey/mixvpr)**
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
 - 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
-- 2023-02-20, **TBPos: Dataset for Large-Scale Precision Visual Localization**, Masud Fahim et.al., Paper: [http://arxiv.org/abs/2302.09825v1](http://arxiv.org/abs/2302.09825v1), Code: **[https://gitlab.com/jboutell/tbpos](https://gitlab.com/jboutell/tbpos)**
 
 ## Image Matching
 
