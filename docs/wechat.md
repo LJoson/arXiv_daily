@@ -1,14 +1,14 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.05.24
+> Updated on 2023.05.25
 
 ## NeRF
 
-- 2023-05-23, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v1](http://arxiv.org/abs/2305.14093v1), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
+- 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
 - 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
 - 2023-05-18, **ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2305.11031v1](http://arxiv.org/abs/2305.11031v1), Code: **[https://github.com/skhu101/consistentnerf](https://github.com/skhu101/consistentnerf)**
 - 2023-05-17, **MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**, Dominik Zimny et.al., Paper: [http://arxiv.org/abs/2305.10579v1](http://arxiv.org/abs/2305.10579v1), Code: **[https://github.com/gmum/multiplanenerf](https://github.com/gmum/multiplanenerf)**
-- 2023-05-17, **OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**, Youtan Yin et.al., Paper: [http://arxiv.org/abs/2305.10503v1](http://arxiv.org/abs/2305.10503v1), Code: **[https://github.com/cuteyyt/or-nerf](https://github.com/cuteyyt/or-nerf)**
+- 2023-05-24, **OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**, Youtan Yin et.al., Paper: [http://arxiv.org/abs/2305.10503v2](http://arxiv.org/abs/2305.10503v2), Code: **[https://github.com/cuteyyt/or-nerf](https://github.com/cuteyyt/or-nerf)**
 - 2023-05-16, **NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2305.09761v1](http://arxiv.org/abs/2305.09761v1), Code: **[https://github.com/javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge)**
 - 2023-05-15, **MV-Map: Offboard HD-Map Generation with Multi-view Consistency**, Ziyang Xie et.al., Paper: [http://arxiv.org/abs/2305.08851v1](http://arxiv.org/abs/2305.08851v1), Code: **[https://github.com/ziyang-xie/mv-map](https://github.com/ziyang-xie/mv-map)**
 - 2023-05-11, **SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**, Weihao Cheng et.al., Paper: [http://arxiv.org/abs/2305.07024v1](http://arxiv.org/abs/2305.07024v1), Code: **[https://github.com/xt4d/sparsegnv](https://github.com/xt4d/sparsegnv)**
