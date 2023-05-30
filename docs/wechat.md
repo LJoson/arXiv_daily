@@ -23,6 +23,7 @@
 
 ## Visual Localization
 
+- 2023-05-29, **Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2305.18260v1](http://arxiv.org/abs/2305.18260v1), Code: **[https://github.com/danielcoelho112/synfeal](https://github.com/danielcoelho112/synfeal)**
 - 2023-05-23, **Leveraging BEV Representation for 360-degree Visual Place Recognition**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2305.13814v1](http://arxiv.org/abs/2305.13814v1), Code: **[https://github.com/maverickpeter/vdisco](https://github.com/maverickpeter/vdisco)**
 - 2023-05-20, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v1](http://arxiv.org/abs/2305.12250v1), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
@@ -42,7 +43,6 @@
 - 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
 - 2023-03-03, **MixVPR: Feature Mixing for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2303.02190v1](http://arxiv.org/abs/2303.02190v1), Code: **[https://github.com/amaralibey/mixvpr](https://github.com/amaralibey/mixvpr)**
 - 2023-03-01, **ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**, T. Barros et.al., Paper: [http://arxiv.org/abs/2303.00477v1](http://arxiv.org/abs/2303.00477v1), Code: **[https://github.com/cybonic/orchnet](https://github.com/cybonic/orchnet)**
-- 2023-02-28, **Global Proxy-based Hard Mining for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2302.14217v1](http://arxiv.org/abs/2302.14217v1), Code: **[https://github.com/amaralibey/gpm](https://github.com/amaralibey/gpm)**
 
 ## Image Matching
 
