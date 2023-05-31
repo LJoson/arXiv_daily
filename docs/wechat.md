@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
 - 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
 - 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
 - 2023-05-18, **ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2305.11031v1](http://arxiv.org/abs/2305.11031v1), Code: **[https://github.com/skhu101/consistentnerf](https://github.com/skhu101/consistentnerf)**
@@ -19,7 +20,6 @@
 - 2023-04-28, **ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2305.00041v1](http://arxiv.org/abs/2305.00041v1), Code: **[https://github.com/NagabhushanSN95/ViP-NeRF](https://github.com/NagabhushanSN95/ViP-NeRF)**
 - 2023-04-26, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v1](http://arxiv.org/abs/2304.13386v1), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
 - 2023-04-27, **MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**, Yongjae Lee et.al., Paper: [http://arxiv.org/abs/2304.12587v3](http://arxiv.org/abs/2304.12587v3), Code: **[https://github.com/nfyfamr/mf-nerf](https://github.com/nfyfamr/mf-nerf)**
-- 2023-04-24, **Explicit Correspondence Matching for Generalizable Neural Radiance Fields**, Yuedong Chen et.al., Paper: [http://arxiv.org/abs/2304.12294v1](http://arxiv.org/abs/2304.12294v1), Code: **[https://github.com/donydchen/matchnerf](https://github.com/donydchen/matchnerf)**
 
 ## Visual Localization
 
@@ -74,6 +74,7 @@
 
 ## Keypoint Detection
 
+- 2023-05-30, **Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**, Supeng Wang et.al., Paper: [http://arxiv.org/abs/2305.18714v1](http://arxiv.org/abs/2305.18714v1), Code: **[https://github.com/wangsp1999/cd-research](https://github.com/wangsp1999/cd-research)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-05, **HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**, Canhui Tang et.al., Paper: [http://arxiv.org/abs/2305.03487v1](http://arxiv.org/abs/2305.03487v1), Code: **[https://github.com/hui-design/hd2reg](https://github.com/hui-design/hd2reg)**
 - 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
@@ -87,5 +88,4 @@
 - 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 - 2023-04-03, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v2](http://arxiv.org/abs/2211.11589v2), Code: **[https://github.com/paul0noah/sm-2d3d](https://github.com/paul0noah/sm-2d3d)**
 - 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
-- 2022-10-04, **Centroid Distance Keypoint Detector for Colored Point Clouds**, Hanzhe Teng et.al., Paper: [http://arxiv.org/abs/2210.01298v1](http://arxiv.org/abs/2210.01298v1), Code: **[https://github.com/ucr-robotics/ced_detector](https://github.com/ucr-robotics/ced_detector)**
 
