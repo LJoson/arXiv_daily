@@ -19,7 +19,6 @@
 - 2023-05-03, **Shap-E: Generating Conditional 3D Implicit Functions**, Heewoo Jun et.al., Paper: [http://arxiv.org/abs/2305.02463v1](http://arxiv.org/abs/2305.02463v1), Code: **[https://github.com/openai/shap-e](https://github.com/openai/shap-e)**
 - 2023-05-02, **Federated Neural Radiance Fields**, Lachlan Holden et.al., Paper: [http://arxiv.org/abs/2305.01163v1](http://arxiv.org/abs/2305.01163v1), Code: **[https://github.com/lachholden/fednerf-pytorch](https://github.com/lachholden/fednerf-pytorch)**
 - 2023-04-28, **ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**, Nagabhushan Somraj et.al., Paper: [http://arxiv.org/abs/2305.00041v1](http://arxiv.org/abs/2305.00041v1), Code: **[https://github.com/NagabhushanSN95/ViP-NeRF](https://github.com/NagabhushanSN95/ViP-NeRF)**
-- 2023-06-02, **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**, Jiakai Sun et.al., Paper: [http://arxiv.org/abs/2304.13386v2](http://arxiv.org/abs/2304.13386v2), Code: **[https://github.com/sjojok/vgos](https://github.com/sjojok/vgos)**
 
 ## Visual Localization
 
@@ -70,7 +69,6 @@
 - 2022-08-30, **ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2208.14201v1](http://arxiv.org/abs/2208.14201v1), Code: **[https://github.com/apple/ml-aspanformer](https://github.com/apple/ml-aspanformer)**
 - 2022-08-25, **A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**, Jianli Wei et.al., Paper: [http://arxiv.org/abs/2208.12251v1](http://arxiv.org/abs/2208.12251v1), Code: **[https://github.com/osupcvlab/ubiheredrone2021](https://github.com/osupcvlab/ubiheredrone2021)**
 - 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
-- 2022-09-22, **Understanding Attention for Vision-and-Language Tasks**, Feiqi Cao et.al., Paper: [http://arxiv.org/abs/2208.08104v2](http://arxiv.org/abs/2208.08104v2), Code: **[https://github.com/adlnlp/attention_vl](https://github.com/adlnlp/attention_vl)**
 
 ## Keypoint Detection
 
