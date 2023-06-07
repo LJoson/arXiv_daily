@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903v1](http://arxiv.org/abs/2306.02903v1), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
 - 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
