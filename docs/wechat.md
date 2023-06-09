@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-06-05, **H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**, Chenxing Jiang et.al., Paper: [http://arxiv.org/abs/2306.03207v1](http://arxiv.org/abs/2306.03207v1), Code: **[https://github.com/sysu-star/h2-mapping](https://github.com/sysu-star/h2-mapping)**
 - 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903v1](http://arxiv.org/abs/2306.02903v1), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
