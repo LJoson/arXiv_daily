@@ -19,7 +19,6 @@
 - 2023-05-11, **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**, Mustafa Işık et.al., Paper: [http://arxiv.org/abs/2305.06356v2](http://arxiv.org/abs/2305.06356v2), Code: **[https://github.com/synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf)**
 - 2023-05-04, **Semantic-aware Generation of Multi-view Portrait Drawings**, Biao Ma et.al., Paper: [http://arxiv.org/abs/2305.02618v1](http://arxiv.org/abs/2305.02618v1), Code: **[https://github.com/aiart-hdu/sage](https://github.com/aiart-hdu/sage)**
 - 2023-05-03, **Shap-E: Generating Conditional 3D Implicit Functions**, Heewoo Jun et.al., Paper: [http://arxiv.org/abs/2305.02463v1](http://arxiv.org/abs/2305.02463v1), Code: **[https://github.com/openai/shap-e](https://github.com/openai/shap-e)**
-- 2023-05-02, **Federated Neural Radiance Fields**, Lachlan Holden et.al., Paper: [http://arxiv.org/abs/2305.01163v1](http://arxiv.org/abs/2305.01163v1), Code: **[https://github.com/lachholden/fednerf-pytorch](https://github.com/lachholden/fednerf-pytorch)**
 
 ## Visual Localization
 
@@ -86,5 +85,4 @@
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 - 2023-04-03, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v2](http://arxiv.org/abs/2211.11589v2), Code: **[https://github.com/paul0noah/sm-2d3d](https://github.com/paul0noah/sm-2d3d)**
-- 2022-10-31, **Tree Detection and Diameter Estimation Based on Deep Learning**, Vincent Grondin et.al., Paper: [http://arxiv.org/abs/2210.17424v1](http://arxiv.org/abs/2210.17424v1), Code: **[https://github.com/norlab-ulaval/perceptreev1](https://github.com/norlab-ulaval/perceptreev1)**
 
