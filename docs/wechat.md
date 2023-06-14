@@ -17,8 +17,6 @@
 - 2023-05-15, **MV-Map: Offboard HD-Map Generation with Multi-view Consistency**, Ziyang Xie et.al., Paper: [http://arxiv.org/abs/2305.08851v1](http://arxiv.org/abs/2305.08851v1), Code: **[https://github.com/ziyang-xie/mv-map](https://github.com/ziyang-xie/mv-map)**
 - 2023-05-11, **SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**, Weihao Cheng et.al., Paper: [http://arxiv.org/abs/2305.07024v1](http://arxiv.org/abs/2305.07024v1), Code: **[https://github.com/xt4d/sparsegnv](https://github.com/xt4d/sparsegnv)**
 - 2023-05-11, **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**, Mustafa Işık et.al., Paper: [http://arxiv.org/abs/2305.06356v2](http://arxiv.org/abs/2305.06356v2), Code: **[https://github.com/synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf)**
-- 2023-05-04, **Semantic-aware Generation of Multi-view Portrait Drawings**, Biao Ma et.al., Paper: [http://arxiv.org/abs/2305.02618v1](http://arxiv.org/abs/2305.02618v1), Code: **[https://github.com/aiart-hdu/sage](https://github.com/aiart-hdu/sage)**
-- 2023-05-03, **Shap-E: Generating Conditional 3D Implicit Functions**, Heewoo Jun et.al., Paper: [http://arxiv.org/abs/2305.02463v1](http://arxiv.org/abs/2305.02463v1), Code: **[https://github.com/openai/shap-e](https://github.com/openai/shap-e)**
 
 ## Visual Localization
 
