@@ -40,10 +40,10 @@
 - 2023-03-25, **Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**, Maria Leyva-Vallina et.al., Paper: [http://arxiv.org/abs/2303.11739v2](http://arxiv.org/abs/2303.11739v2), Code: **[https://github.com/marialeyvallina/generalized_contrastive_loss](https://github.com/marialeyvallina/generalized_contrastive_loss)**
 - 2023-03-19, **Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2303.10778v1](http://arxiv.org/abs/2303.10778v1), Code: **[https://github.com/mingu6/declarativedtw](https://github.com/mingu6/declarativedtw)**
 - 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
-- 2023-03-03, **MixVPR: Feature Mixing for Visual Place Recognition**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2303.02190v1](http://arxiv.org/abs/2303.02190v1), Code: **[https://github.com/amaralibey/mixvpr](https://github.com/amaralibey/mixvpr)**
 
 ## Image Matching
 
+- 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
 - 2023-05-18, **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2305.11116v1](http://arxiv.org/abs/2305.11116v1), Code: **[https://github.com/yujielu10/llmscore](https://github.com/yujielu10/llmscore)**
 - 2023-05-12, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v1](http://arxiv.org/abs/2305.07304v1), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
@@ -67,7 +67,6 @@
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-08-30, **ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2208.14201v1](http://arxiv.org/abs/2208.14201v1), Code: **[https://github.com/apple/ml-aspanformer](https://github.com/apple/ml-aspanformer)**
 - 2022-08-25, **A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**, Jianli Wei et.al., Paper: [http://arxiv.org/abs/2208.12251v1](http://arxiv.org/abs/2208.12251v1), Code: **[https://github.com/osupcvlab/ubiheredrone2021](https://github.com/osupcvlab/ubiheredrone2021)**
-- 2022-08-24, **Self-Supervised Endoscopic Image Key-Points Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2208.11424v1](http://arxiv.org/abs/2208.11424v1), Code: **[https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching](https://github.com/abenhamadou/Self-Supervised-Endoscopic-Image-Key-Points-Matching)**
 
 ## Keypoint Detection
 
