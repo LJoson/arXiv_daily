@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
 - 2023-06-08, **Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**, Qianqiu Tan et.al., Paper: [http://arxiv.org/abs/2306.05303v1](http://arxiv.org/abs/2306.05303v1), Code: **[https://github.com/tanqianq/enhance-nerf](https://github.com/tanqianq/enhance-nerf)**
 - 2023-06-05, **H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**, Chenxing Jiang et.al., Paper: [http://arxiv.org/abs/2306.03207v1](http://arxiv.org/abs/2306.03207v1), Code: **[https://github.com/sysu-star/h2-mapping](https://github.com/sysu-star/h2-mapping)**
 - 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903v1](http://arxiv.org/abs/2306.02903v1), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
