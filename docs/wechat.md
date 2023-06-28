@@ -67,7 +67,6 @@
 - 2022-10-07, **Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**, Lang Zhou et.al., Paper: [http://arxiv.org/abs/2210.03398v1](http://arxiv.org/abs/2210.03398v1), Code: **[https://github.com/Mars-Rover-Localization/A2G-Localization](https://github.com/Mars-Rover-Localization/A2G-Localization)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
 - 2022-08-30, **ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2208.14201v1](http://arxiv.org/abs/2208.14201v1), Code: **[https://github.com/apple/ml-aspanformer](https://github.com/apple/ml-aspanformer)**
-- 2022-08-25, **A Gis Aided Approach for Geolocalizing an Unmanned Aerial System Using Deep Learning**, Jianli Wei et.al., Paper: [http://arxiv.org/abs/2208.12251v1](http://arxiv.org/abs/2208.12251v1), Code: **[https://github.com/osupcvlab/ubiheredrone2021](https://github.com/osupcvlab/ubiheredrone2021)**
 
 ## Keypoint Detection
 
@@ -83,5 +82,4 @@
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1), Code: **[https://github.com/verlab/learningtodetect_sibgrapi_2022](https://github.com/verlab/learningtodetect_sibgrapi_2022)**
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 - 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
-- 2023-04-03, **Conjugate Product Graphs for Globally Optimal 2D-3D Shape Matching**, Paul Roetzer et.al., Paper: [http://arxiv.org/abs/2211.11589v2](http://arxiv.org/abs/2211.11589v2), Code: **[https://github.com/paul0noah/sm-2d3d](https://github.com/paul0noah/sm-2d3d)**
 
