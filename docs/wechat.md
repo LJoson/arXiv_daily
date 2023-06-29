@@ -18,7 +18,6 @@
 - 2023-05-16, **NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2305.09761v1](http://arxiv.org/abs/2305.09761v1), Code: **[https://github.com/javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge)**
 - 2023-05-15, **MV-Map: Offboard HD-Map Generation with Multi-view Consistency**, Ziyang Xie et.al., Paper: [http://arxiv.org/abs/2305.08851v1](http://arxiv.org/abs/2305.08851v1), Code: **[https://github.com/ziyang-xie/mv-map](https://github.com/ziyang-xie/mv-map)**
 - 2023-05-11, **SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**, Weihao Cheng et.al., Paper: [http://arxiv.org/abs/2305.07024v1](http://arxiv.org/abs/2305.07024v1), Code: **[https://github.com/xt4d/sparsegnv](https://github.com/xt4d/sparsegnv)**
-- 2023-05-11, **HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**, Mustafa Işık et.al., Paper: [http://arxiv.org/abs/2305.06356v2](http://arxiv.org/abs/2305.06356v2), Code: **[https://github.com/synthesiaresearch/humanrf](https://github.com/synthesiaresearch/humanrf)**
 
 ## Visual Localization
 
