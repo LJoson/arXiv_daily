@@ -15,8 +15,6 @@
 - 2023-05-18, **ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2305.11031v1](http://arxiv.org/abs/2305.11031v1), Code: **[https://github.com/skhu101/consistentnerf](https://github.com/skhu101/consistentnerf)**
 - 2023-05-17, **MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**, Dominik Zimny et.al., Paper: [http://arxiv.org/abs/2305.10579v1](http://arxiv.org/abs/2305.10579v1), Code: **[https://github.com/gmum/multiplanenerf](https://github.com/gmum/multiplanenerf)**
 - 2023-05-24, **OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**, Youtan Yin et.al., Paper: [http://arxiv.org/abs/2305.10503v2](http://arxiv.org/abs/2305.10503v2), Code: **[https://github.com/cuteyyt/or-nerf](https://github.com/cuteyyt/or-nerf)**
-- 2023-05-16, **NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**, Javier Yu et.al., Paper: [http://arxiv.org/abs/2305.09761v1](http://arxiv.org/abs/2305.09761v1), Code: **[https://github.com/javieryu/nerf_bridge](https://github.com/javieryu/nerf_bridge)**
-- 2023-05-15, **MV-Map: Offboard HD-Map Generation with Multi-view Consistency**, Ziyang Xie et.al., Paper: [http://arxiv.org/abs/2305.08851v1](http://arxiv.org/abs/2305.08851v1), Code: **[https://github.com/ziyang-xie/mv-map](https://github.com/ziyang-xie/mv-map)**
 
 ## Visual Localization
 
@@ -38,7 +36,6 @@
 - 2023-03-24, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v1](http://arxiv.org/abs/2303.14095v1), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
 - 2023-03-25, **Data-efficient Large Scale Place Recognition with Graded Similarity Supervision**, Maria Leyva-Vallina et.al., Paper: [http://arxiv.org/abs/2303.11739v2](http://arxiv.org/abs/2303.11739v2), Code: **[https://github.com/marialeyvallina/generalized_contrastive_loss](https://github.com/marialeyvallina/generalized_contrastive_loss)**
 - 2023-03-19, **Deep Declarative Dynamic Time Warping for End-to-End Learning of Alignment Paths**, Ming Xu et.al., Paper: [http://arxiv.org/abs/2303.10778v1](http://arxiv.org/abs/2303.10778v1), Code: **[https://github.com/mingu6/declarativedtw](https://github.com/mingu6/declarativedtw)**
-- 2023-03-06, **Visual Place Recognition: A Tutorial**, Stefan Schubert et.al., Paper: [http://arxiv.org/abs/2303.03281v1](http://arxiv.org/abs/2303.03281v1), Code: **[https://github.com/stschubert/vpr_tutorial](https://github.com/stschubert/vpr_tutorial)**
 
 ## Image Matching
 
