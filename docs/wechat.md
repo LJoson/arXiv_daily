@@ -39,6 +39,7 @@
 
 ## Image Matching
 
+- 2023-07-02, **TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2307.00485v1](http://arxiv.org/abs/2307.00485v1), Code: **[https://github.com/truongkhang/topicfm](https://github.com/truongkhang/topicfm)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
@@ -62,7 +63,6 @@
 - 2022-11-19, **Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**, Fan Li et.al., Paper: [http://arxiv.org/abs/2211.08657v2](http://arxiv.org/abs/2211.08657v2), Code: **[https://github.com/lhf12278/saa](https://github.com/lhf12278/saa)**
 - 2022-10-07, **Mars Rover Localization Based on A2G Obstacle Distribution Pattern Matching**, Lang Zhou et.al., Paper: [http://arxiv.org/abs/2210.03398v1](http://arxiv.org/abs/2210.03398v1), Code: **[https://github.com/Mars-Rover-Localization/A2G-Localization](https://github.com/Mars-Rover-Localization/A2G-Localization)**
 - 2022-09-27, **Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2209.13586v1](http://arxiv.org/abs/2209.13586v1), Code: **[https://github.com/prbonn/descriptor-dr](https://github.com/prbonn/descriptor-dr)**
-- 2022-08-30, **ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer**, Hongkai Chen et.al., Paper: [http://arxiv.org/abs/2208.14201v1](http://arxiv.org/abs/2208.14201v1), Code: **[https://github.com/apple/ml-aspanformer](https://github.com/apple/ml-aspanformer)**
 
 ## Keypoint Detection
 
