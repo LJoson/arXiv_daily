@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.07.08
+> Updated on 2023.07.09
 
 ## NeRF
 
@@ -69,6 +69,7 @@
 
 - 2023-07-01, **SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**, Fabian Duffhauss et.al., Paper: [http://arxiv.org/abs/2307.00306v1](http://arxiv.org/abs/2307.00306v1), Code: **[https://github.com/boschresearch/symfm6d](https://github.com/boschresearch/symfm6d)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
+- 2023-06-28, **Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**, Ziqiao Weng et.al., Paper: [http://arxiv.org/abs/2306.07089v2](http://arxiv.org/abs/2306.07089v2), Code: **[https://github.com/m3dv/pulmonary-tree-repairing](https://github.com/m3dv/pulmonary-tree-repairing)**
 - 2023-05-30, **Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**, Supeng Wang et.al., Paper: [http://arxiv.org/abs/2305.18714v1](http://arxiv.org/abs/2305.18714v1), Code: **[https://github.com/wangsp1999/cd-research](https://github.com/wangsp1999/cd-research)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-05, **HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**, Canhui Tang et.al., Paper: [http://arxiv.org/abs/2305.03487v1](http://arxiv.org/abs/2305.03487v1), Code: **[https://github.com/hui-design/hd2reg](https://github.com/hui-design/hd2reg)**
