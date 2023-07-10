@@ -14,8 +14,6 @@
 - 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
 - 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
 - 2023-05-18, **ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**, Shoukang Hu et.al., Paper: [http://arxiv.org/abs/2305.11031v1](http://arxiv.org/abs/2305.11031v1), Code: **[https://github.com/skhu101/consistentnerf](https://github.com/skhu101/consistentnerf)**
-- 2023-05-17, **MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**, Dominik Zimny et.al., Paper: [http://arxiv.org/abs/2305.10579v1](http://arxiv.org/abs/2305.10579v1), Code: **[https://github.com/gmum/multiplanenerf](https://github.com/gmum/multiplanenerf)**
-- 2023-05-24, **OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**, Youtan Yin et.al., Paper: [http://arxiv.org/abs/2305.10503v2](http://arxiv.org/abs/2305.10503v2), Code: **[https://github.com/cuteyyt/or-nerf](https://github.com/cuteyyt/or-nerf)**
 
 ## Visual Localization
 
