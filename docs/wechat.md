@@ -12,7 +12,6 @@
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
 - 2023-05-24, **3D Open-vocabulary Segmentation with Foundation Models**, Kunhao Liu et.al., Paper: [http://arxiv.org/abs/2305.14093v2](http://arxiv.org/abs/2305.14093v2), Code: **[https://github.com/kunhao-liu/3d-ovs](https://github.com/kunhao-liu/3d-ovs)**
-- 2023-05-22, **NeRFuser: Large-Scale Scene Representation by NeRF Fusion**, Jiading Fang et.al., Paper: [http://arxiv.org/abs/2305.13307v1](http://arxiv.org/abs/2305.13307v1), Code: **[https://github.com/ripl/nerfuser](https://github.com/ripl/nerfuser)**
 
 ## Visual Localization
 
@@ -31,8 +30,6 @@
 - 2023-04-12, **Are Local Features All You Need for Cross-Domain Visual Place Recognition?**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2304.05887v1](http://arxiv.org/abs/2304.05887v1), Code: **[https://github.com/gbarbarani/re-ranking-for-vpr](https://github.com/gbarbarani/re-ranking-for-vpr)**
 - 2023-04-14, **Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**, Xingwu Ji et.al., Paper: [http://arxiv.org/abs/2304.05146v2](http://arxiv.org/abs/2304.05146v2), Code: **[https://github.com/jixingwu/ss-lcd](https://github.com/jixingwu/ss-lcd)**
 - 2023-04-06, **Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**, Viktor Walter et.al., Paper: [http://arxiv.org/abs/2304.03057v1](http://arxiv.org/abs/2304.03057v1), Code: **[https://github.com/ctu-mrs/difec-ron](https://github.com/ctu-mrs/difec-ron)**
-- 2023-03-30, **3D Line Mapping Revisited**, Shaohui Liu et.al., Paper: [http://arxiv.org/abs/2303.17504v1](http://arxiv.org/abs/2303.17504v1), Code: **[https://github.com/cvg/limap](https://github.com/cvg/limap)**
-- 2023-03-24, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v1](http://arxiv.org/abs/2303.14095v1), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
 
 ## Image Matching
 
