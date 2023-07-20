@@ -14,6 +14,7 @@
 - 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903v1](http://arxiv.org/abs/2306.02903v1), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
+- 2023-05-31, **Towards a Robust Framework for NeRF Evaluation**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2305.18079v3](http://arxiv.org/abs/2305.18079v3), Code: **[https://github.com/azzarelli/wape](https://github.com/azzarelli/wape)**
 
 ## Visual Localization
 
@@ -32,7 +33,6 @@
 - 2023-04-12, **Visual Localization using Imperfect 3D Models from the Internet**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2304.05947v1](http://arxiv.org/abs/2304.05947v1), Code: **[https://github.com/v-pnk/cadloc](https://github.com/v-pnk/cadloc)**
 - 2023-04-12, **Are Local Features All You Need for Cross-Domain Visual Place Recognition?**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2304.05887v1](http://arxiv.org/abs/2304.05887v1), Code: **[https://github.com/gbarbarani/re-ranking-for-vpr](https://github.com/gbarbarani/re-ranking-for-vpr)**
 - 2023-04-14, **Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency**, Xingwu Ji et.al., Paper: [http://arxiv.org/abs/2304.05146v2](http://arxiv.org/abs/2304.05146v2), Code: **[https://github.com/jixingwu/ss-lcd](https://github.com/jixingwu/ss-lcd)**
-- 2023-04-06, **Distributed formation-enforcing control for UAVs robust to observation noise in relative pose measurements**, Viktor Walter et.al., Paper: [http://arxiv.org/abs/2304.03057v1](http://arxiv.org/abs/2304.03057v1), Code: **[https://github.com/ctu-mrs/difec-ron](https://github.com/ctu-mrs/difec-ron)**
 
 ## Image Matching
 
@@ -79,5 +79,4 @@
 - 2022-12-28, **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**, Kuan-Chieh Wang et.al., Paper: [http://arxiv.org/abs/2212.13660v1](http://arxiv.org/abs/2212.13660v1), Code: **[https://github.com/wangkua1/nemo-cvpr2023](https://github.com/wangkua1/nemo-cvpr2023)**
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1), Code: **[https://github.com/verlab/learningtodetect_sibgrapi_2022](https://github.com/verlab/learningtodetect_sibgrapi_2022)**
 - 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
-- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 
