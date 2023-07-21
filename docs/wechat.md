@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.07.20
+> Updated on 2023.07.21
 
 ## NeRF
 
@@ -78,5 +78,5 @@
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2022-12-28, **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**, Kuan-Chieh Wang et.al., Paper: [http://arxiv.org/abs/2212.13660v1](http://arxiv.org/abs/2212.13660v1), Code: **[https://github.com/wangkua1/nemo-cvpr2023](https://github.com/wangkua1/nemo-cvpr2023)**
 - 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1), Code: **[https://github.com/verlab/learningtodetect_sibgrapi_2022](https://github.com/verlab/learningtodetect_sibgrapi_2022)**
-- 2022-12-07, **ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v1](http://arxiv.org/abs/2212.04246v1), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
+- 2023-07-12, **ViTPose++: Vision Transformer Foundation Model for Generic Body Pose Estimation**, Yufei Xu et.al., Paper: [http://arxiv.org/abs/2212.04246v2](http://arxiv.org/abs/2212.04246v2), Code: **[https://github.com/vitae-transformer/vitpose](https://github.com/vitae-transformer/vitpose)**
 
