@@ -16,7 +16,6 @@
 - 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903v1](http://arxiv.org/abs/2306.02903v1), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
 - 2023-06-01, **Analyzing the Internals of Neural Radiance Fields**, Lukas Radl et.al., Paper: [http://arxiv.org/abs/2306.00696v1](http://arxiv.org/abs/2306.00696v1), Code: **[https://github.com/r4dl/nerfinternals](https://github.com/r4dl/nerfinternals)**
 - 2023-05-30, **Template-free Articulated Neural Point Clouds for Reposable View Synthesis**, Lukas Uzolas et.al., Paper: [http://arxiv.org/abs/2305.19065v1](http://arxiv.org/abs/2305.19065v1), Code: **[https://github.com/lukasuz/articulated-point-nerf](https://github.com/lukasuz/articulated-point-nerf)**
-- 2023-05-31, **Towards a Robust Framework for NeRF Evaluation**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2305.18079v3](http://arxiv.org/abs/2305.18079v3), Code: **[https://github.com/azzarelli/wape](https://github.com/azzarelli/wape)**
 
 ## Visual Localization
 
