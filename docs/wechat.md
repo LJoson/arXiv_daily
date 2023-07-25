@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.07.24
+> Updated on 2023.07.25
 
 ## NeRF
 
@@ -9,7 +9,7 @@
 - 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153v2](http://arxiv.org/abs/2307.09153v2), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
 - 2023-07-16, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v1](http://arxiv.org/abs/2307.08093v1), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
-- 2023-06-30, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v1](http://arxiv.org/abs/2306.17843v1), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
+- 2023-07-23, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v2](http://arxiv.org/abs/2306.17843v2), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
 - 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
 - 2023-06-08, **Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**, Qianqiu Tan et.al., Paper: [http://arxiv.org/abs/2306.05303v1](http://arxiv.org/abs/2306.05303v1), Code: **[https://github.com/tanqianq/enhance-nerf](https://github.com/tanqianq/enhance-nerf)**
 - 2023-06-05, **H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**, Chenxing Jiang et.al., Paper: [http://arxiv.org/abs/2306.03207v1](http://arxiv.org/abs/2306.03207v1), Code: **[https://github.com/sysu-star/h2-mapping](https://github.com/sysu-star/h2-mapping)**
