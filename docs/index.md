@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**|Xiangyu Wang et.al.|[2307.15131v1](http://arxiv.org/abs/2307.15131v1)|**[link](https://github.com/windingwind/seal-3d)**|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664v1](http://arxiv.org/abs/2307.10664v1)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860v1](http://arxiv.org/abs/2307.09860v1)|**[link](https://github.com/uhhhci/immersive-ngp)**|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
@@ -19,7 +20,6 @@ layout: default
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-08**|**Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**|Qianqiu Tan et.al.|[2306.05303v1](http://arxiv.org/abs/2306.05303v1)|**[link](https://github.com/tanqianq/enhance-nerf)**|
 |**2023-06-05**|**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2306.03207v1](http://arxiv.org/abs/2306.03207v1)|**[link](https://github.com/sysu-star/h2-mapping)**|
-|**2023-06-05**|**Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**|Shaoxu Li et.al.|[2306.02903v1](http://arxiv.org/abs/2306.02903v1)|**[link](https://github.com/lsx0101/instruct-video2avatar)**|
 
 ## Visual Localization
 
@@ -69,7 +69,6 @@ layout: default
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee et.al.|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
 |**2023-03-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v3](http://arxiv.org/abs/2211.15069v3)|**[link](https://github.com/sjtu-visys/featurebooster)**|
-|**2022-11-19**|**Person Text-Image Matching via Text-Feature Interpretability Embedding and External Attack Node Implantation**|Fan Li et.al.|[2211.08657v2](http://arxiv.org/abs/2211.08657v2)|**[link](https://github.com/lhf12278/saa)**|
 
 ## Keypoint Detection
 
