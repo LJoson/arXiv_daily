@@ -1,10 +1,11 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.08.01
+> Updated on 2023.08.02
 
 ## NeRF
 
 - 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
+- 2023-07-27, **MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**, Zirui Wu et.al., Paper: [http://arxiv.org/abs/2307.15058v1](http://arxiv.org/abs/2307.15058v1), Code: **[https://github.com/open-air-sun/mars](https://github.com/open-air-sun/mars)**
 - 2023-07-20, **Lighting up NeRF via Unsupervised Decomposition and Enhancement**, Haoyuan Wang et.al., Paper: [http://arxiv.org/abs/2307.10664v1](http://arxiv.org/abs/2307.10664v1), Code: **[https://github.com/onpix/LLNeRF](https://github.com/onpix/LLNeRF)**
 - 2023-07-19, **Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2307.09860v1](http://arxiv.org/abs/2307.09860v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
