@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.08.02
+> Updated on 2023.08.03
 
 ## NeRF
 
@@ -17,6 +17,7 @@
 
 ## Visual Localization
 
+- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-17, **NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2307.08221v1](http://arxiv.org/abs/2307.08221v1), Code: **[https://github.com/SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC)**
 - 2023-07-11, **ResMatch: Residual Attention Learning for Local Feature Matching**, Yuxin Deng et.al., Paper: [http://arxiv.org/abs/2307.05180v1](http://arxiv.org/abs/2307.05180v1), Code: **[https://github.com/acuooooo/resmatch](https://github.com/acuooooo/resmatch)**
 - 2023-07-10, **RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**, Hyesu Jang et.al., Paper: [http://arxiv.org/abs/2307.04321v1](http://arxiv.org/abs/2307.04321v1), Code: **[https://github.com/hyesu-jang/raplace](https://github.com/hyesu-jang/raplace)**
@@ -35,7 +36,7 @@
 
 ## Image Matching
 
-- 2023-08-01, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v1](http://arxiv.org/abs/2308.00400v1), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
+- 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
 - 2023-07-11, **TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**, Paul Grimal et.al., Paper: [http://arxiv.org/abs/2307.05134v1](http://arxiv.org/abs/2307.05134v1), Code: **[https://github.com/grimalpaul/tiam](https://github.com/grimalpaul/tiam)**
 - 2023-07-02, **TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2307.00485v1](http://arxiv.org/abs/2307.00485v1), Code: **[https://github.com/truongkhang/topicfm](https://github.com/truongkhang/topicfm)**
@@ -62,7 +63,7 @@
 
 ## Keypoint Detection
 
-- 2023-07-29, **Transformer on Shuttlecock Flying Direction Prediction for Hit-frame Detection**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v1](http://arxiv.org/abs/2307.16000v1), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
+- 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
 - 2023-07-01, **SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**, Fabian Duffhauss et.al., Paper: [http://arxiv.org/abs/2307.00306v1](http://arxiv.org/abs/2307.00306v1), Code: **[https://github.com/boschresearch/symfm6d](https://github.com/boschresearch/symfm6d)**
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
