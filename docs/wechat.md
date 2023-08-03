@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-08-02, **Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**, Michael Gableman et.al., Paper: [http://arxiv.org/abs/2308.01262v1](http://arxiv.org/abs/2308.01262v1), Code: **[https://github.com/enterprisecv-6/season-nerf](https://github.com/enterprisecv-6/season-nerf)**
 - 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
 - 2023-07-27, **MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**, Zirui Wu et.al., Paper: [http://arxiv.org/abs/2307.15058v1](http://arxiv.org/abs/2307.15058v1), Code: **[https://github.com/open-air-sun/mars](https://github.com/open-air-sun/mars)**
 - 2023-07-20, **Lighting up NeRF via Unsupervised Decomposition and Enhancement**, Haoyuan Wang et.al., Paper: [http://arxiv.org/abs/2307.10664v1](http://arxiv.org/abs/2307.10664v1), Code: **[https://github.com/onpix/LLNeRF](https://github.com/onpix/LLNeRF)**
