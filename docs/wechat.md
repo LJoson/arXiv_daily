@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
 - 2023-08-02, **Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**, Michael Gableman et.al., Paper: [http://arxiv.org/abs/2308.01262v1](http://arxiv.org/abs/2308.01262v1), Code: **[https://github.com/enterprisecv-6/season-nerf](https://github.com/enterprisecv-6/season-nerf)**
 - 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
 - 2023-07-27, **MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**, Zirui Wu et.al., Paper: [http://arxiv.org/abs/2307.15058v1](http://arxiv.org/abs/2307.15058v1), Code: **[https://github.com/open-air-sun/mars](https://github.com/open-air-sun/mars)**
@@ -14,7 +15,6 @@
 - 2023-07-16, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v1](http://arxiv.org/abs/2307.08093v1), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
 - 2023-07-23, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v2](http://arxiv.org/abs/2306.17843v2), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
 - 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
-- 2023-06-08, **Enhance-NeRF: Multiple Performance Evaluation for Neural Radiance Fields**, Qianqiu Tan et.al., Paper: [http://arxiv.org/abs/2306.05303v1](http://arxiv.org/abs/2306.05303v1), Code: **[https://github.com/tanqianq/enhance-nerf](https://github.com/tanqianq/enhance-nerf)**
 
 ## Visual Localization
 
