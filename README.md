@@ -16,6 +16,7 @@
 |**2023-07-19**|**OPHAvatars: One-shot Photo-realistic Head Avatars**|Shaoxu Li et.al.|[2307.09153v2](http://arxiv.org/abs/2307.09153v2)|**[link](https://github.com/lsx0101/ophavatars)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-23**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843v2](http://arxiv.org/abs/2306.17843v2)|**[link](https://github.com/guochengqian/magic123)**|
+|**2023-07-26**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v3](http://arxiv.org/abs/2306.17723v3)|**[link](https://github.com/shawn615/FlipNeRF)**|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 
 ## Visual Localization
