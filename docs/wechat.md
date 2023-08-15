@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-08-14, **Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**, Eugen Šlapak et.al., Paper: [http://arxiv.org/abs/2308.07118v1](http://arxiv.org/abs/2308.07118v1), Code: **[https://github.com/maftej/iisnerf](https://github.com/maftej/iisnerf)**
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
 - 2023-08-02, **Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**, Michael Gableman et.al., Paper: [http://arxiv.org/abs/2308.01262v1](http://arxiv.org/abs/2308.01262v1), Code: **[https://github.com/enterprisecv-6/season-nerf](https://github.com/enterprisecv-6/season-nerf)**
 - 2023-07-27, **Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2307.15131v1](http://arxiv.org/abs/2307.15131v1), Code: **[https://github.com/windingwind/seal-3d](https://github.com/windingwind/seal-3d)**
@@ -62,6 +63,7 @@
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
 - 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
+- 2023-03-28, **FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**, Xinjiang Wang et.al., Paper: [http://arxiv.org/abs/2211.15069v3](http://arxiv.org/abs/2211.15069v3), Code: **[https://github.com/sjtu-visys/featurebooster](https://github.com/sjtu-visys/featurebooster)**
 
 ## Keypoint Detection
 
