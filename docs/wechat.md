@@ -67,6 +67,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
 - 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
 - 2023-07-01, **SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**, Fabian Duffhauss et.al., Paper: [http://arxiv.org/abs/2307.00306v1](http://arxiv.org/abs/2307.00306v1), Code: **[https://github.com/boschresearch/symfm6d](https://github.com/boschresearch/symfm6d)**
@@ -83,5 +84,4 @@
 - 2023-02-03, **Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2302.01593v1](http://arxiv.org/abs/2302.01593v1), Code: **[https://github.com/idea-research/ed-pose](https://github.com/idea-research/ed-pose)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2022-12-28, **NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**, Kuan-Chieh Wang et.al., Paper: [http://arxiv.org/abs/2212.13660v1](http://arxiv.org/abs/2212.13660v1), Code: **[https://github.com/wangkua1/nemo-cvpr2023](https://github.com/wangkua1/nemo-cvpr2023)**
-- 2022-12-13, **Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**, Welerson Melo et.al., Paper: [http://arxiv.org/abs/2212.09589v1](http://arxiv.org/abs/2212.09589v1), Code: **[https://github.com/verlab/learningtodetect_sibgrapi_2022](https://github.com/verlab/learningtodetect_sibgrapi_2022)**
 
