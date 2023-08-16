@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.08.15
+> Updated on 2023.08.16
 
 ## NeRF
 
@@ -13,7 +13,7 @@
 - 2023-07-19, **Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2307.09860v1](http://arxiv.org/abs/2307.09860v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153v2](http://arxiv.org/abs/2307.09153v2), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
-- 2023-07-16, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v1](http://arxiv.org/abs/2307.08093v1), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
+- 2023-08-15, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v2](http://arxiv.org/abs/2307.08093v2), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
 - 2023-07-23, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v2](http://arxiv.org/abs/2306.17843v2), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
 - 2023-08-14, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v4](http://arxiv.org/abs/2306.17723v4), Code: **[https://github.com/shawn615/FlipNeRF](https://github.com/shawn615/FlipNeRF)**
 - 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
@@ -26,7 +26,7 @@
 - 2023-07-10, **RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**, Hyesu Jang et.al., Paper: [http://arxiv.org/abs/2307.04321v1](http://arxiv.org/abs/2307.04321v1), Code: **[https://github.com/hyesu-jang/raplace](https://github.com/hyesu-jang/raplace)**
 - 2023-05-29, **Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2305.18260v1](http://arxiv.org/abs/2305.18260v1), Code: **[https://github.com/danielcoelho112/synfeal](https://github.com/danielcoelho112/synfeal)**
 - 2023-05-23, **Leveraging BEV Representation for 360-degree Visual Place Recognition**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2305.13814v1](http://arxiv.org/abs/2305.13814v1), Code: **[https://github.com/maverickpeter/vdisco](https://github.com/maverickpeter/vdisco)**
-- 2023-05-20, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v1](http://arxiv.org/abs/2305.12250v1), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
+- 2023-08-15, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v2](http://arxiv.org/abs/2305.12250v2), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
 - 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
