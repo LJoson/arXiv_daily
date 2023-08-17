@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530v1](http://arxiv.org/abs/2308.08530v1)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v2](http://arxiv.org/abs/2308.07118v2)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-05**|**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**|Yanqi Bao et.al.|[2308.02908v1](http://arxiv.org/abs/2308.02908v1)|**[link](https://github.com/bbbbby-99/wah-nerf)**|
 |**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262v1](http://arxiv.org/abs/2308.01262v1)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
@@ -75,8 +76,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v1](http://arxiv.org/abs/2308.08479v1)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
-|**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
+|**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669v1](http://arxiv.org/abs/2306.15669v1)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
