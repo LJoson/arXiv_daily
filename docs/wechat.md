@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
+- 2023-08-18, **DReg-NeRF: Deep Registration for Neural Radiance Fields**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2308.09386v1](http://arxiv.org/abs/2308.09386v1), Code: **[https://github.com/aibluefisher/dreg-nerf](https://github.com/aibluefisher/dreg-nerf)**
 - 2023-08-17, **Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2308.08530v2](http://arxiv.org/abs/2308.08530v2), Code: **[https://github.com/gkouros/ref-dvgo](https://github.com/gkouros/ref-dvgo)**
 - 2023-08-16, **Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**, Eugen Šlapak et.al., Paper: [http://arxiv.org/abs/2308.07118v2](http://arxiv.org/abs/2308.07118v2), Code: **[https://github.com/maftej/iisnerf](https://github.com/maftej/iisnerf)**
 - 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
@@ -17,7 +19,6 @@
 - 2023-08-15, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v2](http://arxiv.org/abs/2307.08093v2), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
 - 2023-07-23, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v2](http://arxiv.org/abs/2306.17843v2), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
 - 2023-08-14, **FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**, Seunghyeon Seo et.al., Paper: [http://arxiv.org/abs/2306.17723v4](http://arxiv.org/abs/2306.17723v4), Code: **[https://github.com/shawn615/FlipNeRF](https://github.com/shawn615/FlipNeRF)**
-- 2023-06-21, **Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**, Qiuyu Wang et.al., Paper: [http://arxiv.org/abs/2306.12423v1](http://arxiv.org/abs/2306.12423v1), Code: **[https://github.com/qiuyu96/carver](https://github.com/qiuyu96/carver)**
 
 ## Visual Localization
 
@@ -36,7 +37,6 @@
 - 2023-04-17, **NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2304.07979v1](http://arxiv.org/abs/2304.07979v1), Code: **[https://github.com/jenningsl/nerf-loc](https://github.com/jenningsl/nerf-loc)**
 - 2023-04-17, **You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**, Matteo Toso et.al., Paper: [http://arxiv.org/abs/2304.06373v3](http://arxiv.org/abs/2304.06373v3), Code: **[https://github.com/IIT-PAVIS/Flatlandia](https://github.com/IIT-PAVIS/Flatlandia)**
 - 2023-04-12, **Visual Localization using Imperfect 3D Models from the Internet**, Vojtech Panek et.al., Paper: [http://arxiv.org/abs/2304.05947v1](http://arxiv.org/abs/2304.05947v1), Code: **[https://github.com/v-pnk/cadloc](https://github.com/v-pnk/cadloc)**
-- 2023-04-12, **Are Local Features All You Need for Cross-Domain Visual Place Recognition?**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2304.05887v1](http://arxiv.org/abs/2304.05887v1), Code: **[https://github.com/gbarbarani/re-ranking-for-vpr](https://github.com/gbarbarani/re-ranking-for-vpr)**
 
 ## Image Matching
 
