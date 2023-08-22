@@ -30,6 +30,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832v1](http://arxiv.org/abs/2308.10832v1)|**[link](https://github.com/gmberton/eigenplaces)**|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|**[link](https://github.com/acuooooo/resmatch)**|
@@ -44,7 +45,6 @@ layout: default
 |**2023-06-11**|**SFD2: Semantic-guided Feature Detection and Description**|Fei Xue et.al.|[2304.14845v2](http://arxiv.org/abs/2304.14845v2)|**[link](https://github.com/feixue94/sfd2)**|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979v1](http://arxiv.org/abs/2304.07979v1)|**[link](https://github.com/jenningsl/nerf-loc)**|
 |**2023-04-17**|**You are here! Finding position and orientation on a 2D map from a single image: The Flatlandia localization problem and dataset**|Matteo Toso et.al.|[2304.06373v3](http://arxiv.org/abs/2304.06373v3)|**[link](https://github.com/IIT-PAVIS/Flatlandia)**|
-|**2023-04-12**|**Visual Localization using Imperfect 3D Models from the Internet**|Vojtech Panek et.al.|[2304.05947v1](http://arxiv.org/abs/2304.05947v1)|**[link](https://github.com/v-pnk/cadloc)**|
 
 ## Image Matching
 
@@ -74,7 +74,6 @@ layout: default
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
 |**2023-01-27**|**Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**|Farzad Beizaee et.al.|[2301.11551v1](http://arxiv.org/abs/2301.11551v1)|**[link](https://github.com/farzad-bz/harmonizing-flows)**|
 |**2022-12-14**|**Shared Coupling-bridge for Weakly Supervised Local Feature Learning**|Jiayuan Sun et.al.|[2212.07047v1](http://arxiv.org/abs/2212.07047v1)|**[link](https://github.com/sunjiayuanro/scfeat)**|
-|**2023-03-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v3](http://arxiv.org/abs/2211.15069v3)|**[link](https://github.com/sjtu-visys/featurebooster)**|
 
 ## Keypoint Detection
 
@@ -97,5 +96,4 @@ layout: default
 |**2023-02-09**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Yuhe Ding et.al.|[2302.04589v1](http://arxiv.org/abs/2302.04589v1)|**[link](https://github.com/yuhed/maps)**|
 |**2023-02-03**|**Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation**|Jie Yang et.al.|[2302.01593v1](http://arxiv.org/abs/2302.01593v1)|**[link](https://github.com/idea-research/ed-pose)**|
 |**2023-02-03**|**Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**|Yingying Zhu et.al.|[2302.01572v1](http://arxiv.org/abs/2302.01572v1)|**[link](https://github.com/yanghongji2007/saig)**|
-|**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660v1](http://arxiv.org/abs/2212.13660v1)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
 
