@@ -19,10 +19,10 @@
 - 2023-07-18, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v1](http://arxiv.org/abs/2307.09323v1), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153v2](http://arxiv.org/abs/2307.09153v2), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
 - 2023-08-15, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v2](http://arxiv.org/abs/2307.08093v2), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
-- 2023-07-23, **Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**, Guocheng Qian et.al., Paper: [http://arxiv.org/abs/2306.17843v2](http://arxiv.org/abs/2306.17843v2), Code: **[https://github.com/guochengqian/magic123](https://github.com/guochengqian/magic123)**
 
 ## Visual Localization
 
+- 2023-08-23, **OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**, Tao Xie et.al., Paper: [http://arxiv.org/abs/2308.11928v1](http://arxiv.org/abs/2308.11928v1), Code: **[https://github.com/mooncake199809/ufvl-net](https://github.com/mooncake199809/ufvl-net)**
 - 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/eigenplaces](https://github.com/gmberton/eigenplaces)**
 - 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-17, **NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2307.08221v1](http://arxiv.org/abs/2307.08221v1), Code: **[https://github.com/SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC)**
@@ -67,6 +67,7 @@
 
 ## Keypoint Detection
 
+- 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1), Code: **[https://github.com/idea-research/click-pose](https://github.com/idea-research/click-pose)**
 - 2023-08-16, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v1](http://arxiv.org/abs/2308.08479v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
 - 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**
