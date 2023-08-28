@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-08-25, **Relighting Neural Radiance Fields with Shadow and Highlight Hints**, Chong Zeng et.al., Paper: [http://arxiv.org/abs/2308.13404v1](http://arxiv.org/abs/2308.13404v1), Code: **[https://github.com/iamNCJ/NRHints](https://github.com/iamNCJ/NRHints)**
 - 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
 - 2023-08-18, **DReg-NeRF: Deep Registration for Neural Radiance Fields**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2308.09386v1](http://arxiv.org/abs/2308.09386v1), Code: **[https://github.com/aibluefisher/dreg-nerf](https://github.com/aibluefisher/dreg-nerf)**
 - 2023-08-17, **Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language**, Francesco Taioli et.al., Paper: [http://arxiv.org/abs/2308.08854v1](http://arxiv.org/abs/2308.08854v1), Code: **[https://github.com/intelligolabs/Le-RNR-Map](https://github.com/intelligolabs/Le-RNR-Map)**
