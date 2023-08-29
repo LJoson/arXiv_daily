@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
 - 2023-08-25, **Relighting Neural Radiance Fields with Shadow and Highlight Hints**, Chong Zeng et.al., Paper: [http://arxiv.org/abs/2308.13404v1](http://arxiv.org/abs/2308.13404v1), Code: **[https://github.com/iamNCJ/NRHints](https://github.com/iamNCJ/NRHints)**
 - 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
 - 2023-08-18, **DReg-NeRF: Deep Registration for Neural Radiance Fields**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2308.09386v1](http://arxiv.org/abs/2308.09386v1), Code: **[https://github.com/aibluefisher/dreg-nerf](https://github.com/aibluefisher/dreg-nerf)**
@@ -18,8 +19,6 @@
 - 2023-07-20, **Lighting up NeRF via Unsupervised Decomposition and Enhancement**, Haoyuan Wang et.al., Paper: [http://arxiv.org/abs/2307.10664v1](http://arxiv.org/abs/2307.10664v1), Code: **[https://github.com/onpix/LLNeRF](https://github.com/onpix/LLNeRF)**
 - 2023-07-19, **Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**, Ke Li et.al., Paper: [http://arxiv.org/abs/2307.09860v1](http://arxiv.org/abs/2307.09860v1), Code: **[https://github.com/uhhhci/immersive-ngp](https://github.com/uhhhci/immersive-ngp)**
 - 2023-08-24, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323v2](http://arxiv.org/abs/2307.09323v2), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
-- 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153v2](http://arxiv.org/abs/2307.09153v2), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
-- 2023-08-15, **Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**, Yifan Yang et.al., Paper: [http://arxiv.org/abs/2307.08093v2](http://arxiv.org/abs/2307.08093v2), Code: **[https://github.com/yifyang993/cr-nerf-pytorch](https://github.com/yifyang993/cr-nerf-pytorch)**
 
 ## Visual Localization
 
