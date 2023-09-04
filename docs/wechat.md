@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 - 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
 - 2023-08-25, **Relighting Neural Radiance Fields with Shadow and Highlight Hints**, Chong Zeng et.al., Paper: [http://arxiv.org/abs/2308.13404v1](http://arxiv.org/abs/2308.13404v1), Code: **[https://github.com/iamNCJ/NRHints](https://github.com/iamNCJ/NRHints)**
@@ -81,5 +82,4 @@
 - 2023-07-28, **PanoVPR: Towards Unified Perspective-to-Equirectangular Visual Place Recognition via Sliding Windows across the Panoramic View**, Ze Shi et.al., Paper: [http://arxiv.org/abs/2303.14095v2](http://arxiv.org/abs/2303.14095v2), Code: **[https://github.com/zafirshi/panovpr](https://github.com/zafirshi/panovpr)**
 - 2023-03-22, **Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**, Heng Yang et.al., Paper: [http://arxiv.org/abs/2303.12246v1](http://arxiv.org/abs/2303.12246v1), Code: **[https://github.com/nvlabs/conformalkeypoint](https://github.com/nvlabs/conformalkeypoint)**
 - 2023-05-01, **KGNv2: Separating Scale and Pose Prediction for Keypoint-based 6-DoF Grasp Synthesis on RGB-D input**, Yiye Chen et.al., Paper: [http://arxiv.org/abs/2303.05617v3](http://arxiv.org/abs/2303.05617v3), Code: **[https://github.com/ivalab/kgn](https://github.com/ivalab/kgn)**
-- 2023-02-09, **MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**, Yuhe Ding et.al., Paper: [http://arxiv.org/abs/2302.04589v1](http://arxiv.org/abs/2302.04589v1), Code: **[https://github.com/yuhed/maps](https://github.com/yuhed/maps)**
 
