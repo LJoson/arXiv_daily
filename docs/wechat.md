@@ -37,6 +37,7 @@
 
 ## Image Matching
 
+- 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
 - 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
@@ -61,10 +62,10 @@
 - 2023-02-10, **General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**, Kenji Koide et.al., Paper: [http://arxiv.org/abs/2302.05094v1](http://arxiv.org/abs/2302.05094v1), Code: **[https://github.com/koide3/direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration)**
 - 2023-02-03, **Simple, Effective and General: A New Backbone for Cross-view Image Geo-localization**, Yingying Zhu et.al., Paper: [http://arxiv.org/abs/2302.01572v1](http://arxiv.org/abs/2302.01572v1), Code: **[https://github.com/yanghongji2007/saig](https://github.com/yanghongji2007/saig)**
 - 2023-01-27, **Harmonizing Flows: Unsupervised MR harmonization based on normalizing flows**, Farzad Beizaee et.al., Paper: [http://arxiv.org/abs/2301.11551v1](http://arxiv.org/abs/2301.11551v1), Code: **[https://github.com/farzad-bz/harmonizing-flows](https://github.com/farzad-bz/harmonizing-flows)**
-- 2022-12-14, **Shared Coupling-bridge for Weakly Supervised Local Feature Learning**, Jiayuan Sun et.al., Paper: [http://arxiv.org/abs/2212.07047v1](http://arxiv.org/abs/2212.07047v1), Code: **[https://github.com/sunjiayuanro/scfeat](https://github.com/sunjiayuanro/scfeat)**
 
 ## Keypoint Detection
 
+- 2023-09-01, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v1](http://arxiv.org/abs/2309.00434v1), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
 - 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1), Code: **[https://github.com/idea-research/click-pose](https://github.com/idea-research/click-pose)**
 - 2023-09-03, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v2](http://arxiv.org/abs/2308.08479v2), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
