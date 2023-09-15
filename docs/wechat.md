@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-09-06, **Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2309.03185v1](http://arxiv.org/abs/2309.03185v1), Code: **[https://github.com/BayesRays/BayesRays](https://github.com/BayesRays/BayesRays)**
 - 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 - 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
@@ -14,10 +15,10 @@
 - 2023-08-21, **Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2308.08530v3](http://arxiv.org/abs/2308.08530v3), Code: **[https://github.com/gkouros/ref-dvgo](https://github.com/gkouros/ref-dvgo)**
 - 2023-08-16, **Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**, Eugen Šlapak et.al., Paper: [http://arxiv.org/abs/2308.07118v2](http://arxiv.org/abs/2308.07118v2), Code: **[https://github.com/maftej/iisnerf](https://github.com/maftej/iisnerf)**
 - 2023-08-14, **S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**, Zeke Xie et.al., Paper: [http://arxiv.org/abs/2308.07032v1](http://arxiv.org/abs/2308.07032v1), Code: **[https://github.com/madaoer/s3im_nerf](https://github.com/madaoer/s3im_nerf)**
-- 2023-08-05, **Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.02908v1](http://arxiv.org/abs/2308.02908v1), Code: **[https://github.com/bbbbby-99/wah-nerf](https://github.com/bbbbby-99/wah-nerf)**
 
 ## Visual Localization
 
+- 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-14, **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**, Jinze Bai et.al., Paper: [http://arxiv.org/abs/2308.12966v2](http://arxiv.org/abs/2308.12966v2), Code: **[https://github.com/qwenlm/qwen-vl](https://github.com/qwenlm/qwen-vl)**
 - 2023-08-23, **OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**, Tao Xie et.al., Paper: [http://arxiv.org/abs/2308.11928v1](http://arxiv.org/abs/2308.11928v1), Code: **[https://github.com/mooncake199809/ufvl-net](https://github.com/mooncake199809/ufvl-net)**
 - 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/eigenplaces](https://github.com/gmberton/eigenplaces)**
@@ -64,6 +65,7 @@
 
 ## Keypoint Detection
 
+- 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-12, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v2](http://arxiv.org/abs/2309.00434v2), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
 - 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1), Code: **[https://github.com/idea-research/click-pose](https://github.com/idea-research/click-pose)**
 - 2023-09-03, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v2](http://arxiv.org/abs/2308.08479v2), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
