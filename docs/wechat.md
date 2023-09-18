@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
+- 2023-09-15, **Breathing New Life into 3D Assets with Generative Repainting**, Tianfu Wang et.al., Paper: [http://arxiv.org/abs/2309.08523v1](http://arxiv.org/abs/2309.08523v1), Code: **[https://github.com/kongdai123/repainting_3d_assets](https://github.com/kongdai123/repainting_3d_assets)**
 - 2023-09-06, **Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2309.03185v1](http://arxiv.org/abs/2309.03185v1), Code: **[https://github.com/BayesRays/BayesRays](https://github.com/BayesRays/BayesRays)**
 - 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
@@ -14,7 +16,6 @@
 - 2023-08-17, **Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language**, Francesco Taioli et.al., Paper: [http://arxiv.org/abs/2308.08854v1](http://arxiv.org/abs/2308.08854v1), Code: **[https://github.com/intelligolabs/Le-RNR-Map](https://github.com/intelligolabs/Le-RNR-Map)**
 - 2023-08-21, **Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**, Georgios Kouros et.al., Paper: [http://arxiv.org/abs/2308.08530v3](http://arxiv.org/abs/2308.08530v3), Code: **[https://github.com/gkouros/ref-dvgo](https://github.com/gkouros/ref-dvgo)**
 - 2023-08-16, **Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**, Eugen Šlapak et.al., Paper: [http://arxiv.org/abs/2308.07118v2](http://arxiv.org/abs/2308.07118v2), Code: **[https://github.com/maftej/iisnerf](https://github.com/maftej/iisnerf)**
-- 2023-08-14, **S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**, Zeke Xie et.al., Paper: [http://arxiv.org/abs/2308.07032v1](http://arxiv.org/abs/2308.07032v1), Code: **[https://github.com/madaoer/s3im_nerf](https://github.com/madaoer/s3im_nerf)**
 
 ## Visual Localization
 
@@ -33,7 +34,6 @@
 - 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
 - 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
 - 2023-05-08, **Privacy-Preserving Representations are not Enough -- Recovering Scene Content from Camera Poses**, Kunal Chelani et.al., Paper: [http://arxiv.org/abs/2305.04603v1](http://arxiv.org/abs/2305.04603v1), Code: **[https://github.com/kunalchelani/objectpositioningfromposes](https://github.com/kunalchelani/objectpositioningfromposes)**
-- 2023-06-11, **SFD2: Semantic-guided Feature Detection and Description**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2304.14845v2](http://arxiv.org/abs/2304.14845v2), Code: **[https://github.com/feixue94/sfd2](https://github.com/feixue94/sfd2)**
 
 ## Image Matching
 
