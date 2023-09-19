@@ -1,11 +1,11 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.09.18
+> Updated on 2023.09.19
 
 ## NeRF
 
 - 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
-- 2023-09-15, **Breathing New Life into 3D Assets with Generative Repainting**, Tianfu Wang et.al., Paper: [http://arxiv.org/abs/2309.08523v1](http://arxiv.org/abs/2309.08523v1), Code: **[https://github.com/kongdai123/repainting_3d_assets](https://github.com/kongdai123/repainting_3d_assets)**
+- 2023-09-15, **Breathing New Life into 3D Assets with Generative Repainting**, Tianfu Wang et.al., Paper: [http://arxiv.org/abs/2309.08523v1](http://arxiv.org/abs/2309.08523v1), Code: **[https://github.com/toshas/remesh_isotropic_planar](https://github.com/toshas/remesh_isotropic_planar)**
 - 2023-09-06, **Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2309.03185v1](http://arxiv.org/abs/2309.03185v1), Code: **[https://github.com/BayesRays/BayesRays](https://github.com/BayesRays/BayesRays)**
 - 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
@@ -25,6 +25,7 @@
 - 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/eigenplaces](https://github.com/gmberton/eigenplaces)**
 - 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-17, **NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2307.08221v1](http://arxiv.org/abs/2307.08221v1), Code: **[https://github.com/SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC)**
+- 2023-07-20, **Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2307.08015v3](http://arxiv.org/abs/2307.08015v3), Code: **[https://github.com/shiyujiao/boosting3dofaccuracy](https://github.com/shiyujiao/boosting3dofaccuracy)**
 - 2023-07-11, **ResMatch: Residual Attention Learning for Local Feature Matching**, Yuxin Deng et.al., Paper: [http://arxiv.org/abs/2307.05180v1](http://arxiv.org/abs/2307.05180v1), Code: **[https://github.com/acuooooo/resmatch](https://github.com/acuooooo/resmatch)**
 - 2023-07-10, **RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**, Hyesu Jang et.al., Paper: [http://arxiv.org/abs/2307.04321v1](http://arxiv.org/abs/2307.04321v1), Code: **[https://github.com/hyesu-jang/raplace](https://github.com/hyesu-jang/raplace)**
 - 2023-05-29, **Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2305.18260v1](http://arxiv.org/abs/2305.18260v1), Code: **[https://github.com/danielcoelho112/synfeal](https://github.com/danielcoelho112/synfeal)**
