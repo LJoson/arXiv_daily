@@ -18,13 +18,12 @@ layout: default
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897v1](http://arxiv.org/abs/2308.13897v1)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-25**|**Relighting Neural Radiance Fields with Shadow and Highlight Hints**|Chong Zeng et.al.|[2308.13404v1](http://arxiv.org/abs/2308.13404v1)|**[link](https://github.com/iamNCJ/NRHints)**|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421v1](http://arxiv.org/abs/2308.09421v1)|**[link](https://github.com/cskkxjk/mononerd)**|
-|**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
-|**2023-08-17**|**Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field maps with natural language**|Francesco Taioli et.al.|[2308.08854v1](http://arxiv.org/abs/2308.08854v1)|**[link](https://github.com/intelligolabs/Le-RNR-Map)**|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-14**|**Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**|Jinze Bai et.al.|[2308.12966v2](http://arxiv.org/abs/2308.12966v2)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|**[link](https://github.com/mooncake199809/ufvl-net)**|
