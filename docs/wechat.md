@@ -11,7 +11,6 @@
 - 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 - 2023-08-26, **InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**, Yanqi Bao et.al., Paper: [http://arxiv.org/abs/2308.13897v1](http://arxiv.org/abs/2308.13897v1), Code: **[https://github.com/bbbbby-99/insertnerf](https://github.com/bbbbby-99/insertnerf)**
 - 2023-08-25, **Relighting Neural Radiance Fields with Shadow and Highlight Hints**, Chong Zeng et.al., Paper: [http://arxiv.org/abs/2308.13404v1](http://arxiv.org/abs/2308.13404v1), Code: **[https://github.com/iamNCJ/NRHints](https://github.com/iamNCJ/NRHints)**
-- 2023-08-18, **MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2308.09421v1](http://arxiv.org/abs/2308.09421v1), Code: **[https://github.com/cskkxjk/mononerd](https://github.com/cskkxjk/mononerd)**
 
 ## Visual Localization
 
@@ -30,7 +29,6 @@
 - 2023-08-15, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v2](http://arxiv.org/abs/2305.12250v2), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
-- 2023-05-09, **Eiffel Tower: A Deep-Sea Underwater Dataset for Long-Term Visual Localization**, Clémentin Boittiaux et.al., Paper: [http://arxiv.org/abs/2305.05301v1](http://arxiv.org/abs/2305.05301v1), Code: **[https://github.com/clementinboittiaux/sfm-pipeline](https://github.com/clementinboittiaux/sfm-pipeline)**
 
 ## Image Matching
 
