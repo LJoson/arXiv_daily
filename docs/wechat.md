@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-09-22, **NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2309.13039v1](http://arxiv.org/abs/2309.13039v1), Code: **[https://github.com/dawning77/nerrf](https://github.com/dawning77/nerrf)**
 - 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1), Code: **[https://github.com/FlorisE/neural-labeling](https://github.com/FlorisE/neural-labeling)**
 - 2023-09-20, **Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**, Ka Chun Shum et.al., Paper: [http://arxiv.org/abs/2309.11281v1](http://arxiv.org/abs/2309.11281v1), Code: **[https://github.com/kcshum/pose-conditioned-NeRF-object-fusion](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**
 - 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
