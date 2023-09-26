@@ -4,7 +4,7 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 
 ## NeRF
 
@@ -75,6 +75,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-12**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v2](http://arxiv.org/abs/2309.00434v2)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
