@@ -18,7 +18,6 @@ layout: default
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|**[link](https://github.com/BayesRays/BayesRays)**|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277v1](http://arxiv.org/abs/2309.00277v1)|**[link](https://github.com/lulinzhang/sps-nerf)**|
 |**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816v1](http://arxiv.org/abs/2308.14816v1)|**[link](https://github.com/intellabs/clnerf)**|
-|**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897v1](http://arxiv.org/abs/2308.13897v1)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 
 ## Visual Localization
 
