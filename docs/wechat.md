@@ -11,7 +11,6 @@
 - 2023-09-15, **Breathing New Life into 3D Assets with Generative Repainting**, Tianfu Wang et.al., Paper: [http://arxiv.org/abs/2309.08523v1](http://arxiv.org/abs/2309.08523v1), Code: **[https://github.com/kongdai123/repainting_3d_assets](https://github.com/kongdai123/repainting_3d_assets)**
 - 2023-09-06, **Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2309.03185v1](http://arxiv.org/abs/2309.03185v1), Code: **[https://github.com/BayesRays/BayesRays](https://github.com/BayesRays/BayesRays)**
 - 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
-- 2023-08-28, **CLNeRF: Continual Learning Meets NeRF**, Zhipeng Cai et.al., Paper: [http://arxiv.org/abs/2308.14816v1](http://arxiv.org/abs/2308.14816v1), Code: **[https://github.com/intellabs/clnerf](https://github.com/intellabs/clnerf)**
 
 ## Visual Localization
 
