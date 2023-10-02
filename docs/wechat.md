@@ -4,6 +4,9 @@
 
 ## NeRF
 
+- 2023-09-29, **Multi-task View Synthesis with Neural Radiance Fields**, Shuhong Zheng et.al., Paper: [http://arxiv.org/abs/2309.17450v1](http://arxiv.org/abs/2309.17450v1), Code: **[https://github.com/zsh2000/muvienerf](https://github.com/zsh2000/muvienerf)**
+- 2023-09-28, **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2309.16653v1](http://arxiv.org/abs/2309.16653v1), Code: **[https://github.com/dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)**
+- 2023-09-27, **NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**, Zhang Chen et.al., Paper: [http://arxiv.org/abs/2309.15426v1](http://arxiv.org/abs/2309.15426v1), Code: **[https://github.com/oppo-us-research/NeuRBF](https://github.com/oppo-us-research/NeuRBF)**
 - 2023-09-22, **NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2309.13039v1](http://arxiv.org/abs/2309.13039v1), Code: **[https://github.com/dawning77/nerrf](https://github.com/dawning77/nerrf)**
 - 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1), Code: **[https://github.com/FlorisE/neural-labeling](https://github.com/FlorisE/neural-labeling)**
 - 2023-09-25, **Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**, Ka Chun Shum et.al., Paper: [http://arxiv.org/abs/2309.11281v2](http://arxiv.org/abs/2309.11281v2), Code: **[https://github.com/kcshum/pose-conditioned-NeRF-object-fusion](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**
@@ -15,6 +18,7 @@
 
 ## Visual Localization
 
+- 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-19, **VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2309.10225v1](http://arxiv.org/abs/2309.10225v1), Code: **[https://github.com/QVPR/VPRTempo](https://github.com/QVPR/VPRTempo)**
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-14, **Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond**, Jinze Bai et.al., Paper: [http://arxiv.org/abs/2308.12966v2](http://arxiv.org/abs/2308.12966v2), Code: **[https://github.com/qwenlm/qwen-vl](https://github.com/qwenlm/qwen-vl)**
@@ -33,6 +37,7 @@
 
 ## Image Matching
 
+- 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
 - 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
