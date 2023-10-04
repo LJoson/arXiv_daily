@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-10-02, **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2310.00874v1](http://arxiv.org/abs/2310.00874v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2023-09-29, **Multi-task View Synthesis with Neural Radiance Fields**, Shuhong Zheng et.al., Paper: [http://arxiv.org/abs/2309.17450v1](http://arxiv.org/abs/2309.17450v1), Code: **[https://github.com/zsh2000/muvienerf](https://github.com/zsh2000/muvienerf)**
 - 2023-09-28, **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2309.16653v1](http://arxiv.org/abs/2309.16653v1), Code: **[https://github.com/dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)**
 - 2023-09-27, **NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**, Zhang Chen et.al., Paper: [http://arxiv.org/abs/2309.15426v1](http://arxiv.org/abs/2309.15426v1), Code: **[https://github.com/oppo-us-research/NeuRBF](https://github.com/oppo-us-research/NeuRBF)**
@@ -13,8 +14,6 @@
 - 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
 - 2023-09-15, **Breathing New Life into 3D Assets with Generative Repainting**, Tianfu Wang et.al., Paper: [http://arxiv.org/abs/2309.08523v1](http://arxiv.org/abs/2309.08523v1), Code: **[https://github.com/kongdai123/repainting_3d_assets](https://github.com/kongdai123/repainting_3d_assets)**
 - 2023-09-08, **DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**, Junzhe Zhang et.al., Paper: [http://arxiv.org/abs/2309.04410v1](http://arxiv.org/abs/2309.04410v1), Code: **[https://github.com/junzhezhang/deformtoon3d](https://github.com/junzhezhang/deformtoon3d)**
-- 2023-09-06, **Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**, Lily Goli et.al., Paper: [http://arxiv.org/abs/2309.03185v1](http://arxiv.org/abs/2309.03185v1), Code: **[https://github.com/BayesRays/BayesRays](https://github.com/BayesRays/BayesRays)**
-- 2023-09-01, **SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2309.00277v1](http://arxiv.org/abs/2309.00277v1), Code: **[https://github.com/lulinzhang/sps-nerf](https://github.com/lulinzhang/sps-nerf)**
 
 ## Visual Localization
 
@@ -33,7 +32,6 @@
 - 2023-05-23, **Leveraging BEV Representation for 360-degree Visual Place Recognition**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2305.13814v1](http://arxiv.org/abs/2305.13814v1), Code: **[https://github.com/maverickpeter/vdisco](https://github.com/maverickpeter/vdisco)**
 - 2023-08-15, **DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**, Javier Tirado-Garín et.al., Paper: [http://arxiv.org/abs/2305.12250v2](http://arxiv.org/abs/2305.12250v2), Code: **[https://github.com/javrtg/dac](https://github.com/javrtg/dac)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
-- 2023-05-11, **Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2305.07154v1](http://arxiv.org/abs/2305.07154v1), Code: **[https://github.com/mit-spark/hydra](https://github.com/mit-spark/hydra)**
 
 ## Image Matching
 
