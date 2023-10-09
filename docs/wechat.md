@@ -5,6 +5,7 @@
 ## NeRF
 
 - 2023-10-05, **Point-Based Radiance Fields for Controllable Human Motion Synthesis**, Haitao Yu et.al., Paper: [http://arxiv.org/abs/2310.03375v1](http://arxiv.org/abs/2310.03375v1), Code: **[https://github.com/dehezhang2/point_based_nerf_editing](https://github.com/dehezhang2/point_based_nerf_editing)**
+- 2023-10-03, **EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**, Anish Bhattacharya et.al., Paper: [http://arxiv.org/abs/2310.02437v1](http://arxiv.org/abs/2310.02437v1), Code: **[https://github.com/anish-bhattacharya/evdnerf](https://github.com/anish-bhattacharya/evdnerf)**
 - 2023-10-02, **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2310.00874v1](http://arxiv.org/abs/2310.00874v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2023-10-01, **How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**, Sicong Pan et.al., Paper: [http://arxiv.org/abs/2310.00684v1](http://arxiv.org/abs/2310.00684v1), Code: **[https://github.com/psc0628/nerf-prv](https://github.com/psc0628/nerf-prv)**
 - 2023-09-29, **Multi-task View Synthesis with Neural Radiance Fields**, Shuhong Zheng et.al., Paper: [http://arxiv.org/abs/2309.17450v1](http://arxiv.org/abs/2309.17450v1), Code: **[https://github.com/zsh2000/muvienerf](https://github.com/zsh2000/muvienerf)**
@@ -65,6 +66,7 @@
 
 ## Keypoint Detection
 
+- 2023-10-02, **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2310.01404v1](http://arxiv.org/abs/2310.01404v1), Code: **[https://github.com/YanjieZe/H-InDex](https://github.com/YanjieZe/H-InDex)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
 - 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
