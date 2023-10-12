@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.10.11
+> Updated on 2023.10.12
 
 ## NeRF
 
@@ -19,6 +19,7 @@
 
 ## Visual Localization
 
+- 2023-10-10, **3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**, Ghanta Sai Krishna et.al., Paper: [http://arxiv.org/abs/2310.06385v1](http://arxiv.org/abs/2310.06385v1), Code: **[https://github.com/sai-krishna-ghanta/3DS-SLAM](https://github.com/sai-krishna-ghanta/3DS-SLAM)**
 - 2023-10-08, **AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2310.05184v1](http://arxiv.org/abs/2310.05184v1), Code: **[https://github.com/Lu-Feng/AANet](https://github.com/Lu-Feng/AANet)**
 - 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-19, **VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2309.10225v1](http://arxiv.org/abs/2309.10225v1), Code: **[https://github.com/QVPR/VPRTempo](https://github.com/QVPR/VPRTempo)**
@@ -67,6 +68,7 @@
 
 - 2023-10-02, **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2310.01404v1](http://arxiv.org/abs/2310.01404v1), Code: **[https://github.com/YanjieZe/H-InDex](https://github.com/YanjieZe/H-InDex)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
+- 2023-09-26, **ObVi-SLAM: Long-Term Object-Visual SLAM**, Amanda Adkins et.al., Paper: [http://arxiv.org/abs/2309.15268v1](http://arxiv.org/abs/2309.15268v1), Code: **[https://github.com/ut-amrl/obvi-slam](https://github.com/ut-amrl/obvi-slam)**
 - 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-12, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v2](http://arxiv.org/abs/2309.00434v2), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
