@@ -14,6 +14,7 @@
 - 2023-09-22, **NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2309.13039v1](http://arxiv.org/abs/2309.13039v1), Code: **[https://github.com/dawning77/nerrf](https://github.com/dawning77/nerrf)**
 - 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1), Code: **[https://github.com/FlorisE/neural-labeling](https://github.com/FlorisE/neural-labeling)**
 - 2023-09-25, **Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**, Ka Chun Shum et.al., Paper: [http://arxiv.org/abs/2309.11281v2](http://arxiv.org/abs/2309.11281v2), Code: **[https://github.com/kcshum/pose-conditioned-NeRF-object-fusion](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**
+- 2023-09-15, **Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**, Weng Fei Low et.al., Paper: [http://arxiv.org/abs/2309.08596v1](http://arxiv.org/abs/2309.08596v1), Code: **[https://github.com/wengflow/robust-e-nerf](https://github.com/wengflow/robust-e-nerf)**
 
 ## Visual Localization
 
@@ -62,7 +63,6 @@
 
 ## Keypoint Detection
 
-- 2023-10-12, **UniPose: Detecting Any Keypoints**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2310.08530v1](http://arxiv.org/abs/2310.08530v1), Code: **[https://github.com/IDEA-Research/UniPose](https://github.com/IDEA-Research/UniPose)**
 - 2023-10-02, **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2310.01404v1](http://arxiv.org/abs/2310.01404v1), Code: **[https://github.com/YanjieZe/H-InDex](https://github.com/YanjieZe/H-InDex)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
 - 2023-09-26, **ObVi-SLAM: Long-Term Object-Visual SLAM**, Amanda Adkins et.al., Paper: [http://arxiv.org/abs/2309.15268v1](http://arxiv.org/abs/2309.15268v1), Code: **[https://github.com/ut-amrl/obvi-slam](https://github.com/ut-amrl/obvi-slam)**
