@@ -13,7 +13,6 @@
 - 2023-09-28, **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**, Jiaxiang Tang et.al., Paper: [http://arxiv.org/abs/2309.16653v1](http://arxiv.org/abs/2309.16653v1), Code: **[https://github.com/dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian)**
 - 2023-09-27, **NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**, Zhang Chen et.al., Paper: [http://arxiv.org/abs/2309.15426v1](http://arxiv.org/abs/2309.15426v1), Code: **[https://github.com/oppo-us-research/NeuRBF](https://github.com/oppo-us-research/NeuRBF)**
 - 2023-09-22, **NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2309.13039v1](http://arxiv.org/abs/2309.13039v1), Code: **[https://github.com/dawning77/nerrf](https://github.com/dawning77/nerrf)**
-- 2023-09-21, **NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**, Floris Erich et.al., Paper: [http://arxiv.org/abs/2309.11966v1](http://arxiv.org/abs/2309.11966v1), Code: **[https://github.com/FlorisE/neural-labeling](https://github.com/FlorisE/neural-labeling)**
 
 ## Visual Localization
 

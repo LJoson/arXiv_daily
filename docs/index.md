@@ -19,7 +19,6 @@ layout: default
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653v1](http://arxiv.org/abs/2309.16653v1)|**[link](https://github.com/dreamgaussian/dreamgaussian)**|
 |**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426v1](http://arxiv.org/abs/2309.15426v1)|**[link](https://github.com/oppo-us-research/NeuRBF)**|
 |**2023-09-22**|**NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**|Xiaoxue Chen et.al.|[2309.13039v1](http://arxiv.org/abs/2309.13039v1)|**[link](https://github.com/dawning77/nerrf)**|
-|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
 
 ## Visual Localization
 
