@@ -4,7 +4,7 @@
 
 ## NeRF
 
-- 2023-10-25, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v1](http://arxiv.org/abs/2310.16831v1), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
+- 2023-10-28, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v2](http://arxiv.org/abs/2310.16831v2), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
 - 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1), Code: **[https://github.com/Rubikalubi/TraM-NeRF](https://github.com/Rubikalubi/TraM-NeRF)**
 - 2023-10-15, **Active Perception using Neural Radiance Fields**, Siming He et.al., Paper: [http://arxiv.org/abs/2310.09892v1](http://arxiv.org/abs/2310.09892v1), Code: **[https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**
 - 2023-10-05, **Point-Based Radiance Fields for Controllable Human Motion Synthesis**, Haitao Yu et.al., Paper: [http://arxiv.org/abs/2310.03375v1](http://arxiv.org/abs/2310.03375v1), Code: **[https://github.com/dehezhang2/point_based_nerf_editing](https://github.com/dehezhang2/point_based_nerf_editing)**
