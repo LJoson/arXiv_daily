@@ -13,7 +13,6 @@
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375v1](http://arxiv.org/abs/2310.03375v1)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
-|**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
 
 ## Visual Localization
 
