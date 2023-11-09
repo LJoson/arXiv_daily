@@ -10,7 +10,6 @@
 - 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1), Code: **[https://github.com/Rubikalubi/TraM-NeRF](https://github.com/Rubikalubi/TraM-NeRF)**
 - 2023-10-15, **Active Perception using Neural Radiance Fields**, Siming He et.al., Paper: [http://arxiv.org/abs/2310.09892v1](http://arxiv.org/abs/2310.09892v1), Code: **[https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**
 - 2023-10-05, **Point-Based Radiance Fields for Controllable Human Motion Synthesis**, Haitao Yu et.al., Paper: [http://arxiv.org/abs/2310.03375v1](http://arxiv.org/abs/2310.03375v1), Code: **[https://github.com/dehezhang2/point_based_nerf_editing](https://github.com/dehezhang2/point_based_nerf_editing)**
-- 2023-10-03, **EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**, Anish Bhattacharya et.al., Paper: [http://arxiv.org/abs/2310.02437v1](http://arxiv.org/abs/2310.02437v1), Code: **[https://github.com/anish-bhattacharya/evdnerf](https://github.com/anish-bhattacharya/evdnerf)**
 
 ## Visual Localization
 
@@ -79,5 +78,4 @@
 - 2023-05-30, **Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**, Supeng Wang et.al., Paper: [http://arxiv.org/abs/2305.18714v1](http://arxiv.org/abs/2305.18714v1), Code: **[https://github.com/wangsp1999/cd-research](https://github.com/wangsp1999/cd-research)**
 - 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 - 2023-05-05, **HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration**, Canhui Tang et.al., Paper: [http://arxiv.org/abs/2305.03487v1](http://arxiv.org/abs/2305.03487v1), Code: **[https://github.com/hui-design/hd2reg](https://github.com/hui-design/hd2reg)**
-- 2023-04-12, **SiLK -- Simple Learned Keypoints**, Pierre Gleize et.al., Paper: [http://arxiv.org/abs/2304.06194v1](http://arxiv.org/abs/2304.06194v1), Code: **[https://github.com/facebookresearch/silk](https://github.com/facebookresearch/silk)**
 
