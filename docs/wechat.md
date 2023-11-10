@@ -7,9 +7,9 @@
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
 - 2023-10-28, **INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2310.18846v1](http://arxiv.org/abs/2310.18846v1), Code: **[https://github.com/xmindflow/INCODE](https://github.com/xmindflow/INCODE)**
 - 2023-10-28, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v2](http://arxiv.org/abs/2310.16831v2), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
+- 2023-10-20, **Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**, Seoha Kim et.al., Paper: [http://arxiv.org/abs/2310.13356v1](http://arxiv.org/abs/2310.13356v1), Code: **[https://github.com/seoha-kim/Sync-NeRF](https://github.com/seoha-kim/Sync-NeRF)**
 - 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1), Code: **[https://github.com/Rubikalubi/TraM-NeRF](https://github.com/Rubikalubi/TraM-NeRF)**
 - 2023-10-15, **Active Perception using Neural Radiance Fields**, Siming He et.al., Paper: [http://arxiv.org/abs/2310.09892v1](http://arxiv.org/abs/2310.09892v1), Code: **[https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**
-- 2023-10-05, **Point-Based Radiance Fields for Controllable Human Motion Synthesis**, Haitao Yu et.al., Paper: [http://arxiv.org/abs/2310.03375v1](http://arxiv.org/abs/2310.03375v1), Code: **[https://github.com/dehezhang2/point_based_nerf_editing](https://github.com/dehezhang2/point_based_nerf_editing)**
 
 ## Visual Localization
 
@@ -31,6 +31,7 @@
 
 ## Image Matching
 
+- 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 - 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
 - 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
@@ -54,7 +55,6 @@
 - 2023-07-18, **Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**, Chenjie Cao et.al., Paper: [http://arxiv.org/abs/2303.02885v2](http://arxiv.org/abs/2303.02885v2), Code: **[https://github.com/ewrfcas/casmtr](https://github.com/ewrfcas/casmtr)**
 - 2023-03-01, **RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**, Jiayuan Li et.al., Paper: [http://arxiv.org/abs/2303.00319v1](http://arxiv.org/abs/2303.00319v1), Code: **[https://github.com/ljy-rs/rift2-multimodal-matching-rotation](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**
 - 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
-- 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1), Code: **[https://github.com/danini/homography-benchmark](https://github.com/danini/homography-benchmark)**
 
 ## Keypoint Detection
 
