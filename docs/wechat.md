@@ -4,7 +4,8 @@
 
 ## NeRF
 
-- 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/upnerf](https://github.com/mlvlab/upnerf)**
+- 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
+- 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/UP-NeRF](https://github.com/mlvlab/UP-NeRF)**
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
 - 2023-10-28, **INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2310.18846v1](http://arxiv.org/abs/2310.18846v1), Code: **[https://github.com/xmindflow/INCODE](https://github.com/xmindflow/INCODE)**
 - 2023-10-28, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v2](http://arxiv.org/abs/2310.16831v2), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
@@ -57,6 +58,7 @@
 
 ## Keypoint Detection
 
+- 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
 - 2023-10-12, **UniPose: Detecting Any Keypoints**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2310.08530v1](http://arxiv.org/abs/2310.08530v1), Code: **[https://github.com/IDEA-Research/UniPose](https://github.com/IDEA-Research/UniPose)**
 - 2023-10-13, **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2310.01404v2](http://arxiv.org/abs/2310.01404v2), Code: **[https://github.com/YanjieZe/H-InDex](https://github.com/YanjieZe/H-InDex)**
@@ -76,5 +78,4 @@
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-28, **Topology Repairing of Disconnected Pulmonary Airways and Vessels: Baselines and a Dataset**, Ziqiao Weng et.al., Paper: [http://arxiv.org/abs/2306.07089v2](http://arxiv.org/abs/2306.07089v2), Code: **[https://github.com/m3dv/pulmonary-tree-repairing](https://github.com/m3dv/pulmonary-tree-repairing)**
 - 2023-05-30, **Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**, Supeng Wang et.al., Paper: [http://arxiv.org/abs/2305.18714v1](http://arxiv.org/abs/2305.18714v1), Code: **[https://github.com/wangsp1999/cd-research](https://github.com/wangsp1999/cd-research)**
-- 2023-05-13, **Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**, Xinyu Lin et.al., Paper: [http://arxiv.org/abs/2305.07943v1](http://arxiv.org/abs/2305.07943v1), Code: **[https://github.com/roylin1229/IIB_descriptor](https://github.com/roylin1229/IIB_descriptor)**
 
