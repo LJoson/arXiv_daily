@@ -12,7 +12,6 @@
 - 2023-10-28, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v2](http://arxiv.org/abs/2310.16831v2), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
 - 2023-10-20, **Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**, Seoha Kim et.al., Paper: [http://arxiv.org/abs/2310.13356v1](http://arxiv.org/abs/2310.13356v1), Code: **[https://github.com/seoha-kim/Sync-NeRF](https://github.com/seoha-kim/Sync-NeRF)**
 - 2023-10-16, **TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2310.10650v1](http://arxiv.org/abs/2310.10650v1), Code: **[https://github.com/Rubikalubi/TraM-NeRF](https://github.com/Rubikalubi/TraM-NeRF)**
-- 2023-10-15, **Active Perception using Neural Radiance Fields**, Siming He et.al., Paper: [http://arxiv.org/abs/2310.09892v1](http://arxiv.org/abs/2310.09892v1), Code: **[https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**
 
 ## Visual Localization
 
@@ -28,7 +27,6 @@
 - 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-28, **D2S: Representing local descriptors and global scene coordinates for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2307.15250v1](http://arxiv.org/abs/2307.15250v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 - 2023-07-17, **NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2307.08221v1](http://arxiv.org/abs/2307.08221v1), Code: **[https://github.com/SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC)**
-- 2023-07-20, **Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2307.08015v3](http://arxiv.org/abs/2307.08015v3), Code: **[https://github.com/shiyujiao/boosting3dofaccuracy](https://github.com/shiyujiao/boosting3dofaccuracy)**
 
 ## Image Matching
 
@@ -56,6 +54,7 @@
 - 2023-07-18, **Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**, Chenjie Cao et.al., Paper: [http://arxiv.org/abs/2303.02885v2](http://arxiv.org/abs/2303.02885v2), Code: **[https://github.com/ewrfcas/casmtr](https://github.com/ewrfcas/casmtr)**
 - 2023-03-01, **RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**, Jiayuan Li et.al., Paper: [http://arxiv.org/abs/2303.00319v1](http://arxiv.org/abs/2303.00319v1), Code: **[https://github.com/ljy-rs/rift2-multimodal-matching-rotation](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**
 - 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
+- 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1), Code: **[https://github.com/danini/homography-benchmark](https://github.com/danini/homography-benchmark)**
 
 ## Keypoint Detection
 
