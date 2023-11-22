@@ -1,10 +1,11 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.11.21
+> Updated on 2023.11.22
 
 ## NeRF
 
 - 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
+- 2023-11-18, **Structure-Aware Sparse-View X-ray 3D Reconstruction**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2311.10959v1](http://arxiv.org/abs/2311.10959v1), Code: **[https://github.com/caiyuanhao1998/sax-nerf](https://github.com/caiyuanhao1998/sax-nerf)**
 - 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/UP-NeRF](https://github.com/mlvlab/UP-NeRF)**
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
 - 2023-10-28, **INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2310.18846v1](http://arxiv.org/abs/2310.18846v1), Code: **[https://github.com/xmindflow/INCODE](https://github.com/xmindflow/INCODE)**
