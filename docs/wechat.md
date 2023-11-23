@@ -26,7 +26,6 @@
 - 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/auto_vpr](https://github.com/gmberton/auto_vpr)**
 - 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-28, **D2S: Representing local descriptors and global scene coordinates for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2307.15250v1](http://arxiv.org/abs/2307.15250v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
-- 2023-07-17, **NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**, Lizhou Liao et.al., Paper: [http://arxiv.org/abs/2307.08221v1](http://arxiv.org/abs/2307.08221v1), Code: **[https://github.com/SlamCabbage/NDTMC](https://github.com/SlamCabbage/NDTMC)**
 
 ## Image Matching
 
