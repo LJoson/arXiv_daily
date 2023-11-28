@@ -4,15 +4,17 @@
 
 ## NeRF
 
+- 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
+- 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
+- 2023-11-26, **NeuRAD: Neural Rendering for Autonomous Driving**, Adam Tonderski et.al., Paper: [http://arxiv.org/abs/2311.15260v1](http://arxiv.org/abs/2311.15260v1), Code: **[https://github.com/georghess/neurad](https://github.com/georghess/neurad)**
 - 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
 - 2023-11-18, **Structure-Aware Sparse-View X-ray 3D Reconstruction**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2311.10959v1](http://arxiv.org/abs/2311.10959v1), Code: **[https://github.com/caiyuanhao1998/sax-nerf](https://github.com/caiyuanhao1998/sax-nerf)**
 - 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/UP-NeRF](https://github.com/mlvlab/UP-NeRF)**
 - 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
-- 2023-10-28, **INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**, Amirhossein Kazerouni et.al., Paper: [http://arxiv.org/abs/2310.18846v1](http://arxiv.org/abs/2310.18846v1), Code: **[https://github.com/xmindflow/INCODE](https://github.com/xmindflow/INCODE)**
-- 2023-10-28, **PERF: Panoramic Neural Radiance Field from a Single Panorama**, Guangcong Wang et.al., Paper: [http://arxiv.org/abs/2310.16831v2](http://arxiv.org/abs/2310.16831v2), Code: **[https://github.com/perf-project/PeRF](https://github.com/perf-project/PeRF)**
 
 ## Visual Localization
 
+- 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
 - 2023-11-22, **Applications of Spiking Neural Networks in Visual Place Recognition**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2311.13186v1](http://arxiv.org/abs/2311.13186v1), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
 - 2023-11-06, **FocusTune: Tuning Visual Localization through Focus-Guided Sampling**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2311.02872v1](http://arxiv.org/abs/2311.02872v1), Code: **[https://github.com/sontung/focus-tune](https://github.com/sontung/focus-tune)**
 - 2023-10-20, **CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**, Shaoan Wang et.al., Paper: [http://arxiv.org/abs/2310.13320v1](http://arxiv.org/abs/2310.13320v1), Code: **[https://github.com/wsakobe/cylindertag](https://github.com/wsakobe/cylindertag)**
