@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-11-29, **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2311.17590v1](http://arxiv.org/abs/2311.17590v1), Code: **[https://github.com/ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)**
 - 2023-11-27, **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2311.16482v1](http://arxiv.org/abs/2311.16482v1), Code: **[https://github.com/jimmyYliu/Animatable-3D-Gaussian](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**
 - 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
 - 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
@@ -11,7 +12,6 @@
 - 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
 - 2023-11-18, **Structure-Aware Sparse-View X-ray 3D Reconstruction**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2311.10959v1](http://arxiv.org/abs/2311.10959v1), Code: **[https://github.com/caiyuanhao1998/sax-nerf](https://github.com/caiyuanhao1998/sax-nerf)**
 - 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/UP-NeRF](https://github.com/mlvlab/UP-NeRF)**
-- 2023-11-06, **InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**, Jianhui Li et.al., Paper: [http://arxiv.org/abs/2311.02826v1](http://arxiv.org/abs/2311.02826v1), Code: **[https://github.com/mybabyyh/instructpix2nerf](https://github.com/mybabyyh/instructpix2nerf)**
 
 ## Visual Localization
 
@@ -54,14 +54,12 @@
 - 2023-07-18, **Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**, Chenjie Cao et.al., Paper: [http://arxiv.org/abs/2303.02885v2](http://arxiv.org/abs/2303.02885v2), Code: **[https://github.com/ewrfcas/casmtr](https://github.com/ewrfcas/casmtr)**
 - 2023-03-01, **RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**, Jiayuan Li et.al., Paper: [http://arxiv.org/abs/2303.00319v1](http://arxiv.org/abs/2303.00319v1), Code: **[https://github.com/ljy-rs/rift2-multimodal-matching-rotation](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**
 - 2023-02-28, **Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**, Zhongli Fan et.al., Paper: [http://arxiv.org/abs/2302.14239v1](http://arxiv.org/abs/2302.14239v1), Code: **[https://github.com/zhongli-fan/nisr](https://github.com/zhongli-fan/nisr)**
-- 2023-02-20, **A Large Scale Homography Benchmark**, Daniel Barath et.al., Paper: [http://arxiv.org/abs/2302.09997v1](http://arxiv.org/abs/2302.09997v1), Code: **[https://github.com/danini/homography-benchmark](https://github.com/danini/homography-benchmark)**
 
 ## Keypoint Detection
 
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
 - 2023-10-12, **UniPose: Detecting Any Keypoints**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2310.08530v1](http://arxiv.org/abs/2310.08530v1), Code: **[https://github.com/IDEA-Research/UniPose](https://github.com/IDEA-Research/UniPose)**
-- 2023-10-13, **H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2310.01404v2](http://arxiv.org/abs/2310.01404v2), Code: **[https://github.com/YanjieZe/H-InDex](https://github.com/YanjieZe/H-InDex)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
 - 2023-10-22, **ObVi-SLAM: Long-Term Object-Visual SLAM**, Amanda Adkins et.al., Paper: [http://arxiv.org/abs/2309.15268v2](http://arxiv.org/abs/2309.15268v2), Code: **[https://github.com/ut-amrl/obvi-slam](https://github.com/ut-amrl/obvi-slam)**
 - 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
