@@ -1,10 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.11.29
+> Updated on 2023.11.30
 
 ## NeRF
 
-- 2023-11-27, **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2311.16482v1](http://arxiv.org/abs/2311.16482v1), Code: **[https://github.com/jimmyYliu/Animatable3DGaussian](https://github.com/jimmyYliu/Animatable3DGaussian)**
+- 2023-11-27, **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2311.16482v1](http://arxiv.org/abs/2311.16482v1), Code: **[https://github.com/jimmyYliu/Animatable-3D-Gaussian](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**
 - 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
 - 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
 - 2023-11-26, **NeuRAD: Neural Rendering for Autonomous Driving**, Adam Tonderski et.al., Paper: [http://arxiv.org/abs/2311.15260v1](http://arxiv.org/abs/2311.15260v1), Code: **[https://github.com/georghess/neurad](https://github.com/georghess/neurad)**
@@ -42,7 +42,6 @@
 - 2023-06-27, **Detector-Free Structure from Motion**, Xingyi He et.al., Paper: [http://arxiv.org/abs/2306.15669v1](http://arxiv.org/abs/2306.15669v1), Code: **[https://github.com/zju3dv/DetectorFreeSfM](https://github.com/zju3dv/DetectorFreeSfM)**
 - 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
-- 2023-05-18, **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2305.11116v1](http://arxiv.org/abs/2305.11116v1), Code: **[https://github.com/yujielu10/llmscore](https://github.com/yujielu10/llmscore)**
 - 2023-08-10, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v2](http://arxiv.org/abs/2305.07304v2), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
 - 2023-10-20, **Enhancing Textbooks with Visuals from the Web for Improved Learning**, Janvijay Singh et.al., Paper: [http://arxiv.org/abs/2304.08931v2](http://arxiv.org/abs/2304.08931v2), Code: **[https://github.com/eth-nlped/textbook-enrichment](https://github.com/eth-nlped/textbook-enrichment)**
 - 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
