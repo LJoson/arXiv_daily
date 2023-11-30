@@ -26,7 +26,7 @@
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-08-23, **OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**, Tao Xie et.al., Paper: [http://arxiv.org/abs/2308.11928v1](http://arxiv.org/abs/2308.11928v1), Code: **[https://github.com/mooncake199809/ufvl-net](https://github.com/mooncake199809/ufvl-net)**
 - 2023-08-21, **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2308.10832v1](http://arxiv.org/abs/2308.10832v1), Code: **[https://github.com/gmberton/auto_vpr](https://github.com/gmberton/auto_vpr)**
-- 2023-08-01, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v1](http://arxiv.org/abs/2308.00688v1), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
+- 2023-11-29, **AnyLoc: Towards Universal Visual Place Recognition**, Nikhil Keetha et.al., Paper: [http://arxiv.org/abs/2308.00688v2](http://arxiv.org/abs/2308.00688v2), Code: **[https://github.com/AnyLoc/AnyLoc](https://github.com/AnyLoc/AnyLoc)**
 - 2023-07-28, **D2S: Representing local descriptors and global scene coordinates for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2307.15250v1](http://arxiv.org/abs/2307.15250v1), Code: **[https://github.com/ais-lab/feat2map](https://github.com/ais-lab/feat2map)**
 
 ## Image Matching
