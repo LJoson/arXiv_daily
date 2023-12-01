@@ -11,7 +11,6 @@
 - 2023-11-26, **NeuRAD: Neural Rendering for Autonomous Driving**, Adam Tonderski et.al., Paper: [http://arxiv.org/abs/2311.15260v1](http://arxiv.org/abs/2311.15260v1), Code: **[https://github.com/georghess/neurad](https://github.com/georghess/neurad)**
 - 2023-11-20, **Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2311.11845v1](http://arxiv.org/abs/2311.11845v1), Code: **[https://github.com/tatakai1/evenerf](https://github.com/tatakai1/evenerf)**
 - 2023-11-18, **Structure-Aware Sparse-View X-ray 3D Reconstruction**, Yuanhao Cai et.al., Paper: [http://arxiv.org/abs/2311.10959v1](http://arxiv.org/abs/2311.10959v1), Code: **[https://github.com/caiyuanhao1998/sax-nerf](https://github.com/caiyuanhao1998/sax-nerf)**
-- 2023-11-08, **UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**, Injae Kim et.al., Paper: [http://arxiv.org/abs/2311.03784v2](http://arxiv.org/abs/2311.03784v2), Code: **[https://github.com/mlvlab/UP-NeRF](https://github.com/mlvlab/UP-NeRF)**
 
 ## Visual Localization
 
