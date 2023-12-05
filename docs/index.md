@@ -25,6 +25,7 @@ layout: default
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937v1](http://arxiv.org/abs/2311.15937v1)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872v1](http://arxiv.org/abs/2311.02872v1)|**[link](https://github.com/sontung/focus-tune)**|
+|**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230v1](http://arxiv.org/abs/2311.00230v1)|**[link](https://github.com/GaoShuang98/DINO-Mix)**|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-08**|**AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**|Feng Lu et.al.|[2310.05184v1](http://arxiv.org/abs/2310.05184v1)|**[link](https://github.com/Lu-Feng/AANet)**|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
@@ -34,12 +35,12 @@ layout: default
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832v1](http://arxiv.org/abs/2308.10832v1)|**[link](https://github.com/gmberton/auto_vpr)**|
 |**2023-11-29**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v2](http://arxiv.org/abs/2308.00688v2)|**[link](https://github.com/AnyLoc/AnyLoc)**|
-|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250v1](http://arxiv.org/abs/2307.15250v1)|**[link](https://github.com/ais-lab/feat2map)**|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438v1](http://arxiv.org/abs/2309.05438v1)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
@@ -63,7 +64,6 @@ layout: default
 |**2023-03-15**|**Rethinking Optical Flow from Geometric Matching Consistent Perspective**|Qiaole Dong et.al.|[2303.08384v1](http://arxiv.org/abs/2303.08384v1)|**[link](https://github.com/dqiaole/matchflow)**|
 |**2023-07-18**|**Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**|Chenjie Cao et.al.|[2303.02885v2](http://arxiv.org/abs/2303.02885v2)|**[link](https://github.com/ewrfcas/casmtr)**|
 |**2023-03-01**|**RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique**|Jiayuan Li et.al.|[2303.00319v1](http://arxiv.org/abs/2303.00319v1)|**[link](https://github.com/ljy-rs/rift2-multimodal-matching-rotation)**|
-|**2023-02-28**|**Nonlinear Intensity, Scale and Rotation Invariant Matching for Multimodal Images**|Zhongli Fan et.al.|[2302.14239v1](http://arxiv.org/abs/2302.14239v1)|**[link](https://github.com/zhongli-fan/nisr)**|
 
 ## Keypoint Detection
 
