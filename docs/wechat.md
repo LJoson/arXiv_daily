@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2023-12-07, **Towards 4D Human Video Stylization**, Tiantian Wang et.al., Paper: [http://arxiv.org/abs/2312.04143v1](http://arxiv.org/abs/2312.04143v1), Code: **[https://github.com/tiantianwang/4d_video_stylization](https://github.com/tiantianwang/4d_video_stylization)**
 - 2023-12-05, **C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2312.02751v1](http://arxiv.org/abs/2312.02751v1), Code: **[https://github.com/c-nerf/c-nerf](https://github.com/c-nerf/c-nerf)**
 - 2023-12-03, **WavePlanes: A compact Wavelet representation for Dynamic Neural Radiance Fields**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2312.02218v1](http://arxiv.org/abs/2312.02218v1), Code: **[https://github.com/azzarelli/waveplanes](https://github.com/azzarelli/waveplanes)**
 - 2023-11-30, **PyNeRF: Pyramidal Neural Radiance Fields**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2312.00252v1](http://arxiv.org/abs/2312.00252v1), Code: **[https://github.com/hturki/pynerf](https://github.com/hturki/pynerf)**
@@ -11,7 +12,6 @@
 - 2023-11-29, **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2311.16482v2](http://arxiv.org/abs/2311.16482v2), Code: **[https://github.com/jimmyYliu/Animatable-3D-Gaussian](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**
 - 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
 - 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
-- 2023-12-05, **NeuRAD: Neural Rendering for Autonomous Driving**, Adam Tonderski et.al., Paper: [http://arxiv.org/abs/2311.15260v2](http://arxiv.org/abs/2311.15260v2), Code: **[https://github.com/georghess/neurad](https://github.com/georghess/neurad)**
 
 ## Visual Localization
 
