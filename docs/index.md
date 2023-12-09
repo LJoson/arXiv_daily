@@ -72,6 +72,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604v1](http://arxiv.org/abs/2311.11604v1)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|**[link](https://github.com/a-nau/tampar)**|
+|**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530v1](http://arxiv.org/abs/2310.08530v1)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|**[link](https://github.com/sthalles/clove)**|
 |**2023-10-22**|**ObVi-SLAM: Long-Term Object-Visual SLAM**|Amanda Adkins et.al.|[2309.15268v2](http://arxiv.org/abs/2309.15268v2)|**[link](https://github.com/ut-amrl/obvi-slam)**|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
