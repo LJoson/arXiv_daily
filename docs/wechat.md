@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.12.09
+> Updated on 2023.12.10
 
 ## NeRF
 
@@ -62,6 +62,7 @@
 - 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
 - 2023-10-12, **UniPose: Detecting Any Keypoints**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2310.08530v1](http://arxiv.org/abs/2310.08530v1), Code: **[https://github.com/IDEA-Research/UniPose](https://github.com/IDEA-Research/UniPose)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
+- 2023-10-22, **ObVi-SLAM: Long-Term Object-Visual SLAM**, Amanda Adkins et.al., Paper: [http://arxiv.org/abs/2309.15268v2](http://arxiv.org/abs/2309.15268v2), Code: **[https://github.com/ut-amrl/obvi-slam](https://github.com/ut-amrl/obvi-slam)**
 - 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-12, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v2](http://arxiv.org/abs/2309.00434v2), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
