@@ -9,9 +9,7 @@
 - 2023-12-03, **WavePlanes: A compact Wavelet representation for Dynamic Neural Radiance Fields**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2312.02218v1](http://arxiv.org/abs/2312.02218v1), Code: **[https://github.com/azzarelli/waveplanes](https://github.com/azzarelli/waveplanes)**
 - 2023-11-30, **PyNeRF: Pyramidal Neural Radiance Fields**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2312.00252v1](http://arxiv.org/abs/2312.00252v1), Code: **[https://github.com/hturki/pynerf](https://github.com/hturki/pynerf)**
 - 2023-11-29, **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2311.17590v1](http://arxiv.org/abs/2311.17590v1), Code: **[https://github.com/ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)**
-- 2023-11-29, **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2311.16482v2](http://arxiv.org/abs/2311.16482v2), Code: **[https://github.com/jimmyYliu/Animatable-3D-Gaussian](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**
 - 2023-11-27, **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**, Zhe Li et.al., Paper: [http://arxiv.org/abs/2311.16096v1](http://arxiv.org/abs/2311.16096v1), Code: **[https://github.com/lizhe00/animatablegaussians](https://github.com/lizhe00/animatablegaussians)**
-- 2023-11-27, **CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**, Haidong Zhu et.al., Paper: [http://arxiv.org/abs/2311.15510v1](http://arxiv.org/abs/2311.15510v1), Code: **[https://github.com/haidongz-usc/CaesarNeRF](https://github.com/haidongz-usc/CaesarNeRF)**
 
 ## Visual Localization
 
