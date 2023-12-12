@@ -10,12 +10,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657v1](http://arxiv.org/abs/2312.06657v1)|**[link](https://github.com/felixcheng97/agap)**|
+|**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642v1](http://arxiv.org/abs/2312.06642v1)|**[link](https://github.com/yxlao/corres-nerf)**|
+|**2023-12-10**|**Learning for CasADi: Data-driven Models in Numerical Optimization**|Tim Salzmann et.al.|[2312.05873v1](http://arxiv.org/abs/2312.05873v1)|**[link](https://github.com/Tim-Salzmann/l4casadi)**|
 |**2023-12-07**|**Towards 4D Human Video Stylization**|Tiantian Wang et.al.|[2312.04143v1](http://arxiv.org/abs/2312.04143v1)|**[link](https://github.com/tiantianwang/4d_video_stylization)**|
 |**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751v1](http://arxiv.org/abs/2312.02751v1)|**[link](https://github.com/c-nerf/c-nerf)**|
 |**2023-12-03**|**WavePlanes: A compact Wavelet representation for Dynamic Neural Radiance Fields**|Adrian Azzarelli et.al.|[2312.02218v1](http://arxiv.org/abs/2312.02218v1)|**[link](https://github.com/azzarelli/waveplanes)**|
 |**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|**[link](https://github.com/hturki/pynerf)**|
 |**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590v1](http://arxiv.org/abs/2311.17590v1)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
-|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096v1](http://arxiv.org/abs/2311.16096v1)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 
 ## Visual Localization
 
@@ -77,7 +79,7 @@ layout: default
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-12**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v2](http://arxiv.org/abs/2309.00434v2)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
-|**2023-09-03**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v2](http://arxiv.org/abs/2308.08479v2)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-12-11**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v3](http://arxiv.org/abs/2308.08479v3)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|**[link](https://github.com/minhaolee/2d3dmatr)**|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**|
