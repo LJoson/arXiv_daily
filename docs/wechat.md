@@ -1,16 +1,18 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2023.12.16
+> Updated on 2023.12.17
 
 ## NeRF
 
+- 2023-12-14, **OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**, Chubin Zhang et.al., Paper: [http://arxiv.org/abs/2312.09243v1](http://arxiv.org/abs/2312.09243v1), Code: **[https://github.com/linshan-bin/occnerf](https://github.com/linshan-bin/occnerf)**
+- 2023-12-14, **ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**, Zhangkai Ni et.al., Paper: [http://arxiv.org/abs/2312.09095v1](http://arxiv.org/abs/2312.09095v1), Code: **[https://github.com/eezkni/colnerf](https://github.com/eezkni/colnerf)**
+- 2023-12-14, **Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2312.09093v1](http://arxiv.org/abs/2312.09093v1), Code: **[https://github.com/cuiziteng/Aleth-NeRF](https://github.com/cuiziteng/Aleth-NeRF)**
+- 2023-12-14, **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**, Ru Li et.al., Paper: [http://arxiv.org/abs/2312.08692v1](http://arxiv.org/abs/2312.08692v1), Code: **[https://github.com/liru0126/spectralnerf](https://github.com/liru0126/spectralnerf)**
 - 2023-12-11, **Learning Naturally Aggregated Appearance for Efficient 3D Editing**, Ka Leong Cheng et.al., Paper: [http://arxiv.org/abs/2312.06657v1](http://arxiv.org/abs/2312.06657v1), Code: **[https://github.com/felixcheng97/agap](https://github.com/felixcheng97/agap)**
 - 2023-12-11, **CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**, Yixing Lao et.al., Paper: [http://arxiv.org/abs/2312.06642v1](http://arxiv.org/abs/2312.06642v1), Code: **[https://github.com/yxlao/corres-nerf](https://github.com/yxlao/corres-nerf)**
 - 2023-12-10, **Learning for CasADi: Data-driven Models in Numerical Optimization**, Tim Salzmann et.al., Paper: [http://arxiv.org/abs/2312.05873v1](http://arxiv.org/abs/2312.05873v1), Code: **[https://github.com/Tim-Salzmann/l4casadi](https://github.com/Tim-Salzmann/l4casadi)**
 - 2023-12-07, **Towards 4D Human Video Stylization**, Tiantian Wang et.al., Paper: [http://arxiv.org/abs/2312.04143v1](http://arxiv.org/abs/2312.04143v1), Code: **[https://github.com/tiantianwang/4d_video_stylization](https://github.com/tiantianwang/4d_video_stylization)**
 - 2023-12-05, **C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**, Rui Huang et.al., Paper: [http://arxiv.org/abs/2312.02751v1](http://arxiv.org/abs/2312.02751v1), Code: **[https://github.com/c-nerf/c-nerf](https://github.com/c-nerf/c-nerf)**
-- 2023-12-03, **WavePlanes: A compact Wavelet representation for Dynamic Neural Radiance Fields**, Adrian Azzarelli et.al., Paper: [http://arxiv.org/abs/2312.02218v1](http://arxiv.org/abs/2312.02218v1), Code: **[https://github.com/azzarelli/waveplanes](https://github.com/azzarelli/waveplanes)**
-- 2023-11-30, **PyNeRF: Pyramidal Neural Radiance Fields**, Haithem Turki et.al., Paper: [http://arxiv.org/abs/2312.00252v1](http://arxiv.org/abs/2312.00252v1), Code: **[https://github.com/hturki/pynerf](https://github.com/hturki/pynerf)**
 
 ## Visual Localization
 
