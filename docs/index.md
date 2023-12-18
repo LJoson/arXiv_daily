@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034v1](http://arxiv.org/abs/2312.10034v1)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243v1](http://arxiv.org/abs/2312.09243v1)|**[link](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-15**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095v2](http://arxiv.org/abs/2312.09095v2)|**[link](https://github.com/eezkni/colnerf)**|
 |**2023-12-15**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093v2](http://arxiv.org/abs/2312.09093v2)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
