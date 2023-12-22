@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2023-12-21, **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**, Philipp Schröppel et.al., Paper: [http://arxiv.org/abs/2312.14124v1](http://arxiv.org/abs/2312.14124v1), Code: **[https://github.com/lmb-freiburg/neural-point-cloud-diffusion](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**
+- 2023-12-21, **Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**, Dawid Malarz et.al., Paper: [http://arxiv.org/abs/2312.13729v1](http://arxiv.org/abs/2312.13729v1), Code: **[https://github.com/gmum/ViewingDirectionGaussianSplatting](https://github.com/gmum/ViewingDirectionGaussianSplatting)**
 - 2023-12-20, **Reducing Shape-Radiance Ambiguity in Radiance Fields with a Closed-Form Color Estimation Method**, Qihang Fang et.al., Paper: [http://arxiv.org/abs/2312.12726v1](http://arxiv.org/abs/2312.12726v1), Code: **[https://github.com/qihanggh/closed-form-color-field](https://github.com/qihanggh/closed-form-color-field)**
 - 2023-12-15, **SlimmeRF: Slimmable Radiance Fields**, Shiran Yuan et.al., Paper: [http://arxiv.org/abs/2312.10034v1](http://arxiv.org/abs/2312.10034v1), Code: **[https://github.com/shiran-yuan/slimmerf](https://github.com/shiran-yuan/slimmerf)**
 - 2023-12-14, **OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**, Chubin Zhang et.al., Paper: [http://arxiv.org/abs/2312.09243v1](http://arxiv.org/abs/2312.09243v1), Code: **[https://github.com/linshan-bin/occnerf](https://github.com/linshan-bin/occnerf)**
@@ -13,7 +15,6 @@
 - 2023-12-11, **Learning Naturally Aggregated Appearance for Efficient 3D Editing**, Ka Leong Cheng et.al., Paper: [http://arxiv.org/abs/2312.06657v1](http://arxiv.org/abs/2312.06657v1), Code: **[https://github.com/felixcheng97/agap](https://github.com/felixcheng97/agap)**
 - 2023-12-11, **CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**, Yixing Lao et.al., Paper: [http://arxiv.org/abs/2312.06642v1](http://arxiv.org/abs/2312.06642v1), Code: **[https://github.com/yxlao/corres-nerf](https://github.com/yxlao/corres-nerf)**
 - 2023-12-10, **Learning for CasADi: Data-driven Models in Numerical Optimization**, Tim Salzmann et.al., Paper: [http://arxiv.org/abs/2312.05873v1](http://arxiv.org/abs/2312.05873v1), Code: **[https://github.com/Tim-Salzmann/l4casadi](https://github.com/Tim-Salzmann/l4casadi)**
-- 2023-12-07, **Towards 4D Human Video Stylization**, Tiantian Wang et.al., Paper: [http://arxiv.org/abs/2312.04143v1](http://arxiv.org/abs/2312.04143v1), Code: **[https://github.com/tiantianwang/4d_video_stylization](https://github.com/tiantianwang/4d_video_stylization)**
 
 ## Visual Localization
 
