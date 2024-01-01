@@ -15,7 +15,6 @@
 - 2023-12-15, **Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2312.09093v2](http://arxiv.org/abs/2312.09093v2), Code: **[https://github.com/cuiziteng/Aleth-NeRF](https://github.com/cuiziteng/Aleth-NeRF)**
 - 2023-12-14, **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**, Ru Li et.al., Paper: [http://arxiv.org/abs/2312.08692v1](http://arxiv.org/abs/2312.08692v1), Code: **[https://github.com/liru0126/spectralnerf](https://github.com/liru0126/spectralnerf)**
 - 2023-12-11, **Learning Naturally Aggregated Appearance for Efficient 3D Editing**, Ka Leong Cheng et.al., Paper: [http://arxiv.org/abs/2312.06657v1](http://arxiv.org/abs/2312.06657v1), Code: **[https://github.com/felixcheng97/agap](https://github.com/felixcheng97/agap)**
-- 2023-12-11, **CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**, Yixing Lao et.al., Paper: [http://arxiv.org/abs/2312.06642v1](http://arxiv.org/abs/2312.06642v1), Code: **[https://github.com/yxlao/corres-nerf](https://github.com/yxlao/corres-nerf)**
 
 ## Visual Localization
 
