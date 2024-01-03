@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-01-01, **Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**, Byeonghyeon Lee et.al., Paper: [http://arxiv.org/abs/2401.00825v1](http://arxiv.org/abs/2401.00825v1), Code: **[https://github.com/benhenryl/sharpnerf](https://github.com/benhenryl/sharpnerf)**
 - 2023-12-23, **Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2312.15253v1](http://arxiv.org/abs/2312.15253v1), Code: **[https://github.com/loping151/forplane](https://github.com/loping151/forplane)**
 - 2023-12-22, **PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2312.14915v1](http://arxiv.org/abs/2312.14915v1), Code: **[https://github.com/mgholamikn/PoseGen](https://github.com/mgholamikn/PoseGen)**
 - 2023-12-21, **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**, Philipp Schröppel et.al., Paper: [http://arxiv.org/abs/2312.14124v1](http://arxiv.org/abs/2312.14124v1), Code: **[https://github.com/lmb-freiburg/neural-point-cloud-diffusion](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**
@@ -14,7 +15,6 @@
 - 2023-12-15, **ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**, Zhangkai Ni et.al., Paper: [http://arxiv.org/abs/2312.09095v2](http://arxiv.org/abs/2312.09095v2), Code: **[https://github.com/eezkni/colnerf](https://github.com/eezkni/colnerf)**
 - 2023-12-15, **Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2312.09093v2](http://arxiv.org/abs/2312.09093v2), Code: **[https://github.com/cuiziteng/Aleth-NeRF](https://github.com/cuiziteng/Aleth-NeRF)**
 - 2023-12-14, **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**, Ru Li et.al., Paper: [http://arxiv.org/abs/2312.08692v1](http://arxiv.org/abs/2312.08692v1), Code: **[https://github.com/liru0126/spectralnerf](https://github.com/liru0126/spectralnerf)**
-- 2023-12-11, **Learning Naturally Aggregated Appearance for Efficient 3D Editing**, Ka Leong Cheng et.al., Paper: [http://arxiv.org/abs/2312.06657v1](http://arxiv.org/abs/2312.06657v1), Code: **[https://github.com/felixcheng97/agap](https://github.com/felixcheng97/agap)**
 
 ## Visual Localization
 
@@ -72,5 +72,4 @@
 - 2023-12-11, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v3](http://arxiv.org/abs/2308.08479v3), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
 - 2023-08-14, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v2](http://arxiv.org/abs/2308.05667v2), Code: **[https://github.com/minhaolee/2d3dmatr](https://github.com/minhaolee/2d3dmatr)**
-- 2023-08-02, **Automated Hit-frame Detection for Badminton Match Analysis**, Yu-Hang Chien et.al., Paper: [http://arxiv.org/abs/2307.16000v2](http://arxiv.org/abs/2307.16000v2), Code: **[https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**
 
