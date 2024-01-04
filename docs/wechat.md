@@ -14,7 +14,6 @@
 - 2023-12-14, **OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**, Chubin Zhang et.al., Paper: [http://arxiv.org/abs/2312.09243v1](http://arxiv.org/abs/2312.09243v1), Code: **[https://github.com/linshan-bin/occnerf](https://github.com/linshan-bin/occnerf)**
 - 2023-12-15, **ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**, Zhangkai Ni et.al., Paper: [http://arxiv.org/abs/2312.09095v2](http://arxiv.org/abs/2312.09095v2), Code: **[https://github.com/eezkni/colnerf](https://github.com/eezkni/colnerf)**
 - 2023-12-15, **Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2312.09093v2](http://arxiv.org/abs/2312.09093v2), Code: **[https://github.com/cuiziteng/Aleth-NeRF](https://github.com/cuiziteng/Aleth-NeRF)**
-- 2023-12-14, **SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**, Ru Li et.al., Paper: [http://arxiv.org/abs/2312.08692v1](http://arxiv.org/abs/2312.08692v1), Code: **[https://github.com/liru0126/spectralnerf](https://github.com/liru0126/spectralnerf)**
 
 ## Visual Localization
 
@@ -54,7 +53,6 @@
 - 2023-10-20, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v3](http://arxiv.org/abs/2304.02008v3), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
 - 2023-04-02, **Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**, Guilherme Potje et.al., Paper: [http://arxiv.org/abs/2304.00583v1](http://arxiv.org/abs/2304.00583v1), Code: **[https://github.com/verlab/DALF_CVPR_2023](https://github.com/verlab/DALF_CVPR_2023)**
 - 2023-03-27, **Learnable Graph Matching: A Practical Paradigm for Data Association**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2303.15414v1](http://arxiv.org/abs/2303.15414v1), Code: **[https://github.com/jiaweihe1996/GMTracker](https://github.com/jiaweihe1996/GMTracker)**
-- 2023-03-15, **Rethinking Optical Flow from Geometric Matching Consistent Perspective**, Qiaole Dong et.al., Paper: [http://arxiv.org/abs/2303.08384v1](http://arxiv.org/abs/2303.08384v1), Code: **[https://github.com/dqiaole/matchflow](https://github.com/dqiaole/matchflow)**
 
 ## Keypoint Detection
 
