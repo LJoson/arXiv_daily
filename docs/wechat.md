@@ -52,7 +52,6 @@
 - 2023-04-16, **ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2304.03608v2](http://arxiv.org/abs/2304.03608v2), Code: **[https://github.com/Shiaoming/ALIKED](https://github.com/Shiaoming/ALIKED)**
 - 2023-10-20, **GlueStick: Robust Image Matching by Sticking Points and Lines Together**, Rémi Pautrat et.al., Paper: [http://arxiv.org/abs/2304.02008v3](http://arxiv.org/abs/2304.02008v3), Code: **[https://github.com/cvg/gluestick](https://github.com/cvg/gluestick)**
 - 2023-04-02, **Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**, Guilherme Potje et.al., Paper: [http://arxiv.org/abs/2304.00583v1](http://arxiv.org/abs/2304.00583v1), Code: **[https://github.com/verlab/DALF_CVPR_2023](https://github.com/verlab/DALF_CVPR_2023)**
-- 2023-03-27, **Learnable Graph Matching: A Practical Paradigm for Data Association**, Jiawei He et.al., Paper: [http://arxiv.org/abs/2303.15414v1](http://arxiv.org/abs/2303.15414v1), Code: **[https://github.com/jiaweihe1996/GMTracker](https://github.com/jiaweihe1996/GMTracker)**
 
 ## Keypoint Detection
 
