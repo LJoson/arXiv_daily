@@ -68,5 +68,4 @@
 - 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1), Code: **[https://github.com/idea-research/click-pose](https://github.com/idea-research/click-pose)**
 - 2023-12-11, **DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2308.08479v3](http://arxiv.org/abs/2308.08479v3), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2023-08-15, **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**, Hao Ouyang et.al., Paper: [http://arxiv.org/abs/2308.07926v1](http://arxiv.org/abs/2308.07926v1), Code: **[https://github.com/qiuyu96/codef](https://github.com/qiuyu96/codef)**
-- 2023-08-14, **2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**, Minhao Li et.al., Paper: [http://arxiv.org/abs/2308.05667v2](http://arxiv.org/abs/2308.05667v2), Code: **[https://github.com/minhaolee/2d3dmatr](https://github.com/minhaolee/2d3dmatr)**
 
