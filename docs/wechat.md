@@ -13,6 +13,7 @@
 
 ## Visual Localization
 
+- 2024-01-23, **SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**, Mingyang Li et.al., Paper: [http://arxiv.org/abs/2401.13076v1](http://arxiv.org/abs/2401.13076v1), Code: **[https://github.com/leomingyangli/semanticslam](https://github.com/leomingyangli/semanticslam)**
 - 2023-12-17, **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2312.10616v1](http://arxiv.org/abs/2312.10616v1), Code: **[https://github.com/sijieaaa/distilvpr](https://github.com/sijieaaa/distilvpr)**
 - 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
 - 2023-11-22, **Applications of Spiking Neural Networks in Visual Place Recognition**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2311.13186v1](http://arxiv.org/abs/2311.13186v1), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
@@ -22,8 +23,6 @@
 - 2023-10-08, **AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2310.05184v1](http://arxiv.org/abs/2310.05184v1), Code: **[https://github.com/Lu-Feng/AANet](https://github.com/Lu-Feng/AANet)**
 - 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-19, **VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2309.10225v1](http://arxiv.org/abs/2309.10225v1), Code: **[https://github.com/QVPR/VPRTempo](https://github.com/QVPR/VPRTempo)**
-- 2023-09-16, **Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**, Pengyu Yin et.al., Paper: [http://arxiv.org/abs/2309.08914v1](http://arxiv.org/abs/2309.08914v1), Code: **[https://github.com/pamphlett/outram](https://github.com/pamphlett/outram)**
-- 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 
 ## Image Matching
 
