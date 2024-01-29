@@ -27,7 +27,7 @@
 ## Image Matching
 
 - 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
-- 2024-01-09, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v1](http://arxiv.org/abs/2401.04345v1), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
+- 2024-01-26, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v2](http://arxiv.org/abs/2401.04345v2), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
 - 2023-12-22, **Harnessing Diffusion Models for Visual Perception with Meta Prompts**, Qiang Wan et.al., Paper: [http://arxiv.org/abs/2312.14733v1](http://arxiv.org/abs/2312.14733v1), Code: **[https://github.com/fudan-zvg/meta-prompts](https://github.com/fudan-zvg/meta-prompts)**
 - 2023-12-04, **Steerers: A framework for rotation equivariant keypoint descriptors**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2312.02152v1](http://arxiv.org/abs/2312.02152v1), Code: **[https://github.com/georg-bn/rotation-steerers](https://github.com/georg-bn/rotation-steerers)**
 - 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
