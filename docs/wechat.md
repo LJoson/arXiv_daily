@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.01.31
+> Updated on 2024.02.01
 
 ## NeRF
 
+- 2024-01-30, **Physical Priors Augmented Event-Based 3D Reconstruction**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.17121v1](http://arxiv.org/abs/2401.17121v1), Code: **[https://github.com/mercerai/paev3d](https://github.com/mercerai/paev3d)**
 - 2024-01-01, **Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**, Byeonghyeon Lee et.al., Paper: [http://arxiv.org/abs/2401.00825v1](http://arxiv.org/abs/2401.00825v1), Code: **[https://github.com/benhenryl/sharpnerf](https://github.com/benhenryl/sharpnerf)**
 - 2023-12-23, **Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2312.15253v1](http://arxiv.org/abs/2312.15253v1), Code: **[https://github.com/loping151/forplane](https://github.com/loping151/forplane)**
 - 2023-12-22, **PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2312.14915v1](http://arxiv.org/abs/2312.14915v1), Code: **[https://github.com/mgholamikn/PoseGen](https://github.com/mgholamikn/PoseGen)**
@@ -50,6 +51,7 @@
 
 ## Keypoint Detection
 
+- 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
