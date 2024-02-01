@@ -9,10 +9,10 @@
 - 2023-12-23, **Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2312.15253v1](http://arxiv.org/abs/2312.15253v1), Code: **[https://github.com/loping151/forplane](https://github.com/loping151/forplane)**
 - 2023-12-22, **PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2312.14915v1](http://arxiv.org/abs/2312.14915v1), Code: **[https://github.com/mgholamikn/PoseGen](https://github.com/mgholamikn/PoseGen)**
 - 2023-12-21, **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**, Philipp Schröppel et.al., Paper: [http://arxiv.org/abs/2312.14124v1](http://arxiv.org/abs/2312.14124v1), Code: **[https://github.com/lmb-freiburg/neural-point-cloud-diffusion](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**
-- 2023-12-22, **Gaussian Splatting with NeRF-based Color and Opacity**, Dawid Malarz et.al., Paper: [http://arxiv.org/abs/2312.13729v2](http://arxiv.org/abs/2312.13729v2), Code: **[https://github.com/gmum/ViewingDirectionGaussianSplatting](https://github.com/gmum/ViewingDirectionGaussianSplatting)**
 
 ## Visual Localization
 
+- 2024-01-31, **Improved Scene Landmark Detection for Camera Localization**, Tien Do et.al., Paper: [http://arxiv.org/abs/2401.18083v1](http://arxiv.org/abs/2401.18083v1), Code: **[https://github.com/microsoft/scenelandmarklocalization](https://github.com/microsoft/scenelandmarklocalization)**
 - 2024-01-23, **SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**, Mingyang Li et.al., Paper: [http://arxiv.org/abs/2401.13076v1](http://arxiv.org/abs/2401.13076v1), Code: **[https://github.com/leomingyangli/semanticslam](https://github.com/leomingyangli/semanticslam)**
 - 2023-12-17, **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2312.10616v1](http://arxiv.org/abs/2312.10616v1), Code: **[https://github.com/sijieaaa/distilvpr](https://github.com/sijieaaa/distilvpr)**
 - 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
