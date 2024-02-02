@@ -4,11 +4,11 @@
 
 ## NeRF
 
+- 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
 - 2024-01-30, **Physical Priors Augmented Event-Based 3D Reconstruction**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.17121v1](http://arxiv.org/abs/2401.17121v1), Code: **[https://github.com/mercerai/paev3d](https://github.com/mercerai/paev3d)**
 - 2024-01-01, **Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**, Byeonghyeon Lee et.al., Paper: [http://arxiv.org/abs/2401.00825v1](http://arxiv.org/abs/2401.00825v1), Code: **[https://github.com/benhenryl/sharpnerf](https://github.com/benhenryl/sharpnerf)**
 - 2023-12-23, **Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2312.15253v1](http://arxiv.org/abs/2312.15253v1), Code: **[https://github.com/loping151/forplane](https://github.com/loping151/forplane)**
 - 2023-12-22, **PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**, Mohsen Gholami et.al., Paper: [http://arxiv.org/abs/2312.14915v1](http://arxiv.org/abs/2312.14915v1), Code: **[https://github.com/mgholamikn/PoseGen](https://github.com/mgholamikn/PoseGen)**
-- 2023-12-21, **Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**, Philipp Schröppel et.al., Paper: [http://arxiv.org/abs/2312.14124v1](http://arxiv.org/abs/2312.14124v1), Code: **[https://github.com/lmb-freiburg/neural-point-cloud-diffusion](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**
 
 ## Visual Localization
 
@@ -22,7 +22,6 @@
 - 2023-10-20, **CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**, Shaoan Wang et.al., Paper: [http://arxiv.org/abs/2310.13320v1](http://arxiv.org/abs/2310.13320v1), Code: **[https://github.com/wsakobe/cylindertag](https://github.com/wsakobe/cylindertag)**
 - 2023-10-08, **AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2310.05184v1](http://arxiv.org/abs/2310.05184v1), Code: **[https://github.com/Lu-Feng/AANet](https://github.com/Lu-Feng/AANet)**
 - 2023-09-29, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v1](http://arxiv.org/abs/2309.16992v1), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
-- 2023-09-19, **VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2309.10225v1](http://arxiv.org/abs/2309.10225v1), Code: **[https://github.com/QVPR/VPRTempo](https://github.com/QVPR/VPRTempo)**
 
 ## Image Matching
 
