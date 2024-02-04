@@ -20,6 +20,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|**[link](https://github.com/leomingyangli/semanticslam)**|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616v1](http://arxiv.org/abs/2312.10616v1)|**[link](https://github.com/sijieaaa/distilvpr)**|
