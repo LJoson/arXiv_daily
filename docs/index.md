@@ -10,11 +10,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|**[link](https://github.com/gmum/hyperplanes)**|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v1](http://arxiv.org/abs/2402.01459v1)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825v1](http://arxiv.org/abs/2401.00825v1)|**[link](https://github.com/benhenryl/sharpnerf)**|
 |**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253v1](http://arxiv.org/abs/2312.15253v1)|**[link](https://github.com/loping151/forplane)**|
-|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|**[link](https://github.com/mgholamikn/PoseGen)**|
 
 ## Visual Localization
 
