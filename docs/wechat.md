@@ -4,13 +4,13 @@
 
 ## NeRF
 
+- 2024-02-09, **ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**, Georgii Stanishevskii et.al., Paper: [http://arxiv.org/abs/2402.06390v1](http://arxiv.org/abs/2402.06390v1), Code: **[https://github.com/quereste/implicit-deepfake](https://github.com/quereste/implicit-deepfake)**
 - 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 - 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
 - 2024-02-06, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v2](http://arxiv.org/abs/2402.01459v2), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
 - 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
 - 2024-01-30, **Physical Priors Augmented Event-Based 3D Reconstruction**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.17121v1](http://arxiv.org/abs/2401.17121v1), Code: **[https://github.com/mercerai/paev3d](https://github.com/mercerai/paev3d)**
-- 2024-01-01, **Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**, Byeonghyeon Lee et.al., Paper: [http://arxiv.org/abs/2401.00825v1](http://arxiv.org/abs/2401.00825v1), Code: **[https://github.com/benhenryl/sharpnerf](https://github.com/benhenryl/sharpnerf)**
 
 ## Visual Localization
 
