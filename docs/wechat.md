@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2024-02-09, **ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**, Georgii Stanishevskii et.al., Paper: [http://arxiv.org/abs/2402.06390v1](http://arxiv.org/abs/2402.06390v1), Code: **[https://github.com/quereste/implicit-deepfake](https://github.com/quereste/implicit-deepfake)**
 - 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 - 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
