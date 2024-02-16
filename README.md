@@ -7,6 +7,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310v1](http://arxiv.org/abs/2402.07310v1)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-09**|**ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**|Georgii Stanishevskii et.al.|[2402.06390v1](http://arxiv.org/abs/2402.06390v1)|**[link](https://github.com/quereste/implicit-deepfake)**|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746v1](http://arxiv.org/abs/2402.05746v1)|**[link](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
@@ -75,5 +76,4 @@
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170v1](http://arxiv.org/abs/2308.15170v1)|**[link](https://github.com/shubhajitbasak/dense3dfacelandmarks)**|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-12-11**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v3](http://arxiv.org/abs/2308.08479v3)|**[link](https://github.com/parskatt/dedode)**|
-|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
 
