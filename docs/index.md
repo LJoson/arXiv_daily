@@ -79,5 +79,4 @@ layout: default
 |**2023-09-12**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v2](http://arxiv.org/abs/2309.00434v2)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170v1](http://arxiv.org/abs/2308.15170v1)|**[link](https://github.com/shubhajitbasak/dense3dfacelandmarks)**|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
-|**2023-12-11**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v3](http://arxiv.org/abs/2308.08479v3)|**[link](https://github.com/parskatt/dedode)**|
 
