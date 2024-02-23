@@ -17,6 +17,7 @@
 
 ## Visual Localization
 
+- 2024-02-22, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v1](http://arxiv.org/abs/2402.14505v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
 - 2024-02-15, **Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**, Mirko Nava et.al., Paper: [http://arxiv.org/abs/2402.09886v1](http://arxiv.org/abs/2402.09886v1), Code: **[https://github.com/idsia-robotics/leds-as-pretext](https://github.com/idsia-robotics/leds-as-pretext)**
 - 2024-02-13, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v1](http://arxiv.org/abs/2402.08359v1), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 - 2024-02-01, **Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**, Tianxiao Gao et.al., Paper: [http://arxiv.org/abs/2402.00330v1](http://arxiv.org/abs/2402.00330v1), Code: **[https://github.com/imrl/night-rider](https://github.com/imrl/night-rider)**
@@ -68,5 +69,4 @@
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-12, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v2](http://arxiv.org/abs/2309.00434v2), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
 - 2023-08-29, **A lightweight 3D dense facial landmark estimation model from position map data**, Shubhajit Basak et.al., Paper: [http://arxiv.org/abs/2308.15170v1](http://arxiv.org/abs/2308.15170v1), Code: **[https://github.com/shubhajitbasak/dense3dfacelandmarks](https://github.com/shubhajitbasak/dense3dfacelandmarks)**
-- 2023-08-20, **Neural Interactive Keypoint Detection**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2308.10174v1](http://arxiv.org/abs/2308.10174v1), Code: **[https://github.com/idea-research/click-pose](https://github.com/idea-research/click-pose)**
 
