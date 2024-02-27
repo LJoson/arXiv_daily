@@ -17,6 +17,8 @@
 
 ## Visual Localization
 
+- 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
+- 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 - 2024-02-22, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v1](http://arxiv.org/abs/2402.14505v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
 - 2024-02-15, **Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**, Mirko Nava et.al., Paper: [http://arxiv.org/abs/2402.09886v1](http://arxiv.org/abs/2402.09886v1), Code: **[https://github.com/idsia-robotics/leds-as-pretext](https://github.com/idsia-robotics/leds-as-pretext)**
 - 2024-02-13, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v1](http://arxiv.org/abs/2402.08359v1), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
@@ -29,7 +31,6 @@
 - 2023-11-06, **FocusTune: Tuning Visual Localization through Focus-Guided Sampling**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2311.02872v1](http://arxiv.org/abs/2311.02872v1), Code: **[https://github.com/sontung/focus-tune](https://github.com/sontung/focus-tune)**
 - 2023-12-05, **DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**, Gaoshuang Huang et.al., Paper: [http://arxiv.org/abs/2311.00230v2](http://arxiv.org/abs/2311.00230v2), Code: **[https://github.com/GaoShuang98/DINO-Mix](https://github.com/GaoShuang98/DINO-Mix)**
 - 2023-10-20, **CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**, Shaoan Wang et.al., Paper: [http://arxiv.org/abs/2310.13320v1](http://arxiv.org/abs/2310.13320v1), Code: **[https://github.com/wsakobe/cylindertag](https://github.com/wsakobe/cylindertag)**
-- 2023-10-08, **AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2310.05184v1](http://arxiv.org/abs/2310.05184v1), Code: **[https://github.com/Lu-Feng/AANet](https://github.com/Lu-Feng/AANet)**
 
 ## Image Matching
 
