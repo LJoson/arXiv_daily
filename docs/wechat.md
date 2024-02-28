@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364v1](http://arxiv.org/abs/2402.17364v1), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2024-02-17, **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**, Thang-Anh-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2402.11141v1](http://arxiv.org/abs/2402.11141v1), Code: **[https://github.com/abourki/sota-semantically-aware-nerfs](https://github.com/abourki/sota-semantically-aware-nerfs)**
 - 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2024-02-11, **BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**, Leandro A. Passos et.al., Paper: [http://arxiv.org/abs/2402.07310v1](http://arxiv.org/abs/2402.07310v1), Code: **[https://github.com/leandropassosjr/bionerf](https://github.com/leandropassosjr/bionerf)**
@@ -17,6 +18,7 @@
 
 ## Visual Localization
 
+- 2024-02-27, **Active propulsion noise shaping for multi-rotor aircraft localization**, Serussi Gabriele et.al., Paper: [http://arxiv.org/abs/2402.17289v1](http://arxiv.org/abs/2402.17289v1), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 - 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 - 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 - 2024-02-22, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v1](http://arxiv.org/abs/2402.14505v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
