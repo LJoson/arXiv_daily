@@ -18,6 +18,7 @@
 
 ## Visual Localization
 
+- 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
 - 2024-02-27, **Active propulsion noise shaping for multi-rotor aircraft localization**, Serussi Gabriele et.al., Paper: [http://arxiv.org/abs/2402.17289v1](http://arxiv.org/abs/2402.17289v1), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 - 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 - 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
