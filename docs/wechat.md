@@ -18,8 +18,9 @@
 
 ## Visual Localization
 
+- 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
-- 2024-02-27, **Active propulsion noise shaping for multi-rotor aircraft localization**, Serussi Gabriele et.al., Paper: [http://arxiv.org/abs/2402.17289v1](http://arxiv.org/abs/2402.17289v1), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
+- 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 - 2024-02-25, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v1](http://arxiv.org/abs/2402.16086v1), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 - 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 - 2024-02-22, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v1](http://arxiv.org/abs/2402.14505v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
