@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325v1](http://arxiv.org/abs/2403.01325v1)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364v1](http://arxiv.org/abs/2402.17364v1)|**[link](https://github.com/zhangzc21/dyntet)**|
 |**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141v1](http://arxiv.org/abs/2402.11141v1)|**[link](https://github.com/abourki/sota-semantically-aware-nerfs)**|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
@@ -30,7 +31,7 @@
 |**2024-02-22**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505v1](http://arxiv.org/abs/2402.14505v1)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886v1](http://arxiv.org/abs/2402.09886v1)|**[link](https://github.com/idsia-robotics/leds-as-pretext)**|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v1](http://arxiv.org/abs/2402.08359v1)|**[link](https://github.com/truongkhang/deviloc)**|
-|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
+|**2024-03-03**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v2](http://arxiv.org/abs/2402.00330v2)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076v1](http://arxiv.org/abs/2401.13076v1)|**[link](https://github.com/leomingyangli/semanticslam)**|
 |**2023-12-17**|**DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**|Sijie Wang et.al.|[2312.10616v1](http://arxiv.org/abs/2312.10616v1)|**[link](https://github.com/sijieaaa/distilvpr)**|
