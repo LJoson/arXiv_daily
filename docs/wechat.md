@@ -15,7 +15,6 @@
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
 - 2024-02-15, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v3](http://arxiv.org/abs/2402.01459v3), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
 - 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
-- 2024-01-30, **Physical Priors Augmented Event-Based 3D Reconstruction**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2401.17121v1](http://arxiv.org/abs/2401.17121v1), Code: **[https://github.com/mercerai/paev3d](https://github.com/mercerai/paev3d)**
 
 ## Visual Localization
 
