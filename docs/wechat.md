@@ -14,7 +14,6 @@
 - 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
 - 2024-02-15, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v3](http://arxiv.org/abs/2402.01459v3), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
-- 2024-02-01, **ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**, Jiahua Dong et.al., Paper: [http://arxiv.org/abs/2402.00864v1](http://arxiv.org/abs/2402.00864v1), Code: **[https://github.com/dongjiahua/vica-nerf](https://github.com/dongjiahua/vica-nerf)**
 
 ## Visual Localization
 
@@ -58,7 +57,6 @@
 - 2023-05-18, **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2305.11116v1](http://arxiv.org/abs/2305.11116v1), Code: **[https://github.com/yujielu10/llmscore](https://github.com/yujielu10/llmscore)**
 - 2023-08-10, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v2](http://arxiv.org/abs/2305.07304v2), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
 - 2023-10-20, **Enhancing Textbooks with Visuals from the Web for Improved Learning**, Janvijay Singh et.al., Paper: [http://arxiv.org/abs/2304.08931v2](http://arxiv.org/abs/2304.08931v2), Code: **[https://github.com/eth-nlped/textbook-enrichment](https://github.com/eth-nlped/textbook-enrichment)**
-- 2023-04-17, **DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**, Mohamed Ali Chebbi et.al., Paper: [http://arxiv.org/abs/2304.08056v1](http://arxiv.org/abs/2304.08056v1), Code: **[https://github.com/dalichebbi/deepsimnets](https://github.com/dalichebbi/deepsimnets)**
 
 ## Keypoint Detection
 
