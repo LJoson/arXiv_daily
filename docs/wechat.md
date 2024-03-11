@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-03-07, **BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2403.04926v1](http://arxiv.org/abs/2403.04926v1), Code: **[https://github.com/snldmt/bags](https://github.com/snldmt/bags)**
 - 2024-03-02, **NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**, Linsheng Chen et.al., Paper: [http://arxiv.org/abs/2403.01325v1](http://arxiv.org/abs/2403.01325v1), Code: **[https://github.com/freedomcls/nerf-vpt](https://github.com/freedomcls/nerf-vpt)**
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364v1](http://arxiv.org/abs/2402.17364v1), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2024-02-17, **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**, Thang-Anh-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2402.11141v1](http://arxiv.org/abs/2402.11141v1), Code: **[https://github.com/abourki/sota-semantically-aware-nerfs](https://github.com/abourki/sota-semantically-aware-nerfs)**
@@ -13,7 +14,6 @@
 - 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 - 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
 - 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
-- 2024-02-15, **GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2402.01459v3](http://arxiv.org/abs/2402.01459v3), Code: **[https://github.com/waczjoan/gaussian-mesh-splatting](https://github.com/waczjoan/gaussian-mesh-splatting)**
 
 ## Visual Localization
 
