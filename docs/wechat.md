@@ -11,9 +11,7 @@
 - 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2024-02-11, **BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**, Leandro A. Passos et.al., Paper: [http://arxiv.org/abs/2402.07310v1](http://arxiv.org/abs/2402.07310v1), Code: **[https://github.com/leandropassosjr/bionerf](https://github.com/leandropassosjr/bionerf)**
 - 2024-02-09, **ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**, Georgii Stanishevskii et.al., Paper: [http://arxiv.org/abs/2402.06390v1](http://arxiv.org/abs/2402.06390v1), Code: **[https://github.com/quereste/implicit-deepfake](https://github.com/quereste/implicit-deepfake)**
-- 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
-- 2024-02-05, **ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**, Bernard Spiegl et.al., Paper: [http://arxiv.org/abs/2402.02906v1](http://arxiv.org/abs/2402.02906v1), Code: **[https://github.com/bronemos/view-fusion](https://github.com/bronemos/view-fusion)**
-- 2024-02-02, **HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**, Paweł Batorski et.al., Paper: [http://arxiv.org/abs/2402.01524v1](http://arxiv.org/abs/2402.01524v1), Code: **[https://github.com/gmum/hyperplanes](https://github.com/gmum/hyperplanes)**
+- 2024-03-11, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v2](http://arxiv.org/abs/2402.05746v2), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 
 ## Visual Localization
 
@@ -33,7 +31,6 @@
 - 2023-11-22, **Applications of Spiking Neural Networks in Visual Place Recognition**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2311.13186v1](http://arxiv.org/abs/2311.13186v1), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
 - 2023-11-06, **FocusTune: Tuning Visual Localization through Focus-Guided Sampling**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2311.02872v1](http://arxiv.org/abs/2311.02872v1), Code: **[https://github.com/sontung/focus-tune](https://github.com/sontung/focus-tune)**
 - 2023-12-05, **DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**, Gaoshuang Huang et.al., Paper: [http://arxiv.org/abs/2311.00230v2](http://arxiv.org/abs/2311.00230v2), Code: **[https://github.com/GaoShuang98/DINO-Mix](https://github.com/GaoShuang98/DINO-Mix)**
-- 2023-10-20, **CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**, Shaoan Wang et.al., Paper: [http://arxiv.org/abs/2310.13320v1](http://arxiv.org/abs/2310.13320v1), Code: **[https://github.com/wsakobe/cylindertag](https://github.com/wsakobe/cylindertag)**
 
 ## Image Matching
 
