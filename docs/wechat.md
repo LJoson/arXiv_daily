@@ -12,7 +12,6 @@
 - 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
 - 2024-02-11, **BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**, Leandro A. Passos et.al., Paper: [http://arxiv.org/abs/2402.07310v1](http://arxiv.org/abs/2402.07310v1), Code: **[https://github.com/leandropassosjr/bionerf](https://github.com/leandropassosjr/bionerf)**
 - 2024-02-09, **ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**, Georgii Stanishevskii et.al., Paper: [http://arxiv.org/abs/2402.06390v1](http://arxiv.org/abs/2402.06390v1), Code: **[https://github.com/quereste/implicit-deepfake](https://github.com/quereste/implicit-deepfake)**
-- 2024-03-11, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v2](http://arxiv.org/abs/2402.05746v2), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 
 ## Visual Localization
 
@@ -54,7 +53,6 @@
 - 2023-06-19, **Graph Self-Supervised Learning for Endoscopic Image Matching**, Manel Farhat et.al., Paper: [http://arxiv.org/abs/2306.11141v1](http://arxiv.org/abs/2306.11141v1), Code: **[https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**
 - 2023-05-19, **SIDAR: Synthetic Image Dataset for Alignment & Restoration**, Monika Kwiatkowski et.al., Paper: [http://arxiv.org/abs/2305.12036v1](http://arxiv.org/abs/2305.12036v1), Code: **[https://github.com/niika/SIDAR](https://github.com/niika/SIDAR)**
 - 2023-05-18, **LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**, Yujie Lu et.al., Paper: [http://arxiv.org/abs/2305.11116v1](http://arxiv.org/abs/2305.11116v1), Code: **[https://github.com/yujielu10/llmscore](https://github.com/yujielu10/llmscore)**
-- 2023-08-10, **CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**, Ruixiang Jiang et.al., Paper: [http://arxiv.org/abs/2305.07304v2](http://arxiv.org/abs/2305.07304v2), Code: **[https://github.com/songrise/clip-count](https://github.com/songrise/clip-count)**
 
 ## Keypoint Detection
 
