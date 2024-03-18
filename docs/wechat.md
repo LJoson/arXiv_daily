@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-03-15, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v1](http://arxiv.org/abs/2403.10297v1), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1), Code: **[https://github.com/yuantianyuan01/presight](https://github.com/yuantianyuan01/presight)**
 - 2024-03-12, **SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**, Jungho Lee et.al., Paper: [http://arxiv.org/abs/2403.07547v1](http://arxiv.org/abs/2403.07547v1), Code: **[https://github.com/jho-yonsei/smurf](https://github.com/jho-yonsei/smurf)**
 - 2024-03-07, **BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2403.04926v1](http://arxiv.org/abs/2403.04926v1), Code: **[https://github.com/snldmt/bags](https://github.com/snldmt/bags)**
@@ -11,11 +12,10 @@
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364v1](http://arxiv.org/abs/2402.17364v1), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2024-02-17, **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**, Thang-Anh-Quan Nguyen et.al., Paper: [http://arxiv.org/abs/2402.11141v1](http://arxiv.org/abs/2402.11141v1), Code: **[https://github.com/abourki/sota-semantically-aware-nerfs](https://github.com/abourki/sota-semantically-aware-nerfs)**
 - 2024-02-14, **PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**, Xiuzhong Hu et.al., Paper: [http://arxiv.org/abs/2402.09325v1](http://arxiv.org/abs/2402.09325v1), Code: **[https://github.com/biter0088/pc-nerf](https://github.com/biter0088/pc-nerf)**
-- 2024-02-11, **BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**, Leandro A. Passos et.al., Paper: [http://arxiv.org/abs/2402.07310v1](http://arxiv.org/abs/2402.07310v1), Code: **[https://github.com/leandropassosjr/bionerf](https://github.com/leandropassosjr/bionerf)**
-- 2024-02-09, **ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting**, Georgii Stanishevskii et.al., Paper: [http://arxiv.org/abs/2402.06390v1](http://arxiv.org/abs/2402.06390v1), Code: **[https://github.com/quereste/implicit-deepfake](https://github.com/quereste/implicit-deepfake)**
 
 ## Visual Localization
 
+- 2024-03-15, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v1](http://arxiv.org/abs/2403.10297v1), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
 - 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
@@ -32,7 +32,6 @@
 - 2023-11-27, **Optimal Transport Aggregation for Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2311.15937v1](http://arxiv.org/abs/2311.15937v1), Code: **[https://github.com/serizba/salad](https://github.com/serizba/salad)**
 - 2023-11-22, **Applications of Spiking Neural Networks in Visual Place Recognition**, Somayeh Hussaini et.al., Paper: [http://arxiv.org/abs/2311.13186v1](http://arxiv.org/abs/2311.13186v1), Code: **[https://github.com/qvpr/vprsnn](https://github.com/qvpr/vprsnn)**
 - 2023-11-06, **FocusTune: Tuning Visual Localization through Focus-Guided Sampling**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2311.02872v1](http://arxiv.org/abs/2311.02872v1), Code: **[https://github.com/sontung/focus-tune](https://github.com/sontung/focus-tune)**
-- 2023-12-05, **DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**, Gaoshuang Huang et.al., Paper: [http://arxiv.org/abs/2311.00230v2](http://arxiv.org/abs/2311.00230v2), Code: **[https://github.com/GaoShuang98/DINO-Mix](https://github.com/GaoShuang98/DINO-Mix)**
 
 ## Image Matching
 
