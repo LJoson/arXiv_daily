@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2024-03-18, **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2403.12154v1](http://arxiv.org/abs/2403.12154v1), Code: **[https://github.com/schindlerepfl/thermo-nerf](https://github.com/schindlerepfl/thermo-nerf)**
+- 2024-03-19, **BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**, Lingzhe Zhao et.al., Paper: [http://arxiv.org/abs/2403.11831v2](http://arxiv.org/abs/2403.11831v2), Code: **[https://github.com/WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians)**
 - 2024-03-17, **SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**, Lin Zhu et.al., Paper: [http://arxiv.org/abs/2403.11222v1](http://arxiv.org/abs/2403.11222v1), Code: **[https://github.com/bit-vision/spikenerf](https://github.com/bit-vision/spikenerf)**
 - 2024-03-15, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v1](http://arxiv.org/abs/2403.10297v1), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1), Code: **[https://github.com/yuantianyuan01/presight](https://github.com/yuantianyuan01/presight)**
