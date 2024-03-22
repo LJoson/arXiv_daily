@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.03.21
+> Updated on 2024.03.22
 
 ## NeRF
 
@@ -36,6 +36,7 @@
 
 ## Image Matching
 
+- 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2), Code: **[https://github.com/naver-ai/Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting)**
 - 2024-03-20, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v2](http://arxiv.org/abs/2402.08359v2), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 - 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
 - 2024-01-26, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v2](http://arxiv.org/abs/2401.04345v2), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
