@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-03-21, **CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**, Matteo Bonotto et.al., Paper: [http://arxiv.org/abs/2403.14412v1](http://arxiv.org/abs/2403.14412v1), Code: **[https://github.com/sarroccoluigi/combinerf](https://github.com/sarroccoluigi/combinerf)**
 - 2024-03-18, **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2403.12154v1](http://arxiv.org/abs/2403.12154v1), Code: **[https://github.com/schindlerepfl/thermo-nerf](https://github.com/schindlerepfl/thermo-nerf)**
 - 2024-03-19, **BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**, Lingzhe Zhao et.al., Paper: [http://arxiv.org/abs/2403.11831v2](http://arxiv.org/abs/2403.11831v2), Code: **[https://github.com/WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians)**
 - 2024-03-18, **Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2403.11812v1](http://arxiv.org/abs/2403.11812v1), Code: **[https://github.com/zyqz97/aerial_lifting](https://github.com/zyqz97/aerial_lifting)**
@@ -13,7 +14,6 @@
 - 2024-03-12, **SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**, Jungho Lee et.al., Paper: [http://arxiv.org/abs/2403.07547v1](http://arxiv.org/abs/2403.07547v1), Code: **[https://github.com/jho-yonsei/smurf](https://github.com/jho-yonsei/smurf)**
 - 2024-03-07, **BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2403.04926v1](http://arxiv.org/abs/2403.04926v1), Code: **[https://github.com/snldmt/bags](https://github.com/snldmt/bags)**
 - 2024-03-02, **NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**, Linsheng Chen et.al., Paper: [http://arxiv.org/abs/2403.01325v1](http://arxiv.org/abs/2403.01325v1), Code: **[https://github.com/freedomcls/nerf-vpt](https://github.com/freedomcls/nerf-vpt)**
-- 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364v1](http://arxiv.org/abs/2402.17364v1), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 
 ## Visual Localization
 
@@ -22,6 +22,7 @@
 - 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
 - 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
+- 2024-03-21, **NocPlace: Nocturnal Visual Place Recognition via Generative and Inherited Knowledge Transfer**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2402.17159v2](http://arxiv.org/abs/2402.17159v2), Code: **[https://github.com/binuxliu/nocplace](https://github.com/binuxliu/nocplace)**
 - 2024-03-18, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v2](http://arxiv.org/abs/2402.16086v2), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 - 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 - 2024-03-18, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v2](http://arxiv.org/abs/2402.14505v2), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
