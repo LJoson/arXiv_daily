@@ -12,7 +12,7 @@
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1), Code: **[https://github.com/yuantianyuan01/presight](https://github.com/yuantianyuan01/presight)**
 - 2024-03-12, **SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**, Jungho Lee et.al., Paper: [http://arxiv.org/abs/2403.07547v1](http://arxiv.org/abs/2403.07547v1), Code: **[https://github.com/jho-yonsei/smurf](https://github.com/jho-yonsei/smurf)**
-- 2024-03-07, **BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2403.04926v1](http://arxiv.org/abs/2403.04926v1), Code: **[https://github.com/snldmt/bags](https://github.com/snldmt/bags)**
+- 2024-03-24, **BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**, Cheng Peng et.al., Paper: [http://arxiv.org/abs/2403.04926v2](http://arxiv.org/abs/2403.04926v2), Code: **[https://github.com/snldmt/bags](https://github.com/snldmt/bags)**
 - 2024-03-02, **NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**, Linsheng Chen et.al., Paper: [http://arxiv.org/abs/2403.01325v1](http://arxiv.org/abs/2403.01325v1), Code: **[https://github.com/freedomcls/nerf-vpt](https://github.com/freedomcls/nerf-vpt)**
 
 ## Visual Localization
