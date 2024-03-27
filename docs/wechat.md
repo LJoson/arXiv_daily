@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
 - 2024-03-26, **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**, Xiaoyun Zheng et.al., Paper: [http://arxiv.org/abs/2403.16080v2](http://arxiv.org/abs/2403.16080v2), Code: **[https://github.com/zhengxyun/PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans)**
 - 2024-03-21, **CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**, Matteo Bonotto et.al., Paper: [http://arxiv.org/abs/2403.14412v1](http://arxiv.org/abs/2403.14412v1), Code: **[https://github.com/sarroccoluigi/combinerf](https://github.com/sarroccoluigi/combinerf)**
 - 2024-03-18, **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2403.12154v1](http://arxiv.org/abs/2403.12154v1), Code: **[https://github.com/schindlerepfl/thermo-nerf](https://github.com/schindlerepfl/thermo-nerf)**
@@ -12,10 +13,10 @@
 - 2024-03-17, **SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**, Lin Zhu et.al., Paper: [http://arxiv.org/abs/2403.11222v1](http://arxiv.org/abs/2403.11222v1), Code: **[https://github.com/bit-vision/spikenerf](https://github.com/bit-vision/spikenerf)**
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1), Code: **[https://github.com/yuantianyuan01/presight](https://github.com/yuantianyuan01/presight)**
-- 2024-03-12, **SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**, Jungho Lee et.al., Paper: [http://arxiv.org/abs/2403.07547v1](http://arxiv.org/abs/2403.07547v1), Code: **[https://github.com/jho-yonsei/smurf](https://github.com/jho-yonsei/smurf)**
 
 ## Visual Localization
 
+- 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
 - 2024-02-29, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v1](http://arxiv.org/abs/2402.19231v1), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
