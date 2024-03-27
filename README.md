@@ -6,7 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-24**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v1](http://arxiv.org/abs/2403.16080v1)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
+|**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v2](http://arxiv.org/abs/2403.16080v2)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412v1](http://arxiv.org/abs/2403.14412v1)|**[link](https://github.com/sarroccoluigi/combinerf)**|
 |**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154v1](http://arxiv.org/abs/2403.12154v1)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
