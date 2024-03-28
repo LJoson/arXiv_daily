@@ -1,11 +1,12 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.03.27
+> Updated on 2024.03.28
 
 ## NeRF
 
 - 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
 - 2024-03-26, **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**, Xiaoyun Zheng et.al., Paper: [http://arxiv.org/abs/2403.16080v2](http://arxiv.org/abs/2403.16080v2), Code: **[https://github.com/zhengxyun/PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans)**
+- 2024-03-23, **DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**, Mu-Yi Shen et.al., Paper: [http://arxiv.org/abs/2403.15791v1](http://arxiv.org/abs/2403.15791v1), Code: **[https://github.com/muyishen2040/driveenvnerf](https://github.com/muyishen2040/driveenvnerf)**
 - 2024-03-21, **CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**, Matteo Bonotto et.al., Paper: [http://arxiv.org/abs/2403.14412v1](http://arxiv.org/abs/2403.14412v1), Code: **[https://github.com/sarroccoluigi/combinerf](https://github.com/sarroccoluigi/combinerf)**
 - 2024-03-18, **ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2403.12154v1](http://arxiv.org/abs/2403.12154v1), Code: **[https://github.com/schindlerepfl/thermo-nerf](https://github.com/schindlerepfl/thermo-nerf)**
 - 2024-03-19, **BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**, Lingzhe Zhao et.al., Paper: [http://arxiv.org/abs/2403.11831v2](http://arxiv.org/abs/2403.11831v2), Code: **[https://github.com/WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians)**
