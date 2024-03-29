@@ -13,7 +13,6 @@
 - 2024-03-18, **Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2403.11812v1](http://arxiv.org/abs/2403.11812v1), Code: **[https://github.com/zyqz97/aerial_lifting](https://github.com/zyqz97/aerial_lifting)**
 - 2024-03-17, **SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**, Lin Zhu et.al., Paper: [http://arxiv.org/abs/2403.11222v1](http://arxiv.org/abs/2403.11222v1), Code: **[https://github.com/bit-vision/spikenerf](https://github.com/bit-vision/spikenerf)**
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
-- 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1), Code: **[https://github.com/yuantianyuan01/presight](https://github.com/yuantianyuan01/presight)**
 
 ## Visual Localization
 
@@ -59,6 +58,7 @@
 
 ## Keypoint Detection
 
+- 2024-03-28, **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2403.19527v1](http://arxiv.org/abs/2403.19527v1), Code: **[https://github.com/leeiieeo/ag-pose](https://github.com/leeiieeo/ag-pose)**
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
@@ -74,5 +74,4 @@
 - 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
 - 2023-09-14, **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**, Minjung Kim et.al., Paper: [http://arxiv.org/abs/2309.07471v1](http://arxiv.org/abs/2309.07471v1), Code: **[https://github.com/minnjung/ep2p-loc](https://github.com/minnjung/ep2p-loc)**
 - 2023-09-12, **Improving the matching of deformable objects by learning to detect keypoints**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2309.00434v2](http://arxiv.org/abs/2309.00434v2), Code: **[https://github.com/verlab/learningtodetect_prl_2023](https://github.com/verlab/learningtodetect_prl_2023)**
-- 2023-08-29, **A lightweight 3D dense facial landmark estimation model from position map data**, Shubhajit Basak et.al., Paper: [http://arxiv.org/abs/2308.15170v1](http://arxiv.org/abs/2308.15170v1), Code: **[https://github.com/shubhajitbasak/dense3dfacelandmarks](https://github.com/shubhajitbasak/dense3dfacelandmarks)**
 
