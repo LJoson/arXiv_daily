@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.03.29
+> Updated on 2024.03.30
 
 ## NeRF
 
@@ -62,6 +62,7 @@
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
+- 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1), Code: **[https://github.com/cai-jianfeng/flowmind2digital](https://github.com/cai-jianfeng/flowmind2digital)**
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 - 2023-12-11, **Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2312.06865v1](http://arxiv.org/abs/2312.06865v1), Code: **[https://github.com/travisdriver/spc-factor-results](https://github.com/travisdriver/spc-factor-results)**
 - 2024-03-27, **Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**, Thomas Wimmer et.al., Paper: [http://arxiv.org/abs/2311.18113v2](http://arxiv.org/abs/2311.18113v2), Code: **[https://github.com/wimmerth/back-to-3d-few-shot-keypoints](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**
