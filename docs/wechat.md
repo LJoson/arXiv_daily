@@ -4,6 +4,9 @@
 
 ## NeRF
 
+- 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
+- 2024-03-29, **SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2403.20018v1](http://arxiv.org/abs/2403.20018v1), Code: **[https://github.com/wu-cvgl/scinerf](https://github.com/wu-cvgl/scinerf)**
+- 2024-03-28, **Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**, Marco Cannici et.al., Paper: [http://arxiv.org/abs/2403.19780v1](http://arxiv.org/abs/2403.19780v1), Code: **[https://github.com/uzh-rpg/evdeblurnerf](https://github.com/uzh-rpg/evdeblurnerf)**
 - 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
 - 2024-03-26, **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**, Xiaoyun Zheng et.al., Paper: [http://arxiv.org/abs/2403.16080v2](http://arxiv.org/abs/2403.16080v2), Code: **[https://github.com/zhengxyun/PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans)**
 - 2024-03-23, **DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**, Mu-Yi Shen et.al., Paper: [http://arxiv.org/abs/2403.15791v1](http://arxiv.org/abs/2403.15791v1), Code: **[https://github.com/muyishen2040/driveenvnerf](https://github.com/muyishen2040/driveenvnerf)**
@@ -12,10 +15,10 @@
 - 2024-03-19, **BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**, Lingzhe Zhao et.al., Paper: [http://arxiv.org/abs/2403.11831v2](http://arxiv.org/abs/2403.11831v2), Code: **[https://github.com/WU-CVGL/BAD-Gaussians](https://github.com/WU-CVGL/BAD-Gaussians)**
 - 2024-03-18, **Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**, Yuqi Zhang et.al., Paper: [http://arxiv.org/abs/2403.11812v1](http://arxiv.org/abs/2403.11812v1), Code: **[https://github.com/zyqz97/aerial_lifting](https://github.com/zyqz97/aerial_lifting)**
 - 2024-03-17, **SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**, Lin Zhu et.al., Paper: [http://arxiv.org/abs/2403.11222v1](http://arxiv.org/abs/2403.11222v1), Code: **[https://github.com/bit-vision/spikenerf](https://github.com/bit-vision/spikenerf)**
-- 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 
 ## Visual Localization
 
+- 2024-03-28, **JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2403.19787v1](http://arxiv.org/abs/2403.19787v1), Code: **[https://github.com/ga1i13o/jist](https://github.com/ga1i13o/jist)**
 - 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
@@ -58,6 +61,7 @@
 
 ## Keypoint Detection
 
+- 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
 - 2024-03-28, **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2403.19527v1](http://arxiv.org/abs/2403.19527v1), Code: **[https://github.com/leeiieeo/ag-pose](https://github.com/leeiieeo/ag-pose)**
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
