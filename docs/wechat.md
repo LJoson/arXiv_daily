@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-04-03, **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**, Zehan Zheng et.al., Paper: [http://arxiv.org/abs/2404.02742v1](http://arxiv.org/abs/2404.02742v1), Code: **[https://github.com/ispc-lab/lidar4d](https://github.com/ispc-lab/lidar4d)**
 - 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
 - 2024-03-29, **SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2403.20018v1](http://arxiv.org/abs/2403.20018v1), Code: **[https://github.com/wu-cvgl/scinerf](https://github.com/wu-cvgl/scinerf)**
 - 2024-03-28, **Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**, Marco Cannici et.al., Paper: [http://arxiv.org/abs/2403.19780v1](http://arxiv.org/abs/2403.19780v1), Code: **[https://github.com/uzh-rpg/evdeblurnerf](https://github.com/uzh-rpg/evdeblurnerf)**
