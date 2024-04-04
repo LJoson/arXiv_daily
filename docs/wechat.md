@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.04.03
+> Updated on 2024.04.04
 
 ## NeRF
 
@@ -61,7 +61,7 @@
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 - 2023-12-11, **Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2312.06865v1](http://arxiv.org/abs/2312.06865v1), Code: **[https://github.com/travisdriver/spc-factor-results](https://github.com/travisdriver/spc-factor-results)**
 - 2024-03-27, **Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**, Thomas Wimmer et.al., Paper: [http://arxiv.org/abs/2311.18113v2](http://arxiv.org/abs/2311.18113v2), Code: **[https://github.com/wimmerth/back-to-3d-few-shot-keypoints](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**
-- 2023-11-28, **Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**, Niladri Shekhar Dutt et.al., Paper: [http://arxiv.org/abs/2311.17024v1](http://arxiv.org/abs/2311.17024v1), Code: **[https://github.com/niladridutt/Diffusion-3D-Features](https://github.com/niladridutt/Diffusion-3D-Features)**
+- 2024-04-02, **Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**, Niladri Shekhar Dutt et.al., Paper: [http://arxiv.org/abs/2311.17024v2](http://arxiv.org/abs/2311.17024v2), Code: **[https://github.com/niladridutt/Diffusion-3D-Features](https://github.com/niladridutt/Diffusion-3D-Features)**
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-11, **CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**, Haoyu Ma et.al., Paper: [http://arxiv.org/abs/2311.06443v1](http://arxiv.org/abs/2311.06443v1), Code: **[https://github.com/howiema/cvthead](https://github.com/howiema/cvthead)**
 - 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
