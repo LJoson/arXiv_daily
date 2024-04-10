@@ -10,7 +10,6 @@
 - 2024-03-28, **Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**, Marco Cannici et.al., Paper: [http://arxiv.org/abs/2403.19780v1](http://arxiv.org/abs/2403.19780v1), Code: **[https://github.com/uzh-rpg/evdeblurnerf](https://github.com/uzh-rpg/evdeblurnerf)**
 - 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
 - 2024-04-02, **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**, Xiaoyun Zheng et.al., Paper: [http://arxiv.org/abs/2403.16080v3](http://arxiv.org/abs/2403.16080v3), Code: **[https://github.com/zhengxyun/PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans)**
-- 2024-03-23, **DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**, Mu-Yi Shen et.al., Paper: [http://arxiv.org/abs/2403.15791v1](http://arxiv.org/abs/2403.15791v1), Code: **[https://github.com/muyishen2040/driveenvnerf](https://github.com/muyishen2040/driveenvnerf)**
 
 ## Visual Localization
 
