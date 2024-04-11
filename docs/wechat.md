@@ -4,12 +4,13 @@
 
 ## NeRF
 
+- 2024-04-10, **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**, Mathis Kruse et.al., Paper: [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1), Code: **[https://github.com/m-kruse98/splatpose](https://github.com/m-kruse98/splatpose)**
+- 2024-04-10, **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**, Sibeak Lee et.al., Paper: [http://arxiv.org/abs/2404.06727v1](http://arxiv.org/abs/2404.06727v1), Code: **[https://github.com/lab-of-ai-and-robotics/bayesian_nerf](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**
 - 2024-04-03, **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**, Zehan Zheng et.al., Paper: [http://arxiv.org/abs/2404.02742v1](http://arxiv.org/abs/2404.02742v1), Code: **[https://github.com/ispc-lab/lidar4d](https://github.com/ispc-lab/lidar4d)**
 - 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
 - 2024-03-29, **SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2403.20018v1](http://arxiv.org/abs/2403.20018v1), Code: **[https://github.com/wu-cvgl/scinerf](https://github.com/wu-cvgl/scinerf)**
 - 2024-03-28, **Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**, Marco Cannici et.al., Paper: [http://arxiv.org/abs/2403.19780v1](http://arxiv.org/abs/2403.19780v1), Code: **[https://github.com/uzh-rpg/evdeblurnerf](https://github.com/uzh-rpg/evdeblurnerf)**
 - 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
-- 2024-04-02, **PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**, Xiaoyun Zheng et.al., Paper: [http://arxiv.org/abs/2403.16080v3](http://arxiv.org/abs/2403.16080v3), Code: **[https://github.com/zhengxyun/PKU-DyMVHumans](https://github.com/zhengxyun/PKU-DyMVHumans)**
 
 ## Visual Localization
 
