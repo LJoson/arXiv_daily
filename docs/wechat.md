@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-04-14, **VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.09271v1](http://arxiv.org/abs/2404.09271v1), Code: **[https://github.com/feixue94/vrs-nerf](https://github.com/feixue94/vrs-nerf)**
 - 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
 - 2024-04-10, **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**, Mathis Kruse et.al., Paper: [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1), Code: **[https://github.com/m-kruse98/splatpose](https://github.com/m-kruse98/splatpose)**
 - 2024-04-10, **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**, Sibeak Lee et.al., Paper: [http://arxiv.org/abs/2404.06727v1](http://arxiv.org/abs/2404.06727v1), Code: **[https://github.com/lab-of-ai-and-robotics/bayesian_nerf](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**
@@ -11,11 +12,11 @@
 - 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
 - 2024-03-29, **SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2403.20018v1](http://arxiv.org/abs/2403.20018v1), Code: **[https://github.com/wu-cvgl/scinerf](https://github.com/wu-cvgl/scinerf)**
 - 2024-03-28, **Mitigating Motion Blur in Neural Radiance Fields with Events and Frames**, Marco Cannici et.al., Paper: [http://arxiv.org/abs/2403.19780v1](http://arxiv.org/abs/2403.19780v1), Code: **[https://github.com/uzh-rpg/evdeblurnerf](https://github.com/uzh-rpg/evdeblurnerf)**
-- 2024-03-26, **Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**, Kai Yuan et.al., Paper: [http://arxiv.org/abs/2403.17607v1](http://arxiv.org/abs/2403.17607v1), Code: **[https://github.com/intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn)**
 
 ## Visual Localization
 
-- 2024-04-12, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v2](http://arxiv.org/abs/2404.07644v2), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
+- 2024-04-15, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v1](http://arxiv.org/abs/2404.09640v1), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
+- 2024-04-15, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v3](http://arxiv.org/abs/2404.07644v3), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 - 2024-04-02, **TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2404.01587v1](http://arxiv.org/abs/2404.01587v1), Code: **[https://github.com/nubot-nudt/tscm](https://github.com/nubot-nudt/tscm)**
 - 2024-03-28, **JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2403.19787v1](http://arxiv.org/abs/2403.19787v1), Code: **[https://github.com/ga1i13o/jist](https://github.com/ga1i13o/jist)**
 - 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
@@ -33,10 +34,10 @@
 - 2024-03-03, **Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**, Tianxiao Gao et.al., Paper: [http://arxiv.org/abs/2402.00330v2](http://arxiv.org/abs/2402.00330v2), Code: **[https://github.com/imrl/night-rider](https://github.com/imrl/night-rider)**
 - 2024-01-31, **Improved Scene Landmark Detection for Camera Localization**, Tien Do et.al., Paper: [http://arxiv.org/abs/2401.18083v1](http://arxiv.org/abs/2401.18083v1), Code: **[https://github.com/microsoft/scenelandmarklocalization](https://github.com/microsoft/scenelandmarklocalization)**
 - 2024-01-23, **SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**, Mingyang Li et.al., Paper: [http://arxiv.org/abs/2401.13076v1](http://arxiv.org/abs/2401.13076v1), Code: **[https://github.com/leomingyangli/semanticslam](https://github.com/leomingyangli/semanticslam)**
-- 2023-12-17, **DistilVPR: Cross-Modal Knowledge Distillation for Visual Place Recognition**, Sijie Wang et.al., Paper: [http://arxiv.org/abs/2312.10616v1](http://arxiv.org/abs/2312.10616v1), Code: **[https://github.com/sijieaaa/distilvpr](https://github.com/sijieaaa/distilvpr)**
 
 ## Image Matching
 
+- 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-03-23, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Ruiqiang Xiao et.al., Paper: [http://arxiv.org/abs/2403.15901v1](http://arxiv.org/abs/2403.15901v1), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
 - 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2), Code: **[https://github.com/naver-ai/Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting)**
 - 2024-03-20, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v2](http://arxiv.org/abs/2402.08359v2), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
@@ -51,7 +52,6 @@
 - 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
 - 2023-08-02, **ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2308.00400v2](http://arxiv.org/abs/2308.00400v2), Code: **[https://github.com/zhangbo-nlp/zrigf](https://github.com/zhangbo-nlp/zrigf)**
 - 2023-07-21, **Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**, Sahar Almahfouz Nasser et.al., Paper: [http://arxiv.org/abs/2307.10698v2](http://arxiv.org/abs/2307.10698v2), Code: **[https://github.com/SaharAlmahfouzNasser/MeDAL-Retina](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**
-- 2024-01-02, **TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**, Paul Grimal et.al., Paper: [http://arxiv.org/abs/2307.05134v2](http://arxiv.org/abs/2307.05134v2), Code: **[https://github.com/grimalpaul/tiam](https://github.com/grimalpaul/tiam)**
 
 ## Keypoint Detection
 
