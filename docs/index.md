@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**|Yoshio Kato et.al.|[2404.10272v1](http://arxiv.org/abs/2404.10272v1)|**[link](https://github.com/yosshi999/faster-occgrid)**|
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271v1](http://arxiv.org/abs/2404.09271v1)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|**[link](https://github.com/keonhee-han/KDBTS)**|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|**[link](https://github.com/m-kruse98/splatpose)**|
