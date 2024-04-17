@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.04.16
+> Updated on 2024.04.17
 
 ## NeRF
 
@@ -15,8 +15,8 @@
 
 ## Visual Localization
 
-- 2024-04-15, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v1](http://arxiv.org/abs/2404.09640v1), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
-- 2024-04-15, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v3](http://arxiv.org/abs/2404.07644v3), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
+- 2024-04-16, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v2](http://arxiv.org/abs/2404.09640v2), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
+- 2024-04-16, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v4](http://arxiv.org/abs/2404.07644v4), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 - 2024-04-02, **TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2404.01587v1](http://arxiv.org/abs/2404.01587v1), Code: **[https://github.com/nubot-nudt/tscm](https://github.com/nubot-nudt/tscm)**
 - 2024-03-28, **JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2403.19787v1](http://arxiv.org/abs/2403.19787v1), Code: **[https://github.com/ga1i13o/jist](https://github.com/ga1i13o/jist)**
 - 2024-03-26, **Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**, Dongjin Kim et.al., Paper: [http://arxiv.org/abs/2403.17420v1](http://arxiv.org/abs/2403.17420v1), Code: **[https://github.com/visualaikhu/noprior_multissl](https://github.com/visualaikhu/noprior_multissl)**
