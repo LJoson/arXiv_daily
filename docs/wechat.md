@@ -4,15 +4,13 @@
 
 ## NeRF
 
+- 2024-04-21, **ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**, Zichen Tang et.al., Paper: [http://arxiv.org/abs/2404.13711v1](http://arxiv.org/abs/2404.13711v1), Code: **[https://github.com/silence-tang/artnerf](https://github.com/silence-tang/artnerf)**
 - 2024-04-16, **Plug-and-Play Acceleration of Occupancy Grid-based NeRF Rendering using VDB Grid and Hierarchical Ray Traversal**, Yoshio Kato et.al., Paper: [http://arxiv.org/abs/2404.10272v1](http://arxiv.org/abs/2404.10272v1), Code: **[https://github.com/yosshi999/faster-occgrid](https://github.com/yosshi999/faster-occgrid)**
 - 2024-04-14, **VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.09271v1](http://arxiv.org/abs/2404.09271v1), Code: **[https://github.com/feixue94/vrs-nerf](https://github.com/feixue94/vrs-nerf)**
 - 2024-04-11, **Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**, Keonhee Han et.al., Paper: [http://arxiv.org/abs/2404.07933v1](http://arxiv.org/abs/2404.07933v1), Code: **[https://github.com/keonhee-han/KDBTS](https://github.com/keonhee-han/KDBTS)**
 - 2024-04-10, **SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**, Mathis Kruse et.al., Paper: [http://arxiv.org/abs/2404.06832v1](http://arxiv.org/abs/2404.06832v1), Code: **[https://github.com/m-kruse98/splatpose](https://github.com/m-kruse98/splatpose)**
 - 2024-04-10, **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**, Sibeak Lee et.al., Paper: [http://arxiv.org/abs/2404.06727v1](http://arxiv.org/abs/2404.06727v1), Code: **[https://github.com/lab-of-ai-and-robotics/bayesian_nerf](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**
 - 2024-04-03, **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**, Zehan Zheng et.al., Paper: [http://arxiv.org/abs/2404.02742v1](http://arxiv.org/abs/2404.02742v1), Code: **[https://github.com/ispc-lab/lidar4d](https://github.com/ispc-lab/lidar4d)**
-- 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153v1](http://arxiv.org/abs/2403.20153v1), Code: **[https://github.com/KU-CVLAB/Talk3D](https://github.com/KU-CVLAB/Talk3D)**
-- 2024-03-29, **NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**, Tianchen Deng et.al., Paper: [http://arxiv.org/abs/2403.20034v1](http://arxiv.org/abs/2403.20034v1), Code: **[https://github.com/dtc111111/neslam](https://github.com/dtc111111/neslam)**
-- 2024-03-29, **SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**, Yunhao Li et.al., Paper: [http://arxiv.org/abs/2403.20018v1](http://arxiv.org/abs/2403.20018v1), Code: **[https://github.com/wu-cvgl/scinerf](https://github.com/wu-cvgl/scinerf)**
 
 ## Visual Localization
 
