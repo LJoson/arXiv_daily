@@ -38,6 +38,7 @@
 
 ## Image Matching
 
+- 2024-04-27, **MinBackProp -- Backpropagating through Minimal Solvers**, Diana Sungatullina et.al., Paper: [http://arxiv.org/abs/2404.17993v1](http://arxiv.org/abs/2404.17993v1), Code: **[https://github.com/disungatullina/minbackprop](https://github.com/disungatullina/minbackprop)**
 - 2024-04-17, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v1](http://arxiv.org/abs/2404.11302v1), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-03-23, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Ruiqiang Xiao et.al., Paper: [http://arxiv.org/abs/2403.15901v1](http://arxiv.org/abs/2403.15901v1), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
