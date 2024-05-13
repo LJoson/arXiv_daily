@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.05.12
+> Updated on 2024.05.13
 
 ## NeRF
 
+- 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1), Code: **[https://github.com/dou-yiming/tarf](https://github.com/dou-yiming/tarf)**
 - 2024-05-03, **Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**, Junchen Liu et.al., Paper: [http://arxiv.org/abs/2405.02386v1](http://arxiv.org/abs/2405.02386v1), Code: **[https://github.com/junchenliu77/rip-nerf](https://github.com/junchenliu77/rip-nerf)**
 - 2024-04-30, **MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction**, Luxi Chen et.al., Paper: [http://arxiv.org/abs/2404.19525v1](http://arxiv.org/abs/2404.19525v1), Code: **[https://github.com/ml-gsai/microdreamer](https://github.com/ml-gsai/microdreamer)**
 - 2024-04-26, **Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2404.17528v1](http://arxiv.org/abs/2404.17528v1), Code: **[https://github.com/tqtqliu/gefu](https://github.com/tqtqliu/gefu)**
