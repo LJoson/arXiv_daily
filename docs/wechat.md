@@ -40,6 +40,7 @@
 
 ## Image Matching
 
+- 2024-05-14, **Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2405.08556v1](http://arxiv.org/abs/2405.08556v1), Code: **[https://github.com/noureddinekhiati/semi-supervised-lung-segmentation](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**
 - 2024-04-27, **MinBackProp -- Backpropagating through Minimal Solvers**, Diana Sungatullina et.al., Paper: [http://arxiv.org/abs/2404.17993v1](http://arxiv.org/abs/2404.17993v1), Code: **[https://github.com/disungatullina/minbackprop](https://github.com/disungatullina/minbackprop)**
 - 2024-04-17, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v1](http://arxiv.org/abs/2404.11302v1), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
@@ -54,7 +55,6 @@
 - 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 - 2024-03-11, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v2](http://arxiv.org/abs/2309.16992v2), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
 - 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
-- 2023-09-05, **Doppelgangers: Learning to Disambiguate Images of Similar Structures**, Ruojin Cai et.al., Paper: [http://arxiv.org/abs/2309.02420v1](http://arxiv.org/abs/2309.02420v1), Code: **[https://github.com/RuojinCai/Doppelgangers](https://github.com/RuojinCai/Doppelgangers)**
 
 ## Keypoint Detection
 
@@ -75,5 +75,4 @@
 - 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
 - 2023-10-12, **UniPose: Detecting Any Keypoints**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2310.08530v1](http://arxiv.org/abs/2310.08530v1), Code: **[https://github.com/IDEA-Research/UniPose](https://github.com/IDEA-Research/UniPose)**
 - 2023-10-04, **Self-supervised Learning of Contextualized Local Visual Embeddings**, Thalles Santos Silva et.al., Paper: [http://arxiv.org/abs/2310.00527v3](http://arxiv.org/abs/2310.00527v3), Code: **[https://github.com/sthalles/clove](https://github.com/sthalles/clove)**
-- 2023-09-19, **LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**, Haizhou Zhang et.al., Paper: [http://arxiv.org/abs/2309.10436v1](http://arxiv.org/abs/2309.10436v1), Code: **[https://github.com/tiers/ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)**
 
