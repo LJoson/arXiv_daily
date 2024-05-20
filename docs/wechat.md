@@ -36,7 +36,6 @@
 - 2024-04-03, **Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.14505v3](http://arxiv.org/abs/2402.14505v3), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
 - 2024-02-15, **Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**, Mirko Nava et.al., Paper: [http://arxiv.org/abs/2402.09886v1](http://arxiv.org/abs/2402.09886v1), Code: **[https://github.com/idsia-robotics/leds-as-pretext](https://github.com/idsia-robotics/leds-as-pretext)**
 - 2024-03-20, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v2](http://arxiv.org/abs/2402.08359v2), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
-- 2024-03-03, **Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**, Tianxiao Gao et.al., Paper: [http://arxiv.org/abs/2402.00330v2](http://arxiv.org/abs/2402.00330v2), Code: **[https://github.com/imrl/night-rider](https://github.com/imrl/night-rider)**
 
 ## Image Matching
 
