@@ -1,11 +1,12 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.05.21
+> Updated on 2024.05.22
 
 ## NeRF
 
 - 2024-05-15, **From NeRFs to Gaussian Splats, and Back**, Siming He et.al., Paper: [http://arxiv.org/abs/2405.09717v1](http://arxiv.org/abs/2405.09717v1), Code: **[https://github.com/grasp-lyrl/nerftogsandback](https://github.com/grasp-lyrl/nerftogsandback)**
 - 2024-05-13, **Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**, Mingyu Kim et.al., Paper: [http://arxiv.org/abs/2405.07857v1](http://arxiv.org/abs/2405.07857v1), Code: **[https://github.com/mingyukim87/synergynerf](https://github.com/mingyukim87/synergynerf)**
+- 2024-05-11, **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2405.07027v1](http://arxiv.org/abs/2405.07027v1), Code: **[https://github.com/nubot-nudt/td-nerf](https://github.com/nubot-nudt/td-nerf)**
 - 2024-05-10, **OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**, Jinwei Lin et.al., Paper: [http://arxiv.org/abs/2405.06547v1](http://arxiv.org/abs/2405.06547v1), Code: **[https://github.com/lin-jinwei/OneTo3D](https://github.com/lin-jinwei/OneTo3D)**
 - 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1), Code: **[https://github.com/dou-yiming/tarf](https://github.com/dou-yiming/tarf)**
 - 2024-05-03, **Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**, Junchen Liu et.al., Paper: [http://arxiv.org/abs/2405.02386v1](http://arxiv.org/abs/2405.02386v1), Code: **[https://github.com/junchenliu77/rip-nerf](https://github.com/junchenliu77/rip-nerf)**
