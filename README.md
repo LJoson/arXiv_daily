@@ -83,5 +83,4 @@
 |**2023-11-06**|**TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**|Alexander Naumann et.al.|[2311.03124v1](http://arxiv.org/abs/2311.03124v1)|**[link](https://github.com/a-nau/tampar)**|
 |**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530v1](http://arxiv.org/abs/2310.08530v1)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|**[link](https://github.com/kartikeya13/l-dyno)**|
-|**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|**[link](https://github.com/sthalles/clove)**|
 
