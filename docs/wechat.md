@@ -54,7 +54,6 @@
 - 2023-11-29, **LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**, Wenhao Zhong et.al., Paper: [http://arxiv.org/abs/2311.17571v1](http://arxiv.org/abs/2311.17571v1), Code: **[https://github.com/zwh0527/lgfctr](https://github.com/zwh0527/lgfctr)**
 - 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 - 2024-03-11, **Segment Anything Model is a Good Teacher for Local Feature Learning**, Jingqian Wu et.al., Paper: [http://arxiv.org/abs/2309.16992v2](http://arxiv.org/abs/2309.16992v2), Code: **[https://github.com/vignywang/samfeat](https://github.com/vignywang/samfeat)**
-- 2023-09-11, **Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**, Guoyuan An et.al., Paper: [http://arxiv.org/abs/2309.05438v1](http://arxiv.org/abs/2309.05438v1), Code: **[https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**
 
 ## Keypoint Detection
 
