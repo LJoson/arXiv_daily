@@ -19,7 +19,6 @@ layout: default
 |**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525v1](http://arxiv.org/abs/2404.19525v1)|**[link](https://github.com/ml-gsai/microdreamer)**|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|**[link](https://github.com/tqtqliu/gefu)**|
 |**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v2](http://arxiv.org/abs/2404.13711v2)|**[link](https://github.com/silence-tang/artnerf)**|
-|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|**[link](https://github.com/lightingooo/ec-slam)**|
 
 ## Visual Localization
 
@@ -51,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556v1](http://arxiv.org/abs/2405.08556v1)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v1](http://arxiv.org/abs/2404.17993v1)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-05-23**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302v2](http://arxiv.org/abs/2404.11302v2)|**[link](https://github.com/pro1944191/semanticalignnet)**|
