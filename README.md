@@ -14,7 +14,6 @@
 |**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386v1](http://arxiv.org/abs/2405.02386v1)|**[link](https://github.com/junchenliu77/rip-nerf)**|
 |**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525v1](http://arxiv.org/abs/2404.19525v1)|**[link](https://github.com/ml-gsai/microdreamer)**|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|**[link](https://github.com/tqtqliu/gefu)**|
-|**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v2](http://arxiv.org/abs/2404.13711v2)|**[link](https://github.com/silence-tang/artnerf)**|
 
 ## Visual Localization
 
@@ -40,7 +39,6 @@
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-04-03**|**Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition**|Feng Lu et.al.|[2402.14505v3](http://arxiv.org/abs/2402.14505v3)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886v1](http://arxiv.org/abs/2402.09886v1)|**[link](https://github.com/idsia-robotics/leds-as-pretext)**|
-|**2024-03-20**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v2](http://arxiv.org/abs/2402.08359v2)|**[link](https://github.com/truongkhang/deviloc)**|
 
 ## Image Matching
 
