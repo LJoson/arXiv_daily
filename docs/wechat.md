@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
+- 2024-05-29, **NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**, Weining Ren et.al., Paper: [http://arxiv.org/abs/2405.18715v1](http://arxiv.org/abs/2405.18715v1), Code: **[https://github.com/cvg/nerf-on-the-go](https://github.com/cvg/nerf-on-the-go)**
 - 2024-05-15, **From NeRFs to Gaussian Splats, and Back**, Siming He et.al., Paper: [http://arxiv.org/abs/2405.09717v1](http://arxiv.org/abs/2405.09717v1), Code: **[https://github.com/grasp-lyrl/nerftogsandback](https://github.com/grasp-lyrl/nerftogsandback)**
 - 2024-05-13, **Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**, Mingyu Kim et.al., Paper: [http://arxiv.org/abs/2405.07857v1](http://arxiv.org/abs/2405.07857v1), Code: **[https://github.com/mingyukim87/synergynerf](https://github.com/mingyukim87/synergynerf)**
 - 2024-05-11, **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2405.07027v1](http://arxiv.org/abs/2405.07027v1), Code: **[https://github.com/nubot-nudt/td-nerf](https://github.com/nubot-nudt/td-nerf)**
@@ -11,7 +13,6 @@
 - 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1), Code: **[https://github.com/dou-yiming/tarf](https://github.com/dou-yiming/tarf)**
 - 2024-05-03, **Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**, Junchen Liu et.al., Paper: [http://arxiv.org/abs/2405.02386v1](http://arxiv.org/abs/2405.02386v1), Code: **[https://github.com/junchenliu77/rip-nerf](https://github.com/junchenliu77/rip-nerf)**
 - 2024-05-28, **MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction**, Luxi Chen et.al., Paper: [http://arxiv.org/abs/2404.19525v2](http://arxiv.org/abs/2404.19525v2), Code: **[https://github.com/ml-gsai/microdreamer](https://github.com/ml-gsai/microdreamer)**
-- 2024-04-26, **Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**, Tianqi Liu et.al., Paper: [http://arxiv.org/abs/2404.17528v1](http://arxiv.org/abs/2404.17528v1), Code: **[https://github.com/tqtqliu/gefu](https://github.com/tqtqliu/gefu)**
 
 ## Visual Localization
 
