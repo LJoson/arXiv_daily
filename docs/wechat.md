@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.06.03
+> Updated on 2024.06.04
 
 ## NeRF
 
@@ -58,7 +58,7 @@
 
 ## Keypoint Detection
 
-- 2024-05-21, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v1](http://arxiv.org/abs/2405.12476v1), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
+- 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
 - 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
 - 2024-03-28, **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2403.19527v1](http://arxiv.org/abs/2403.19527v1), Code: **[https://github.com/leeiieeo/ag-pose](https://github.com/leeiieeo/ag-pose)**
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
