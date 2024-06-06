@@ -36,7 +36,6 @@
 - 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 - 2024-03-21, **NocPlace: Nocturnal Visual Place Recognition via Generative and Inherited Knowledge Transfer**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2402.17159v2](http://arxiv.org/abs/2402.17159v2), Code: **[https://github.com/binuxliu/nocplace](https://github.com/binuxliu/nocplace)**
 - 2024-03-18, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v2](http://arxiv.org/abs/2402.16086v2), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
-- 2024-02-25, **VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**, Xudong Cai et.al., Paper: [http://arxiv.org/abs/2402.15961v1](http://arxiv.org/abs/2402.15961v1), Code: **[https://github.com/master-cai/voloc](https://github.com/master-cai/voloc)**
 
 ## Image Matching
 
