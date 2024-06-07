@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2024-06-06, **DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2406.04322v1](http://arxiv.org/abs/2406.04322v1), Code: **[https://github.com/qihao067/direct3d](https://github.com/qihao067/direct3d)**
+- 2024-06-06, **How Far Can We Compress Instant-NGP-Based NeRF?**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2406.04101v1](http://arxiv.org/abs/2406.04101v1), Code: **[https://github.com/yihangchen-ee/cnc](https://github.com/yihangchen-ee/cnc)**
 - 2024-06-03, **Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**, Fang Li et.al., Paper: [http://arxiv.org/abs/2406.01042v1](http://arxiv.org/abs/2406.01042v1), Code: **[https://github.com/fangli333/sc-4dgs](https://github.com/fangli333/sc-4dgs)**
 - 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
 - 2024-05-30, **View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**, Haodi He et.al., Paper: [http://arxiv.org/abs/2405.19678v1](http://arxiv.org/abs/2405.19678v1), Code: **[https://github.com/hardyho/ultrametric_feature_fields](https://github.com/hardyho/ultrametric_feature_fields)**
@@ -14,10 +16,10 @@
 - 2024-05-11, **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2405.07027v1](http://arxiv.org/abs/2405.07027v1), Code: **[https://github.com/nubot-nudt/td-nerf](https://github.com/nubot-nudt/td-nerf)**
 - 2024-05-10, **OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**, Jinwei Lin et.al., Paper: [http://arxiv.org/abs/2405.06547v1](http://arxiv.org/abs/2405.06547v1), Code: **[https://github.com/lin-jinwei/OneTo3D](https://github.com/lin-jinwei/OneTo3D)**
 - 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1), Code: **[https://github.com/dou-yiming/tarf](https://github.com/dou-yiming/tarf)**
-- 2024-05-03, **Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**, Junchen Liu et.al., Paper: [http://arxiv.org/abs/2405.02386v1](http://arxiv.org/abs/2405.02386v1), Code: **[https://github.com/junchenliu77/rip-nerf](https://github.com/junchenliu77/rip-nerf)**
 
 ## Visual Localization
 
+- 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
 - 2024-05-20, **UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2405.11936v1](http://arxiv.org/abs/2405.11936v1), Code: **[https://github.com/intellisensing/uav-visloc](https://github.com/intellisensing/uav-visloc)**
 - 2024-05-13, **OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**, Qiuchi Xiang et.al., Paper: [http://arxiv.org/abs/2405.07966v1](http://arxiv.org/abs/2405.07966v1), Code: **[https://github.com/scnu-rislab/overlapmamba](https://github.com/scnu-rislab/overlapmamba)**
@@ -34,8 +36,6 @@
 - 2024-04-01, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v2](http://arxiv.org/abs/2402.19231v2), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
 - 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
-- 2024-03-21, **NocPlace: Nocturnal Visual Place Recognition via Generative and Inherited Knowledge Transfer**, Bingxi Liu et.al., Paper: [http://arxiv.org/abs/2402.17159v2](http://arxiv.org/abs/2402.17159v2), Code: **[https://github.com/binuxliu/nocplace](https://github.com/binuxliu/nocplace)**
-- 2024-03-18, **Deep Homography Estimation for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.16086v2](http://arxiv.org/abs/2402.16086v2), Code: **[https://github.com/lu-feng/dhe-vpr](https://github.com/lu-feng/dhe-vpr)**
 
 ## Image Matching
 
