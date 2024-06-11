@@ -16,10 +16,10 @@
 - 2024-06-05, **Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**, Mingyu Kim et.al., Paper: [http://arxiv.org/abs/2405.07857v3](http://arxiv.org/abs/2405.07857v3), Code: **[https://github.com/mingyukim87/synergynerf](https://github.com/mingyukim87/synergynerf)**
 - 2024-05-11, **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**, Zhen Tan et.al., Paper: [http://arxiv.org/abs/2405.07027v1](http://arxiv.org/abs/2405.07027v1), Code: **[https://github.com/nubot-nudt/td-nerf](https://github.com/nubot-nudt/td-nerf)**
 - 2024-05-10, **OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation**, Jinwei Lin et.al., Paper: [http://arxiv.org/abs/2405.06547v1](http://arxiv.org/abs/2405.06547v1), Code: **[https://github.com/lin-jinwei/OneTo3D](https://github.com/lin-jinwei/OneTo3D)**
-- 2024-05-07, **Tactile-Augmented Radiance Fields**, Yiming Dou et.al., Paper: [http://arxiv.org/abs/2405.04534v1](http://arxiv.org/abs/2405.04534v1), Code: **[https://github.com/dou-yiming/tarf](https://github.com/dou-yiming/tarf)**
 
 ## Visual Localization
 
+- 2024-06-10, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v1](http://arxiv.org/abs/2406.06374v1), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
 - 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
 - 2024-05-20, **UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2405.11936v1](http://arxiv.org/abs/2405.11936v1), Code: **[https://github.com/intellisensing/uav-visloc](https://github.com/intellisensing/uav-visloc)**
@@ -36,7 +36,6 @@
 - 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
 - 2024-04-01, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v2](http://arxiv.org/abs/2402.19231v2), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
 - 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
-- 2024-02-29, **Active propulsion noise shaping for multi-rotor aircraft localization**, Gabriele Serussi et.al., Paper: [http://arxiv.org/abs/2402.17289v2](http://arxiv.org/abs/2402.17289v2), Code: **[https://github.com/tamirshor7/ears_code](https://github.com/tamirshor7/ears_code)**
 
 ## Image Matching
 
