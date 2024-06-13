@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-06-12, **OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**, Yinan Deng et.al., Paper: [http://arxiv.org/abs/2406.08009v1](http://arxiv.org/abs/2406.08009v1), Code: **[https://github.com/BIT-DYN/OpenObj](https://github.com/BIT-DYN/OpenObj)**
 - 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1), Code: **[https://github.com/paoyw/Stylized-NeRF-with-AdaIN](https://github.com/paoyw/Stylized-NeRF-with-AdaIN)**
 - 2024-06-07, **DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2406.04322v2](http://arxiv.org/abs/2406.04322v2), Code: **[https://github.com/qihao067/direct3d](https://github.com/qihao067/direct3d)**
 - 2024-06-06, **How Far Can We Compress Instant-NGP-Based NeRF?**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2406.04101v1](http://arxiv.org/abs/2406.04101v1), Code: **[https://github.com/yihangchen-ee/cnc](https://github.com/yihangchen-ee/cnc)**
@@ -36,7 +37,6 @@
 - 2024-03-20, **Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2403.10297v2](http://arxiv.org/abs/2403.10297v2), Code: **[https://github.com/ais-lab/descriptorsynthesis4feat2map](https://github.com/ais-lab/descriptorsynthesis4feat2map)**
 - 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2), Code: **[https://github.com/irmvlab/lhmap-loc](https://github.com/irmvlab/lhmap-loc)**
 - 2024-04-01, **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2402.19231v2](http://arxiv.org/abs/2402.19231v2), Code: **[https://github.com/lu-feng/cricavpr](https://github.com/lu-feng/cricavpr)**
-- 2024-02-28, **Representing 3D sparse map points and lines for camera relocalization**, Bach-Thuan Bui et.al., Paper: [http://arxiv.org/abs/2402.18011v1](http://arxiv.org/abs/2402.18011v1), Code: **[https://github.com/ais-lab/pl2map](https://github.com/ais-lab/pl2map)**
 
 ## Image Matching
 
