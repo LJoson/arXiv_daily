@@ -19,7 +19,7 @@
 
 ## Visual Localization
 
-- 2024-06-10, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v1](http://arxiv.org/abs/2406.06374v1), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
+- 2024-06-23, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v2](http://arxiv.org/abs/2406.06374v2), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
 - 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
 - 2024-05-20, **UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**, Wenjia Xu et.al., Paper: [http://arxiv.org/abs/2405.11936v1](http://arxiv.org/abs/2405.11936v1), Code: **[https://github.com/intellisensing/uav-visloc](https://github.com/intellisensing/uav-visloc)**
