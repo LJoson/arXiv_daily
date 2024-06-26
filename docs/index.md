@@ -21,7 +21,6 @@ layout: default
 |**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|**[link](https://github.com/fangli333/sc-4dgs)**|
 |**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678v1](http://arxiv.org/abs/2405.19678v1)|**[link](https://github.com/hardyho/ultrametric_feature_fields)**|
-|**2024-06-02**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715v2](http://arxiv.org/abs/2405.18715v2)|**[link](https://github.com/cvg/nerf-on-the-go)**|
 
 ## Visual Localization
 
@@ -41,7 +40,6 @@ layout: default
 |**2024-03-28**|**JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**|Gabriele Berton et.al.|[2403.19787v1](http://arxiv.org/abs/2403.19787v1)|**[link](https://github.com/ga1i13o/jist)**|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420v1](http://arxiv.org/abs/2403.17420v1)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297v2](http://arxiv.org/abs/2403.10297v2)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
-|**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002v2](http://arxiv.org/abs/2403.05002v2)|**[link](https://github.com/irmvlab/lhmap-loc)**|
 
 ## Image Matching
 
