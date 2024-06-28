@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.06.27
+> Updated on 2024.06.28
 
 ## NeRF
 
@@ -18,6 +18,7 @@
 
 ## Visual Localization
 
+- 2024-06-23, **Breaking the Frame: Image Retrieval by Visual Overlap Prediction**, Tong Wei et.al., Paper: [http://arxiv.org/abs/2406.16204v1](http://arxiv.org/abs/2406.16204v1), Code: **[https://github.com/weitong8591/vop](https://github.com/weitong8591/vop)**
 - 2024-06-23, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v2](http://arxiv.org/abs/2406.06374v2), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
 - 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 - 2024-06-02, **Visual place recognition for aerial imagery: A survey**, Ivan Moskalenko et.al., Paper: [http://arxiv.org/abs/2406.00885v1](http://arxiv.org/abs/2406.00885v1), Code: **[https://github.com/prime-slam/aero-vloc](https://github.com/prime-slam/aero-vloc)**
@@ -52,6 +53,7 @@
 
 ## Keypoint Detection
 
+- 2024-06-24, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v1](http://arxiv.org/abs/2406.16837v1), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
 - 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
