@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-07-02, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v1](http://arxiv.org/abs/2407.02174v1), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
 - 2024-06-21, **E2GS: Event Enhanced Gaussian Splatting**, Hiroyuki Deguchi et.al., Paper: [http://arxiv.org/abs/2406.14978v1](http://arxiv.org/abs/2406.14978v1), Code: **[https://github.com/deguchihiroyuki/e2gs](https://github.com/deguchihiroyuki/e2gs)**
 - 2024-06-19, **Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**, Youngin Park et.al., Paper: [http://arxiv.org/abs/2406.13251v1](http://arxiv.org/abs/2406.13251v1), Code: **[https://github.com/yi0109/freqmipaa](https://github.com/yi0109/freqmipaa)**
 - 2024-06-12, **OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**, Yinan Deng et.al., Paper: [http://arxiv.org/abs/2406.08009v1](http://arxiv.org/abs/2406.08009v1), Code: **[https://github.com/BIT-DYN/OpenObj](https://github.com/BIT-DYN/OpenObj)**
@@ -13,7 +14,6 @@
 - 2024-06-06, **How Far Can We Compress Instant-NGP-Based NeRF?**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2406.04101v1](http://arxiv.org/abs/2406.04101v1), Code: **[https://github.com/yihangchen-ee/cnc](https://github.com/yihangchen-ee/cnc)**
 - 2024-06-13, **3D-HGS: 3D Half-Gaussian Splatting**, Haolin Li et.al., Paper: [http://arxiv.org/abs/2406.02720v2](http://arxiv.org/abs/2406.02720v2), Code: **[https://github.com/lihaolin88/3d-half-gaussian-splatting](https://github.com/lihaolin88/3d-half-gaussian-splatting)**
 - 2024-06-03, **Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**, Fang Li et.al., Paper: [http://arxiv.org/abs/2406.01042v1](http://arxiv.org/abs/2406.01042v1), Code: **[https://github.com/fangli333/sc-4dgs](https://github.com/fangli333/sc-4dgs)**
-- 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
 
 ## Visual Localization
 
@@ -52,6 +52,7 @@
 
 ## Keypoint Detection
 
+- 2024-07-02, **Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**, Chengchao Shen et.al., Paper: [http://arxiv.org/abs/2407.02014v1](http://arxiv.org/abs/2407.02014v1), Code: **[https://github.com/visresearch/mgc](https://github.com/visresearch/mgc)**
 - 2024-06-24, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v1](http://arxiv.org/abs/2406.16837v1), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
@@ -64,10 +65,10 @@
 - 2024-04-30, **An Effective Image Copy-Move Forgery Detection Using Entropy Information**, Li Jiang et.al., Paper: [http://arxiv.org/abs/2312.11793v2](http://arxiv.org/abs/2312.11793v2), Code: **[https://github.com/LUZW1998/CMFDUEI](https://github.com/LUZW1998/CMFDUEI)**
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 - 2023-12-11, **Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2312.06865v1](http://arxiv.org/abs/2312.06865v1), Code: **[https://github.com/travisdriver/spc-factor-results](https://github.com/travisdriver/spc-factor-results)**
+- 2024-07-02, **Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**, Emma Cramer et.al., Paper: [http://arxiv.org/abs/2312.00592v3](http://arxiv.org/abs/2312.00592v3), Code: **[https://github.com/data-science-in-mechanical-engineering/sae-rl](https://github.com/data-science-in-mechanical-engineering/sae-rl)**
 - 2024-03-27, **Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**, Thomas Wimmer et.al., Paper: [http://arxiv.org/abs/2311.18113v2](http://arxiv.org/abs/2311.18113v2), Code: **[https://github.com/wimmerth/back-to-3d-few-shot-keypoints](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**
 - 2024-04-02, **Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**, Niladri Shekhar Dutt et.al., Paper: [http://arxiv.org/abs/2311.17024v2](http://arxiv.org/abs/2311.17024v2), Code: **[https://github.com/niladridutt/Diffusion-3D-Features](https://github.com/niladridutt/Diffusion-3D-Features)**
 - 2024-04-26, **Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**, Xiaoyu Yang et.al., Paper: [http://arxiv.org/abs/2311.12327v2](http://arxiv.org/abs/2311.12327v2), Code: **[https://github.com/anonymgiant/vilam](https://github.com/anonymgiant/vilam)**
 - 2023-11-20, **CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**, Boni Hu et.al., Paper: [http://arxiv.org/abs/2311.11604v1](http://arxiv.org/abs/2311.11604v1), Code: **[https://github.com/npupilab/curriculumloc](https://github.com/npupilab/curriculumloc)**
 - 2023-11-11, **CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**, Haoyu Ma et.al., Paper: [http://arxiv.org/abs/2311.06443v1](http://arxiv.org/abs/2311.06443v1), Code: **[https://github.com/howiema/cvthead](https://github.com/howiema/cvthead)**
-- 2023-11-06, **TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2311.03124v1](http://arxiv.org/abs/2311.03124v1), Code: **[https://github.com/a-nau/tampar](https://github.com/a-nau/tampar)**
 
