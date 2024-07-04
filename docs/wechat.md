@@ -4,7 +4,7 @@
 
 ## NeRF
 
-- 2024-07-02, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v1](http://arxiv.org/abs/2407.02174v1), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
+- 2024-07-03, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v2](http://arxiv.org/abs/2407.02174v2), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
 - 2024-06-21, **E2GS: Event Enhanced Gaussian Splatting**, Hiroyuki Deguchi et.al., Paper: [http://arxiv.org/abs/2406.14978v1](http://arxiv.org/abs/2406.14978v1), Code: **[https://github.com/deguchihiroyuki/e2gs](https://github.com/deguchihiroyuki/e2gs)**
 - 2024-06-19, **Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**, Youngin Park et.al., Paper: [http://arxiv.org/abs/2406.13251v1](http://arxiv.org/abs/2406.13251v1), Code: **[https://github.com/yi0109/freqmipaa](https://github.com/yi0109/freqmipaa)**
 - 2024-06-12, **OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**, Yinan Deng et.al., Paper: [http://arxiv.org/abs/2406.08009v1](http://arxiv.org/abs/2406.08009v1), Code: **[https://github.com/BIT-DYN/OpenObj](https://github.com/BIT-DYN/OpenObj)**
