@@ -11,7 +11,6 @@
 - 2024-06-12, **OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**, Yinan Deng et.al., Paper: [http://arxiv.org/abs/2406.08009v1](http://arxiv.org/abs/2406.08009v1), Code: **[https://github.com/BIT-DYN/OpenObj](https://github.com/BIT-DYN/OpenObj)**
 - 2024-06-12, **Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**, Yuru Xiao et.al., Paper: [http://arxiv.org/abs/2406.07828v1](http://arxiv.org/abs/2406.07828v1), Code: **[https://github.com/pulangk97/SANeRF](https://github.com/pulangk97/SANeRF)**
 - 2024-06-07, **Multi-style Neural Radiance Field with AdaIN**, Yu-Wen Pao et.al., Paper: [http://arxiv.org/abs/2406.04960v1](http://arxiv.org/abs/2406.04960v1), Code: **[https://github.com/paoyw/Stylized-NeRF-with-AdaIN](https://github.com/paoyw/Stylized-NeRF-with-AdaIN)**
-- 2024-06-07, **DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**, Qihao Liu et.al., Paper: [http://arxiv.org/abs/2406.04322v2](http://arxiv.org/abs/2406.04322v2), Code: **[https://github.com/qihao067/direct3d](https://github.com/qihao067/direct3d)**
 
 ## Visual Localization
 
