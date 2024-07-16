@@ -6,18 +6,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-14**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267v1](http://arxiv.org/abs/2407.10267v1)|**[link](https://github.com/myniuuu/rs-nerf)**|
 |**2024-07-11**|**MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**|Yushuo Chen et.al.|[2407.08414v1](http://arxiv.org/abs/2407.08414v1)|**[link](https://github.com/shad0wta9/meshavatar)**|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251v1](http://arxiv.org/abs/2406.13251v1)|**[link](https://github.com/yi0109/freqmipaa)**|
-|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009v1](http://arxiv.org/abs/2406.08009v1)|**[link](https://github.com/BIT-DYN/OpenObj)**|
-|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|**[link](https://github.com/pulangk97/SANeRF)**|
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596v1](http://arxiv.org/abs/2407.10596v1)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162v1](http://arxiv.org/abs/2407.08162v1)|**[link](https://github.com/QVPR/aarapsiproject)**|
 |**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422v1](http://arxiv.org/abs/2407.02422v1)|**[link](https://github.com/serizba/cliquemining)**|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204v1](http://arxiv.org/abs/2406.16204v1)|**[link](https://github.com/weitong8591/vop)**|
