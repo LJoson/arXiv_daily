@@ -13,6 +13,7 @@
 
 ## Visual Localization
 
+- 2024-07-16, **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**, Jingwen Yu et.al., Paper: [http://arxiv.org/abs/2407.11736v1](http://arxiv.org/abs/2407.11736v1), Code: **[https://github.com/jarvisyjw/gv-bench](https://github.com/jarvisyjw/gv-bench)**
 - 2024-07-15, **An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**, J. J. Cabrera et.al., Paper: [http://arxiv.org/abs/2407.10596v1](http://arxiv.org/abs/2407.10596v1), Code: **[https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**
 - 2024-07-11, **Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**, Owen Claxton et.al., Paper: [http://arxiv.org/abs/2407.08162v1](http://arxiv.org/abs/2407.08162v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
 - 2024-07-02, **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2407.02422v1](http://arxiv.org/abs/2407.02422v1), Code: **[https://github.com/serizba/cliquemining](https://github.com/serizba/cliquemining)**
@@ -48,8 +49,6 @@
 - 2024-01-26, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v2](http://arxiv.org/abs/2401.04345v2), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
 - 2023-12-22, **Harnessing Diffusion Models for Visual Perception with Meta Prompts**, Qiang Wan et.al., Paper: [http://arxiv.org/abs/2312.14733v1](http://arxiv.org/abs/2312.14733v1), Code: **[https://github.com/fudan-zvg/meta-prompts](https://github.com/fudan-zvg/meta-prompts)**
 - 2024-04-02, **Steerers: A framework for rotation equivariant keypoint descriptors**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2312.02152v2](http://arxiv.org/abs/2312.02152v2), Code: **[https://github.com/georg-bn/rotation-steerers](https://github.com/georg-bn/rotation-steerers)**
-- 2023-11-29, **LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**, Wenhao Zhong et.al., Paper: [http://arxiv.org/abs/2311.17571v1](http://arxiv.org/abs/2311.17571v1), Code: **[https://github.com/zwh0527/lgfctr](https://github.com/zwh0527/lgfctr)**
-- 2023-11-08, **Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**, Leonard Salewski et.al., Paper: [http://arxiv.org/abs/2311.05043v1](http://arxiv.org/abs/2311.05043v1), Code: **[https://github.com/explainableml/zs-a2t](https://github.com/explainableml/zs-a2t)**
 
 ## Keypoint Detection
 
