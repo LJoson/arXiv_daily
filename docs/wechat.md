@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.07.17
+> Updated on 2024.07.18
 
 ## NeRF
 
@@ -13,7 +13,7 @@
 
 ## Visual Localization
 
-- 2024-07-16, **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**, Jingwen Yu et.al., Paper: [http://arxiv.org/abs/2407.11736v1](http://arxiv.org/abs/2407.11736v1), Code: **[https://github.com/jarvisyjw/gv-bench](https://github.com/jarvisyjw/gv-bench)**
+- 2024-07-17, **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**, Jingwen Yu et.al., Paper: [http://arxiv.org/abs/2407.11736v2](http://arxiv.org/abs/2407.11736v2), Code: **[https://github.com/jarvisyjw/gv-bench](https://github.com/jarvisyjw/gv-bench)**
 - 2024-07-15, **An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**, J. J. Cabrera et.al., Paper: [http://arxiv.org/abs/2407.10596v1](http://arxiv.org/abs/2407.10596v1), Code: **[https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**
 - 2024-07-11, **Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**, Owen Claxton et.al., Paper: [http://arxiv.org/abs/2407.08162v1](http://arxiv.org/abs/2407.08162v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
 - 2024-07-02, **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2407.02422v1](http://arxiv.org/abs/2407.02422v1), Code: **[https://github.com/serizba/cliquemining](https://github.com/serizba/cliquemining)**
