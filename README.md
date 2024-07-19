@@ -14,7 +14,6 @@
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
-|**2024-06-19**|**Freq-Mip-AA : Frequency Mip Representation for Anti-Aliasing Neural Radiance Fields**|Youngin Park et.al.|[2406.13251v1](http://arxiv.org/abs/2406.13251v1)|**[link](https://github.com/yi0109/freqmipaa)**|
 
 ## Visual Localization
 
