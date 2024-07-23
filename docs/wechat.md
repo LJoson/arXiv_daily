@@ -32,7 +32,6 @@
 - 2024-04-20, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v3](http://arxiv.org/abs/2404.09640v3), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
 - 2024-04-23, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v5](http://arxiv.org/abs/2404.07644v5), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 - 2024-04-02, **TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2404.01587v1](http://arxiv.org/abs/2404.01587v1), Code: **[https://github.com/nubot-nudt/tscm](https://github.com/nubot-nudt/tscm)**
-- 2024-03-28, **JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2403.19787v1](http://arxiv.org/abs/2403.19787v1), Code: **[https://github.com/ga1i13o/jist](https://github.com/ga1i13o/jist)**
 
 ## Image Matching
 
