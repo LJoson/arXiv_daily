@@ -4,7 +4,7 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 ## NeRF
 
@@ -37,7 +37,7 @@ layout: default
 |**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364v1](http://arxiv.org/abs/2405.07364v1)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-07-22**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v2](http://arxiv.org/abs/2404.10527v2)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
-|**2024-04-20**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v3](http://arxiv.org/abs/2404.09640v3)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-07-23**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v4](http://arxiv.org/abs/2404.09640v4)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v5](http://arxiv.org/abs/2404.07644v5)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|**[link](https://github.com/nubot-nudt/tscm)**|
 
