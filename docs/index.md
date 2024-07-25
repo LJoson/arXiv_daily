@@ -39,7 +39,6 @@ layout: default
 |**2024-07-22**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527v2](http://arxiv.org/abs/2404.10527v2)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
 |**2024-07-23**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v4](http://arxiv.org/abs/2404.09640v4)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v5](http://arxiv.org/abs/2404.07644v5)|**[link](https://github.com/littledang/2dliw-slam)**|
-|**2024-04-02**|**TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation**|Yehui Shen et.al.|[2404.01587v1](http://arxiv.org/abs/2404.01587v1)|**[link](https://github.com/nubot-nudt/tscm)**|
 
 ## Image Matching
 
