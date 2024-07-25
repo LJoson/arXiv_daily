@@ -4,7 +4,7 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 
 ## NeRF
 
@@ -68,7 +68,7 @@ layout: default
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857v1](http://arxiv.org/abs/2407.03857v1)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830v1](http://arxiv.org/abs/2407.02830v1)|**[link](https://github.com/tsuiky/3drn)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
-|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v1](http://arxiv.org/abs/2406.16837v1)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
+|**2024-07-23**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v2](http://arxiv.org/abs/2406.16837v2)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-01**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu et.al.|[2405.12476v2](http://arxiv.org/abs/2405.12476v2)|**[link](https://github.com/weizhenliubioinform/fish-phenotype-detect)**|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885v1](http://arxiv.org/abs/2403.19885v1)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
