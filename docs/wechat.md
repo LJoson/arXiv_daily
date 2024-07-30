@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
 - 2024-07-17, **SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2407.12667v1](http://arxiv.org/abs/2407.12667v1), Code: **[https://github.com/iris-cyy/sg-nerf](https://github.com/iris-cyy/sg-nerf)**
 - 2024-07-17, **InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**, Xulong Wang et.al., Paper: [http://arxiv.org/abs/2407.12661v1](http://arxiv.org/abs/2407.12661v1), Code: **[https://github.com/muliphein/infonorm](https://github.com/muliphein/infonorm)**
 - 2024-07-18, **IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**, Wenxiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.11921v2](http://arxiv.org/abs/2407.11921v2), Code: **[https://github.com/jiang-wenxiang/ipa-nerf](https://github.com/jiang-wenxiang/ipa-nerf)**
@@ -34,6 +35,7 @@
 
 ## Image Matching
 
+- 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 - 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
 - 2024-06-16, **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**, Yikai Zhang et.al., Paper: [http://arxiv.org/abs/2406.10902v1](http://arxiv.org/abs/2406.10902v1), Code: **[https://github.com/ykzhang721/COG](https://github.com/ykzhang721/COG)**
 - 2024-06-14, **Grounding Image Matching in 3D with MASt3R**, Vincent Leroy et.al., Paper: [http://arxiv.org/abs/2406.09756v1](http://arxiv.org/abs/2406.09756v1), Code: **[https://github.com/naver/mast3r](https://github.com/naver/mast3r)**
