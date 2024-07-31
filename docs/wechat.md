@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-07-29, **Radiance Fields for Robotic Teleoperation**, Maximum Wilder-Smith et.al., Paper: [http://arxiv.org/abs/2407.20194v1](http://arxiv.org/abs/2407.20194v1), Code: **[https://github.com/leggedrobotics/rf_ros](https://github.com/leggedrobotics/rf_ros)**
 - 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
 - 2024-07-17, **SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2407.12667v1](http://arxiv.org/abs/2407.12667v1), Code: **[https://github.com/iris-cyy/sg-nerf](https://github.com/iris-cyy/sg-nerf)**
 - 2024-07-17, **InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**, Xulong Wang et.al., Paper: [http://arxiv.org/abs/2407.12661v1](http://arxiv.org/abs/2407.12661v1), Code: **[https://github.com/muliphein/infonorm](https://github.com/muliphein/infonorm)**
@@ -31,7 +32,6 @@
 - 2024-05-12, **BoQ: A Place is Worth a Bag of Learnable Queries**, Amar Ali-bey et.al., Paper: [http://arxiv.org/abs/2405.07364v1](http://arxiv.org/abs/2405.07364v1), Code: **[https://github.com/amaralibey/bag-of-queries](https://github.com/amaralibey/bag-of-queries)**
 - 2024-07-22, **SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**, Niklas Gard et.al., Paper: [http://arxiv.org/abs/2404.10527v2](http://arxiv.org/abs/2404.10527v2), Code: **[https://github.com/fraunhoferhhi/spvloc](https://github.com/fraunhoferhhi/spvloc)**
 - 2024-07-23, **CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**, Haojian Huang et.al., Paper: [http://arxiv.org/abs/2404.09640v4](http://arxiv.org/abs/2404.09640v4), Code: **[https://github.com/JethroJames/CREST](https://github.com/JethroJames/CREST)**
-- 2024-04-23, **2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**, Bin Zhang et.al., Paper: [http://arxiv.org/abs/2404.07644v5](http://arxiv.org/abs/2404.07644v5), Code: **[https://github.com/littledang/2dliw-slam](https://github.com/littledang/2dliw-slam)**
 
 ## Image Matching
 
