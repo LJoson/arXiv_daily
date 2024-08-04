@@ -12,7 +12,6 @@
 - 2024-07-14, **RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**, Muyao Niu et.al., Paper: [http://arxiv.org/abs/2407.10267v1](http://arxiv.org/abs/2407.10267v1), Code: **[https://github.com/myniuuu/rs-nerf](https://github.com/myniuuu/rs-nerf)**
 - 2024-07-11, **MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**, Yushuo Chen et.al., Paper: [http://arxiv.org/abs/2407.08414v1](http://arxiv.org/abs/2407.08414v1), Code: **[https://github.com/shad0wta9/meshavatar](https://github.com/shad0wta9/meshavatar)**
 - 2024-07-03, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v2](http://arxiv.org/abs/2407.02174v2), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
-- 2024-07-01, **RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**, Haochen Jiang et.al., Paper: [http://arxiv.org/abs/2407.01303v1](http://arxiv.org/abs/2407.01303v1), Code: **[https://github.com/fudan-zvg/rodyn-slam](https://github.com/fudan-zvg/rodyn-slam)**
 
 ## Visual Localization
 
@@ -70,5 +69,4 @@
 - 2024-07-02, **Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**, Emma Cramer et.al., Paper: [http://arxiv.org/abs/2312.00592v3](http://arxiv.org/abs/2312.00592v3), Code: **[https://github.com/data-science-in-mechanical-engineering/sae-rl](https://github.com/data-science-in-mechanical-engineering/sae-rl)**
 - 2024-03-27, **Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**, Thomas Wimmer et.al., Paper: [http://arxiv.org/abs/2311.18113v2](http://arxiv.org/abs/2311.18113v2), Code: **[https://github.com/wimmerth/back-to-3d-few-shot-keypoints](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**
 - 2024-04-02, **Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**, Niladri Shekhar Dutt et.al., Paper: [http://arxiv.org/abs/2311.17024v2](http://arxiv.org/abs/2311.17024v2), Code: **[https://github.com/niladridutt/Diffusion-3D-Features](https://github.com/niladridutt/Diffusion-3D-Features)**
-- 2024-04-26, **Enhancing Visual Grounding and Generalization: A Multi-Task Cycle Training Approach for Vision-Language Models**, Xiaoyu Yang et.al., Paper: [http://arxiv.org/abs/2311.12327v2](http://arxiv.org/abs/2311.12327v2), Code: **[https://github.com/anonymgiant/vilam](https://github.com/anonymgiant/vilam)**
 
