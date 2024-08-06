@@ -11,7 +11,6 @@
 - 2024-07-18, **IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**, Wenxiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.11921v2](http://arxiv.org/abs/2407.11921v2), Code: **[https://github.com/jiang-wenxiang/ipa-nerf](https://github.com/jiang-wenxiang/ipa-nerf)**
 - 2024-07-14, **RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**, Muyao Niu et.al., Paper: [http://arxiv.org/abs/2407.10267v1](http://arxiv.org/abs/2407.10267v1), Code: **[https://github.com/myniuuu/rs-nerf](https://github.com/myniuuu/rs-nerf)**
 - 2024-07-11, **MeshAvatar: Learning High-quality Triangular Human Avatars from Multi-view Videos**, Yushuo Chen et.al., Paper: [http://arxiv.org/abs/2407.08414v1](http://arxiv.org/abs/2407.08414v1), Code: **[https://github.com/shad0wta9/meshavatar](https://github.com/shad0wta9/meshavatar)**
-- 2024-07-03, **BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**, Wenpu Li et.al., Paper: [http://arxiv.org/abs/2407.02174v2](http://arxiv.org/abs/2407.02174v2), Code: **[https://github.com/WU-CVGL/BeNeRF](https://github.com/WU-CVGL/BeNeRF)**
 
 ## Visual Localization
 
@@ -46,7 +45,6 @@
 - 2024-03-20, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v2](http://arxiv.org/abs/2402.08359v2), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 - 2024-01-18, **Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Songhe Deng et.al., Paper: [http://arxiv.org/abs/2401.09883v1](http://arxiv.org/abs/2401.09883v1), Code: **[https://github.com/cvi-szu/qa-clims](https://github.com/cvi-szu/qa-clims)**
 - 2024-01-26, **RomniStereo: Recurrent Omnidirectional Stereo Matching**, Hualie Jiang et.al., Paper: [http://arxiv.org/abs/2401.04345v2](http://arxiv.org/abs/2401.04345v2), Code: **[https://github.com/halleyjiang/romnistereo](https://github.com/halleyjiang/romnistereo)**
-- 2023-12-22, **Harnessing Diffusion Models for Visual Perception with Meta Prompts**, Qiang Wan et.al., Paper: [http://arxiv.org/abs/2312.14733v1](http://arxiv.org/abs/2312.14733v1), Code: **[https://github.com/fudan-zvg/meta-prompts](https://github.com/fudan-zvg/meta-prompts)**
 
 ## Keypoint Detection
 
