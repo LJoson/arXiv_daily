@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.08.16
+> Updated on 2024.08.17
 
 ## NeRF
 
@@ -36,6 +36,7 @@
 
 ## Image Matching
 
+- 2024-08-04, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v1](http://arxiv.org/abs/2408.02079v1), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
 - 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 - 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
 - 2024-06-16, **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**, Yikai Zhang et.al., Paper: [http://arxiv.org/abs/2406.10902v1](http://arxiv.org/abs/2406.10902v1), Code: **[https://github.com/ykzhang721/COG](https://github.com/ykzhang721/COG)**
@@ -44,6 +45,7 @@
 - 2024-07-09, **Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2405.08556v2](http://arxiv.org/abs/2405.08556v2), Code: **[https://github.com/noureddinekhiati/semi-supervised-lung-segmentation](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**
 - 2024-06-10, **MinBackProp -- Backpropagating through Minimal Solvers**, Diana Sungatullina et.al., Paper: [http://arxiv.org/abs/2404.17993v2](http://arxiv.org/abs/2404.17993v2), Code: **[https://github.com/disungatullina/minbackprop](https://github.com/disungatullina/minbackprop)**
 - 2024-05-23, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v2](http://arxiv.org/abs/2404.11302v2), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
+- 2024-04-15, **XoFTR: Cross-modal Feature Matching Transformer**, Önder Tuzcuoğlu et.al., Paper: [http://arxiv.org/abs/2404.09692v1](http://arxiv.org/abs/2404.09692v1), Code: **[https://github.com/ondert/xoftr](https://github.com/ondert/xoftr)**
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-06-19, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Ruiqiang Xiao et.al., Paper: [http://arxiv.org/abs/2403.15901v2](http://arxiv.org/abs/2403.15901v2), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
 - 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2), Code: **[https://github.com/naver-ai/Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting)**
