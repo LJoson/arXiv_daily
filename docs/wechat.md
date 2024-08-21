@@ -12,7 +12,6 @@
 - 2024-07-17, **SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2407.12667v1](http://arxiv.org/abs/2407.12667v1), Code: **[https://github.com/iris-cyy/sg-nerf](https://github.com/iris-cyy/sg-nerf)**
 - 2024-07-17, **InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**, Xulong Wang et.al., Paper: [http://arxiv.org/abs/2407.12661v1](http://arxiv.org/abs/2407.12661v1), Code: **[https://github.com/muliphein/infonorm](https://github.com/muliphein/infonorm)**
 - 2024-07-18, **IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**, Wenxiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.11921v2](http://arxiv.org/abs/2407.11921v2), Code: **[https://github.com/jiang-wenxiang/ipa-nerf](https://github.com/jiang-wenxiang/ipa-nerf)**
-- 2024-07-14, **RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**, Muyao Niu et.al., Paper: [http://arxiv.org/abs/2407.10267v1](http://arxiv.org/abs/2407.10267v1), Code: **[https://github.com/myniuuu/rs-nerf](https://github.com/myniuuu/rs-nerf)**
 
 ## Visual Localization
 
