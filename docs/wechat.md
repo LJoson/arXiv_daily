@@ -16,6 +16,7 @@
 
 ## Visual Localization
 
+- 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1), Code: **[https://github.com/sontung/descriptor-disambiguation](https://github.com/sontung/descriptor-disambiguation)**
 - 2024-08-09, **BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2408.01841v2](http://arxiv.org/abs/2408.01841v2), Code: **[https://github.com/zjuluolun/bevplace](https://github.com/zjuluolun/bevplace)**
 - 2024-07-31, **SuperVINS: A visual-inertial SLAM framework integrated deep learning features**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v1](http://arxiv.org/abs/2407.21348v1), Code: **[https://github.com/luohongk/supervins](https://github.com/luohongk/supervins)**
 - 2024-07-29, **A flexible framework for accurate LiDAR odometry, map manipulation, and localization**, José Luis Blanco-Claraco et.al., Paper: [http://arxiv.org/abs/2407.20465v1](http://arxiv.org/abs/2407.20465v1), Code: **[https://github.com/molaorg/mola](https://github.com/molaorg/mola)**
