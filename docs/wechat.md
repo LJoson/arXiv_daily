@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
 - 2024-08-23, **SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**, Jiseung Hong et.al., Paper: [http://arxiv.org/abs/2408.13285v1](http://arxiv.org/abs/2408.13285v1), Code: **[https://github.com/kaistchangmin/sin-nerf2nerf](https://github.com/kaistchangmin/sin-nerf2nerf)**
 - 2024-08-16, **VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.08766v1](http://arxiv.org/abs/2408.08766v1), Code: **[https://github.com/albertgassol1/vf-nerf](https://github.com/albertgassol1/vf-nerf)**
 - 2024-08-13, **HDRGS: High Dynamic Range Gaussian Splatting**, Jiahao Wu et.al., Paper: [http://arxiv.org/abs/2408.06543v1](http://arxiv.org/abs/2408.06543v1), Code: **[https://github.com/wujh2001/hdrgs](https://github.com/wujh2001/hdrgs)**
@@ -12,10 +13,10 @@
 - 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
 - 2024-07-17, **SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2407.12667v1](http://arxiv.org/abs/2407.12667v1), Code: **[https://github.com/iris-cyy/sg-nerf](https://github.com/iris-cyy/sg-nerf)**
 - 2024-07-17, **InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**, Xulong Wang et.al., Paper: [http://arxiv.org/abs/2407.12661v1](http://arxiv.org/abs/2407.12661v1), Code: **[https://github.com/muliphein/infonorm](https://github.com/muliphein/infonorm)**
-- 2024-07-18, **IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**, Wenxiang Jiang et.al., Paper: [http://arxiv.org/abs/2407.11921v2](http://arxiv.org/abs/2407.11921v2), Code: **[https://github.com/jiang-wenxiang/ipa-nerf](https://github.com/jiang-wenxiang/ipa-nerf)**
 
 ## Visual Localization
 
+- 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
 - 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1), Code: **[https://github.com/sontung/descriptor-disambiguation](https://github.com/sontung/descriptor-disambiguation)**
 - 2024-08-09, **BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2408.01841v2](http://arxiv.org/abs/2408.01841v2), Code: **[https://github.com/zjuluolun/bevplace](https://github.com/zjuluolun/bevplace)**
 - 2024-07-31, **SuperVINS: A visual-inertial SLAM framework integrated deep learning features**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v1](http://arxiv.org/abs/2407.21348v1), Code: **[https://github.com/luohongk/supervins](https://github.com/luohongk/supervins)**
@@ -34,6 +35,7 @@
 
 ## Image Matching
 
+- 2024-08-29, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v1](http://arxiv.org/abs/2408.16445v1), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-26, **Affine steerers for structured keypoint description**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2408.14186v1](http://arxiv.org/abs/2408.14186v1), Code: **[https://github.com/georg-bn/affine-steerers](https://github.com/georg-bn/affine-steerers)**
 - 2024-08-04, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v1](http://arxiv.org/abs/2408.02079v1), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
 - 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
