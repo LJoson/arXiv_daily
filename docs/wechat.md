@@ -5,6 +5,7 @@
 ## NeRF
 
 - 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
+- 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
 - 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
 - 2024-08-23, **SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**, Jiseung Hong et.al., Paper: [http://arxiv.org/abs/2408.13285v1](http://arxiv.org/abs/2408.13285v1), Code: **[https://github.com/kaistchangmin/sin-nerf2nerf](https://github.com/kaistchangmin/sin-nerf2nerf)**
 - 2024-08-16, **VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.08766v1](http://arxiv.org/abs/2408.08766v1), Code: **[https://github.com/albertgassol1/vf-nerf](https://github.com/albertgassol1/vf-nerf)**
@@ -13,7 +14,6 @@
 - 2024-07-29, **Radiance Fields for Robotic Teleoperation**, Maximum Wilder-Smith et.al., Paper: [http://arxiv.org/abs/2407.20194v1](http://arxiv.org/abs/2407.20194v1), Code: **[https://github.com/leggedrobotics/rf_ros](https://github.com/leggedrobotics/rf_ros)**
 - 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
 - 2024-07-17, **SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**, Yiyang Chen et.al., Paper: [http://arxiv.org/abs/2407.12667v1](http://arxiv.org/abs/2407.12667v1), Code: **[https://github.com/iris-cyy/sg-nerf](https://github.com/iris-cyy/sg-nerf)**
-- 2024-07-17, **InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**, Xulong Wang et.al., Paper: [http://arxiv.org/abs/2407.12661v1](http://arxiv.org/abs/2407.12661v1), Code: **[https://github.com/muliphein/infonorm](https://github.com/muliphein/infonorm)**
 
 ## Visual Localization
 
@@ -51,7 +51,6 @@
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-08-17, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Jiayu Huo et.al., Paper: [http://arxiv.org/abs/2403.15901v3](http://arxiv.org/abs/2403.15901v3), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
 - 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2), Code: **[https://github.com/naver-ai/Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting)**
-- 2024-03-20, **Learning to Produce Semi-dense Correspondences for Visual Localization**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2402.08359v2](http://arxiv.org/abs/2402.08359v2), Code: **[https://github.com/truongkhang/deviloc](https://github.com/truongkhang/deviloc)**
 
 ## Keypoint Detection
 
