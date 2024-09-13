@@ -5,6 +5,7 @@
 ## NeRF
 
 - 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
+- 2024-09-09, **LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**, Wei Zhi Tang et.al., Paper: [http://arxiv.org/abs/2409.06104v1](http://arxiv.org/abs/2409.06104v1), Code: **[https://github.com/ubc-vision/lsenerf](https://github.com/ubc-vision/lsenerf)**
 - 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
 - 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
 - 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
