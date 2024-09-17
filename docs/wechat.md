@@ -13,8 +13,6 @@
 - 2024-08-16, **VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.08766v1](http://arxiv.org/abs/2408.08766v1), Code: **[https://github.com/albertgassol1/vf-nerf](https://github.com/albertgassol1/vf-nerf)**
 - 2024-08-13, **HDRGS: High Dynamic Range Gaussian Splatting**, Jiahao Wu et.al., Paper: [http://arxiv.org/abs/2408.06543v1](http://arxiv.org/abs/2408.06543v1), Code: **[https://github.com/wujh2001/hdrgs](https://github.com/wujh2001/hdrgs)**
 - 2024-08-12, **FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**, Lukas Meyer et.al., Paper: [http://arxiv.org/abs/2408.06190v1](http://arxiv.org/abs/2408.06190v1), Code: **[https://github.com/meyerls/fruitnerf](https://github.com/meyerls/fruitnerf)**
-- 2024-07-29, **Radiance Fields for Robotic Teleoperation**, Maximum Wilder-Smith et.al., Paper: [http://arxiv.org/abs/2407.20194v1](http://arxiv.org/abs/2407.20194v1), Code: **[https://github.com/leggedrobotics/rf_ros](https://github.com/leggedrobotics/rf_ros)**
-- 2024-07-29, **Garment Animation NeRF with Color Editing**, Renke Wang et.al., Paper: [http://arxiv.org/abs/2407.19774v1](http://arxiv.org/abs/2407.19774v1), Code: **[https://github.com/wrk226/garmentanimationnerf](https://github.com/wrk226/garmentanimationnerf)**
 
 ## Visual Localization
 
