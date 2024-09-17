@@ -47,9 +47,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471v1](http://arxiv.org/abs/2409.06471v1)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
-|**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445v1](http://arxiv.org/abs/2408.16445v1)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
+|**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445v2](http://arxiv.org/abs/2408.16445v2)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186v1](http://arxiv.org/abs/2408.14186v1)|**[link](https://github.com/georg-bn/affine-steerers)**|
-|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079v1](http://arxiv.org/abs/2408.02079v1)|**[link](https://github.com/maybeLx/MVS_NeuS)**|
+|**2024-09-14**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079v2](http://arxiv.org/abs/2408.02079v2)|**[link](https://github.com/maybeLx/MVS_NeuS)**|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812v1](http://arxiv.org/abs/2407.19812v1)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637v1](http://arxiv.org/abs/2407.11637v1)|**[link](https://github.com/hanniewhu/remm)**|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|**[link](https://github.com/ykzhang721/COG)**|
