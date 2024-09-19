@@ -29,8 +29,6 @@
 - 2024-07-11, **SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2407.08106v1](http://arxiv.org/abs/2407.08106v1), Code: **[https://github.com/nubot-nudt/sglc](https://github.com/nubot-nudt/sglc)**
 - 2024-07-02, **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2407.02422v1](http://arxiv.org/abs/2407.02422v1), Code: **[https://github.com/serizba/cliquemining](https://github.com/serizba/cliquemining)**
 - 2024-06-23, **Breaking the Frame: Image Retrieval by Visual Overlap Prediction**, Tong Wei et.al., Paper: [http://arxiv.org/abs/2406.16204v1](http://arxiv.org/abs/2406.16204v1), Code: **[https://github.com/weitong8591/vop](https://github.com/weitong8591/vop)**
-- 2024-06-23, **Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**, Shenghao Li et.al., Paper: [http://arxiv.org/abs/2406.06374v2](http://arxiv.org/abs/2406.06374v2), Code: **[https://github.com/alterpang/multi_orb_slam](https://github.com/alterpang/multi_orb_slam)**
-- 2024-06-06, **GLACE: Global Local Accelerated Coordinate Encoding**, Fangjinhua Wang et.al., Paper: [http://arxiv.org/abs/2406.04340v1](http://arxiv.org/abs/2406.04340v1), Code: **[https://github.com/cvg/glace](https://github.com/cvg/glace)**
 
 ## Image Matching
 
