@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.09.24
+> Updated on 2024.09.25
 
 ## NeRF
 
@@ -53,7 +53,7 @@
 
 ## Keypoint Detection
 
-- 2024-09-13, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v1](http://arxiv.org/abs/2409.08695v1), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
+- 2024-09-23, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v2](http://arxiv.org/abs/2409.08695v2), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-07-25, **LION: Linear Group RNN for 3D Object Detection in Point Clouds**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2407.18232v1](http://arxiv.org/abs/2407.18232v1), Code: **[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)**
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
 - 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1), Code: **[https://github.com/tsuiky/3drn](https://github.com/tsuiky/3drn)**
