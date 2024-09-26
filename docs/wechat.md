@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-09-23, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v1](http://arxiv.org/abs/2409.15176v1), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 - 2024-09-22, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v2](http://arxiv.org/abs/2409.12014v2), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
 - 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
@@ -49,7 +50,6 @@
 - 2024-04-15, **XoFTR: Cross-modal Feature Matching Transformer**, Önder Tuzcuoğlu et.al., Paper: [http://arxiv.org/abs/2404.09692v1](http://arxiv.org/abs/2404.09692v1), Code: **[https://github.com/ondert/xoftr](https://github.com/ondert/xoftr)**
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
 - 2024-08-17, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Jiayu Huo et.al., Paper: [http://arxiv.org/abs/2403.15901v3](http://arxiv.org/abs/2403.15901v3), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
-- 2024-02-21, **Visual Style Prompting with Swapping Self-Attention**, Jaeseok Jeong et.al., Paper: [http://arxiv.org/abs/2402.12974v2](http://arxiv.org/abs/2402.12974v2), Code: **[https://github.com/naver-ai/Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting)**
 
 ## Keypoint Detection
 
