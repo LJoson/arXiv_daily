@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.09.27
+> Updated on 2024.09.28
 
 ## NeRF
 
+- 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
 - 2024-09-23, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v1](http://arxiv.org/abs/2409.15176v1), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 - 2024-09-25, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v3](http://arxiv.org/abs/2409.12014v3), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
@@ -19,6 +20,8 @@
 
 ## Visual Localization
 
+- 2024-09-26, **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**, Kartik Garg et.al., Paper: [http://arxiv.org/abs/2409.18049v1](http://arxiv.org/abs/2409.18049v1), Code: **[https://github.com/anyloc/revisit-anything](https://github.com/anyloc/revisit-anything)**
+- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
 - 2024-09-10, **GeoCalib: Learning Single-image Calibration with Geometric Optimization**, Alexander Veicht et.al., Paper: [http://arxiv.org/abs/2409.06704v1](http://arxiv.org/abs/2409.06704v1), Code: **[https://github.com/cvg/geocalib](https://github.com/cvg/geocalib)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
@@ -54,6 +57,7 @@
 
 ## Keypoint Detection
 
+- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
 - 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v3](http://arxiv.org/abs/2409.08695v3), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-07-25, **LION: Linear Group RNN for 3D Object Detection in Point Clouds**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2407.18232v1](http://arxiv.org/abs/2407.18232v1), Code: **[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)**
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
@@ -71,5 +75,4 @@
 - 2024-04-30, **An Effective Image Copy-Move Forgery Detection Using Entropy Information**, Li Jiang et.al., Paper: [http://arxiv.org/abs/2312.11793v2](http://arxiv.org/abs/2312.11793v2), Code: **[https://github.com/LUZW1998/CMFDUEI](https://github.com/LUZW1998/CMFDUEI)**
 - 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 - 2023-12-11, **Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**, Travis Driver et.al., Paper: [http://arxiv.org/abs/2312.06865v1](http://arxiv.org/abs/2312.06865v1), Code: **[https://github.com/travisdriver/spc-factor-results](https://github.com/travisdriver/spc-factor-results)**
-- 2024-07-02, **Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**, Emma Cramer et.al., Paper: [http://arxiv.org/abs/2312.00592v3](http://arxiv.org/abs/2312.00592v3), Code: **[https://github.com/data-science-in-mechanical-engineering/sae-rl](https://github.com/data-science-in-mechanical-engineering/sae-rl)**
 
