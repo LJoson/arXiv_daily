@@ -5,7 +5,7 @@
 ## NeRF
 
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
-- 2024-09-27, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v2](http://arxiv.org/abs/2409.15176v2), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
+- 2024-09-30, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v3](http://arxiv.org/abs/2409.15176v3), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 - 2024-09-25, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v3](http://arxiv.org/abs/2409.12014v3), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
 - 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
