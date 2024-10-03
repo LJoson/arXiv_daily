@@ -4,6 +4,8 @@
 
 ## NeRF
 
+- 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
+- 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
 - 2024-09-30, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v3](http://arxiv.org/abs/2409.15176v3), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 - 2024-09-25, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v3](http://arxiv.org/abs/2409.12014v3), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
@@ -14,9 +16,6 @@
 - 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
 - 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
 - 2024-08-23, **SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**, Jiseung Hong et.al., Paper: [http://arxiv.org/abs/2408.13285v1](http://arxiv.org/abs/2408.13285v1), Code: **[https://github.com/kaistchangmin/sin-nerf2nerf](https://github.com/kaistchangmin/sin-nerf2nerf)**
-- 2024-08-16, **VF-NeRF: Learning Neural Vector Fields for Indoor Scene Reconstruction**, Albert Gassol Puigjaner et.al., Paper: [http://arxiv.org/abs/2408.08766v1](http://arxiv.org/abs/2408.08766v1), Code: **[https://github.com/albertgassol1/vf-nerf](https://github.com/albertgassol1/vf-nerf)**
-- 2024-08-13, **HDRGS: High Dynamic Range Gaussian Splatting**, Jiahao Wu et.al., Paper: [http://arxiv.org/abs/2408.06543v1](http://arxiv.org/abs/2408.06543v1), Code: **[https://github.com/wujh2001/hdrgs](https://github.com/wujh2001/hdrgs)**
-- 2024-09-26, **FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**, Lukas Meyer et.al., Paper: [http://arxiv.org/abs/2408.06190v2](http://arxiv.org/abs/2408.06190v2), Code: **[https://github.com/meyerls/fruitnerf](https://github.com/meyerls/fruitnerf)**
 
 ## Visual Localization
 
@@ -35,7 +34,6 @@
 - 2024-07-15, **An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**, J. J. Cabrera et.al., Paper: [http://arxiv.org/abs/2407.10596v1](http://arxiv.org/abs/2407.10596v1), Code: **[https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**
 - 2024-07-11, **Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**, Owen Claxton et.al., Paper: [http://arxiv.org/abs/2407.08162v1](http://arxiv.org/abs/2407.08162v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
 - 2024-07-11, **SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2407.08106v1](http://arxiv.org/abs/2407.08106v1), Code: **[https://github.com/nubot-nudt/sglc](https://github.com/nubot-nudt/sglc)**
-- 2024-07-02, **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**, Sergio Izquierdo et.al., Paper: [http://arxiv.org/abs/2407.02422v1](http://arxiv.org/abs/2407.02422v1), Code: **[https://github.com/serizba/cliquemining](https://github.com/serizba/cliquemining)**
 
 ## Image Matching
 
@@ -75,5 +73,4 @@
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
 - 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1), Code: **[https://github.com/cai-jianfeng/flowmind2digital](https://github.com/cai-jianfeng/flowmind2digital)**
 - 2024-04-30, **An Effective Image Copy-Move Forgery Detection Using Entropy Information**, Li Jiang et.al., Paper: [http://arxiv.org/abs/2312.11793v2](http://arxiv.org/abs/2312.11793v2), Code: **[https://github.com/LUZW1998/CMFDUEI](https://github.com/LUZW1998/CMFDUEI)**
-- 2023-12-11, **VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**, Jian Shi et.al., Paper: [http://arxiv.org/abs/2312.08871v1](http://arxiv.org/abs/2312.08871v1), Code: **[https://github.com/shijianjian/voxelkp](https://github.com/shijianjian/voxelkp)**
 
