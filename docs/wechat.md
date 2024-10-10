@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
 - 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 - 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
@@ -14,9 +15,6 @@
 - 2024-09-09, **LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**, Wei Zhi Tang et.al., Paper: [http://arxiv.org/abs/2409.06104v1](http://arxiv.org/abs/2409.06104v1), Code: **[https://github.com/ubc-vision/lsenerf](https://github.com/ubc-vision/lsenerf)**
 - 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
 - 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
-- 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
-- 2024-09-05, **G-Style: Stylized Gaussian Splatting**, Áron Samuel Kovács et.al., Paper: [http://arxiv.org/abs/2408.15695v2](http://arxiv.org/abs/2408.15695v2), Code: **[https://github.com/AronKovacs/g-style](https://github.com/AronKovacs/g-style)**
-- 2024-08-23, **SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**, Jiseung Hong et.al., Paper: [http://arxiv.org/abs/2408.13285v1](http://arxiv.org/abs/2408.13285v1), Code: **[https://github.com/kaistchangmin/sin-nerf2nerf](https://github.com/kaistchangmin/sin-nerf2nerf)**
 
 ## Visual Localization
 
@@ -32,9 +30,6 @@
 - 2024-07-31, **SuperVINS: A visual-inertial SLAM framework integrated deep learning features**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v1](http://arxiv.org/abs/2407.21348v1), Code: **[https://github.com/luohongk/supervins](https://github.com/luohongk/supervins)**
 - 2024-07-29, **A flexible framework for accurate LiDAR odometry, map manipulation, and localization**, José Luis Blanco-Claraco et.al., Paper: [http://arxiv.org/abs/2407.20465v1](http://arxiv.org/abs/2407.20465v1), Code: **[https://github.com/molaorg/mola](https://github.com/molaorg/mola)**
 - 2024-07-17, **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**, Jingwen Yu et.al., Paper: [http://arxiv.org/abs/2407.11736v2](http://arxiv.org/abs/2407.11736v2), Code: **[https://github.com/jarvisyjw/gv-bench](https://github.com/jarvisyjw/gv-bench)**
-- 2024-07-15, **An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**, J. J. Cabrera et.al., Paper: [http://arxiv.org/abs/2407.10596v1](http://arxiv.org/abs/2407.10596v1), Code: **[https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**
-- 2024-07-11, **Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**, Owen Claxton et.al., Paper: [http://arxiv.org/abs/2407.08162v1](http://arxiv.org/abs/2407.08162v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
-- 2024-07-11, **SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**, Neng Wang et.al., Paper: [http://arxiv.org/abs/2407.08106v1](http://arxiv.org/abs/2407.08106v1), Code: **[https://github.com/nubot-nudt/sglc](https://github.com/nubot-nudt/sglc)**
 
 ## Image Matching
 
@@ -58,6 +53,7 @@
 
 ## Keypoint Detection
 
+- 2024-10-08, **Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**, Xueyang Kang et.al., Paper: [http://arxiv.org/abs/2410.05729v1](http://arxiv.org/abs/2410.05729v1), Code: **[https://github.com/alexandor91/se3-equi-graph-registration](https://github.com/alexandor91/se3-equi-graph-registration)**
 - 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
 - 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v3](http://arxiv.org/abs/2409.08695v3), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-07-25, **LION: Linear Group RNN for 3D Object Detection in Point Clouds**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2407.18232v1](http://arxiv.org/abs/2407.18232v1), Code: **[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)**
