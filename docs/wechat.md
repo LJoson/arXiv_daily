@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.10.09
+> Updated on 2024.10.10
 
 ## NeRF
 
@@ -15,6 +15,7 @@
 - 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
 - 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
 - 2024-08-29, **NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views**, Kirsten W. H. Maas et.al., Paper: [http://arxiv.org/abs/2408.16355v1](http://arxiv.org/abs/2408.16355v1), Code: **[https://github.com/kirstenmaas/nerf-ca](https://github.com/kirstenmaas/nerf-ca)**
+- 2024-09-05, **G-Style: Stylized Gaussian Splatting**, Áron Samuel Kovács et.al., Paper: [http://arxiv.org/abs/2408.15695v2](http://arxiv.org/abs/2408.15695v2), Code: **[https://github.com/AronKovacs/g-style](https://github.com/AronKovacs/g-style)**
 - 2024-08-23, **SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting**, Jiseung Hong et.al., Paper: [http://arxiv.org/abs/2408.13285v1](http://arxiv.org/abs/2408.13285v1), Code: **[https://github.com/kaistchangmin/sin-nerf2nerf](https://github.com/kaistchangmin/sin-nerf2nerf)**
 
 ## Visual Localization
