@@ -4,7 +4,10 @@
 
 ## NeRF
 
+- 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971v1](http://arxiv.org/abs/2410.07971v1), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
+- 2024-10-09, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v1](http://arxiv.org/abs/2410.07418v1), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
+- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v1](http://arxiv.org/abs/2410.05468v1), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
 - 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 - 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
@@ -14,7 +17,6 @@
 - 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
 - 2024-09-09, **LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**, Wei Zhi Tang et.al., Paper: [http://arxiv.org/abs/2409.06104v1](http://arxiv.org/abs/2409.06104v1), Code: **[https://github.com/ubc-vision/lsenerf](https://github.com/ubc-vision/lsenerf)**
 - 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
-- 2024-09-03, **$S^2$NeRF: Privacy-preserving Training Framework for NeRF**, Bokang Zhang et.al., Paper: [http://arxiv.org/abs/2409.01661v1](http://arxiv.org/abs/2409.01661v1), Code: **[https://github.com/lucky9-cyou/S2-NeRF](https://github.com/lucky9-cyou/S2-NeRF)**
 
 ## Visual Localization
 
