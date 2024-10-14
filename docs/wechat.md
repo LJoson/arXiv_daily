@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
 - 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971v1](http://arxiv.org/abs/2410.07971v1), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
 - 2024-10-11, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v2](http://arxiv.org/abs/2410.07418v2), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
@@ -16,7 +17,6 @@
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
 - 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
 - 2024-09-09, **LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**, Wei Zhi Tang et.al., Paper: [http://arxiv.org/abs/2409.06104v1](http://arxiv.org/abs/2409.06104v1), Code: **[https://github.com/ubc-vision/lsenerf](https://github.com/ubc-vision/lsenerf)**
-- 2024-09-04, **UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**, Jiaxin Guo et.al., Paper: [http://arxiv.org/abs/2409.02917v1](http://arxiv.org/abs/2409.02917v1), Code: **[https://github.com/wrld/uc-nerf](https://github.com/wrld/uc-nerf)**
 
 ## Visual Localization
 
@@ -31,7 +31,6 @@
 - 2024-08-09, **BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2408.01841v2](http://arxiv.org/abs/2408.01841v2), Code: **[https://github.com/zjuluolun/bevplace](https://github.com/zjuluolun/bevplace)**
 - 2024-07-31, **SuperVINS: A visual-inertial SLAM framework integrated deep learning features**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v1](http://arxiv.org/abs/2407.21348v1), Code: **[https://github.com/luohongk/supervins](https://github.com/luohongk/supervins)**
 - 2024-07-29, **A flexible framework for accurate LiDAR odometry, map manipulation, and localization**, José Luis Blanco-Claraco et.al., Paper: [http://arxiv.org/abs/2407.20465v1](http://arxiv.org/abs/2407.20465v1), Code: **[https://github.com/molaorg/mola](https://github.com/molaorg/mola)**
-- 2024-07-17, **GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**, Jingwen Yu et.al., Paper: [http://arxiv.org/abs/2407.11736v2](http://arxiv.org/abs/2407.11736v2), Code: **[https://github.com/jarvisyjw/gv-bench](https://github.com/jarvisyjw/gv-bench)**
 
 ## Image Matching
 
