@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.10.14
+> Updated on 2024.10.15
 
 ## NeRF
 
@@ -8,7 +8,7 @@
 - 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971v1](http://arxiv.org/abs/2410.07971v1), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
 - 2024-10-11, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v2](http://arxiv.org/abs/2410.07418v2), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
-- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v1](http://arxiv.org/abs/2410.05468v1), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
+- 2024-10-11, **PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v2](http://arxiv.org/abs/2410.05468v2), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
 - 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 - 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
