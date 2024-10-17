@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-10-15, **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2410.11228v1](http://arxiv.org/abs/2410.11228v1), Code: **[https://github.com/vdigpku/teocc](https://github.com/vdigpku/teocc)**
 - 2024-10-14, **Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**, Raja Kumar et.al., Paper: [http://arxiv.org/abs/2410.11080v1](http://arxiv.org/abs/2410.11080v1), Code: **[https://github.com/raja-kumar/depth-aware-3dgs](https://github.com/raja-kumar/depth-aware-3dgs)**
 - 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
 - 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971v1](http://arxiv.org/abs/2410.07971v1), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
@@ -16,7 +17,6 @@
 - 2024-10-14, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v5](http://arxiv.org/abs/2409.15176v5), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 - 2024-09-25, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v3](http://arxiv.org/abs/2409.12014v3), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
 - 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
-- 2024-09-10, **Sources of Uncertainty in 3D Scene Reconstruction**, Marcus Klasson et.al., Paper: [http://arxiv.org/abs/2409.06407v1](http://arxiv.org/abs/2409.06407v1), Code: **[https://github.com/aaltoml/uncertainty-nerf-gs](https://github.com/aaltoml/uncertainty-nerf-gs)**
 
 ## Visual Localization
 
@@ -69,5 +69,4 @@
 - 2024-03-18, **FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**, Xiangyuan Wang et.al., Paper: [http://arxiv.org/abs/2403.11662v1](http://arxiv.org/abs/2403.11662v1), Code: **[https://github.com/yuyangpoi/fe-detr](https://github.com/yuyangpoi/fe-detr)**
 - 2024-01-29, **Reconstructing Close Human Interactions from Multiple Views**, Qing Shuai et.al., Paper: [http://arxiv.org/abs/2401.16173v1](http://arxiv.org/abs/2401.16173v1), Code: **[https://github.com/zju3dv/closemocap](https://github.com/zju3dv/closemocap)**
 - 2024-01-17, **To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**, Luyi Han et.al., Paper: [http://arxiv.org/abs/2401.09336v1](http://arxiv.org/abs/2401.09336v1), Code: **[https://github.com/fiy2w/treatment-aware-longitudinal-registration](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**
-- 2024-01-08, **Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**, Huanyu Liu et.al., Paper: [http://arxiv.org/abs/2401.03742v1](http://arxiv.org/abs/2401.03742v1), Code: **[https://github.com/cai-jianfeng/flowmind2digital](https://github.com/cai-jianfeng/flowmind2digital)**
 
