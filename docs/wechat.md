@@ -15,8 +15,6 @@
 - 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
 - 2024-10-14, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v5](http://arxiv.org/abs/2409.15176v5), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
-- 2024-09-25, **BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**, Lulin Zhang et.al., Paper: [http://arxiv.org/abs/2409.12014v3](http://arxiv.org/abs/2409.12014v3), Code: **[https://github.com/lulinzhang/brdf-nerf](https://github.com/lulinzhang/brdf-nerf)**
-- 2024-09-16, **DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**, Mahmud A. Mohamad et.al., Paper: [http://arxiv.org/abs/2409.10041v1](http://arxiv.org/abs/2409.10041v1), Code: **[https://github.com/sntubix/denser](https://github.com/sntubix/denser)**
 
 ## Visual Localization
 
