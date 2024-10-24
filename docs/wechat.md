@@ -14,7 +14,6 @@
 - 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 - 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672v1](http://arxiv.org/abs/2410.00672v1), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 - 2024-09-26, **LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**, Huan Wang et.al., Paper: [http://arxiv.org/abs/2409.18057v1](http://arxiv.org/abs/2409.18057v1), Code: **[https://github.com/mingsun-tse/lightavatar-tensorflow](https://github.com/mingsun-tse/lightavatar-tensorflow)**
-- 2024-10-14, **SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**, Jinze Yu et.al., Paper: [http://arxiv.org/abs/2409.15176v5](http://arxiv.org/abs/2409.15176v5), Code: **[https://github.com/520jz/spikegs](https://github.com/520jz/spikegs)**
 
 ## Visual Localization
 
