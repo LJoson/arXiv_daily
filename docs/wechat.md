@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
 - 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355v1](http://arxiv.org/abs/2410.18355v1), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
 - 2024-10-22, **Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**, Shrey Vishen et.al., Paper: [http://arxiv.org/abs/2410.18137v1](http://arxiv.org/abs/2410.18137v1), Code: **[https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**
@@ -17,7 +18,6 @@
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
 - 2024-10-11, **PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v2](http://arxiv.org/abs/2410.05468v2), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
 - 2024-10-02, **MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**, Xiaobiao Du et.al., Paper: [http://arxiv.org/abs/2410.02103v1](http://arxiv.org/abs/2410.02103v1), Code: **[https://github.com/xiaobiaodu/MVGS](https://github.com/xiaobiaodu/MVGS)**
-- 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647v1](http://arxiv.org/abs/2410.01647v1), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
 
 ## Visual Localization
 
@@ -36,7 +36,6 @@
 - 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1), Code: **[https://github.com/sontung/descriptor-disambiguation](https://github.com/sontung/descriptor-disambiguation)**
 - 2024-08-09, **BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**, Lun Luo et.al., Paper: [http://arxiv.org/abs/2408.01841v2](http://arxiv.org/abs/2408.01841v2), Code: **[https://github.com/zjuluolun/bevplace](https://github.com/zjuluolun/bevplace)**
 - 2024-11-03, **SuperVINS: A Real-Time Visual-Inertial SLAM Framework for Challenging Imaging Conditions**, Hongkun Luo et.al., Paper: [http://arxiv.org/abs/2407.21348v2](http://arxiv.org/abs/2407.21348v2), Code: **[https://github.com/luohongk/supervins](https://github.com/luohongk/supervins)**
-- 2024-07-29, **A flexible framework for accurate LiDAR odometry, map manipulation, and localization**, José Luis Blanco-Claraco et.al., Paper: [http://arxiv.org/abs/2407.20465v1](http://arxiv.org/abs/2407.20465v1), Code: **[https://github.com/molaorg/mola](https://github.com/molaorg/mola)**
 
 ## Image Matching
 
