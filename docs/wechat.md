@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
 - 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
 - 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355v1](http://arxiv.org/abs/2410.18355v1), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
