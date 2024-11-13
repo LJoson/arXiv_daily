@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-12, **Material Transforms from Disentangled NeRF Representations**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2411.08037v1](http://arxiv.org/abs/2411.08037v1), Code: **[https://github.com/astra-vision/brdftransform](https://github.com/astra-vision/brdftransform)**
 - 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
 - 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 - 2024-10-26, **Neural Fields in Robotics: A Survey**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2410.20220v1](http://arxiv.org/abs/2410.20220v1), Code: **[https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**
@@ -18,7 +19,6 @@
 - 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971v1](http://arxiv.org/abs/2410.07971v1), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
 - 2024-10-11, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418v2](http://arxiv.org/abs/2410.07418v2), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514v1](http://arxiv.org/abs/2410.05514v1), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
-- 2024-10-11, **PH-Dropout: Practical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468v2](http://arxiv.org/abs/2410.05468v2), Code: **[https://github.com/thanostriantafyllou3/ph-dropout](https://github.com/thanostriantafyllou3/ph-dropout)**
 
 ## Visual Localization
 
@@ -40,6 +40,7 @@
 
 ## Image Matching
 
+- 2024-11-11, **XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**, Ismail Can Yagmur et.al., Paper: [http://arxiv.org/abs/2411.07430v1](http://arxiv.org/abs/2411.07430v1), Code: **[https://github.com/canyagmur/xpoint](https://github.com/canyagmur/xpoint)**
 - 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v1](http://arxiv.org/abs/2409.16925v1), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-09-20, **A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2409.03032v2](http://arxiv.org/abs/2409.03032v2), Code: **[https://github.com/gdaosu/albedo_aerial_photogrammetry](https://github.com/gdaosu/albedo_aerial_photogrammetry)**
