@@ -40,6 +40,7 @@
 
 ## Image Matching
 
+- 2024-11-14, **Image Matching Filtering and Refinement by Planes and Beyond**, Fabio Bellavia et.al., Paper: [http://arxiv.org/abs/2411.09484v1](http://arxiv.org/abs/2411.09484v1), Code: **[https://github.com/fb82/miho](https://github.com/fb82/miho)**
 - 2024-11-11, **XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**, Ismail Can Yagmur et.al., Paper: [http://arxiv.org/abs/2411.07430v1](http://arxiv.org/abs/2411.07430v1), Code: **[https://github.com/canyagmur/xpoint](https://github.com/canyagmur/xpoint)**
 - 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v1](http://arxiv.org/abs/2409.16925v1), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
