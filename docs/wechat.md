@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-15, **USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2411.10504v1](http://arxiv.org/abs/2411.10504v1), Code: **[https://github.com/chenkang455/usp-gaussian](https://github.com/chenkang455/usp-gaussian)**
 - 2024-11-13, **MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2411.08279v1](http://arxiv.org/abs/2411.08279v1), Code: **[https://github.com/wu-cvgl/mba-slam](https://github.com/wu-cvgl/mba-slam)**
 - 2024-11-12, **Material Transforms from Disentangled NeRF Representations**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2411.08037v1](http://arxiv.org/abs/2411.08037v1), Code: **[https://github.com/astra-vision/brdftransform](https://github.com/astra-vision/brdftransform)**
 - 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
@@ -16,7 +17,6 @@
 - 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995v1](http://arxiv.org/abs/2410.16995v1), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 - 2024-10-15, **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2410.11228v1](http://arxiv.org/abs/2410.11228v1), Code: **[https://github.com/vdigpku/teocc](https://github.com/vdigpku/teocc)**
 - 2024-10-14, **Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**, Raja Kumar et.al., Paper: [http://arxiv.org/abs/2410.11080v1](http://arxiv.org/abs/2410.11080v1), Code: **[https://github.com/raja-kumar/depth-aware-3dgs](https://github.com/raja-kumar/depth-aware-3dgs)**
-- 2024-10-11, **SceneCraft: Layout-Guided 3D Scene Generation**, Xiuyu Yang et.al., Paper: [http://arxiv.org/abs/2410.09049v1](http://arxiv.org/abs/2410.09049v1), Code: **[https://github.com/orangesodahub/scenecraft](https://github.com/orangesodahub/scenecraft)**
 
 ## Visual Localization
 
