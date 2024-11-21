@@ -16,7 +16,6 @@
 - 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741v1](http://arxiv.org/abs/2410.17741v1), Code: **[https://github.com/HZXu-526/Human-Avatar](https://github.com/HZXu-526/Human-Avatar)**
 - 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995v1](http://arxiv.org/abs/2410.16995v1), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 - 2024-10-15, **TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2410.11228v1](http://arxiv.org/abs/2410.11228v1), Code: **[https://github.com/vdigpku/teocc](https://github.com/vdigpku/teocc)**
-- 2024-10-14, **Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting**, Raja Kumar et.al., Paper: [http://arxiv.org/abs/2410.11080v1](http://arxiv.org/abs/2410.11080v1), Code: **[https://github.com/raja-kumar/depth-aware-3dgs](https://github.com/raja-kumar/depth-aware-3dgs)**
 
 ## Visual Localization
 
