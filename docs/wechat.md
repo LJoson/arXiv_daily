@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1), Code: **[https://github.com/liulisixin/mli-nerf](https://github.com/liulisixin/mli-nerf)**
 - 2024-11-25, **SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2411.16816v1](http://arxiv.org/abs/2411.16816v1), Code: **[https://github.com/carlinds/splatad](https://github.com/carlinds/splatad)**
 - 2024-11-24, **GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**, Xu Baixin et.al., Paper: [http://arxiv.org/abs/2411.15723v1](http://arxiv.org/abs/2411.15723v1), Code: **[https://github.com/xubaixinxbx/gsurf](https://github.com/xubaixinxbx/gsurf)**
 - 2024-11-15, **USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2411.10504v1](http://arxiv.org/abs/2411.10504v1), Code: **[https://github.com/chenkang455/usp-gaussian](https://github.com/chenkang455/usp-gaussian)**
