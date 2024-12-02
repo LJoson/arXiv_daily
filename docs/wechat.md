@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-11-29, **Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**, Florinel-Alin Croitoru et.al., Paper: [http://arxiv.org/abs/2411.19537v1](http://arxiv.org/abs/2411.19537v1), Code: **[https://github.com/croitorualin/biodeep](https://github.com/croitorualin/biodeep)**
 - 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1), Code: **[https://github.com/liulisixin/mli-nerf](https://github.com/liulisixin/mli-nerf)**
 - 2024-11-27, **SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**, Georg Hess et.al., Paper: [http://arxiv.org/abs/2411.16816v2](http://arxiv.org/abs/2411.16816v2), Code: **[https://github.com/carlinds/splatad](https://github.com/carlinds/splatad)**
 - 2024-11-28, **GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**, Baixin Xu et.al., Paper: [http://arxiv.org/abs/2411.15723v2](http://arxiv.org/abs/2411.15723v2), Code: **[https://github.com/xubaixinxbx/gsurf](https://github.com/xubaixinxbx/gsurf)**
@@ -16,7 +17,6 @@
 - 2024-10-26, **Neural Fields in Robotics: A Survey**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2410.20220v1](http://arxiv.org/abs/2410.20220v1), Code: **[https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
 - 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355v1](http://arxiv.org/abs/2410.18355v1), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
-- 2024-10-22, **Advancing Super-Resolution in Neural Radiance Fields via Variational Diffusion Strategies**, Shrey Vishen et.al., Paper: [http://arxiv.org/abs/2410.18137v1](http://arxiv.org/abs/2410.18137v1), Code: **[https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies](https://github.com/shreyvish5678/advancing-super-resolution-in-neural-radiance-fields-via-variational-diffusion-strategies)**
 - 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741v1](http://arxiv.org/abs/2410.17741v1), Code: **[https://github.com/HZXu-526/Human-Avatar](https://github.com/HZXu-526/Human-Avatar)**
 - 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995v1](http://arxiv.org/abs/2410.16995v1), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 
