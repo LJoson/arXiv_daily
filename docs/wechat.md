@@ -20,6 +20,7 @@
 
 ## Visual Localization
 
+- 2024-12-02, **Mutli-View 3D Reconstruction using Knowledge Distillation**, Aditya Dutt et.al., Paper: [http://arxiv.org/abs/2412.02039v1](http://arxiv.org/abs/2412.02039v1), Code: **[https://github.com/ishikaalunawat/231aproj](https://github.com/ishikaalunawat/231aproj)**
 - 2024-11-13, **OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2411.08665v1](http://arxiv.org/abs/2411.08665v1), Code: **[https://github.com/whu-usi3dv/osmloc](https://github.com/whu-usi3dv/osmloc)**
 - 2024-11-13, **MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2411.08279v1](http://arxiv.org/abs/2411.08279v1), Code: **[https://github.com/wu-cvgl/mba-slam](https://github.com/wu-cvgl/mba-slam)**
 - 2024-10-28, **NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**, Taiyi Pan et.al., Paper: [http://arxiv.org/abs/2410.21615v1](http://arxiv.org/abs/2410.21615v1), Code: **[https://github.com/ai4ce/NYC-Event-VPR](https://github.com/ai4ce/NYC-Event-VPR)**
@@ -57,7 +58,6 @@
 - 2024-05-23, **A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**, Francesco Pro et.al., Paper: [http://arxiv.org/abs/2404.11302v2](http://arxiv.org/abs/2404.11302v2), Code: **[https://github.com/pro1944191/semanticalignnet](https://github.com/pro1944191/semanticalignnet)**
 - 2024-04-15, **XoFTR: Cross-modal Feature Matching Transformer**, Önder Tuzcuoğlu et.al., Paper: [http://arxiv.org/abs/2404.09692v1](http://arxiv.org/abs/2404.09692v1), Code: **[https://github.com/ondert/xoftr](https://github.com/ondert/xoftr)**
 - 2024-04-13, **DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2404.08928v1](http://arxiv.org/abs/2404.08928v1), Code: **[https://github.com/parskatt/dedode](https://github.com/parskatt/dedode)**
-- 2024-08-17, **MatchSeg: Towards Better Segmentation via Reference Image Matching**, Jiayu Huo et.al., Paper: [http://arxiv.org/abs/2403.15901v3](http://arxiv.org/abs/2403.15901v3), Code: **[https://github.com/keeplearning-again/matchseg](https://github.com/keeplearning-again/matchseg)**
 
 ## Keypoint Detection
 
