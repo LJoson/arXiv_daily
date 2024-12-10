@@ -18,7 +18,6 @@
 - 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 - 2024-10-26, **Neural Fields in Robotics: A Survey**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2410.20220v1](http://arxiv.org/abs/2410.20220v1), Code: **[https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**
 - 2024-10-25, **Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**, Weihang Liu et.al., Paper: [http://arxiv.org/abs/2410.19483v1](http://arxiv.org/abs/2410.19483v1), Code: **[https://github.com/weihangliu2024/content_aware_nerf](https://github.com/weihangliu2024/content_aware_nerf)**
-- 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355v1](http://arxiv.org/abs/2410.18355v1), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
 
 ## Visual Localization
 
@@ -38,7 +37,6 @@
 - 2024-10-17, **GeoCalib: Learning Single-image Calibration with Geometric Optimization**, Alexander Veicht et.al., Paper: [http://arxiv.org/abs/2409.06704v2](http://arxiv.org/abs/2409.06704v2), Code: **[https://github.com/cvg/geocalib](https://github.com/cvg/geocalib)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
-- 2024-08-21, **FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**, Son Tung Nguyen et.al., Paper: [http://arxiv.org/abs/2408.12037v1](http://arxiv.org/abs/2408.12037v1), Code: **[https://github.com/sontung/descriptor-disambiguation](https://github.com/sontung/descriptor-disambiguation)**
 
 ## Image Matching
 
@@ -75,6 +73,4 @@
 - 2024-12-05, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v3](http://arxiv.org/abs/2406.16837v3), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 - 2024-06-01, **Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**, Weizhen Liu et.al., Paper: [http://arxiv.org/abs/2405.12476v2](http://arxiv.org/abs/2405.12476v2), Code: **[https://github.com/weizhenliubioinform/fish-phenotype-detect](https://github.com/weizhenliubioinform/fish-phenotype-detect)**
-- 2024-03-28, **Towards Long Term SLAM on Thermal Imagery**, Colin Keil et.al., Paper: [http://arxiv.org/abs/2403.19885v1](http://arxiv.org/abs/2403.19885v1), Code: **[https://github.com/neufieldrobotics/irslam_baseline](https://github.com/neufieldrobotics/irslam_baseline)**
-- 2024-03-28, **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, Xiao Lin et.al., Paper: [http://arxiv.org/abs/2403.19527v1](http://arxiv.org/abs/2403.19527v1), Code: **[https://github.com/leeiieeo/ag-pose](https://github.com/leeiieeo/ag-pose)**
 
