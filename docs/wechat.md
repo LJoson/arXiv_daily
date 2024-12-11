@@ -36,7 +36,6 @@
 - 2024-09-18, **Towards Global Localization using Multi-Modal Object-Instance Re-Identification**, Aneesh Chavan et.al., Paper: [http://arxiv.org/abs/2409.12002v1](http://arxiv.org/abs/2409.12002v1), Code: **[https://github.com/instance-based-loc/instance-based-loc](https://github.com/instance-based-loc/instance-based-loc)**
 - 2024-10-17, **GeoCalib: Learning Single-image Calibration with Geometric Optimization**, Alexander Veicht et.al., Paper: [http://arxiv.org/abs/2409.06704v2](http://arxiv.org/abs/2409.06704v2), Code: **[https://github.com/cvg/geocalib](https://github.com/cvg/geocalib)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
-- 2024-08-29, **A compact neuromorphic system for ultra energy-efficient, on-device robot localization**, Adam D. Hines et.al., Paper: [http://arxiv.org/abs/2408.16754v1](http://arxiv.org/abs/2408.16754v1), Code: **[https://github.com/AdamDHines/LENS](https://github.com/AdamDHines/LENS)**
 
 ## Image Matching
 
