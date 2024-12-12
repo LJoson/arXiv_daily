@@ -4,7 +4,7 @@
 
 ## NeRF
 
-- 2024-12-06, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v1](http://arxiv.org/abs/2412.04955v1), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
+- 2024-12-11, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v2](http://arxiv.org/abs/2412.04955v2), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
 - 2024-12-03, **RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**, Qiankun Gao et.al., Paper: [http://arxiv.org/abs/2412.02493v1](http://arxiv.org/abs/2412.02493v1), Code: **[https://github.com/gqk/relaygs](https://github.com/gqk/relaygs)**
 - 2024-11-29, **Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook**, Florinel-Alin Croitoru et.al., Paper: [http://arxiv.org/abs/2411.19537v1](http://arxiv.org/abs/2411.19537v1), Code: **[https://github.com/croitorualin/biodeep](https://github.com/croitorualin/biodeep)**
 - 2024-11-26, **MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**, Yixiong Yang et.al., Paper: [http://arxiv.org/abs/2411.17235v1](http://arxiv.org/abs/2411.17235v1), Code: **[https://github.com/liulisixin/mli-nerf](https://github.com/liulisixin/mli-nerf)**
