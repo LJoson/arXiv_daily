@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2024-12-18, **GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**, Xiaobao Wei et.al., Paper: [http://arxiv.org/abs/2412.13983v1](http://arxiv.org/abs/2412.13983v1), Code: **[https://github.com/ucwxb/graphavatar](https://github.com/ucwxb/graphavatar)**
 - 2024-12-15, **ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**, Yi Feng et.al., Paper: [http://arxiv.org/abs/2412.11210v1](http://arxiv.org/abs/2412.11210v1), Code: **[https://github.com/fengyi233/ViPOcc](https://github.com/fengyi233/ViPOcc)**
 - 2024-12-12, **PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2412.09680v1](http://arxiv.org/abs/2412.09680v1), Code: **[https://github.com/s3anwu/pbrnerf](https://github.com/s3anwu/pbrnerf)**
 - 2024-12-11, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v2](http://arxiv.org/abs/2412.04955v2), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
@@ -18,7 +19,6 @@
 - 2024-11-12, **Material Transforms from Disentangled NeRF Representations**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2411.08037v1](http://arxiv.org/abs/2411.08037v1), Code: **[https://github.com/astra-vision/brdftransform](https://github.com/astra-vision/brdftransform)**
 - 2024-11-08, **From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$-NeuS**, Haoran Zhang et.al., Paper: [http://arxiv.org/abs/2411.05362v1](http://arxiv.org/abs/2411.05362v1), Code: **[https://github.com/728388808/alpha-neus](https://github.com/728388808/alpha-neus)**
 - 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
-- 2024-11-04, **A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**, Matthew McDermott et.al., Paper: [http://arxiv.org/abs/2411.01725v1](http://arxiv.org/abs/2411.01725v1), Code: **[https://github.com/mcdermatt/plink](https://github.com/mcdermatt/plink)**
 
 ## Visual Localization
 
