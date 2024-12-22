@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2024.12.21
+> Updated on 2024.12.22
 
 ## NeRF
 
@@ -17,11 +17,14 @@
 - 2024-11-15, **USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**, Kang Chen et.al., Paper: [http://arxiv.org/abs/2411.10504v1](http://arxiv.org/abs/2411.10504v1), Code: **[https://github.com/chenkang455/usp-gaussian](https://github.com/chenkang455/usp-gaussian)**
 - 2024-11-13, **MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2411.08279v1](http://arxiv.org/abs/2411.08279v1), Code: **[https://github.com/wu-cvgl/mba-slam](https://github.com/wu-cvgl/mba-slam)**
 - 2024-11-12, **Material Transforms from Disentangled NeRF Representations**, Ivan Lopes et.al., Paper: [http://arxiv.org/abs/2411.08037v1](http://arxiv.org/abs/2411.08037v1), Code: **[https://github.com/astra-vision/brdftransform](https://github.com/astra-vision/brdftransform)**
+- 2024-11-11, **LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**, Zefan Qu et.al., Paper: [http://arxiv.org/abs/2411.06757v1](http://arxiv.org/abs/2411.06757v1), Code: **[https://github.com/quzefan/lush-nerf](https://github.com/quzefan/lush-nerf)**
 - 2024-11-08, **From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$-NeuS**, Haoran Zhang et.al., Paper: [http://arxiv.org/abs/2411.05362v1](http://arxiv.org/abs/2411.05362v1), Code: **[https://github.com/728388808/alpha-neus](https://github.com/728388808/alpha-neus)**
 - 2024-11-06, **Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**, Rui Peng et.al., Paper: [http://arxiv.org/abs/2411.03637v1](http://arxiv.org/abs/2411.03637v1), Code: **[https://github.com/prstrive/scgaussian](https://github.com/prstrive/scgaussian)**
 
 ## Visual Localization
 
+- 2024-12-18, **ConDo: Continual Domain Expansion for Absolute Pose Regression**, Zijun Li et.al., Paper: [http://arxiv.org/abs/2412.13452v1](http://arxiv.org/abs/2412.13452v1), Code: **[https://github.com/zijunli7/condo](https://github.com/zijunli7/condo)**
+- 2024-12-11, **Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2412.08376v1](http://arxiv.org/abs/2412.08376v1), Code: **[https://github.com/ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r)**
 - 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
 - 2024-12-02, **Mutli-View 3D Reconstruction using Knowledge Distillation**, Aditya Dutt et.al., Paper: [http://arxiv.org/abs/2412.02039v1](http://arxiv.org/abs/2412.02039v1), Code: **[https://github.com/ishikaalunawat/231aproj](https://github.com/ishikaalunawat/231aproj)**
 - 2024-11-13, **OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**, Youqi Liao et.al., Paper: [http://arxiv.org/abs/2411.08665v1](http://arxiv.org/abs/2411.08665v1), Code: **[https://github.com/whu-usi3dv/osmloc](https://github.com/whu-usi3dv/osmloc)**
@@ -70,7 +73,6 @@
 - 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695v3](http://arxiv.org/abs/2409.08695v3), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 - 2024-07-25, **LION: Linear Group RNN for 3D Object Detection in Point Clouds**, Zhe Liu et.al., Paper: [http://arxiv.org/abs/2407.18232v1](http://arxiv.org/abs/2407.18232v1), Code: **[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)**
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
-- 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1), Code: **[https://github.com/tsuiky/3drn](https://github.com/tsuiky/3drn)**
 - 2024-07-02, **Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**, Chengchao Shen et.al., Paper: [http://arxiv.org/abs/2407.02014v1](http://arxiv.org/abs/2407.02014v1), Code: **[https://github.com/visresearch/mgc](https://github.com/visresearch/mgc)**
 - 2024-12-05, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v3](http://arxiv.org/abs/2406.16837v3), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
 - 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
