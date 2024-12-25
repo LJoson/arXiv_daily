@@ -6,6 +6,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213v1](http://arxiv.org/abs/2412.16213v1)|**[link](https://github.com/tommy-nguyen-cpu/advirl)**|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-15**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v1](http://arxiv.org/abs/2412.11210v1)|**[link](https://github.com/fengyi233/ViPOcc)**|
 |**2024-12-12**|**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**|Sean Wu et.al.|[2412.09680v1](http://arxiv.org/abs/2412.09680v1)|**[link](https://github.com/s3anwu/pbrnerf)**|
@@ -47,6 +48,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484v2](http://arxiv.org/abs/2411.09484v2)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430v1](http://arxiv.org/abs/2411.07430v1)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-12-12**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925v2](http://arxiv.org/abs/2409.16925v2)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
@@ -70,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653v1](http://arxiv.org/abs/2411.15653v1)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729v1](http://arxiv.org/abs/2410.05729v1)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
