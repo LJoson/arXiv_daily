@@ -45,7 +45,6 @@ layout: default
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049v1](http://arxiv.org/abs/2409.18049v1)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502v1](http://arxiv.org/abs/2409.16502v1)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002v1](http://arxiv.org/abs/2409.12002v1)|**[link](https://github.com/instance-based-loc/instance-based-loc)**|
-|**2024-10-17**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704v2](http://arxiv.org/abs/2409.06704v2)|**[link](https://github.com/cvg/geocalib)**|
 
 ## Image Matching
 
@@ -70,7 +69,6 @@ layout: default
 |**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993v2](http://arxiv.org/abs/2404.17993v2)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-05-23**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302v2](http://arxiv.org/abs/2404.11302v2)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692v1](http://arxiv.org/abs/2404.09692v1)|**[link](https://github.com/ondert/xoftr)**|
-|**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928v1](http://arxiv.org/abs/2404.08928v1)|**[link](https://github.com/parskatt/dedode)**|
 
 ## Keypoint Detection
 
