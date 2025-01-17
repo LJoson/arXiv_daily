@@ -10,6 +10,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460v1](http://arxiv.org/abs/2501.09460v1)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074v1](http://arxiv.org/abs/2501.04074v1)|**[link](https://github.com/vc-bonn/nerfs-are-mirror-detectors)**|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213v1](http://arxiv.org/abs/2412.16213v1)|**[link](https://github.com/tommy-nguyen-cpu/advirl)**|
