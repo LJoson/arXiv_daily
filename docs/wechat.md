@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2025-01-22, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v1](http://arxiv.org/abs/2501.13971v1), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-16, **Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**, Ji Shi et.al., Paper: [http://arxiv.org/abs/2501.09460v1](http://arxiv.org/abs/2501.09460v1), Code: **[https://github.com/sjj118/normal-nerf](https://github.com/sjj118/normal-nerf)**
 - 2025-01-07, **NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2501.04074v1](http://arxiv.org/abs/2501.04074v1), Code: **[https://github.com/vc-bonn/nerfs-are-mirror-detectors](https://github.com/vc-bonn/nerfs-are-mirror-detectors)**
 - 2024-12-26, **Generating Editable Head Avatars with 3D Gaussian GANs**, Guohao Li et.al., Paper: [http://arxiv.org/abs/2412.19149v1](http://arxiv.org/abs/2412.19149v1), Code: **[https://github.com/liguohao96/egg3d](https://github.com/liguohao96/egg3d)**
@@ -38,7 +39,6 @@
 - 2024-09-28, **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2409.19293v1](http://arxiv.org/abs/2409.19293v1), Code: **[https://github.com/ahmedest61/vlad-buff](https://github.com/ahmedest61/vlad-buff)**
 - 2024-09-26, **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**, Kartik Garg et.al., Paper: [http://arxiv.org/abs/2409.18049v1](http://arxiv.org/abs/2409.18049v1), Code: **[https://github.com/anyloc/revisit-anything](https://github.com/anyloc/revisit-anything)**
 - 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
-- 2024-09-18, **Towards Global Localization using Multi-Modal Object-Instance Re-Identification**, Aneesh Chavan et.al., Paper: [http://arxiv.org/abs/2409.12002v1](http://arxiv.org/abs/2409.12002v1), Code: **[https://github.com/instance-based-loc/instance-based-loc](https://github.com/instance-based-loc/instance-based-loc)**
 
 ## Image Matching
 
