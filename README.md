@@ -83,5 +83,4 @@
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-12-05**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v3](http://arxiv.org/abs/2406.16837v3)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|**[link](https://github.com/gbarbarani/MorseDet)**|
-|**2024-06-01**|**Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -- Towards Precise Fish Morphological Assessment in Aquaculture Breeding**|Weizhen Liu et.al.|[2405.12476v2](http://arxiv.org/abs/2405.12476v2)|**[link](https://github.com/weizhenliubioinform/fish-phenotype-detect)**|
 
