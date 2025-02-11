@@ -57,7 +57,6 @@
 - 2024-06-14, **Grounding Image Matching in 3D with MASt3R**, Vincent Leroy et.al., Paper: [http://arxiv.org/abs/2406.09756v1](http://arxiv.org/abs/2406.09756v1), Code: **[https://github.com/naver/mast3r](https://github.com/naver/mast3r)**
 - 2024-05-21, **OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**, Hanwen Jiang et.al., Paper: [http://arxiv.org/abs/2405.12979v1](http://arxiv.org/abs/2405.12979v1), Code: **[https://github.com/google-research/omniglue](https://github.com/google-research/omniglue)**
 - 2024-07-09, **Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**, Rezkellah Noureddine Khiati et.al., Paper: [http://arxiv.org/abs/2405.08556v2](http://arxiv.org/abs/2405.08556v2), Code: **[https://github.com/noureddinekhiati/semi-supervised-lung-segmentation](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**
-- 2024-06-10, **MinBackProp -- Backpropagating through Minimal Solvers**, Diana Sungatullina et.al., Paper: [http://arxiv.org/abs/2404.17993v2](http://arxiv.org/abs/2404.17993v2), Code: **[https://github.com/disungatullina/minbackprop](https://github.com/disungatullina/minbackprop)**
 
 ## Keypoint Detection
 
