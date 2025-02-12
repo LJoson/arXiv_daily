@@ -72,5 +72,4 @@
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
 - 2024-07-02, **Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**, Chengchao Shen et.al., Paper: [http://arxiv.org/abs/2407.02014v1](http://arxiv.org/abs/2407.02014v1), Code: **[https://github.com/visresearch/mgc](https://github.com/visresearch/mgc)**
 - 2024-12-05, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v3](http://arxiv.org/abs/2406.16837v3), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
-- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 
