@@ -37,7 +37,6 @@
 - 2024-10-09, **Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2410.06614v1](http://arxiv.org/abs/2410.06614v1), Code: **[https://github.com/csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR)**
 - 2024-09-28, **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2409.19293v1](http://arxiv.org/abs/2409.19293v1), Code: **[https://github.com/ahmedest61/vlad-buff](https://github.com/ahmedest61/vlad-buff)**
 - 2024-09-26, **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**, Kartik Garg et.al., Paper: [http://arxiv.org/abs/2409.18049v1](http://arxiv.org/abs/2409.18049v1), Code: **[https://github.com/anyloc/revisit-anything](https://github.com/anyloc/revisit-anything)**
-- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502v1](http://arxiv.org/abs/2409.16502v1), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
 
 ## Image Matching
 
