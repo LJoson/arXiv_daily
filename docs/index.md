@@ -4,12 +4,13 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields**|Xingyu Miao et.al.|[2501.19084v1](http://arxiv.org/abs/2501.19084v1)|**[link](https://github.com/xingy038/laser)**|
 |**2025-02-05**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971v2](http://arxiv.org/abs/2501.13971v2)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460v1](http://arxiv.org/abs/2501.09460v1)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-02-02**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v2](http://arxiv.org/abs/2501.06927v2)|**[link](https://github.com/openinterx/culture3d)**|
