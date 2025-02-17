@@ -45,12 +45,12 @@ layout: default
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
 |**2024-10-09**|**Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**|Stephen Hausler et.al.|[2410.06614v1](http://arxiv.org/abs/2410.06614v1)|**[link](https://github.com/csiro-robotics/Pair-VPR)**|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293v1](http://arxiv.org/abs/2409.19293v1)|**[link](https://github.com/ahmedest61/vlad-buff)**|
-|**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049v1](http://arxiv.org/abs/2409.18049v1)|**[link](https://github.com/anyloc/revisit-anything)**|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288v2](http://arxiv.org/abs/2502.06288v2)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412v1](http://arxiv.org/abs/2412.19412v1)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484v2](http://arxiv.org/abs/2411.09484v2)|**[link](https://github.com/fb82/miho)**|
