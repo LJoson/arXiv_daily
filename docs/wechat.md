@@ -16,7 +16,6 @@
 - 2024-12-12, **PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2412.09680v1](http://arxiv.org/abs/2412.09680v1), Code: **[https://github.com/s3anwu/pbrnerf](https://github.com/s3anwu/pbrnerf)**
 - 2024-12-11, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v2](http://arxiv.org/abs/2412.04955v2), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
 - 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1), Code: **[https://github.com/iis-esslingen/nerf-3dgs-benchmark](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**
-- 2024-12-03, **RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**, Qiankun Gao et.al., Paper: [http://arxiv.org/abs/2412.02493v1](http://arxiv.org/abs/2412.02493v1), Code: **[https://github.com/gqk/relaygs](https://github.com/gqk/relaygs)**
 
 ## Visual Localization
 
@@ -36,7 +35,6 @@
 - 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1), Code: **[https://github.com/verlab/DescriptorReasoning_ACCV_2024](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**
 - 2024-10-11, **Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**, Zheng Liu et.al., Paper: [http://arxiv.org/abs/2410.08935v1](http://arxiv.org/abs/2410.08935v1), Code: **[https://github.com/hku-mars/Voxel-SLAM](https://github.com/hku-mars/Voxel-SLAM)**
 - 2024-10-09, **Pair-VPR: Place-Aware Pre-training and Contrastive Pair Classification for Visual Place Recognition with Vision Transformers**, Stephen Hausler et.al., Paper: [http://arxiv.org/abs/2410.06614v1](http://arxiv.org/abs/2410.06614v1), Code: **[https://github.com/csiro-robotics/Pair-VPR](https://github.com/csiro-robotics/Pair-VPR)**
-- 2024-09-28, **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2409.19293v1](http://arxiv.org/abs/2409.19293v1), Code: **[https://github.com/ahmedest61/vlad-buff](https://github.com/ahmedest61/vlad-buff)**
 
 ## Image Matching
 
@@ -72,4 +70,5 @@
 - 2024-07-04, **PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**, Jiaxu Wang et.al., Paper: [http://arxiv.org/abs/2407.03857v1](http://arxiv.org/abs/2407.03857v1), Code: **[https://github.com/Mercerai/PFGS](https://github.com/Mercerai/PFGS)**
 - 2024-07-02, **Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**, Chengchao Shen et.al., Paper: [http://arxiv.org/abs/2407.02014v1](http://arxiv.org/abs/2407.02014v1), Code: **[https://github.com/visresearch/mgc](https://github.com/visresearch/mgc)**
 - 2024-12-05, **A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**, Lorenzo Shaikewitz et.al., Paper: [http://arxiv.org/abs/2406.16837v3](http://arxiv.org/abs/2406.16837v3), Code: **[https://github.com/mit-spark/certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)**
+- 2024-06-03, **Scale-Free Image Keypoints Using Differentiable Persistent Homology**, Giovanni Barbarani et.al., Paper: [http://arxiv.org/abs/2406.01315v1](http://arxiv.org/abs/2406.01315v1), Code: **[https://github.com/gbarbarani/MorseDet](https://github.com/gbarbarani/MorseDet)**
 
