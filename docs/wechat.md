@@ -15,7 +15,6 @@
 - 2025-01-10, **ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**, Yi Feng et.al., Paper: [http://arxiv.org/abs/2412.11210v2](http://arxiv.org/abs/2412.11210v2), Code: **[https://github.com/fengyi233/ViPOcc](https://github.com/fengyi233/ViPOcc)**
 - 2024-12-12, **PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2412.09680v1](http://arxiv.org/abs/2412.09680v1), Code: **[https://github.com/s3anwu/pbrnerf](https://github.com/s3anwu/pbrnerf)**
 - 2024-12-11, **MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2412.04955v2](http://arxiv.org/abs/2412.04955v2), Code: **[https://github.com/chenvoid/mga](https://github.com/chenvoid/mga)**
-- 2024-12-04, **NeRF and Gaussian Splatting SLAM in the Wild**, Fabian Schmidt et.al., Paper: [http://arxiv.org/abs/2412.03263v1](http://arxiv.org/abs/2412.03263v1), Code: **[https://github.com/iis-esslingen/nerf-3dgs-benchmark](https://github.com/iis-esslingen/nerf-3dgs-benchmark)**
 
 ## Visual Localization
 
