@@ -20,7 +20,6 @@ layout: default
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2025-01-10**|**ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**|Yi Feng et.al.|[2412.11210v2](http://arxiv.org/abs/2412.11210v2)|**[link](https://github.com/fengyi233/ViPOcc)**|
 |**2024-12-12**|**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**|Sean Wu et.al.|[2412.09680v1](http://arxiv.org/abs/2412.09680v1)|**[link](https://github.com/s3anwu/pbrnerf)**|
-|**2024-12-11**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955v2](http://arxiv.org/abs/2412.04955v2)|**[link](https://github.com/chenvoid/mga)**|
 
 ## Visual Localization
 
@@ -81,5 +80,4 @@ layout: default
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857v1](http://arxiv.org/abs/2407.03857v1)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-12-05**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v3](http://arxiv.org/abs/2406.16837v3)|**[link](https://github.com/mit-spark/certifiable_tracking)**|
-|**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|**[link](https://github.com/gbarbarani/MorseDet)**|
 
