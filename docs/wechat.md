@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.02.22
+> Updated on 2025.02.23
 
 ## NeRF
 
@@ -57,6 +57,7 @@
 
 ## Keypoint Detection
 
+- 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/tattaka/czii-cryo-et-object-identification-public](https://github.com/tattaka/czii-cryo-et-object-identification-public)**
 - 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
 - 2024-12-04, **Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**, Yongkyu Lee et.al., Paper: [http://arxiv.org/abs/2412.03472v1](http://arxiv.org/abs/2412.03472v1), Code: **[https://github.com/StructuresComp/measure-anything](https://github.com/StructuresComp/measure-anything)**
