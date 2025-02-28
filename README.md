@@ -1,12 +1,13 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992v1](http://arxiv.org/abs/2502.16992v1)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
+|**2025-02-23**|**ViSNeRF: Efficient Multidimensional Neural Radiance Field Representation for Visualization Synthesis of Dynamic Volumetric Scenes**|Siyuan Yao et.al.|[2502.16731v1](http://arxiv.org/abs/2502.16731v1)|**[link](https://github.com/jcbreath/visnerf)**|
 |**2025-01-31**|**Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields**|Xingyu Miao et.al.|[2501.19084v1](http://arxiv.org/abs/2501.19084v1)|**[link](https://github.com/xingy038/laser)**|
 |**2025-02-05**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971v2](http://arxiv.org/abs/2501.13971v2)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460v1](http://arxiv.org/abs/2501.09460v1)|**[link](https://github.com/sjj118/normal-nerf)**|
@@ -21,6 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
+|**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601v1](http://arxiv.org/abs/2502.16601v1)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2025-02-20**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195v1](http://arxiv.org/abs/2502.14195v1)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-03**|**A Minimal Subset Approach for Efficient and Scalable Loop Closure**|Nikolaos Stathoulopoulos et.al.|[2501.01791v1](http://arxiv.org/abs/2501.01791v1)|**[link](https://github.com/ltu-rai/opt-key)**|
@@ -42,6 +44,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288v3](http://arxiv.org/abs/2502.06288v3)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412v1](http://arxiv.org/abs/2412.19412v1)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
