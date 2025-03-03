@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2025-02-26, **Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**, Adam Celarek et.al., Paper: [http://arxiv.org/abs/2502.19318v1](http://arxiv.org/abs/2502.19318v1), Code: **[https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**
 - 2025-02-24, **Semantic Neural Radiance Fields for Multi-Date Satellite Data**, Valentin Wagner et.al., Paper: [http://arxiv.org/abs/2502.16992v1](http://arxiv.org/abs/2502.16992v1), Code: **[https://github.com/wagnva/semantic-nerf-for-satellite-data](https://github.com/wagnva/semantic-nerf-for-satellite-data)**
 - 2025-02-23, **ViSNeRF: Efficient Multidimensional Neural Radiance Field Representation for Visualization Synthesis of Dynamic Volumetric Scenes**, Siyuan Yao et.al., Paper: [http://arxiv.org/abs/2502.16731v1](http://arxiv.org/abs/2502.16731v1), Code: **[https://github.com/jcbreath/visnerf](https://github.com/jcbreath/visnerf)**
 - 2025-01-31, **Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields**, Xingyu Miao et.al., Paper: [http://arxiv.org/abs/2501.19084v1](http://arxiv.org/abs/2501.19084v1), Code: **[https://github.com/xingy038/laser](https://github.com/xingy038/laser)**
@@ -16,6 +17,7 @@
 
 ## Visual Localization
 
+- 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 - 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 - 2025-02-23, **SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**, Feng Lu et.al., Paper: [http://arxiv.org/abs/2502.16601v1](http://arxiv.org/abs/2502.16601v1), Code: **[https://github.com/Lu-Feng/SelaVPR](https://github.com/Lu-Feng/SelaVPR)**
 - 2025-02-20, **Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**, Tianyi Shang et.al., Paper: [http://arxiv.org/abs/2502.14195v1](http://arxiv.org/abs/2502.14195v1), Code: **[https://github.com/nuozimiaowu/Text4VPR](https://github.com/nuozimiaowu/Text4VPR)**
@@ -32,7 +34,6 @@
 - 2024-10-25, **Context-Based Visual-Language Place Recognition**, Soojin Woo et.al., Paper: [http://arxiv.org/abs/2410.19341v1](http://arxiv.org/abs/2410.19341v1), Code: **[https://github.com/woo-soojin/context-based-vlpr](https://github.com/woo-soojin/context-based-vlpr)**
 - 2024-10-16, **LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**, Juelin Zhu et.al., Paper: [http://arxiv.org/abs/2410.12269v1](http://arxiv.org/abs/2410.12269v1), Code: **[https://github.com/VictorZoo/LoD-Loc](https://github.com/VictorZoo/LoD-Loc)**
 - 2024-11-20, **Multiview Scene Graph**, Juexiao Zhang et.al., Paper: [http://arxiv.org/abs/2410.11187v3](http://arxiv.org/abs/2410.11187v3), Code: **[https://github.com/ai4ce/MSG](https://github.com/ai4ce/MSG)**
-- 2024-10-12, **Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**, Felipe Cadar et.al., Paper: [http://arxiv.org/abs/2410.09533v1](http://arxiv.org/abs/2410.09533v1), Code: **[https://github.com/verlab/DescriptorReasoning_ACCV_2024](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**
 
 ## Image Matching
 
