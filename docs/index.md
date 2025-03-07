@@ -29,6 +29,7 @@ layout: default
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601v1](http://arxiv.org/abs/2502.16601v1)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2025-02-20**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195v1](http://arxiv.org/abs/2502.14195v1)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
+|**2025-02-28**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742v2](http://arxiv.org/abs/2502.11742v2)|**[link](https://github.com/cppcute-pm/RangeBEV)**|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056v1](http://arxiv.org/abs/2412.20056v1)|**[link](https://github.com/atticuszeller/gsplatloc)**|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452v1](http://arxiv.org/abs/2412.13452v1)|**[link](https://github.com/zijunli7/condo)**|
@@ -36,8 +37,6 @@ layout: default
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039v1](http://arxiv.org/abs/2412.02039v1)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665v1](http://arxiv.org/abs/2411.08665v1)|**[link](https://github.com/whu-usi3dv/osmloc)**|
-|**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279v1](http://arxiv.org/abs/2411.08279v1)|**[link](https://github.com/wu-cvgl/mba-slam)**|
-|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|**[link](https://github.com/ai4ce/NYC-Event-VPR)**|
 
 ## Image Matching
 
@@ -60,7 +59,6 @@ layout: default
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637v1](http://arxiv.org/abs/2407.11637v1)|**[link](https://github.com/hanniewhu/remm)**|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756v1](http://arxiv.org/abs/2406.09756v1)|**[link](https://github.com/naver/mast3r)**|
-|**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|**[link](https://github.com/google-research/omniglue)**|
 
 ## Keypoint Detection
 
@@ -75,5 +73,4 @@ layout: default
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899v1](http://arxiv.org/abs/2409.19899v1)|**[link](https://github.com/alanlusun/openkd)**|
 |**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v3](http://arxiv.org/abs/2409.08695v3)|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232v1](http://arxiv.org/abs/2407.18232v1)|**[link](https://github.com/happinesslz/LION)**|
-|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857v1](http://arxiv.org/abs/2407.03857v1)|**[link](https://github.com/Mercerai/PFGS)**|
 
