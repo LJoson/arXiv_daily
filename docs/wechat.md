@@ -11,7 +11,6 @@
 - 2025-02-05, **GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**, Junzhe Jiang et.al., Paper: [http://arxiv.org/abs/2501.13971v2](http://arxiv.org/abs/2501.13971v2), Code: **[https://github.com/fudan-zvg/gs-lidar](https://github.com/fudan-zvg/gs-lidar)**
 - 2025-01-16, **Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**, Ji Shi et.al., Paper: [http://arxiv.org/abs/2501.09460v1](http://arxiv.org/abs/2501.09460v1), Code: **[https://github.com/sjj118/normal-nerf](https://github.com/sjj118/normal-nerf)**
 - 2025-02-02, **CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**, Xinyi Zheng et.al., Paper: [http://arxiv.org/abs/2501.06927v2](http://arxiv.org/abs/2501.06927v2), Code: **[https://github.com/openinterx/culture3d](https://github.com/openinterx/culture3d)**
-- 2025-01-07, **NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2501.04074v1](http://arxiv.org/abs/2501.04074v1), Code: **[https://github.com/vc-bonn/nerfs-are-mirror-detectors](https://github.com/vc-bonn/nerfs-are-mirror-detectors)**
 
 ## Visual Localization
 
