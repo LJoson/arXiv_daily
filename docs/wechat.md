@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.03.14
+> Updated on 2025.03.15
 
 ## NeRF
 
@@ -14,6 +14,9 @@
 
 ## Visual Localization
 
+- 2025-03-09, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v1](http://arxiv.org/abs/2503.06601v1), Code: **[https://github.com/syqlyx/StructVPR](https://github.com/syqlyx/StructVPR)**
+- 2025-03-06, **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.04475v1](http://arxiv.org/abs/2503.04475v1), Code: **[https://github.com/shenyanqing1105/ForestLPR-CVPR2025](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**
+- 2025-03-06, **Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**, Beverley Gorry et.al., Paper: [http://arxiv.org/abs/2503.04096v1](http://arxiv.org/abs/2503.04096v1), Code: **[https://github.com/bev-gorry/underloc](https://github.com/bev-gorry/underloc)**
 - 2025-02-28, **EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**, Kuangyi Chen et.al., Paper: [http://arxiv.org/abs/2503.00167v1](http://arxiv.org/abs/2503.00167v1), Code: **[https://github.com/EasonChen99/EVLoc](https://github.com/EasonChen99/EVLoc)**
 - 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 - 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
@@ -50,6 +53,8 @@
 ## Keypoint Detection
 
 - 2025-03-10, **REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**, Yan Tai et.al., Paper: [http://arxiv.org/abs/2503.07413v1](http://arxiv.org/abs/2503.07413v1), Code: **[https://github.com/MacavityT/REF-VLM](https://github.com/MacavityT/REF-VLM)**
+- 2025-03-11, **DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**, Johan Edstedt et.al., Paper: [http://arxiv.org/abs/2503.07347v2](http://arxiv.org/abs/2503.07347v2), Code: **[https://github.com/parskatt/dad](https://github.com/parskatt/dad)**
+- 2025-03-07, **Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**, Benjamin Billot et.al., Paper: [http://arxiv.org/abs/2503.04499v2](http://arxiv.org/abs/2503.04499v2), Code: **[https://github.com/benbillot/spatial_regularisation](https://github.com/benbillot/spatial_regularisation)**
 - 2025-02-19, **2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**, Yusuke Uchida et.al., Paper: [http://arxiv.org/abs/2502.13484v1](http://arxiv.org/abs/2502.13484v1), Code: **[https://github.com/yu4u/kaggle-czii-4th](https://github.com/yu4u/kaggle-czii-4th)**
 - 2024-12-24, **GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**, Xianfeng Song et.al., Paper: [http://arxiv.org/abs/2412.18221v1](http://arxiv.org/abs/2412.18221v1), Code: **[https://github.com/songxf1024/gims](https://github.com/songxf1024/gims)**
 - 2024-12-09, **An Efficient Scene Coordinate Encoding and Relocalization Method**, Kuan Xu et.al., Paper: [http://arxiv.org/abs/2412.06488v1](http://arxiv.org/abs/2412.06488v1), Code: **[https://github.com/sair-lab/SeqACE](https://github.com/sair-lab/SeqACE)**
