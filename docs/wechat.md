@@ -49,7 +49,6 @@
 - 2024-09-14, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v2](http://arxiv.org/abs/2408.02079v2), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
 - 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 - 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
-- 2024-06-16, **Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**, Yikai Zhang et.al., Paper: [http://arxiv.org/abs/2406.10902v1](http://arxiv.org/abs/2406.10902v1), Code: **[https://github.com/ykzhang721/COG](https://github.com/ykzhang721/COG)**
 
 ## Keypoint Detection
 
