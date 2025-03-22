@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2025-03-18, **3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**, Peizhen Zheng et.al., Paper: [http://arxiv.org/abs/2503.12001v2](http://arxiv.org/abs/2503.12001v2), Code: **[https://github.com/thinkxca/3dgs](https://github.com/thinkxca/3dgs)**
 - 2025-02-26, **Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**, Adam Celarek et.al., Paper: [http://arxiv.org/abs/2502.19318v1](http://arxiv.org/abs/2502.19318v1), Code: **[https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**
 - 2025-02-24, **Semantic Neural Radiance Fields for Multi-Date Satellite Data**, Valentin Wagner et.al., Paper: [http://arxiv.org/abs/2502.16992v1](http://arxiv.org/abs/2502.16992v1), Code: **[https://github.com/wagnva/semantic-nerf-for-satellite-data](https://github.com/wagnva/semantic-nerf-for-satellite-data)**
 - 2025-02-23, **ViSNeRF: Efficient Multidimensional Neural Radiance Field Representation for Visualization Synthesis of Dynamic Volumetric Scenes**, Siyuan Yao et.al., Paper: [http://arxiv.org/abs/2502.16731v1](http://arxiv.org/abs/2502.16731v1), Code: **[https://github.com/jcbreath/visnerf](https://github.com/jcbreath/visnerf)**
