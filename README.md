@@ -6,6 +6,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095v1](http://arxiv.org/abs/2503.17095v1)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997v1](http://arxiv.org/abs/2503.15997v1)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667v1](http://arxiv.org/abs/2503.15667v1)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-18**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001v2](http://arxiv.org/abs/2503.12001v2)|**[link](https://github.com/thinkxca/3dgs)**|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992v1](http://arxiv.org/abs/2502.16992v1)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
@@ -38,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706v1](http://arxiv.org/abs/2503.12706v1)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|**[link](https://github.com/hanniewhu/promptmid)**|
