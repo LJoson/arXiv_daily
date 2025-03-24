@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 
 ## NeRF
 
@@ -31,13 +31,14 @@
 |**2025-03-01**|**Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**|Nikolaos Stathoulopoulos et.al.|[2501.01791v2](http://arxiv.org/abs/2501.01791v2)|**[link](https://github.com/ltu-rai/opt-key)**|
 |**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056v1](http://arxiv.org/abs/2412.20056v1)|**[link](https://github.com/atticuszeller/gsplatloc)**|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452v1](http://arxiv.org/abs/2412.13452v1)|**[link](https://github.com/zijunli7/condo)**|
-|**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376v1](http://arxiv.org/abs/2412.08376v1)|**[link](https://github.com/ffrivera0/reloc3r)**|
+|**2025-03-21**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376v2](http://arxiv.org/abs/2412.08376v2)|**[link](https://github.com/ffrivera0/reloc3r)**|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|**[link](https://github.com/sair-lab/SeqACE)**|
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706v1](http://arxiv.org/abs/2503.12706v1)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288v3](http://arxiv.org/abs/2502.06288v3)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
