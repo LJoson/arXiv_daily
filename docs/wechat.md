@@ -33,10 +33,10 @@
 - 2025-03-01, **Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2501.01791v2](http://arxiv.org/abs/2501.01791v2), Code: **[https://github.com/ltu-rai/opt-key](https://github.com/ltu-rai/opt-key)**
 - 2024-12-28, **GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**, Atticus J. Zeller et.al., Paper: [http://arxiv.org/abs/2412.20056v1](http://arxiv.org/abs/2412.20056v1), Code: **[https://github.com/atticuszeller/gsplatloc](https://github.com/atticuszeller/gsplatloc)**
 - 2024-12-18, **ConDo: Continual Domain Expansion for Absolute Pose Regression**, Zijun Li et.al., Paper: [http://arxiv.org/abs/2412.13452v1](http://arxiv.org/abs/2412.13452v1), Code: **[https://github.com/zijunli7/condo](https://github.com/zijunli7/condo)**
-- 2025-03-21, **Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**, Siyan Dong et.al., Paper: [http://arxiv.org/abs/2412.08376v2](http://arxiv.org/abs/2412.08376v2), Code: **[https://github.com/ffrivera0/reloc3r](https://github.com/ffrivera0/reloc3r)**
 
 ## Image Matching
 
+- 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
 - 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1), Code: **[https://github.com/peihaowu/mapglue](https://github.com/peihaowu/mapglue)**
 - 2025-03-17, **SatDepth: A Novel Dataset for Satellite Image Matching**, Rahul Deshmukh et.al., Paper: [http://arxiv.org/abs/2503.12706v1](http://arxiv.org/abs/2503.12706v1), Code: **[https://github.com/rahuldeshmukh43/satdepth](https://github.com/rahuldeshmukh43/satdepth)**
 - 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
@@ -53,7 +53,6 @@
 - 2024-08-26, **Affine steerers for structured keypoint description**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2408.14186v1](http://arxiv.org/abs/2408.14186v1), Code: **[https://github.com/georg-bn/affine-steerers](https://github.com/georg-bn/affine-steerers)**
 - 2024-09-14, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v2](http://arxiv.org/abs/2408.02079v2), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
 - 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
-- 2024-07-16, **REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2407.11637v1](http://arxiv.org/abs/2407.11637v1), Code: **[https://github.com/hanniewhu/remm](https://github.com/hanniewhu/remm)**
 
 ## Keypoint Detection
 
