@@ -30,7 +30,6 @@
 - 2025-03-01, **Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2501.01791v2](http://arxiv.org/abs/2501.01791v2), Code: **[https://github.com/ltu-rai/opt-key](https://github.com/ltu-rai/opt-key)**
 - 2025-01-02, **R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**, Xudong Jiang et.al., Paper: [http://arxiv.org/abs/2501.01421v1](http://arxiv.org/abs/2501.01421v1), Code: **[https://github.com/cvg/scrstudio](https://github.com/cvg/scrstudio)**
 - 2024-12-28, **GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**, Atticus J. Zeller et.al., Paper: [http://arxiv.org/abs/2412.20056v1](http://arxiv.org/abs/2412.20056v1), Code: **[https://github.com/atticuszeller/gsplatloc](https://github.com/atticuszeller/gsplatloc)**
-- 2024-12-18, **ConDo: Continual Domain Expansion for Absolute Pose Regression**, Zijun Li et.al., Paper: [http://arxiv.org/abs/2412.13452v1](http://arxiv.org/abs/2412.13452v1), Code: **[https://github.com/zijunli7/condo](https://github.com/zijunli7/condo)**
 
 ## Image Matching
 
