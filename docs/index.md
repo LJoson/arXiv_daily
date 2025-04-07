@@ -4,7 +4,7 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## NeRF
 
@@ -16,7 +16,7 @@ layout: default
 |**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997v1](http://arxiv.org/abs/2503.15997v1)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908v1](http://arxiv.org/abs/2503.15908v1)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667v1](http://arxiv.org/abs/2503.15667v1)|**[link](https://github.com/freedomgu/diffportrait360)**|
-|**2025-03-18**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001v2](http://arxiv.org/abs/2503.12001v2)|**[link](https://github.com/thinkxca/3dgs)**|
+|**2025-04-03**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001v3](http://arxiv.org/abs/2503.12001v3)|**[link](https://github.com/thinkxca/3dgs)**|
 
 ## Visual Localization
 
