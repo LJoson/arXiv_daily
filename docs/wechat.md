@@ -50,7 +50,6 @@
 - 2024-09-15, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v2](http://arxiv.org/abs/2408.16445v2), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-26, **Affine steerers for structured keypoint description**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2408.14186v1](http://arxiv.org/abs/2408.14186v1), Code: **[https://github.com/georg-bn/affine-steerers](https://github.com/georg-bn/affine-steerers)**
 - 2024-09-14, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v2](http://arxiv.org/abs/2408.02079v2), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
-- 2024-07-29, **Image-text matching for large-scale book collections**, Artemis Llabrés et.al., Paper: [http://arxiv.org/abs/2407.19812v1](http://arxiv.org/abs/2407.19812v1), Code: **[https://github.com/llabres/library-dataset](https://github.com/llabres/library-dataset)**
 
 ## Keypoint Detection
 
