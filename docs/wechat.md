@@ -49,7 +49,6 @@
 - 2024-09-20, **A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2409.03032v2](http://arxiv.org/abs/2409.03032v2), Code: **[https://github.com/gdaosu/albedo_aerial_photogrammetry](https://github.com/gdaosu/albedo_aerial_photogrammetry)**
 - 2024-09-15, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v2](http://arxiv.org/abs/2408.16445v2), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 - 2024-08-26, **Affine steerers for structured keypoint description**, Georg Bökman et.al., Paper: [http://arxiv.org/abs/2408.14186v1](http://arxiv.org/abs/2408.14186v1), Code: **[https://github.com/georg-bn/affine-steerers](https://github.com/georg-bn/affine-steerers)**
-- 2024-09-14, **Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**, Xinlin Ren et.al., Paper: [http://arxiv.org/abs/2408.02079v2](http://arxiv.org/abs/2408.02079v2), Code: **[https://github.com/maybeLx/MVS_NeuS](https://github.com/maybeLx/MVS_NeuS)**
 
 ## Keypoint Detection
 
