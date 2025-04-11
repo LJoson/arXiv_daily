@@ -14,6 +14,7 @@
 
 ## Visual Localization
 
+- 2025-04-06, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v2](http://arxiv.org/abs/2504.02259v2), Code: **[https://github.com/longvideohaystack/tstar](https://github.com/longvideohaystack/tstar)**
 - 2025-03-27, **UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2503.21338v1](http://arxiv.org/abs/2503.21338v1), Code: **[https://github.com/nubot-nudt/ugna-vpr](https://github.com/nubot-nudt/ugna-vpr)**
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-12, **Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**, Yibin Ye et.al., Paper: [http://arxiv.org/abs/2503.10692v1](http://arxiv.org/abs/2503.10692v1), Code: **[https://github.com/uav-avl/benchmark](https://github.com/uav-avl/benchmark)**
@@ -30,7 +31,6 @@
 - 2025-01-31, **LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.19382v1](http://arxiv.org/abs/2501.19382v1), Code: **[https://github.com/crepuscularlight/semanticloopclosure](https://github.com/crepuscularlight/semanticloopclosure)**
 - 2025-03-01, **Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2501.01791v2](http://arxiv.org/abs/2501.01791v2), Code: **[https://github.com/ltu-rai/opt-key](https://github.com/ltu-rai/opt-key)**
 - 2025-01-02, **R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**, Xudong Jiang et.al., Paper: [http://arxiv.org/abs/2501.01421v1](http://arxiv.org/abs/2501.01421v1), Code: **[https://github.com/cvg/scrstudio](https://github.com/cvg/scrstudio)**
-- 2024-12-28, **GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**, Atticus J. Zeller et.al., Paper: [http://arxiv.org/abs/2412.20056v1](http://arxiv.org/abs/2412.20056v1), Code: **[https://github.com/atticuszeller/gsplatloc](https://github.com/atticuszeller/gsplatloc)**
 
 ## Image Matching
 
