@@ -34,6 +34,7 @@
 
 ## Image Matching
 
+- 2025-04-10, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v2](http://arxiv.org/abs/2504.04834v2), Code: **[https://github.com/stilcrad/denseaffine](https://github.com/stilcrad/denseaffine)**
 - 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
 - 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1), Code: **[https://github.com/peihaowu/mapglue](https://github.com/peihaowu/mapglue)**
 - 2025-03-17, **SatDepth: A Novel Dataset for Satellite Image Matching**, Rahul Deshmukh et.al., Paper: [http://arxiv.org/abs/2503.12706v1](http://arxiv.org/abs/2503.12706v1), Code: **[https://github.com/rahuldeshmukh43/satdepth](https://github.com/rahuldeshmukh43/satdepth)**
