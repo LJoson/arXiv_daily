@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 
 ## NeRF
 
@@ -34,7 +34,7 @@
 |**2025-02-28**|**Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**|Jianyi Peng et.al.|[2502.11742v2](http://arxiv.org/abs/2502.11742v2)|**[link](https://github.com/cppcute-pm/RangeBEV)**|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-03-01**|**Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**|Nikolaos Stathoulopoulos et.al.|[2501.01791v2](http://arxiv.org/abs/2501.01791v2)|**[link](https://github.com/ltu-rai/opt-key)**|
-|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421v1](http://arxiv.org/abs/2501.01421v1)|**[link](https://github.com/cvg/scrstudio)**|
+|**2025-04-10**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421v2](http://arxiv.org/abs/2501.01421v2)|**[link](https://github.com/cvg/scrstudio)**|
 
 ## Image Matching
 
