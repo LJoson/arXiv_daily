@@ -29,8 +29,6 @@
 - 2025-03-07, **Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**, Tianyi Shang et.al., Paper: [http://arxiv.org/abs/2502.14195v2](http://arxiv.org/abs/2502.14195v2), Code: **[https://github.com/nuozimiaowu/Text4VPR](https://github.com/nuozimiaowu/Text4VPR)**
 - 2025-02-28, **Range and Bird's Eye View Fused Cross-Modal Visual Place Recognition**, Jianyi Peng et.al., Paper: [http://arxiv.org/abs/2502.11742v2](http://arxiv.org/abs/2502.11742v2), Code: **[https://github.com/cppcute-pm/RangeBEV](https://github.com/cppcute-pm/RangeBEV)**
 - 2025-01-31, **LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**, Liudi Yang et.al., Paper: [http://arxiv.org/abs/2501.19382v1](http://arxiv.org/abs/2501.19382v1), Code: **[https://github.com/crepuscularlight/semanticloopclosure](https://github.com/crepuscularlight/semanticloopclosure)**
-- 2025-03-01, **Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**, Nikolaos Stathoulopoulos et.al., Paper: [http://arxiv.org/abs/2501.01791v2](http://arxiv.org/abs/2501.01791v2), Code: **[https://github.com/ltu-rai/opt-key](https://github.com/ltu-rai/opt-key)**
-- 2025-04-10, **R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**, Xudong Jiang et.al., Paper: [http://arxiv.org/abs/2501.01421v2](http://arxiv.org/abs/2501.01421v2), Code: **[https://github.com/cvg/scrstudio](https://github.com/cvg/scrstudio)**
 
 ## Image Matching
 
