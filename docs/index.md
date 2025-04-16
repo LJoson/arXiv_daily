@@ -4,12 +4,13 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517v1](http://arxiv.org/abs/2504.05517v1)|**[link](https://github.com/mavens-lab/layered_3d_gaussian_splats)**|
 |**2025-04-02**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v1](http://arxiv.org/abs/2504.01503v1)|**[link](https://github.com/cuiziteng/Luminance-GS)**|
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095v1](http://arxiv.org/abs/2503.17095v1)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
@@ -17,6 +18,7 @@ layout: default
 |**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908v1](http://arxiv.org/abs/2503.15908v1)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667v1](http://arxiv.org/abs/2503.15667v1)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-04-03**|**3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**|Peizhen Zheng et.al.|[2503.12001v3](http://arxiv.org/abs/2503.12001v3)|**[link](https://github.com/thinkxca/3dgs)**|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071v1](http://arxiv.org/abs/2503.08071v1)|**[link](https://github.com/DengKaiCQ/GigaSLAM)**|
 
 ## Visual Localization
 
@@ -42,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604v2](http://arxiv.org/abs/2504.06604v2)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881v1](http://arxiv.org/abs/2503.22881v1)|**[link](https://github.com/pairx-explains/pairx)**|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185v1](http://arxiv.org/abs/2503.16185v1)|**[link](https://github.com/peihaowu/mapglue)**|
