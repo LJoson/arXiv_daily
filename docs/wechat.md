@@ -16,6 +16,7 @@
 
 ## Visual Localization
 
+- 2025-04-08, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v1](http://arxiv.org/abs/2504.06116v1), Code: **[https://github.com/FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**
 - 2025-04-06, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v2](http://arxiv.org/abs/2504.02259v2), Code: **[https://github.com/longvideohaystack/tstar](https://github.com/longvideohaystack/tstar)**
 - 2025-03-27, **UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**, Yehui Shen et.al., Paper: [http://arxiv.org/abs/2503.21338v1](http://arxiv.org/abs/2503.21338v1), Code: **[https://github.com/nubot-nudt/ugna-vpr](https://github.com/nubot-nudt/ugna-vpr)**
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
@@ -35,6 +36,7 @@
 ## Image Matching
 
 - 2025-04-10, **Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**, Jaehong Chung et.al., Paper: [http://arxiv.org/abs/2504.06604v2](http://arxiv.org/abs/2504.06604v2), Code: **[https://github.com/jh-chung1/imgregister2dto3d](https://github.com/jh-chung1/imgregister2dto3d)**
+- 2025-04-08, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v1](http://arxiv.org/abs/2504.06116v1), Code: **[https://github.com/FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**
 - 2025-04-10, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v2](http://arxiv.org/abs/2504.04834v2), Code: **[https://github.com/stilcrad/denseaffine](https://github.com/stilcrad/denseaffine)**
 - 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
 - 2025-03-20, **MapGlue: Multimodal Remote Sensing Image Matching**, Peihao Wu et.al., Paper: [http://arxiv.org/abs/2503.16185v1](http://arxiv.org/abs/2503.16185v1), Code: **[https://github.com/peihaowu/mapglue](https://github.com/peihaowu/mapglue)**
