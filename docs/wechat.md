@@ -4,6 +4,7 @@
 
 ## NeRF
 
+- 2025-04-18, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v1](http://arxiv.org/abs/2504.13713v1), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
 - 2025-04-15, **Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A systematic literature review**, Yuezhe Yang et.al., Paper: [http://arxiv.org/abs/2504.11349v1](http://arxiv.org/abs/2504.11349v1), Code: **[https://github.com/bean-young/ai4med](https://github.com/bean-young/ai4med)**
 - 2025-04-07, **L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**, Yi-Zhen Tsai et.al., Paper: [http://arxiv.org/abs/2504.05517v1](http://arxiv.org/abs/2504.05517v1), Code: **[https://github.com/mavens-lab/layered_3d_gaussian_splats](https://github.com/mavens-lab/layered_3d_gaussian_splats)**
 - 2025-04-02, **Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2504.01503v1](http://arxiv.org/abs/2504.01503v1), Code: **[https://github.com/cuiziteng/Luminance-GS](https://github.com/cuiziteng/Luminance-GS)**
@@ -13,7 +14,6 @@
 - 2025-03-20, **Enhancing Close-up Novel View Synthesis via Pseudo-labeling**, Jiatong Xia et.al., Paper: [http://arxiv.org/abs/2503.15908v1](http://arxiv.org/abs/2503.15908v1), Code: **[https://github.com/JiatongXia/Pseudo-Labeling](https://github.com/JiatongXia/Pseudo-Labeling)**
 - 2025-03-19, **DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**, Yuming Gu et.al., Paper: [http://arxiv.org/abs/2503.15667v1](http://arxiv.org/abs/2503.15667v1), Code: **[https://github.com/freedomgu/diffportrait360](https://github.com/freedomgu/diffportrait360)**
 - 2025-04-03, **3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction**, Peizhen Zheng et.al., Paper: [http://arxiv.org/abs/2503.12001v3](http://arxiv.org/abs/2503.12001v3), Code: **[https://github.com/thinkxca/3dgs](https://github.com/thinkxca/3dgs)**
-- 2025-03-11, **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Kai Deng et.al., Paper: [http://arxiv.org/abs/2503.08071v1](http://arxiv.org/abs/2503.08071v1), Code: **[https://github.com/DengKaiCQ/GigaSLAM](https://github.com/DengKaiCQ/GigaSLAM)**
 
 ## Visual Localization
 
