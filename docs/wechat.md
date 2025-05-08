@@ -35,6 +35,7 @@
 
 ## Image Matching
 
+- 2025-05-04, **OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**, Chongsheng Zhang et.al., Paper: [http://arxiv.org/abs/2505.03836v1](http://arxiv.org/abs/2505.03836v1), Code: **[https://github.com/cszhanglmu/obd-finder](https://github.com/cszhanglmu/obd-finder)**
 - 2025-04-10, **Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**, Jaehong Chung et.al., Paper: [http://arxiv.org/abs/2504.06604v2](http://arxiv.org/abs/2504.06604v2), Code: **[https://github.com/jh-chung1/imgregister2dto3d](https://github.com/jh-chung1/imgregister2dto3d)**
 - 2025-04-22, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v2](http://arxiv.org/abs/2504.06116v2), Code: **[https://github.com/FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**
 - 2025-04-10, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v2](http://arxiv.org/abs/2504.04834v2), Code: **[https://github.com/stilcrad/denseaffine](https://github.com/stilcrad/denseaffine)**
@@ -51,7 +52,6 @@
 - 2024-12-12, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925v2](http://arxiv.org/abs/2409.16925v2), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
 - 2024-09-10, **Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**, Yujiao Shi et.al., Paper: [http://arxiv.org/abs/2409.06471v1](http://arxiv.org/abs/2409.06471v1), Code: **[https://github.com/yujiaoshi/g2sweakly](https://github.com/yujiaoshi/g2sweakly)**
 - 2024-09-20, **A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**, Shuang Song et.al., Paper: [http://arxiv.org/abs/2409.03032v2](http://arxiv.org/abs/2409.03032v2), Code: **[https://github.com/gdaosu/albedo_aerial_photogrammetry](https://github.com/gdaosu/albedo_aerial_photogrammetry)**
-- 2024-09-15, **Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**, Sierra Bonilla et.al., Paper: [http://arxiv.org/abs/2408.16445v2](http://arxiv.org/abs/2408.16445v2), Code: **[https://github.com/surgical-vision/colmap-match-converter](https://github.com/surgical-vision/colmap-match-converter)**
 
 ## Keypoint Detection
 
