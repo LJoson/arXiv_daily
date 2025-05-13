@@ -12,7 +12,6 @@
 - 2025-04-07, **L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**, Yi-Zhen Tsai et.al., Paper: [http://arxiv.org/abs/2504.05517v1](http://arxiv.org/abs/2504.05517v1), Code: **[https://github.com/mavens-lab/layered_3d_gaussian_splats](https://github.com/mavens-lab/layered_3d_gaussian_splats)**
 - 2025-04-23, **Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**, Ziteng Cui et.al., Paper: [http://arxiv.org/abs/2504.01503v2](http://arxiv.org/abs/2504.01503v2), Code: **[https://github.com/cuiziteng/Luminance-GS](https://github.com/cuiziteng/Luminance-GS)**
 - 2025-03-28, **LandMarkSystem Technical Report**, Zhenxiang Ma et.al., Paper: [http://arxiv.org/abs/2503.21364v2](http://arxiv.org/abs/2503.21364v2), Code: **[https://github.com/internlandmark/landmarksystem](https://github.com/internlandmark/landmarksystem)**
-- 2025-03-21, **FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**, Kwan Yun et.al., Paper: [http://arxiv.org/abs/2503.17095v1](http://arxiv.org/abs/2503.17095v1), Code: **[https://github.com/kwanyun/FFaceNeRF](https://github.com/kwanyun/FFaceNeRF)**
 
 ## Visual Localization
 
