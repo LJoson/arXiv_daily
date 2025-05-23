@@ -4,13 +4,13 @@ layout: default
 
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049v1](http://arxiv.org/abs/2505.10049v1)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
+|**2025-05-22**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049v2](http://arxiv.org/abs/2505.10049v2)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
 |**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659v1](http://arxiv.org/abs/2505.04659v1)|**[link](https://github.com/onmyoji-xiao/gssplat)**|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005v1](http://arxiv.org/abs/2505.02005v1)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067v1](http://arxiv.org/abs/2504.21067v1)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
