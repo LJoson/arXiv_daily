@@ -15,7 +15,6 @@
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713v2](http://arxiv.org/abs/2504.13713v2)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-05-17**|**Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**|Yuezhe Yang et.al.|[2504.11349v2](http://arxiv.org/abs/2504.11349v2)|**[link](https://github.com/bean-young/ai4radiology)**|
 |**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517v1](http://arxiv.org/abs/2504.05517v1)|**[link](https://github.com/mavens-lab/layered_3d_gaussian_splats)**|
-|**2025-04-23**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503v2](http://arxiv.org/abs/2504.01503v2)|**[link](https://github.com/cuiziteng/Luminance-GS)**|
 
 ## Visual Localization
 
@@ -37,7 +36,6 @@
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601v1](http://arxiv.org/abs/2502.16601v1)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
-|**2025-03-07**|**Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition**|Tianyi Shang et.al.|[2502.14195v2](http://arxiv.org/abs/2502.14195v2)|**[link](https://github.com/nuozimiaowu/Text4VPR)**|
 
 ## Image Matching
 
@@ -71,5 +69,4 @@
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221v1](http://arxiv.org/abs/2412.18221v1)|**[link](https://github.com/songxf1024/gims)**|
 |**2025-05-13**|**Enhancing Scene Coordinate Regression with Efficient Keypoint Detection and Sequential Information**|Kuan Xu et.al.|[2412.06488v2](http://arxiv.org/abs/2412.06488v2)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472v1](http://arxiv.org/abs/2412.03472v1)|**[link](https://github.com/StructuresComp/measure-anything)**|
-|**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653v1](http://arxiv.org/abs/2411.15653v1)|**[link](https://github.com/chen-xin-94/ocdet)**|
 
