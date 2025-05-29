@@ -1,9 +1,13 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.05.28
+> Updated on 2025.05.29
 
 ## NeRF
 
+- 2025-05-26, **OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**, Shintaro Ito et.al., Paper: [http://arxiv.org/abs/2505.20126v1](http://arxiv.org/abs/2505.20126v1), Code: **[https://github.com/gsisaoki/omnidirectional_blender_3d_dataset](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**
+- 2025-05-26, **FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**, Lukas Meyer et.al., Paper: [http://arxiv.org/abs/2505.19863v1](http://arxiv.org/abs/2505.19863v1), Code: **[https://github.com/meyerls/fruitnerfpp](https://github.com/meyerls/fruitnerfpp)**
+- 2025-05-26, **GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**, You Wang et.al., Paper: [http://arxiv.org/abs/2505.19813v1](http://arxiv.org/abs/2505.19813v1), Code: **[https://github.com/klmav-cuc/golf-nrt](https://github.com/klmav-cuc/golf-nrt)**
+- 2025-05-26, **Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**, Li Fang et.al., Paper: [http://arxiv.org/abs/2505.19793v1](http://arxiv.org/abs/2505.19793v1), Code: **[https://github.com/klmav-cuc/gdb-nerf](https://github.com/klmav-cuc/gdb-nerf)**
 - 2025-05-22, **Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**, Jinlong Fan et.al., Paper: [http://arxiv.org/abs/2505.10049v2](http://arxiv.org/abs/2505.10049v2), Code: **[https://github.com/moonflo/dynamic-radiation-field-paper-list](https://github.com/moonflo/dynamic-radiation-field-paper-list)**
 - 2025-05-07, **GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**, Feng Xiao et.al., Paper: [http://arxiv.org/abs/2505.04659v1](http://arxiv.org/abs/2505.04659v1), Code: **[https://github.com/onmyoji-xiao/gssplat](https://github.com/onmyoji-xiao/gssplat)**
 - 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1), Code: **[https://github.com/MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)**
