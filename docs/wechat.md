@@ -33,7 +33,6 @@
 - 2025-02-28, **EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**, Kuangyi Chen et.al., Paper: [http://arxiv.org/abs/2503.00167v1](http://arxiv.org/abs/2503.00167v1), Code: **[https://github.com/EasonChen99/EVLoc](https://github.com/EasonChen99/EVLoc)**
 - 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 - 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
-- 2025-02-25, **MegaLoc: One Retrieval to Place Them All**, Gabriele Berton et.al., Paper: [http://arxiv.org/abs/2502.17237v2](http://arxiv.org/abs/2502.17237v2), Code: **[https://github.com/gmberton/megaloc](https://github.com/gmberton/megaloc)**
 
 ## Image Matching
 
