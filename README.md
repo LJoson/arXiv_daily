@@ -38,7 +38,6 @@
 |**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096v1](http://arxiv.org/abs/2503.04096v1)|**[link](https://github.com/bev-gorry/underloc)**|
 |**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167v1](http://arxiv.org/abs/2503.00167v1)|**[link](https://github.com/EasonChen99/EVLoc)**|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036v1](http://arxiv.org/abs/2502.20036v1)|**[link](https://github.com/yejunzhang/a2-gnn)**|
-|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 
 ## Image Matching
 
