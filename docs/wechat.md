@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.06.09
+> Updated on 2025.06.10
 
 ## NeRF
 
@@ -33,7 +33,6 @@
 - 2025-03-06, **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.04475v1](http://arxiv.org/abs/2503.04475v1), Code: **[https://github.com/shenyanqing1105/ForestLPR-CVPR2025](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**
 - 2025-03-06, **Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**, Beverley Gorry et.al., Paper: [http://arxiv.org/abs/2503.04096v1](http://arxiv.org/abs/2503.04096v1), Code: **[https://github.com/bev-gorry/underloc](https://github.com/bev-gorry/underloc)**
 - 2025-02-28, **EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**, Kuangyi Chen et.al., Paper: [http://arxiv.org/abs/2503.00167v1](http://arxiv.org/abs/2503.00167v1), Code: **[https://github.com/EasonChen99/EVLoc](https://github.com/EasonChen99/EVLoc)**
-- 2025-02-27, **A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**, Yejun Zhang et.al., Paper: [http://arxiv.org/abs/2502.20036v1](http://arxiv.org/abs/2502.20036v1), Code: **[https://github.com/yejunzhang/a2-gnn](https://github.com/yejunzhang/a2-gnn)**
 
 ## Image Matching
 
