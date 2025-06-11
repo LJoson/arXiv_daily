@@ -16,7 +16,6 @@
 - 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1), Code: **[https://github.com/wu-cvgl/casualhdrsplat](https://github.com/wu-cvgl/casualhdrsplat)**
 - 2025-04-23, **SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**, Yuanjian Wang et.al., Paper: [http://arxiv.org/abs/2504.16389v1](http://arxiv.org/abs/2504.16389v1), Code: **[https://github.com/mr-firework/saenerf](https://github.com/mr-firework/saenerf)**
 - 2025-04-21, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v2](http://arxiv.org/abs/2504.13713v2), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
-- 2025-05-17, **Explicit and Implicit Representations in AI-based 3D Reconstruction for Radiology: A Systematic Review**, Yuezhe Yang et.al., Paper: [http://arxiv.org/abs/2504.11349v2](http://arxiv.org/abs/2504.11349v2), Code: **[https://github.com/bean-young/ai4radiology](https://github.com/bean-young/ai4radiology)**
 
 ## Visual Localization
 
@@ -32,7 +31,6 @@
 - 2025-03-30, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v2](http://arxiv.org/abs/2503.06601v2), Code: **[https://github.com/syqlyx/StructVPR](https://github.com/syqlyx/StructVPR)**
 - 2025-03-06, **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.04475v1](http://arxiv.org/abs/2503.04475v1), Code: **[https://github.com/shenyanqing1105/ForestLPR-CVPR2025](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**
 - 2025-03-06, **Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**, Beverley Gorry et.al., Paper: [http://arxiv.org/abs/2503.04096v1](http://arxiv.org/abs/2503.04096v1), Code: **[https://github.com/bev-gorry/underloc](https://github.com/bev-gorry/underloc)**
-- 2025-02-28, **EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**, Kuangyi Chen et.al., Paper: [http://arxiv.org/abs/2503.00167v1](http://arxiv.org/abs/2503.00167v1), Code: **[https://github.com/EasonChen99/EVLoc](https://github.com/EasonChen99/EVLoc)**
 
 ## Image Matching
 
