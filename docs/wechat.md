@@ -15,7 +15,6 @@
 - 2025-04-29, **GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**, Yuhan Xie et.al., Paper: [http://arxiv.org/abs/2504.21067v1](http://arxiv.org/abs/2504.21067v1), Code: **[https://github.com/JohannaXie/GauSS-MI](https://github.com/JohannaXie/GauSS-MI)**
 - 2025-04-24, **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Shucheng Gong et.al., Paper: [http://arxiv.org/abs/2504.17728v1](http://arxiv.org/abs/2504.17728v1), Code: **[https://github.com/wu-cvgl/casualhdrsplat](https://github.com/wu-cvgl/casualhdrsplat)**
 - 2025-04-23, **SaENeRF: Suppressing Artifacts in Event-based Neural Radiance Fields**, Yuanjian Wang et.al., Paper: [http://arxiv.org/abs/2504.16389v1](http://arxiv.org/abs/2504.16389v1), Code: **[https://github.com/mr-firework/saenerf](https://github.com/mr-firework/saenerf)**
-- 2025-04-21, **SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**, Samuel Cerezo et.al., Paper: [http://arxiv.org/abs/2504.13713v2](http://arxiv.org/abs/2504.13713v2), Code: **[https://github.com/samuel-cerezo/SLAM-Render](https://github.com/samuel-cerezo/SLAM-Render)**
 
 ## Visual Localization
 
