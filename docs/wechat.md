@@ -1,10 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.06.23
+> Updated on 2025.06.24
 
 ## NeRF
 
-- 2025-05-29, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v1](http://arxiv.org/abs/2505.23481v1), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
+- 2025-06-21, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v2](http://arxiv.org/abs/2505.23481v2), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
 - 2025-05-26, **OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**, Shintaro Ito et.al., Paper: [http://arxiv.org/abs/2505.20126v1](http://arxiv.org/abs/2505.20126v1), Code: **[https://github.com/gsisaoki/omnidirectional_blender_3d_dataset](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**
 - 2025-05-26, **FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**, Lukas Meyer et.al., Paper: [http://arxiv.org/abs/2505.19863v1](http://arxiv.org/abs/2505.19863v1), Code: **[https://github.com/meyerls/fruitnerfpp](https://github.com/meyerls/fruitnerfpp)**
 - 2025-05-26, **GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**, You Wang et.al., Paper: [http://arxiv.org/abs/2505.19813v1](http://arxiv.org/abs/2505.19813v1), Code: **[https://github.com/klmav-cuc/golf-nrt](https://github.com/klmav-cuc/golf-nrt)**
