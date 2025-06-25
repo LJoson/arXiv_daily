@@ -1,9 +1,10 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.06.24
+> Updated on 2025.06.25
 
 ## NeRF
 
+- 2025-06-23, **R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**, Weeyoung Kwon et.al., Paper: [http://arxiv.org/abs/2506.16262v2](http://arxiv.org/abs/2506.16262v2), Code: **[https://github.com/cmlab-korea/awesome-3d-low-level-vision](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**
 - 2025-06-21, **PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**, Mohamed Rayan Barhdadi et.al., Paper: [http://arxiv.org/abs/2505.23481v2](http://arxiv.org/abs/2505.23481v2), Code: **[https://github.com/anonymous-researcher-01/physicsnerf](https://github.com/anonymous-researcher-01/physicsnerf)**
 - 2025-05-26, **OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**, Shintaro Ito et.al., Paper: [http://arxiv.org/abs/2505.20126v1](http://arxiv.org/abs/2505.20126v1), Code: **[https://github.com/gsisaoki/omnidirectional_blender_3d_dataset](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**
 - 2025-05-26, **FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**, Lukas Meyer et.al., Paper: [http://arxiv.org/abs/2505.19863v1](http://arxiv.org/abs/2505.19863v1), Code: **[https://github.com/meyerls/fruitnerfpp](https://github.com/meyerls/fruitnerfpp)**
@@ -18,6 +19,7 @@
 
 ## Visual Localization
 
+- 2025-06-19, **Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**, Connor Malone et.al., Paper: [http://arxiv.org/abs/2506.15988v1](http://arxiv.org/abs/2506.15988v1), Code: **[https://github.com/QVPR/aarapsiproject](https://github.com/QVPR/aarapsiproject)**
 - 2025-05-24, **Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**, Yicheng Lin et.al., Paper: [http://arxiv.org/abs/2505.18652v1](http://arxiv.org/abs/2505.18652v1), Code: **[https://github.com/linyicheng1/orb_slam3_localization](https://github.com/linyicheng1/orb_slam3_localization)**
 - 2025-05-23, **To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**, Simone Gaisbauer et.al., Paper: [http://arxiv.org/abs/2505.17973v1](http://arxiv.org/abs/2505.17973v1), Code: **[https://github.com/simbauer/to_glue_or_not_to_glue](https://github.com/simbauer/to_glue_or_not_to_glue)**
 - 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
@@ -29,6 +31,7 @@
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-12, **Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**, Yibin Ye et.al., Paper: [http://arxiv.org/abs/2503.10692v1](http://arxiv.org/abs/2503.10692v1), Code: **[https://github.com/uav-avl/benchmark](https://github.com/uav-avl/benchmark)**
 - 2025-03-30, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v2](http://arxiv.org/abs/2503.06601v2), Code: **[https://github.com/syqlyx/StructVPR](https://github.com/syqlyx/StructVPR)**
+- 2025-03-09, **TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**, Huaqi Tao et.al., Paper: [http://arxiv.org/abs/2503.06501v1](http://arxiv.org/abs/2503.06501v1), Code: **[https://github.com/hqitao/textinplace](https://github.com/hqitao/textinplace)**
 - 2025-03-06, **ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.04475v1](http://arxiv.org/abs/2503.04475v1), Code: **[https://github.com/shenyanqing1105/ForestLPR-CVPR2025](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**
 
 ## Image Matching
