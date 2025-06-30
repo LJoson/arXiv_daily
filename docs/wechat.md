@@ -14,7 +14,6 @@
 - 2025-05-07, **GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**, Feng Xiao et.al., Paper: [http://arxiv.org/abs/2505.04659v1](http://arxiv.org/abs/2505.04659v1), Code: **[https://github.com/onmyoji-xiao/gssplat](https://github.com/onmyoji-xiao/gssplat)**
 - 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1), Code: **[https://github.com/MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)**
 - 2025-04-30, **A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**, Jiajia Li et.al., Paper: [http://arxiv.org/abs/2505.00737v1](http://arxiv.org/abs/2505.00737v1), Code: **[https://github.com/jiajiali04/3d-reconstruction-plants](https://github.com/jiajiali04/3d-reconstruction-plants)**
-- 2025-04-29, **GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**, Yuhan Xie et.al., Paper: [http://arxiv.org/abs/2504.21067v1](http://arxiv.org/abs/2504.21067v1), Code: **[https://github.com/JohannaXie/GauSS-MI](https://github.com/JohannaXie/GauSS-MI)**
 
 ## Visual Localization
 
@@ -30,7 +29,6 @@
 - 2025-03-18, **A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**, Huy-Hoang Bui et.al., Paper: [http://arxiv.org/abs/2503.13982v1](http://arxiv.org/abs/2503.13982v1), Code: **[https://github.com/ais-lab/a-score](https://github.com/ais-lab/a-score)**
 - 2025-03-12, **Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**, Yibin Ye et.al., Paper: [http://arxiv.org/abs/2503.10692v1](http://arxiv.org/abs/2503.10692v1), Code: **[https://github.com/uav-avl/benchmark](https://github.com/uav-avl/benchmark)**
 - 2025-03-30, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v2](http://arxiv.org/abs/2503.06601v2), Code: **[https://github.com/syqlyx/StructVPR](https://github.com/syqlyx/StructVPR)**
-- 2025-03-09, **TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**, Huaqi Tao et.al., Paper: [http://arxiv.org/abs/2503.06501v1](http://arxiv.org/abs/2503.06501v1), Code: **[https://github.com/hqitao/textinplace](https://github.com/hqitao/textinplace)**
 
 ## Image Matching
 
