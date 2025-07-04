@@ -12,7 +12,6 @@
 - 2025-05-26, **Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**, Li Fang et.al., Paper: [http://arxiv.org/abs/2505.19793v1](http://arxiv.org/abs/2505.19793v1), Code: **[https://github.com/klmav-cuc/gdb-nerf](https://github.com/klmav-cuc/gdb-nerf)**
 - 2025-05-22, **Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**, Jinlong Fan et.al., Paper: [http://arxiv.org/abs/2505.10049v2](http://arxiv.org/abs/2505.10049v2), Code: **[https://github.com/moonflo/dynamic-radiation-field-paper-list](https://github.com/moonflo/dynamic-radiation-field-paper-list)**
 - 2025-05-07, **GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**, Feng Xiao et.al., Paper: [http://arxiv.org/abs/2505.04659v1](http://arxiv.org/abs/2505.04659v1), Code: **[https://github.com/onmyoji-xiao/gssplat](https://github.com/onmyoji-xiao/gssplat)**
-- 2025-05-04, **Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**, Zhenxing Mi et.al., Paper: [http://arxiv.org/abs/2505.02005v1](http://arxiv.org/abs/2505.02005v1), Code: **[https://github.com/MiZhenxing/Switch-NeRF](https://github.com/MiZhenxing/Switch-NeRF)**
 
 ## Visual Localization
 
