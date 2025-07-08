@@ -17,7 +17,6 @@ layout: default
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813v1](http://arxiv.org/abs/2505.19813v1)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
 |**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793v1](http://arxiv.org/abs/2505.19793v1)|**[link](https://github.com/klmav-cuc/gdb-nerf)**|
 |**2025-05-22**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049v2](http://arxiv.org/abs/2505.10049v2)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
-|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659v1](http://arxiv.org/abs/2505.04659v1)|**[link](https://github.com/onmyoji-xiao/gssplat)**|
 
 ## Visual Localization
 
@@ -33,14 +32,13 @@ layout: default
 |**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259v2](http://arxiv.org/abs/2504.02259v2)|**[link](https://github.com/longvideohaystack/tstar)**|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982v1](http://arxiv.org/abs/2503.13982v1)|**[link](https://github.com/ais-lab/a-score)**|
-|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692v1](http://arxiv.org/abs/2503.10692v1)|**[link](https://github.com/uav-avl/benchmark)**|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
-|**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v1](http://arxiv.org/abs/2505.03836v1)|**[link](https://github.com/cszhanglmu/obd-finder)**|
+|**2025-07-05**|**Explainable Coarse-to-Fine Ancient Manuscript Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836v2](http://arxiv.org/abs/2505.03836v2)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-15**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458v3](http://arxiv.org/abs/2504.19458v3)|**[link](https://github.com/sutaoyu/CDMEA)**|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604v2](http://arxiv.org/abs/2504.06604v2)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-22**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116v2](http://arxiv.org/abs/2504.06116v2)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
