@@ -1,6 +1,6 @@
 论文 | [项目中文简介](https://github.com/LJoson/arXiv_daily/blob/main/README_zh-CN.md)
 
-> Updated on 2025.07.17
+> Updated on 2025.07.18
 
 ## NeRF
 
@@ -32,7 +32,7 @@
 - 2025-04-10, **Learning Affine Correspondences by Integrating Geometric Constraints**, Pengju Sun et.al., Paper: [http://arxiv.org/abs/2504.04834v2](http://arxiv.org/abs/2504.04834v2), Code: **[https://github.com/stilcrad/denseaffine](https://github.com/stilcrad/denseaffine)**
 - 2025-03-28, **Pairwise Matching of Intermediate Representations for Fine-grained Explainability**, Lauren Shrack et.al., Paper: [http://arxiv.org/abs/2503.22881v1](http://arxiv.org/abs/2503.22881v1), Code: **[https://github.com/pairx-explains/pairx](https://github.com/pairx-explains/pairx)**
 - 2025-03-17, **SatDepth: A Novel Dataset for Satellite Image Matching**, Rahul Deshmukh et.al., Paper: [http://arxiv.org/abs/2503.12706v1](http://arxiv.org/abs/2503.12706v1), Code: **[https://github.com/rahuldeshmukh43/satdepth](https://github.com/rahuldeshmukh43/satdepth)**
-- 2025-02-26, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v1](http://arxiv.org/abs/2502.19242v1), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
+- 2025-07-17, **BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**, Haoxin Cai et.al., Paper: [http://arxiv.org/abs/2502.19242v2](http://arxiv.org/abs/2502.19242v2), Code: **[https://github.com/hxca1/bev-lio-lc](https://github.com/hxca1/bev-lio-lc)**
 - 2025-02-25, **PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**, Han Nie et.al., Paper: [http://arxiv.org/abs/2502.18104v1](http://arxiv.org/abs/2502.18104v1), Code: **[https://github.com/hanniewhu/promptmid](https://github.com/hanniewhu/promptmid)**
 - 2025-02-24, **Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**, Emanuele Mule et.al., Paper: [http://arxiv.org/abs/2502.06288v3](http://arxiv.org/abs/2502.06288v3), Code: **[https://github.com/MatteoPannacci/SemanticAlignNet-QUAD](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**
 - 2025-03-29, **MINIMA: Modality Invariant Image Matching**, Jiangwei Ren et.al., Paper: [http://arxiv.org/abs/2412.19412v2](http://arxiv.org/abs/2412.19412v2), Code: **[https://github.com/LSXI7/MINIMA](https://github.com/LSXI7/MINIMA)**
