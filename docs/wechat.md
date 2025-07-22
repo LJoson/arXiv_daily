@@ -19,8 +19,6 @@
 - 2025-05-06, **LiftFeat: 3D Geometry-Aware Local Feature Matching**, Yepeng Liu et.al., Paper: [http://arxiv.org/abs/2505.03422v1](http://arxiv.org/abs/2505.03422v1), Code: **[https://github.com/lyp-deeplearning/liftfeat](https://github.com/lyp-deeplearning/liftfeat)**
 - 2025-06-30, **Visual Re-Ranking with Non-Visual Side Information**, Gustav Hanning et.al., Paper: [http://arxiv.org/abs/2504.11134v2](http://arxiv.org/abs/2504.11134v2), Code: **[https://github.com/ghanning/gcsa](https://github.com/ghanning/gcsa)**
 - 2025-04-14, **Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**, Changwei Wang et.al., Paper: [http://arxiv.org/abs/2504.09881v1](http://arxiv.org/abs/2504.09881v1), Code: **[https://github.com/chenshunpeng/FoL](https://github.com/chenshunpeng/FoL)**
-- 2025-04-22, **To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**, Davide Sferrazza et.al., Paper: [http://arxiv.org/abs/2504.06116v2](http://arxiv.org/abs/2504.06116v2), Code: **[https://github.com/FarInHeight/To-Match-or-Not-to-Match](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**
-- 2025-04-06, **Re-thinking Temporal Search for Long-Form Video Understanding**, Jinhui Ye et.al., Paper: [http://arxiv.org/abs/2504.02259v2](http://arxiv.org/abs/2504.02259v2), Code: **[https://github.com/longvideohaystack/tstar](https://github.com/longvideohaystack/tstar)**
 
 ## Image Matching
 
